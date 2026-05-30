@@ -1,0 +1,1464 @@
+player,team,season_start_year,batting_strength_score,bowling_strength_score,allrounder_index,is_batting_allrounder,is_bowling_allrounder,allrounder_role,total_runs,total_matches,total_balls_faced,avg_runs,strike_rate,batting_role,total_wickets,total_matches_bowled,total_balls_bowled,avg_wickets_per_match,economy_rate,bowling_role
+A Aravinddaraj,Puducherry,2020.0,0.0,67.61,33.8,False,False,pure_bowler,0.0,1.0,3.0,0.0,0.0,tailender,6.0,9.0,156.0,0.667,8.15,middle_overs_bowler
+A Ashish Reddy,Hyderabad (India),2018.0,43.06,61.86,52.46,False,False,utility_player,135.0,12.0,129.0,11.25,104.65,middle_order,4.0,7.0,126.0,0.571,9.19,middle_overs_bowler
+A Awasthi,Arunachal Pradesh,2023.0,103.23,0.0,51.62,False,False,pure_batter,52.0,2.0,23.0,26.0,226.09,aggressive_opener,,,,,,
+A Badoni,Delhi,2024.0,61.61,58.62,60.11,False,False,utility_player,267.0,10.0,216.0,26.7,123.61,top_order_anchor,2.0,4.0,42.0,0.5,10.57,part_time_bowler
+A Bharwad,Baroda,2023.0,31.5,0.0,15.75,False,False,pure_batter,18.0,1.0,25.0,18.0,72.0,anchor_opener,,,,,,
+A Choudhary,Rajasthan,2020.0,39.17,90.92,65.04,False,False,pure_bowler,34.0,6.0,32.0,5.67,106.25,tailender,30.0,25.0,510.0,1.2,6.89,death_bowler
+A G Pradeep,Andhra,2015.0,34.88,0.0,17.44,False,False,pure_batter,51.0,5.0,57.0,10.2,89.47,middle_order,,,,,,
+A Kamboj,Haryana,2023.0,27.82,102.06,64.94,False,False,pure_bowler,9.0,2.0,12.0,4.5,75.0,tailender,6.0,4.0,66.0,1.5,7.36,powerplay_bowler
+A Manohar,Karnataka,2023.0,80.69,0.0,40.34,False,False,pure_batter,282.0,8.0,185.0,35.25,152.43,finisher,,,,,,
+A Mishra,Haryana,2022.0,40.78,75.54,58.16,False,False,pure_bowler,57.0,12.0,51.0,4.75,111.76,tailender,23.0,26.0,510.0,0.885,8.09,middle_overs_bowler
+A Mithun,Karnataka,2020.0,38.58,82.26,60.42,False,False,pure_bowler,50.0,13.0,47.0,3.85,106.38,tailender,32.0,31.0,622.0,1.032,8.27,powerplay_bowler
+A Mukund,Tamil Nadu,2017.0,65.12,0.0,32.56,False,False,pure_batter,170.0,7.0,136.0,24.29,125.0,anchor_opener,,,,,,
+A Nagwaswalla,Gujarat,2021.0,37.7,96.74,67.22,False,False,pure_bowler,26.0,7.0,25.0,3.71,104.0,tailender,36.0,26.0,543.0,1.385,7.22,death_bowler
+A Nehra,Delhi,2015.0,0.0,64.16,32.08,False,False,pure_bowler,,,,,,,1.0,2.0,36.0,0.5,7.67,part_time_bowler
+A Palkar,Maharashtra,2021.0,35.7,101.8,68.75,False,False,pure_bowler,2.0,1.0,2.0,2.0,100.0,tailender,9.0,6.0,107.0,1.5,6.56,death_bowler
+A Panwar,Saurashtra,2024.0,0.0,74.08,37.04,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,12.75,part_time_bowler
+A Prateek Reddy,Hyderabad (India),2022.0,9.28,0.0,4.64,False,False,pure_batter,3.0,2.0,12.0,1.5,25.0,anchor_opener,,,,,,
+A Pratyush Kumar,Baroda,2018.0,38.4,0.0,19.2,False,False,pure_batter,24.0,1.0,28.0,24.0,85.71,anchor_opener,,,,,,
+A Raghuvanshi,Mumbai,2023.0,55.1,0.0,27.55,False,False,pure_batter,74.0,3.0,71.0,24.67,104.23,anchor_opener,,,,,,
+A Sheth,Baroda,2024.0,47.93,93.98,70.96,False,True,bowling_allrounder,215.0,24.0,168.0,8.96,127.98,tailender,59.0,44.0,888.0,1.341,7.89,death_bowler
+A Singhania,Meghalaya,2020.0,29.92,68.97,49.44,False,False,pure_bowler,44.0,8.0,55.0,5.5,80.0,tailender,9.0,13.0,203.0,0.692,7.18,middle_overs_bowler
+A Thapa,Arunachal Pradesh,2023.0,0.0,77.32,38.66,False,False,pure_bowler,0.0,1.0,3.0,0.0,0.0,tailender,1.0,1.0,6.0,1.0,15.0,part_time_bowler
+A Tomar,Rajasthan,2018.0,25.19,0.0,12.6,False,False,pure_batter,37.0,4.0,59.0,9.25,62.71,anchor_opener,,,,,,
+AA Bamal,Services,2017.0,50.17,67.19,58.68,False,False,pure_bowler,26.0,4.0,19.0,6.5,136.84,middle_order,3.0,5.0,120.0,0.6,5.9,middle_overs_bowler
+AA Barot,Saurashtra,2020.0,72.15,79.19,75.67,False,False,pure_batter,348.0,11.0,219.0,31.64,158.9,aggressive_opener,1.0,1.0,18.0,1.0,10.33,part_time_bowler
+AA Chakraborty,Tripura,2018.0,16.02,58.64,37.33,False,False,pure_bowler,4.0,3.0,9.0,1.33,44.44,tailender,4.0,10.0,204.0,0.4,7.09,middle_overs_bowler
+AA Choudhury,Assam,2023.0,0.0,43.32,21.66,False,False,unknown,,,,,,,0.0,3.0,36.0,0.0,7.33,part_time_bowler
+AA Herwadkar,Mumbai,2022.0,61.24,43.29,52.26,False,False,pure_batter,465.0,17.0,414.0,27.35,112.32,anchor_opener,0.0,2.0,19.0,0.0,8.21,part_time_bowler
+AA Kargave,Puducherry,2022.0,72.13,0.0,36.06,False,False,pure_batter,35.0,1.0,41.0,35.0,85.37,top_order_anchor,,,,,,
+AA Kazi,Nagaland,2018.0,52.37,40.69,46.53,False,False,pure_batter,61.0,4.0,54.0,15.25,112.96,finisher,0.0,4.0,71.0,0.0,9.72,middle_overs_bowler
+AA Sanklecha,Maharashtra,2015.0,56.08,90.84,73.46,False,False,pure_bowler,14.0,3.0,9.0,4.67,155.56,middle_order,5.0,4.0,87.0,1.25,8.14,powerplay_bowler
+AA Sarwate,Vidarbha,2022.0,0.0,94.52,47.26,False,False,pure_bowler,,,,,,,7.0,5.0,90.0,1.4,7.0,middle_overs_bowler
+AB Bhadoriya,Madhya Pradesh,2022.0,0.0,47.07,23.54,False,False,unknown,,,,,,,0.0,2.0,42.0,0.0,6.14,part_time_bowler
+AB Dinda,Bengal,2020.0,34.56,79.09,56.82,False,False,pure_bowler,59.0,9.0,64.0,6.56,92.19,tailender,25.0,27.0,567.0,0.926,7.86,death_bowler
+ABB Sangma,Meghalaya,2023.0,14.12,0.0,7.06,False,False,pure_batter,7.0,1.0,21.0,7.0,33.33,anchor_opener,,,,,,
+AD Chopra,Mizoram,2023.0,81.34,0.0,40.67,False,False,pure_batter,113.0,3.0,68.0,37.67,166.18,aggressive_opener,,,,,,
+AD Nath,Uttar Pradesh,2022.0,58.42,63.23,60.82,True,True,batting_allrounder,700.0,34.0,578.0,20.59,121.11,middle_order,5.0,8.0,99.0,0.625,8.61,death_bowler
+AG Jungade,Vidarbha,2015.0,28.35,59.57,43.96,False,False,pure_bowler,6.0,1.0,8.0,6.0,75.0,tailender,1.0,2.0,30.0,0.5,9.4,part_time_bowler
+AG Paunikar,Railways,2018.0,47.58,0.0,23.79,False,False,pure_batter,82.0,7.0,66.0,11.71,124.24,middle_order,,,,,,
+AG Rao,Chhattisgarh,2020.0,25.86,60.45,43.16,False,False,pure_bowler,17.0,2.0,26.0,8.5,65.38,middle_order,1.0,2.0,24.0,0.5,8.25,part_time_bowler
+AG Sehrawat,Railways,2017.0,22.84,0.0,11.42,False,False,pure_batter,18.0,2.0,32.0,9.0,56.25,middle_order,,,,,,
+AH Hooda,Haryana,2018.0,7.18,74.46,40.82,False,False,pure_bowler,2.0,4.0,10.0,0.5,20.0,tailender,18.0,24.0,444.0,0.75,7.23,death_bowler
+AH Passi,Baroda,2023.0,0.0,183.48,91.74,False,False,pure_bowler,,,,,,,4.0,1.0,18.0,4.0,8.67,part_time_bowler
+AJ Kaushik,Nagaland,2018.0,58.98,0.0,29.49,False,False,pure_batter,47.0,2.0,46.0,23.5,102.17,anchor_opener,,,,,,
+AK Chahal,Haryana,2018.0,49.93,87.03,68.48,False,False,pure_bowler,28.0,3.0,21.0,9.33,133.33,tailender,7.0,6.0,114.0,1.167,8.11,powerplay_bowler
+AK Sarkar,Tripura,2023.0,31.81,53.42,42.62,False,False,pure_bowler,8.0,4.0,9.0,2.0,88.89,tailender,2.0,7.0,120.0,0.286,8.65,powerplay_bowler
+AKS Bains,Himachal,2022.0,54.96,0.0,27.48,False,False,pure_batter,433.0,23.0,362.0,18.83,119.61,aggressive_opener,,,,,,
+AL Menaria,Rajasthan,2022.0,48.44,64.09,56.26,False,False,utility_player,232.0,15.0,208.0,15.47,111.54,middle_order,2.0,4.0,66.0,0.5,5.27,middle_overs_bowler
+AM Joshi,Uttarakhand,2019.0,72.06,0.0,36.03,False,False,pure_batter,17.0,1.0,9.0,17.0,188.89,anchor_opener,,,,,,
+AM Nayar,Mumbai,2015.0,67.6,69.61,68.6,True,False,batting_allrounder,135.0,6.0,95.0,22.5,142.11,finisher,6.0,8.0,144.0,0.75,7.67,middle_overs_bowler
+AM Rahane,Mumbai,2024.0,75.75,0.0,37.88,False,False,pure_batter,682.0,20.0,489.0,34.1,139.47,aggressive_opener,,,,,,
+AM Reddy,Andhra,2022.0,36.13,0.0,18.07,False,False,pure_batter,29.0,3.0,31.0,9.67,93.55,anchor_opener,,,,,,
+AN Ahmed,Assam,2021.0,38.85,86.33,62.59,False,False,utility_player,85.0,14.0,81.0,6.07,104.94,tailender,25.0,23.0,402.0,1.087,7.1,powerplay_bowler
+AN Chauhan,Himachal,2017.0,22.34,94.9,58.62,False,False,pure_bowler,10.0,2.0,17.0,5.0,58.82,tailender,7.0,5.0,96.0,1.4,8.69,death_bowler
+AN Ghosh,Railways,2017.0,37.52,0.0,18.76,False,False,pure_batter,81.0,5.0,89.0,16.2,91.01,middle_order,,,,,,
+AN Longchar,Nagaland,2019.0,21.72,47.12,34.42,False,False,pure_batter,46.0,5.0,87.0,9.2,52.87,anchor_opener,0.0,1.0,5.0,0.0,7.2,part_time_bowler
+AP Majumdar,Bengal,2020.0,65.47,73.58,69.53,False,False,pure_batter,144.0,7.0,111.0,20.57,129.73,middle_order,1.0,1.0,6.0,1.0,14.0,part_time_bowler
+AP Sharma,Services,2018.0,20.03,71.8,45.92,False,False,pure_bowler,5.0,3.0,9.0,1.67,55.56,tailender,4.0,6.0,108.0,0.667,6.61,middle_overs_bowler
+AP Tare,Mumbai,2022.0,65.17,0.0,32.58,False,False,pure_batter,1009.0,42.0,755.0,24.02,133.64,aggressive_opener,,,,,,
+AR Bawne,Maharashtra,2018.0,56.34,0.0,28.17,False,False,pure_batter,223.0,14.0,176.0,15.93,126.7,finisher,,,,,,
+AR Easwaran,Bengal,2023.0,68.82,0.0,34.41,False,False,pure_batter,569.0,20.0,439.0,28.45,129.61,top_order_anchor,,,,,,
+AR Kumar,Himachal,2020.0,42.61,0.0,21.3,False,False,pure_batter,115.0,8.0,119.0,14.38,96.64,middle_order,,,,,,
+AR Lamba,Rajasthan,2021.0,20.32,73.61,46.96,False,False,pure_bowler,5.0,2.0,9.0,2.5,55.56,tailender,4.0,5.0,108.0,0.8,9.11,powerplay_bowler
+AR Mokhade,Vidarbha,2022.0,17.85,0.0,8.93,False,False,pure_batter,1.0,1.0,2.0,1.0,50.0,middle_order,,,,,,
+AR Pandey,Railways,2023.0,51.33,55.05,53.19,False,False,utility_player,104.0,7.0,87.0,14.86,119.54,tailender,4.0,13.0,195.0,0.308,9.51,powerplay_bowler
+AR Patel,Gujarat,2020.0,67.55,75.88,71.72,True,True,batting_allrounder,484.0,18.0,378.0,26.89,128.04,finisher,18.0,23.0,492.0,0.783,5.74,middle_overs_bowler
+AR Rohera,Madhya Pradesh,2023.0,86.12,0.0,43.06,False,False,pure_batter,37.0,1.0,30.0,37.0,123.33,anchor_opener,,,,,,
+ARB Singh,Railways,2017.0,25.67,80.42,53.04,False,False,pure_bowler,20.0,3.0,30.0,6.67,66.67,anchor_opener,1.0,1.0,24.0,1.0,7.25,part_time_bowler
+AS Bedi,Himachal,2021.0,84.12,121.85,102.98,False,False,pure_bowler,7.0,1.0,3.0,7.0,233.33,tailender,2.0,1.0,24.0,2.0,4.25,part_time_bowler
+AS Karambelkar,Baroda,2019.0,44.8,39.54,42.17,False,False,pure_batter,24.0,3.0,20.0,8.0,120.0,tailender,0.0,3.0,30.0,0.0,11.6,part_time_bowler
+AS Kumar,Haryana,2023.0,0.0,85.3,42.65,False,False,pure_bowler,,,,,,,1.0,1.0,12.0,1.0,5.5,part_time_bowler
+AS Rajpoot,Uttar Pradesh,2021.0,26.5,101.61,64.06,False,False,pure_bowler,23.0,6.0,32.0,3.83,71.88,tailender,55.0,36.0,768.0,1.528,7.05,death_bowler
+AS Raut,Odisha,2021.0,44.32,65.12,54.72,False,True,bowling_allrounder,200.0,13.0,204.0,15.38,98.04,middle_order,10.0,18.0,313.0,0.556,7.05,middle_overs_bowler
+AS Roy,Jharkhand,2021.0,72.96,65.84,69.4,False,True,bowling_allrounder,250.0,17.0,144.0,14.71,173.61,finisher,13.0,23.0,437.0,0.565,7.02,middle_overs_bowler
+AS Surwar,Jharkhand,2017.0,46.38,90.53,68.46,False,False,pure_bowler,15.0,2.0,12.0,7.5,125.0,tailender,4.0,3.0,60.0,1.333,8.0,middle_overs_bowler
+AS Thakare,Vidarbha,2020.0,17.85,94.44,56.14,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,4.0,3.0,69.0,1.333,5.91,powerplay_bowler
+AS Thakur,Chhattisgarh,2023.0,0.0,47.3,23.65,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,13.0,part_time_bowler
+AT Rayudu,Hyderabad (India),2022.0,61.61,0.0,30.8,False,False,pure_batter,555.0,24.0,434.0,23.12,127.88,finisher,,,,,,
+AUK Pathan,Railways,2015.0,63.03,0.0,31.52,False,False,pure_batter,174.0,6.0,142.0,29.0,122.54,aggressive_opener,,,,,,
+AV Jaiswal,Arunachal Pradesh,2023.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,2.0,0.0,0.0,middle_order,,,,,,
+AV Kolhar,Vidarbha,2019.0,53.19,0.0,26.6,False,False,pure_batter,125.0,6.0,107.0,20.83,116.82,anchor_opener,,,,,,
+AV Rajput,Baroda,2024.0,61.48,85.19,73.33,False,False,utility_player,171.0,8.0,140.0,21.38,122.14,anchor_opener,6.0,5.0,69.0,1.2,9.22,middle_overs_bowler
+AV Wankhade,Vidarbha,2024.0,69.07,0.0,34.53,False,False,pure_batter,835.0,32.0,612.0,26.09,136.44,finisher,,,,,,
+Aakarshit Gomel,Mumbai,2020.0,14.7,0.0,7.35,False,False,pure_batter,2.0,1.0,5.0,2.0,40.0,middle_order,,,,,,
+Aakash Verma,Railways,2017.0,26.21,0.0,13.1,False,False,pure_batter,16.0,3.0,23.0,5.33,69.57,anchor_opener,,,,,,
+Aamir Aziz,Jammu & Kashmir,2020.0,0.0,81.13,40.56,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,5.5,part_time_bowler
+Aamir Gani,Bengal,2015.0,13.43,86.03,49.73,False,False,pure_bowler,4.0,2.0,11.0,2.0,36.36,tailender,7.0,6.0,132.0,1.167,6.91,middle_overs_bowler
+Aanshul Gupta,Services,2021.0,48.53,36.98,42.76,False,False,pure_batter,214.0,13.0,209.0,16.46,102.39,anchor_opener,0.0,1.0,6.0,0.0,18.0,part_time_bowler
+Aaqib Khan,Uttar Pradesh,2020.0,0.0,84.3,42.15,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,8.0,part_time_bowler
+Aarya Desai,Gujarat,2023.0,59.48,48.1,53.79,False,False,pure_batter,99.0,4.0,80.0,24.75,123.75,anchor_opener,0.0,1.0,6.0,0.0,11.0,part_time_bowler
+Abdul Basith,Kerala,2023.0,73.69,0.0,36.84,False,False,pure_batter,66.0,2.0,49.0,33.0,134.69,finisher,,,,,,
+Abdul Samad,Jammu & Kashmir,2023.0,71.14,49.0,60.07,False,False,pure_batter,428.0,16.0,308.0,26.75,138.96,anchor_opener,1.0,7.0,60.0,0.143,7.7,middle_overs_bowler
+Abhay,Mizoram,2019.0,2.61,85.5,44.06,False,False,pure_bowler,1.0,3.0,14.0,0.33,7.14,middle_order,1.0,1.0,6.0,1.0,5.0,part_time_bowler
+Abhay Negi,Meghalaya,2020.0,55.41,81.07,68.24,False,True,bowling_allrounder,173.0,13.0,125.0,13.31,138.4,finisher,18.0,19.0,426.0,0.947,7.51,death_bowler
+Abhijeet Saket,Bihar,2021.0,0.0,92.64,46.32,False,False,pure_bowler,0.0,2.0,2.0,0.0,0.0,tailender,13.0,10.0,195.0,1.3,8.46,powerplay_bowler
+Abhijit Roy,Assam,2015.0,28.18,0.0,14.09,False,False,pure_batter,21.0,2.0,30.0,10.5,70.0,middle_order,,,,,,
+Abhilash Gogoi,Assam,2019.0,33.57,75.62,54.6,False,False,pure_bowler,20.0,4.0,22.0,5.0,90.91,tailender,4.0,5.0,102.0,0.8,6.71,powerplay_bowler
+Abhilash Mallick,Odisha,2015.0,49.63,52.6,51.12,False,False,pure_batter,37.0,2.0,46.0,18.5,80.43,anchor_opener,0.0,1.0,5.0,0.0,6.0,part_time_bowler
+Abhimanyu Chauhan,Chhattisgarh,2017.0,12.02,39.38,25.7,False,False,pure_batter,1.0,1.0,3.0,1.0,33.33,middle_order,0.0,1.0,6.0,0.0,12.0,part_time_bowler
+Abhimanyu Rana,Himachal,2022.0,48.13,0.0,24.06,False,False,pure_batter,240.0,14.0,222.0,17.14,108.11,anchor_opener,,,,,,
+Abhinav Dixit,Railways,2018.0,48.63,0.0,24.32,False,False,pure_batter,84.0,5.0,80.0,16.8,105.0,middle_order,,,,,,
+Abhinav Srivastava,Arunachal Pradesh,2021.0,25.08,0.0,12.54,False,False,pure_batter,10.0,2.0,15.0,5.0,66.67,anchor_opener,,,,,,
+Abhisek Das,Bengal,2021.0,50.68,0.0,25.34,False,False,pure_batter,142.0,7.0,142.0,20.29,100.0,anchor_opener,,,,,,
+Abhishek Bhandari,Madhya Pradesh,2019.0,60.2,0.0,30.1,False,False,pure_batter,109.0,6.0,87.0,18.17,125.29,middle_order,,,,,,
+Abhishek Goswami,Uttar Pradesh,2023.0,56.01,0.0,28.0,False,False,pure_batter,178.0,8.0,153.0,22.25,116.34,anchor_opener,,,,,,
+Abhishek Gupta,Punjab,2017.0,34.39,0.0,17.2,False,False,pure_batter,33.0,5.0,36.0,6.6,91.67,middle_order,,,,,,
+Abhishek Mohan,Kerala,2018.0,39.18,87.17,63.18,False,False,pure_bowler,20.0,3.0,19.0,6.67,105.26,tailender,5.0,4.0,90.0,1.25,8.13,death_bowler
+Abhishek Pandey,Railways,2020.0,17.85,0.0,8.93,False,False,pure_batter,1.0,1.0,2.0,1.0,50.0,middle_order,,,,,,
+Abhishek Sakuja,Services,2017.0,17.85,44.1,30.98,False,False,pure_batter,1.0,1.0,2.0,1.0,50.0,tailender,0.0,2.0,48.0,0.0,8.0,part_time_bowler
+Abhishek Sharma,Punjab,2023.0,70.49,74.4,72.44,True,True,batting_allrounder,878.0,34.0,594.0,25.82,147.81,aggressive_opener,18.0,23.0,384.0,0.783,6.94,powerplay_bowler
+Abhishek Tanwar,Tamil Nadu,2018.0,31.05,84.32,57.68,False,False,pure_bowler,6.0,2.0,7.0,3.0,85.71,tailender,7.0,7.0,131.0,1.0,6.27,powerplay_bowler
+Abhishek Thakuri,Assam,2022.0,41.3,0.0,20.65,False,False,pure_batter,116.0,8.0,125.0,14.5,92.8,middle_order,,,,,,
+Abhishek Yadav,Odisha,2021.0,63.13,57.3,60.22,False,False,pure_batter,183.0,8.0,146.0,22.88,125.34,finisher,1.0,3.0,29.0,0.333,7.45,part_time_bowler
+Abid Mushtaq,Jammu & Kashmir,2023.0,33.75,75.53,54.64,False,False,pure_bowler,29.0,5.0,32.0,5.8,90.62,tailender,11.0,14.0,294.0,0.786,6.08,middle_overs_bowler
+Abishek Porel,Bengal,2024.0,55.0,0.0,27.5,False,False,pure_batter,53.0,3.0,38.0,17.67,139.47,aggressive_opener,,,,,,
+Achit Shigwan,Goa,2019.0,44.74,56.31,50.53,False,False,pure_bowler,59.0,6.0,50.0,9.83,118.0,middle_order,2.0,5.0,30.0,0.4,8.8,part_time_bowler
+Adil Reshi,Jammu & Kashmir,2018.0,24.07,34.8,29.44,False,False,pure_batter,17.0,5.0,26.0,3.4,65.38,anchor_opener,0.0,1.0,6.0,0.0,13.0,part_time_bowler
+Aditya,Nagaland,2018.0,101.1,0.0,50.55,False,False,pure_batter,64.0,1.0,46.0,64.0,139.13,aggressive_opener,,,,,,
+Aditya Garhwal,Rajasthan,2021.0,51.63,112.04,81.84,False,False,pure_batter,263.0,17.0,235.0,15.47,111.91,aggressive_opener,2.0,1.0,18.0,2.0,5.33,part_time_bowler
+Aditya Jadeja,Saurashtra,2023.0,0.0,86.93,43.46,False,False,pure_bowler,,,,,,,3.0,3.0,42.0,1.0,5.86,part_time_bowler
+Aditya Kaushik,Goa,2022.0,57.02,0.0,28.51,False,False,pure_batter,567.0,24.0,512.0,23.62,110.74,anchor_opener,,,,,,
+Aditya Rout,Odisha,2020.0,46.63,0.0,23.32,False,False,pure_batter,11.0,1.0,9.0,11.0,122.22,anchor_opener,,,,,,
+Aditya Singh,Jammu & Kashmir,2015.0,15.23,0.0,7.62,False,False,pure_batter,7.0,3.0,17.0,2.33,41.18,middle_order,,,,,,
+Aditya Waghmode,Baroda,2019.0,76.28,37.6,56.94,False,False,pure_batter,282.0,10.0,192.0,28.2,146.88,aggressive_opener,0.0,1.0,1.0,0.0,6.0,part_time_bowler
+Agniv Pan,Bengal,2024.0,30.11,0.0,15.06,False,False,pure_batter,50.0,4.0,68.0,12.5,73.53,middle_order,,,,,,
+Agrim Tiwari,Uttarakhand,2022.0,0.0,107.58,53.79,False,False,pure_bowler,,,,,,,9.0,5.0,120.0,1.8,8.35,death_bowler
+Ahitesh Varma,Andhra,2021.0,0.0,79.15,39.58,False,False,pure_bowler,,,,,,,2.0,2.0,42.0,1.0,9.0,part_time_bowler
+Ahmed Banday,Jammu & Kashmir,2020.0,36.62,0.0,18.31,False,False,pure_batter,88.0,8.0,94.0,11.0,93.62,anchor_opener,,,,,,
+Ahmed Shah,Manipur,2022.0,34.41,0.0,17.2,False,False,pure_batter,60.0,10.0,65.0,6.0,92.31,middle_order,,,,,,
+Aishwary Mourya,Chhattisgarh,2021.0,26.76,93.52,60.14,False,False,pure_bowler,22.0,4.0,31.0,5.5,70.97,tailender,7.0,5.0,108.0,1.4,8.94,middle_overs_bowler
+Ajay Dev Goud,Hyderabad (India),2020.0,0.0,190.55,95.28,False,False,pure_bowler,,,,,,,8.0,2.0,48.0,4.0,4.88,part_time_bowler
+Ajay Kumar,Andhra,2015.0,29.58,45.53,37.56,False,False,pure_batter,19.0,1.0,29.0,19.0,65.52,middle_order,0.0,1.0,12.0,0.0,7.0,part_time_bowler
+Ajay Mandal,Chhattisgarh,2023.0,45.7,80.44,63.07,False,True,bowling_allrounder,217.0,20.0,188.0,10.85,115.43,finisher,26.0,26.0,504.0,1.0,7.1,middle_overs_bowler
+Ajay Pradhan,Sikkim,2020.0,0.0,115.98,57.99,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,2.0,1.0,24.0,2.0,8.5,part_time_bowler
+Ajay Sarkar,Tripura,2021.0,23.92,69.83,46.88,False,False,pure_bowler,10.0,6.0,15.0,1.67,66.67,tailender,16.0,24.0,477.0,0.667,7.65,powerplay_bowler
+Ajay Yadav,Jharkhand,2018.0,0.0,54.18,27.09,False,False,unknown,,,,,,,0.0,2.0,24.0,0.0,6.25,part_time_bowler
+Akash Bhandari,Hyderabad (India),2019.0,40.35,71.24,55.8,False,False,utility_player,112.0,13.0,105.0,8.62,106.67,tailender,12.0,16.0,312.0,0.75,6.52,middle_overs_bowler
+Akash Choudhary,Meghalaya,2023.0,19.9,85.5,52.7,False,False,pure_bowler,29.0,7.0,55.0,4.14,52.73,tailender,19.0,18.0,349.0,1.056,7.15,powerplay_bowler
+Akash Deep,Bengal,2023.0,48.49,90.25,69.37,False,False,pure_bowler,49.0,8.0,37.0,6.12,132.43,tailender,25.0,21.0,455.0,1.19,6.82,powerplay_bowler
+Akash Luitel,Sikkim,2021.0,28.65,45.93,37.29,False,False,pure_batter,25.0,3.0,34.0,8.33,73.53,tailender,0.0,2.0,25.0,0.0,7.68,part_time_bowler
+Akash Madhwal,Uttarakhand,2021.0,15.7,86.57,51.14,False,False,pure_bowler,6.0,3.0,14.0,2.0,42.86,tailender,20.0,18.0,386.0,1.111,7.97,death_bowler
+Akash Pandey,Railways,2023.0,10.85,98.12,54.48,False,False,pure_bowler,3.0,3.0,10.0,1.0,30.0,tailender,6.0,4.0,60.0,1.5,9.9,middle_overs_bowler
+Akash Parkar,Mumbai,2020.0,31.14,78.37,54.76,False,False,pure_bowler,56.0,5.0,72.0,11.2,77.78,tailender,7.0,7.0,114.0,1.0,9.63,powerplay_bowler
+Akash Raj,Bihar,2020.0,26.48,0.0,13.24,False,False,pure_batter,18.0,2.0,27.0,9.0,66.67,middle_order,,,,,,
+Akash Sengupta,Assam,2023.0,25.88,114.44,70.16,False,False,pure_bowler,5.0,2.0,7.0,2.5,71.43,tailender,8.0,4.0,79.0,2.0,8.66,death_bowler
+Akash Singh,Nagaland,2022.0,33.44,66.44,49.94,False,False,pure_bowler,25.0,4.0,28.0,6.25,89.29,middle_order,4.0,7.0,132.0,0.571,8.0,powerplay_bowler
+Akash Sudan,Delhi,2015.0,0.0,109.16,54.58,False,False,pure_bowler,0.0,1.0,3.0,0.0,0.0,tailender,5.0,3.0,60.0,1.667,9.4,all_phases_bowler
+Akash Vasisht,Himachal,2022.0,59.13,73.92,66.53,True,True,batting_allrounder,168.0,9.0,128.0,18.67,131.25,middle_order,6.0,8.0,118.0,0.75,6.25,middle_overs_bowler
+Akhil Rajput,Mizoram,2018.0,56.38,40.17,48.28,False,False,pure_batter,178.0,7.0,180.0,25.43,98.89,anchor_opener,0.0,1.0,6.0,0.0,10.0,part_time_bowler
+Akhilesh Sahani,Arunachal Pradesh,2021.0,47.04,89.44,68.24,False,True,bowling_allrounder,221.0,18.0,205.0,12.28,107.8,tailender,25.0,20.0,393.0,1.25,8.2,powerplay_bowler
+Akoijam Singh,Manipur,2018.0,0.0,32.8,16.4,False,False,unknown,,,,,,,0.0,1.0,7.0,0.0,18.0,part_time_bowler
+Akshat Raghuwanshi,Madhya Pradesh,2022.0,39.32,0.0,19.66,False,False,pure_batter,24.0,3.0,23.0,8.0,104.35,middle_order,,,,,,
+Akshay Chandran,Kerala,2020.0,37.67,68.9,53.28,False,False,pure_bowler,32.0,3.0,33.0,10.67,96.97,tailender,3.0,4.0,54.0,0.75,9.56,part_time_bowler
+Akshay Jain,Puducherry,2022.0,0.0,64.4,32.2,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,3.0,5.0,96.0,0.6,7.75,powerplay_bowler
+Akshay Karnewar,Vidarbha,2022.0,49.82,83.11,66.46,False,True,bowling_allrounder,314.0,29.0,250.0,10.83,125.6,tailender,43.0,43.0,849.0,1.0,5.91,middle_overs_bowler
+Akshay Wadkar,Vidarbha,2022.0,50.15,0.0,25.08,False,False,pure_batter,360.0,18.0,362.0,20.0,99.45,middle_order,,,,,,
+Akshay Wakhare,Vidarbha,2020.0,20.74,76.96,48.85,False,False,pure_bowler,11.0,8.0,19.0,1.38,57.89,tailender,35.0,40.0,808.0,0.875,6.59,middle_overs_bowler
+Al Bashid Muhammed,Manipur,2023.0,21.74,0.0,10.87,False,False,pure_batter,91.0,11.0,169.0,8.27,53.85,middle_order,,,,,,
+Alok Sahoo,Odisha,2015.0,43.4,61.85,52.62,False,False,pure_bowler,59.0,4.0,54.0,14.75,109.26,middle_order,2.0,5.0,96.0,0.4,7.75,powerplay_bowler
+Aman Hakim Khan,Mumbai,2022.0,60.26,67.51,63.89,False,False,pure_bowler,80.0,9.0,49.0,8.89,163.27,lower_order_hitter,4.0,7.0,96.0,0.571,7.88,powerplay_bowler
+Amandeep Khare,Chhattisgarh,2023.0,60.75,36.4,48.58,False,False,pure_batter,758.0,28.0,654.0,27.07,115.9,top_order_anchor,0.0,1.0,2.0,0.0,9.0,part_time_bowler
+Ambikeshwar Mishra,Railways,2018.0,12.37,84.1,48.24,False,False,pure_bowler,2.0,1.0,6.0,2.0,33.33,tailender,1.0,1.0,18.0,1.0,5.0,part_time_bowler
+Amiangshu Sen,Meghalaya,2023.0,30.66,79.15,54.9,False,False,utility_player,76.0,10.0,95.0,7.6,80.0,middle_order,7.0,7.0,96.0,1.0,8.5,middle_overs_bowler
+Amit Ali,Tripura,2023.0,36.84,104.38,70.61,False,False,pure_bowler,21.0,4.0,21.0,5.25,100.0,tailender,11.0,7.0,125.0,1.571,5.52,middle_overs_bowler
+Amit Chopra,Railways,2018.0,31.85,0.0,15.92,False,False,pure_batter,42.0,6.0,50.0,7.0,84.0,middle_order,,,,,,
+Amit Kuila,Railways,2021.0,0.0,60.02,30.01,False,False,pure_bowler,,,,,,,1.0,2.0,30.0,0.5,10.4,part_time_bowler
+Amit Mishra,Railways,2018.0,41.78,95.27,68.53,False,False,pure_bowler,38.0,9.0,33.0,4.22,115.15,tailender,35.0,25.0,527.0,1.4,8.08,death_bowler
+Amit Pachhara,Services,2021.0,44.43,0.0,22.22,False,False,pure_batter,83.0,6.0,84.0,13.83,98.81,middle_order,,,,,,
+Amit Parashar,Chandigarh,2019.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,1.0,0.0,0.0,anchor_opener,,,,,,
+Amit Sinha,Assam,2021.0,49.58,83.65,66.62,False,False,pure_batter,318.0,18.0,303.0,17.67,104.95,finisher,2.0,2.0,24.0,1.0,7.0,part_time_bowler
+Amit Verma,Goa,2020.0,57.1,56.47,56.78,True,False,batting_allrounder,446.0,21.0,344.0,21.24,129.65,finisher,6.0,16.0,199.0,0.375,9.2,middle_overs_bowler
+Amit Yadav,Goa,2022.0,29.37,99.04,64.2,False,False,pure_bowler,19.0,4.0,24.0,4.75,79.17,tailender,11.0,8.0,168.0,1.375,5.46,powerplay_bowler
+Amlanjyoti Das,Assam,2021.0,22.58,57.75,40.16,False,False,pure_bowler,25.0,5.0,42.0,5.0,59.52,tailender,3.0,9.0,150.0,0.333,8.08,powerplay_bowler
+Amod Yadav,Bihar,2020.0,17.85,96.43,57.14,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,8.0,6.0,120.0,1.333,6.3,death_bowler
+Amogh Desai,Goa,2020.0,54.46,80.85,67.66,False,False,utility_player,236.0,14.0,196.0,16.86,120.41,anchor_opener,4.0,4.0,48.0,1.0,7.5,part_time_bowler
+Amos Rai,Sikkim,2018.0,29.4,37.81,33.61,False,False,pure_batter,12.0,3.0,15.0,4.0,80.0,tailender,0.0,3.0,30.0,0.0,13.8,part_time_bowler
+Amrit Lubana,Chandigarh,2024.0,35.52,64.92,50.22,False,False,pure_bowler,14.0,1.0,16.0,14.0,87.5,middle_order,1.0,2.0,24.0,0.5,7.5,part_time_bowler
+Amulya Pandrekar,Goa,2021.0,26.04,69.46,47.75,False,False,pure_bowler,13.0,6.0,18.0,2.17,72.22,tailender,11.0,16.0,286.0,0.688,7.11,middle_overs_bowler
+Anand Bais,Madhya Pradesh,2019.0,48.62,0.0,24.31,False,False,pure_batter,34.0,2.0,43.0,17.0,79.07,middle_order,,,,,,
+Anand Singh,Jharkhand,2021.0,64.77,59.26,62.02,True,False,batting_allrounder,541.0,19.0,449.0,28.47,120.49,aggressive_opener,7.0,15.0,192.0,0.467,8.34,middle_overs_bowler
+Ananta Saha,Railways,2021.0,0.0,71.15,35.58,False,False,pure_bowler,,,,,,,1.0,2.0,42.0,0.5,4.57,part_time_bowler
+Andrew Vanlalhruaia,Mizoram,2020.0,0.0,51.5,25.75,False,False,pure_bowler,,,,,,,1.0,3.0,48.0,0.333,13.38,part_time_bowler
+Anil Subba,Sikkim,2019.0,0.0,36.4,18.2,False,False,unknown,0.0,1.0,2.0,0.0,0.0,tailender,0.0,1.0,2.0,0.0,9.0,part_time_bowler
+Aniruddha Joshi,Karnataka,2021.0,58.49,38.98,48.74,False,False,pure_batter,370.0,17.0,284.0,21.76,130.28,finisher,0.0,1.0,6.0,0.0,13.0,part_time_bowler
+Anirudh Kanwar,Chandigarh,2019.0,0.0,70.16,35.08,False,False,pure_bowler,,,,,,,2.0,3.0,66.0,0.667,6.64,middle_overs_bowler
+Anish Charak,Meghalaya,2023.0,30.37,55.95,43.16,False,False,pure_bowler,53.0,6.0,68.0,8.83,77.94,tailender,2.0,9.0,124.0,0.222,6.24,powerplay_bowler
+Ankit Chaudhary,Uttar Pradesh,2018.0,32.57,94.42,63.5,False,False,pure_bowler,35.0,3.0,43.0,11.67,81.4,tailender,12.0,9.0,199.0,1.333,6.03,middle_overs_bowler
+Ankit Dabas,Jharkhand,2015.0,28.35,41.0,34.67,False,False,pure_batter,18.0,2.0,25.0,9.0,72.0,anchor_opener,0.0,2.0,30.0,0.0,10.0,part_time_bowler
+Ankit Dane,Madhya Pradesh,2017.0,27.12,0.0,13.56,False,False,pure_batter,15.0,1.0,24.0,15.0,62.5,anchor_opener,,,,,,
+Ankit Kaushik,Chandigarh,2021.0,60.74,75.25,68.0,False,False,pure_batter,301.0,14.0,236.0,21.5,127.54,finisher,1.0,1.0,12.0,1.0,15.0,part_time_bowler
+Ankit Kumar,Haryana,2023.0,68.9,0.0,34.45,False,False,pure_batter,109.0,4.0,86.0,27.25,126.74,aggressive_opener,,,,,,
+Ankit Kushwah,Madhya Pradesh,2017.0,53.5,69.96,61.73,False,False,pure_bowler,10.0,1.0,7.0,10.0,142.86,tailender,4.0,6.0,125.0,0.667,7.97,death_bowler
+Ankit Lamba,Rajasthan,2021.0,62.48,34.8,48.64,False,False,pure_batter,744.0,26.0,695.0,28.62,107.05,anchor_opener,0.0,1.0,6.0,0.0,13.0,part_time_bowler
+Ankit Maini,Himachal,2018.0,21.3,131.56,76.43,False,False,pure_bowler,7.0,1.0,13.0,7.0,53.85,middle_order,12.0,5.0,120.0,2.4,6.1,middle_overs_bowler
+Ankit Manori,Uttarakhand,2021.0,80.54,45.86,63.2,False,False,pure_batter,19.0,1.0,9.0,19.0,211.11,tailender,0.0,1.0,18.0,0.0,9.67,part_time_bowler
+Ankit Sharma,Madhya Pradesh,2022.0,32.99,78.32,55.66,False,False,utility_player,87.0,12.0,100.0,7.25,87.0,tailender,19.0,20.0,406.0,0.95,7.33,middle_overs_bowler
+Ankit Singh,Arunachal Pradesh,2018.0,0.0,71.48,35.74,False,False,pure_bowler,,,,,,,1.0,1.0,12.0,1.0,14.0,part_time_bowler
+Ankit Yadav,Odisha,2020.0,41.86,66.68,54.27,False,False,pure_bowler,66.0,6.0,70.0,11.0,94.29,middle_order,4.0,6.0,84.0,0.667,8.79,death_bowler
+Ankitkar Jaiswal,Odisha,2020.0,70.7,46.04,58.37,False,False,pure_batter,2.0,1.0,1.0,2.0,200.0,tailender,0.0,1.0,19.0,0.0,7.89,part_time_bowler
+Anmol Malhotra,Punjab,2019.0,44.91,0.0,22.46,False,False,pure_batter,65.0,6.0,63.0,10.83,103.17,middle_order,,,,,,
+Anmolpreet Singh,Punjab,2023.0,70.29,0.0,35.15,False,False,pure_batter,954.0,33.0,678.0,28.91,140.71,top_order_anchor,,,,,,
+Annabathula Akash,Hyderabad (India),2015.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,4.0,0.0,0.0,anchor_opener,,,,,,
+Ansh Patel,Baroda,2021.0,54.6,57.61,56.1,False,False,pure_bowler,6.0,1.0,4.0,6.0,150.0,tailender,1.0,3.0,42.0,0.333,7.43,part_time_bowler
+Anshul Tripathi,Madhya Pradesh,2018.0,53.31,0.0,26.66,False,False,pure_batter,54.0,4.0,46.0,13.5,117.39,middle_order,,,,,,
+Anshuman Gautam,Bihar,2019.0,29.95,0.0,14.98,False,False,pure_batter,32.0,2.0,46.0,16.0,69.57,anchor_opener,,,,,,
+Anshuman Rath,Odisha,2021.0,61.02,0.0,30.51,False,False,pure_batter,63.0,2.0,63.0,31.5,100.0,anchor_opener,,,,,,
+Antony Dhas,Tamil Nadu,2017.0,49.82,130.46,90.14,False,False,pure_bowler,61.0,3.0,50.0,20.33,122.0,tailender,7.0,3.0,55.0,2.333,5.24,part_time_bowler
+Anuj Raj,Bihar,2022.0,0.0,108.21,54.1,False,False,pure_bowler,,,,,,,10.0,6.0,130.0,1.667,6.6,death_bowler
+Anuj Rawat,Delhi,2024.0,63.65,0.0,31.82,False,False,pure_batter,585.0,26.0,463.0,22.5,126.35,anchor_opener,,,,,,
+Anunay Singh,Bihar,2022.0,0.0,58.47,29.24,False,False,pure_bowler,,,,,,,1.0,2.0,25.0,0.5,10.08,part_time_bowler
+Anurag Sarangi,Odisha,2018.0,46.09,0.0,23.04,False,False,pure_batter,190.0,13.0,172.0,14.62,110.47,aggressive_opener,,,,,,
+Anurag Tiwari,Bengal,2015.0,0.0,61.26,30.63,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,3.0,6.0,113.0,0.5,8.28,middle_overs_bowler
+Anureet Singh,Railways,2020.0,45.54,80.12,62.83,False,True,bowling_allrounder,166.0,14.0,148.0,11.86,112.16,tailender,22.0,23.0,486.0,0.957,8.01,death_bowler
+Arabind Singh,Odisha,2019.0,34.44,0.0,17.22,False,False,pure_batter,72.0,9.0,89.0,8.0,80.9,middle_order,,,,,,
+Arjit Gupta,Rajasthan,2022.0,59.09,157.35,108.22,False,False,pure_batter,252.0,16.0,184.0,15.75,136.96,middle_order,3.0,1.0,24.0,3.0,3.0,part_time_bowler
+Arjit Pannu,Chandigarh,2021.0,63.17,0.0,31.58,False,False,pure_batter,64.0,3.0,49.0,21.33,130.61,middle_order,,,,,,
+Arjun Tendulkar,Goa,2022.0,25.89,98.09,61.99,False,False,pure_bowler,20.0,4.0,29.0,5.0,68.97,middle_order,10.0,7.0,150.0,1.429,8.12,death_bowler
+Arkaprabha Sinha,Tripura,2023.0,36.75,0.0,18.38,False,False,pure_batter,118.0,12.0,134.0,9.83,88.06,anchor_opener,,,,,,
+Arnab Nandi,Bengal,2020.0,43.98,78.42,61.2,False,False,pure_bowler,29.0,3.0,25.0,9.67,116.0,tailender,8.0,9.0,186.0,0.889,6.23,middle_overs_bowler
+Arpit Gaud,Madhya Pradesh,2024.0,50.36,0.0,25.18,False,False,pure_batter,104.0,8.0,95.0,13.0,109.47,anchor_opener,,,,,,
+Arpit Pannu,Chandigarh,2021.0,0.0,66.08,33.04,False,False,pure_bowler,,,,,,,2.0,3.0,72.0,0.667,7.92,middle_overs_bowler
+Arpit Vasavada,Saurashtra,2021.0,57.89,90.46,74.18,False,False,pure_batter,395.0,20.0,318.0,19.75,124.21,finisher,4.0,4.0,35.0,1.0,2.4,part_time_bowler
+Arshad Khan,Madhya Pradesh,2023.0,29.47,45.03,37.25,False,False,pure_batter,16.0,2.0,21.0,8.0,76.19,tailender,0.0,2.0,20.0,0.0,9.3,part_time_bowler
+Arshdeep Singh,Punjab,2023.0,47.25,88.87,68.06,False,False,pure_bowler,10.0,1.0,8.0,10.0,125.0,tailender,20.0,17.0,381.0,1.176,7.48,death_bowler
+Arslan Khan,Chandigarh,2024.0,69.82,0.0,34.91,False,False,pure_batter,19.0,2.0,10.0,9.5,190.0,anchor_opener,,,,,,
+Arun Chaprana,Haryana,2020.0,50.4,84.08,67.24,False,False,pure_bowler,81.0,9.0,60.0,9.0,135.0,tailender,16.0,15.0,325.0,1.067,7.61,death_bowler
+Arup Das,Assam,2017.0,18.55,60.96,39.76,False,False,pure_bowler,6.0,2.0,12.0,3.0,50.0,tailender,4.0,10.0,169.0,0.4,8.84,powerplay_bowler
+Arya Sethi,Uttarakhand,2019.0,26.95,0.0,13.48,False,False,pure_batter,7.0,1.0,10.0,7.0,70.0,anchor_opener,,,,,,
+Aryan Juyal,Uttar Pradesh,2024.0,34.22,0.0,17.11,False,False,pure_batter,42.0,5.0,47.0,8.4,89.36,anchor_opener,,,,,,
+Aryan Sahani,Arunachal Pradesh,2023.0,15.46,0.0,7.73,False,False,pure_batter,5.0,2.0,12.0,2.5,41.67,middle_order,,,,,,
+Asfan Khan,Bihar,2019.0,31.4,0.0,15.7,False,False,pure_batter,110.0,11.0,138.0,10.0,79.71,middle_order,,,,,,
+Ashish Rai,Odisha,2021.0,17.85,82.42,50.14,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,3.0,3.0,54.0,1.0,6.89,part_time_bowler
+Ashish Thapa,Sikkim,2021.0,23.58,0.0,11.79,False,False,pure_batter,170.0,19.0,291.0,8.95,58.42,middle_order,,,,,,
+Ashish Yadav,Railways,2018.0,53.47,79.1,66.28,False,True,bowling_allrounder,228.0,14.0,193.0,16.29,118.13,middle_order,14.0,15.0,300.0,0.933,6.82,middle_overs_bowler
+Ashith Rajiv,Puducherry,2020.0,44.55,73.14,58.84,False,False,pure_bowler,59.0,5.0,60.0,11.8,98.33,tailender,9.0,12.0,264.0,0.75,7.41,death_bowler
+Ashutosh Aman,Bihar,2022.0,29.48,87.78,58.63,False,False,utility_player,102.0,16.0,131.0,6.38,77.86,tailender,27.0,23.0,474.0,1.174,6.09,middle_overs_bowler
+Ashutosh Das,Odisha,2019.0,0.0,63.36,31.68,False,False,pure_bowler,,,,,,,1.0,2.0,18.0,0.5,9.67,part_time_bowler
+Ashutosh Sharma,Madhya Pradesh,2023.0,80.34,0.0,40.17,False,False,pure_batter,228.0,8.0,135.0,28.5,168.89,aggressive_opener,,,,,,
+Ashutosh Singh,Chhattisgarh,2019.0,42.28,64.78,53.53,False,False,pure_batter,189.0,12.0,193.0,15.75,97.93,anchor_opener,1.0,2.0,24.0,0.5,5.25,part_time_bowler
+Ashwani Kumar,Punjab,2022.0,0.0,60.18,30.09,False,False,pure_bowler,,,,,,,1.0,2.0,30.0,0.5,10.0,part_time_bowler
+Ashwin Das,Madhya Pradesh,2022.0,93.29,93.85,93.57,False,False,pure_bowler,84.0,3.0,40.0,28.0,210.0,anchor_opener,8.0,6.0,121.0,1.333,8.33,death_bowler
+Ashwin Hebbar,Andhra,2023.0,65.88,42.99,54.44,False,False,pure_batter,934.0,35.0,734.0,26.69,127.25,aggressive_opener,0.0,5.0,54.0,0.0,12.22,part_time_bowler
+Aswin Crist,Tamil Nadu,2020.0,0.0,77.46,38.73,False,False,pure_bowler,,,,,,,3.0,3.0,54.0,1.0,11.22,part_time_bowler
+Atharva Ankolekar,Mumbai,2024.0,60.21,76.04,68.12,True,False,batting_allrounder,78.0,5.0,56.0,15.6,139.29,tailender,9.0,11.0,246.0,0.818,5.85,powerplay_bowler
+Atharva Taide,Vidarbha,2024.0,65.77,77.82,71.79,True,True,batting_allrounder,631.0,25.0,505.0,25.24,124.95,aggressive_opener,10.0,12.0,150.0,0.833,5.4,middle_overs_bowler
+Atif Attarwala,Mumbai,2019.0,0.0,59.57,29.78,False,False,pure_bowler,,,,,,,1.0,2.0,42.0,0.5,6.71,part_time_bowler
+Auqib Nabi,Jammu & Kashmir,2023.0,30.48,86.36,58.42,False,False,pure_bowler,33.0,5.0,41.0,6.6,80.49,tailender,13.0,11.0,210.0,1.182,8.66,middle_overs_bowler
+Avesh Khan,Madhya Pradesh,2023.0,27.8,96.38,62.09,False,False,pure_bowler,20.0,8.0,26.0,2.5,76.92,tailender,39.0,28.0,618.0,1.393,7.74,death_bowler
+Avijit Singh,Railways,2020.0,10.07,0.0,5.04,False,False,pure_batter,3.0,2.0,11.0,1.5,27.27,middle_order,,,,,,
+Avinash Yadav,Mizoram,2022.0,33.07,60.57,46.82,False,False,pure_bowler,21.0,3.0,24.0,7.0,87.5,middle_order,1.0,3.0,72.0,0.333,6.33,powerplay_bowler
+Avishek Sinha,Services,2017.0,36.74,65.43,51.09,False,False,pure_bowler,52.0,6.0,54.0,8.67,96.3,tailender,5.0,9.0,199.0,0.556,6.45,middle_overs_bowler
+Avneesh Sudha,Uttarakhand,2022.0,52.88,39.48,46.18,False,False,pure_batter,200.0,12.0,177.0,16.67,112.99,aggressive_opener,0.0,2.0,24.0,0.0,11.75,part_time_bowler
+Ayan Bhattacharjee,Bengal,2019.0,36.58,66.62,51.6,False,False,pure_bowler,9.0,2.0,9.0,4.5,100.0,tailender,4.0,7.0,114.0,0.571,6.42,middle_overs_bowler
+Ayan Khan,Madhya Pradesh,2015.0,0.0,84.02,42.01,False,False,pure_bowler,,,,,,,1.0,1.0,12.0,1.0,3.5,part_time_bowler
+Ayush Jamwal,Himachal,2021.0,44.11,70.32,57.22,False,False,pure_bowler,72.0,9.0,61.0,8.0,118.03,tailender,13.0,20.0,434.0,0.65,6.25,middle_overs_bowler
+Azim Kazi,Maharashtra,2021.0,58.39,77.52,67.96,True,True,batting_allrounder,408.0,21.0,332.0,19.43,122.89,middle_order,24.0,27.0,536.0,0.889,7.04,middle_overs_bowler
+B Aparajith,Tamil Nadu,2023.0,55.81,69.89,62.85,False,True,bowling_allrounder,580.0,27.0,530.0,21.48,109.43,middle_order,10.0,16.0,222.0,0.625,5.84,powerplay_bowler
+B Indrajith,Tamil Nadu,2018.0,45.03,0.0,22.52,False,False,pure_batter,96.0,5.0,104.0,19.2,92.31,middle_order,,,,,,
+B Kumar,Uttar Pradesh,2024.0,52.98,108.82,80.9,False,False,pure_bowler,45.0,3.0,33.0,15.0,136.36,tailender,17.0,10.0,219.0,1.7,6.08,death_bowler
+B Lalnunfela,Mizoram,2021.0,0.0,50.1,25.05,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,6.0,part_time_bowler
+B Punnaiah,Hyderabad (India),2022.0,0.0,80.39,40.2,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,7.33,part_time_bowler
+B Rahman,Manipur,2023.0,21.56,0.0,10.78,False,False,pure_batter,33.0,5.0,60.0,6.6,55.0,anchor_opener,,,,,,
+B Sai Sudharsan,Tamil Nadu,2023.0,61.75,0.0,30.88,False,False,pure_batter,218.0,9.0,191.0,24.22,114.14,middle_order,,,,,,
+B Shiva,Odisha,2021.0,0.0,42.65,21.32,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,9.0,part_time_bowler
+BA Bhatt,Baroda,2020.0,52.82,71.65,62.24,False,False,pure_bowler,19.0,4.0,13.0,4.75,146.15,tailender,13.0,19.0,390.0,0.684,6.05,middle_overs_bowler
+BA Pathan,Baroda,2020.0,0.0,78.0,39.0,False,False,pure_bowler,0.0,3.0,4.0,0.0,0.0,tailender,12.0,14.0,264.0,0.857,6.98,powerplay_bowler
+BA Roy,Assam,2023.0,67.1,0.0,33.55,False,False,pure_batter,77.0,3.0,56.0,25.67,137.5,finisher,,,,,,
+BB Debnath,Tripura,2023.0,24.03,40.57,32.3,False,False,pure_batter,2.0,1.0,3.0,2.0,66.67,tailender,0.0,1.0,12.0,0.0,9.0,part_time_bowler
+BB Dey,Meghalaya,2019.0,33.07,53.66,43.36,False,False,pure_bowler,14.0,2.0,16.0,7.0,87.5,tailender,1.0,3.0,42.0,0.333,9.86,part_time_bowler
+BB Ghosh,Tripura,2022.0,43.77,0.0,21.88,False,False,pure_batter,72.0,5.0,77.0,14.4,93.51,anchor_opener,,,,,,
+BB Roy,Tripura,2015.0,25.41,62.64,44.02,False,False,pure_bowler,19.0,4.0,28.0,4.75,67.86,middle_order,2.0,4.0,66.0,0.5,6.09,death_bowler
+BB Samantray,Odisha,2020.0,61.63,77.63,69.63,True,True,batting_allrounder,396.0,19.0,309.0,20.84,128.16,finisher,10.0,12.0,180.0,0.833,6.93,middle_overs_bowler
+BB Sran,Punjab,2019.0,46.25,82.82,64.54,False,False,pure_bowler,68.0,8.0,55.0,8.5,123.64,tailender,9.0,9.0,195.0,1.0,7.38,middle_overs_bowler
+BH Merai,Gujarat,2019.0,64.64,0.0,32.32,False,False,pure_batter,86.0,3.0,87.0,28.67,98.85,anchor_opener,,,,,,
+BM Chingakham,Manipur,2023.0,45.01,53.2,49.1,False,False,pure_bowler,37.0,4.0,31.0,9.25,119.35,middle_order,1.0,4.0,60.0,0.25,9.7,powerplay_bowler
+BR Sharath,Karnataka,2023.0,48.47,0.0,24.24,False,False,pure_batter,287.0,21.0,255.0,13.67,112.55,anchor_opener,,,,,,
+BS Sharma,Rajasthan,2020.0,64.52,0.0,32.26,False,False,pure_batter,28.0,3.0,16.0,9.33,175.0,anchor_opener,,,,,,
+Babul Kumar,Bihar,2022.0,56.91,44.72,50.82,False,False,pure_batter,461.0,22.0,403.0,20.95,114.39,middle_order,0.0,2.0,18.0,0.0,9.0,part_time_bowler
+Bal Krishna,Jharkhand,2021.0,8.93,100.23,54.58,False,False,pure_bowler,1.0,2.0,4.0,0.5,25.0,tailender,6.0,4.0,90.0,1.5,7.73,middle_overs_bowler
+Baltej Singh,Punjab,2018.0,45.5,94.27,69.88,False,False,pure_bowler,10.0,2.0,8.0,5.0,125.0,tailender,36.0,27.0,597.0,1.333,7.78,death_bowler
+Bandaru Ayyappa,Andhra,2022.0,53.85,90.94,72.4,False,False,utility_player,102.0,10.0,71.0,10.2,143.66,tailender,29.0,23.0,513.0,1.261,7.73,death_bowler
+Bandeep Singh,Jammu & Kashmir,2018.0,70.19,63.72,66.96,False,False,pure_batter,244.0,9.0,194.0,27.11,125.77,top_order_anchor,1.0,2.0,30.0,0.5,7.4,part_time_bowler
+Bappa Das,Tripura,2019.0,38.54,0.0,19.27,False,False,pure_batter,16.0,1.0,17.0,16.0,94.12,anchor_opener,,,,,,
+Basant Mohanty,Odisha,2015.0,0.0,75.06,37.53,False,False,pure_bowler,,,,,,,4.0,5.0,114.0,0.8,8.11,death_bowler
+Basil Thampi,Kerala,2019.0,43.6,82.24,62.92,False,False,pure_bowler,35.0,9.0,29.0,3.89,120.69,tailender,33.0,32.0,677.0,1.031,8.42,death_bowler
+Bavanaka Sandeep,Hyderabad (India),2021.0,60.11,56.63,58.37,False,False,utility_player,696.0,29.0,589.0,24.0,118.17,finisher,7.0,21.0,264.0,0.333,6.75,middle_overs_bowler
+Benoy Upreti,Sikkim,2019.0,14.74,47.12,30.93,False,False,pure_batter,8.0,2.0,21.0,4.0,38.1,middle_order,0.0,1.0,5.0,0.0,7.2,part_time_bowler
+Bhagmender Lather,Chandigarh,2024.0,51.45,74.59,63.02,False,False,pure_bowler,21.0,3.0,15.0,7.0,140.0,tailender,5.0,6.0,90.0,0.833,8.67,death_bowler
+Bhanu Pania,Baroda,2024.0,46.3,0.0,23.15,False,False,pure_batter,216.0,18.0,195.0,12.0,110.77,middle_order,,,,,,
+Bharat Sharma,Puducherry,2022.0,33.72,89.48,61.6,False,False,pure_bowler,34.0,3.0,40.0,11.33,85.0,middle_order,7.0,6.0,144.0,1.167,6.17,powerplay_bowler
+Bhavik Patel,Nagaland,2018.0,0.0,39.28,19.64,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,12.25,part_time_bowler
+Bhima Rao,Chhattisgarh,2018.0,0.0,52.28,26.14,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,5.75,part_time_bowler
+Bhushan Subba,Sikkim,2020.0,0.0,39.78,19.89,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,11.0,part_time_bowler
+Bibek Diyali,Sikkim,2020.0,26.1,0.0,13.05,False,False,pure_batter,124.0,12.0,193.0,10.33,64.25,anchor_opener,,,,,,
+Bikas Pati,Odisha,2015.0,32.24,0.0,16.12,False,False,pure_batter,19.0,2.0,23.0,9.5,82.61,anchor_opener,,,,,,
+Bikash K Rout,Odisha,2021.0,47.01,102.9,74.96,False,False,pure_bowler,24.0,3.0,19.0,8.0,126.32,tailender,5.0,3.0,72.0,1.667,7.75,middle_overs_bowler
+Bikash Singh,Manipur,2023.0,21.63,39.38,30.51,False,False,pure_batter,24.0,4.0,43.0,6.0,55.81,tailender,0.0,1.0,6.0,0.0,12.0,part_time_bowler
+Bikramkumar Das,Tripura,2023.0,61.72,0.0,30.86,False,False,pure_batter,285.0,10.0,251.0,28.5,113.55,anchor_opener,,,,,,
+Bipin Saurabh,Bihar,2022.0,58.68,0.0,29.34,False,False,pure_batter,206.0,8.0,171.0,25.75,120.47,anchor_opener,,,,,,
+Bipul Sharma,Sikkim,2020.0,63.31,76.75,70.03,True,True,batting_allrounder,363.0,16.0,288.0,22.69,126.04,finisher,17.0,21.0,456.0,0.81,6.01,powerplay_bowler
+Bishworjit Konthoujam,Manipur,2023.0,14.02,76.67,45.34,False,False,pure_bowler,7.0,6.0,18.0,1.17,38.89,tailender,20.0,24.0,467.0,0.833,7.14,powerplay_bowler
+Bobby Yadav,Uttar Pradesh,2018.0,26.75,69.02,47.88,False,False,pure_bowler,5.0,1.0,7.0,5.0,71.43,tailender,2.0,3.0,60.0,0.667,7.7,death_bowler
+Bobby Zothansanga,Mizoram,2022.0,15.2,70.14,42.67,False,False,pure_bowler,8.0,6.0,19.0,1.33,42.11,tailender,9.0,13.0,226.0,0.692,7.33,middle_overs_bowler
+Bodavarapu Sudhakar,Andhra,2015.0,28.09,98.2,63.14,False,False,pure_bowler,21.0,4.0,28.0,5.25,75.0,tailender,7.0,5.0,96.0,1.4,6.94,middle_overs_bowler
+Bonny Chingangbam,Manipur,2021.0,28.26,0.0,14.13,False,False,pure_batter,20.0,3.0,27.0,6.67,74.07,anchor_opener,,,,,,
+Bravish Shetty,Mumbai,2017.0,32.27,0.0,16.14,False,False,pure_batter,16.0,2.0,19.0,8.0,84.21,anchor_opener,,,,,,
+C Rathore,Madhya Pradesh,2022.0,36.75,0.0,18.38,False,False,pure_batter,10.0,2.0,10.0,5.0,100.0,anchor_opener,,,,,,
+C Sakariya,Saurashtra,2022.0,0.0,108.29,54.14,False,False,pure_bowler,,,,,,,40.0,23.0,538.0,1.739,7.26,death_bowler
+CA Pujara,Saurashtra,2022.0,74.54,0.0,37.27,False,False,pure_batter,623.0,16.0,495.0,38.94,125.86,anchor_opener,,,,,,
+CK Paul,Tripura,2015.0,21.22,76.4,48.81,False,False,pure_bowler,11.0,4.0,19.0,2.75,57.89,tailender,7.0,8.0,162.0,0.875,6.81,middle_overs_bowler
+CM Gautam,Karnataka,2017.0,47.01,0.0,23.5,False,False,pure_batter,107.0,10.0,93.0,10.7,115.05,middle_order,,,,,,
+CP Sahani,Hyderabad (India),2023.0,40.08,0.0,20.04,False,False,pure_batter,29.0,2.0,29.0,14.5,100.0,middle_order,,,,,,
+CP Singh,Rajasthan,2020.0,45.73,81.86,63.8,False,False,utility_player,114.0,10.0,103.0,11.4,110.68,tailender,21.0,20.0,384.0,1.05,6.92,middle_overs_bowler
+CV Milind,Hyderabad (India),2022.0,50.4,91.35,70.88,False,True,bowling_allrounder,175.0,21.0,129.0,8.33,135.66,tailender,40.0,31.0,667.0,1.29,7.99,death_bowler
+CV Varun,Tamil Nadu,2023.0,5.35,104.0,54.68,False,False,pure_bowler,1.0,1.0,7.0,1.0,14.29,tailender,5.0,3.0,72.0,1.667,6.67,powerplay_bowler
+Chabungbam Ishworjit,Manipur,2021.0,36.05,0.0,18.02,False,False,pure_batter,3.0,1.0,3.0,3.0,100.0,tailender,,,,,,
+Chaitanya Bishnoi,Haryana,2022.0,61.53,41.18,51.36,False,False,pure_batter,755.0,32.0,643.0,23.59,117.42,anchor_opener,0.0,3.0,24.0,0.0,7.5,part_time_bowler
+Chandan Ray,Tripura,2020.0,0.0,46.04,23.02,False,False,unknown,0.0,1.0,1.0,0.0,0.0,tailender,0.0,3.0,42.0,0.0,8.71,part_time_bowler
+Chanderpal Saini,Railways,2017.0,43.55,52.12,47.83,False,False,pure_bowler,40.0,3.0,36.0,13.33,111.11,tailender,1.0,4.0,72.0,0.25,8.08,middle_overs_bowler
+Cheepurapalli Stephen,Andhra,2015.0,17.85,116.8,67.32,False,False,pure_bowler,4.0,4.0,8.0,1.0,50.0,tailender,42.0,22.0,487.0,1.909,6.36,death_bowler
+Chengkam Sangma,Meghalaya,2021.0,11.84,69.51,40.68,False,False,pure_bowler,1.0,2.0,3.0,0.5,33.33,tailender,5.0,9.0,150.0,0.556,6.12,powerplay_bowler
+Chetan Bist,Nagaland,2022.0,61.49,0.0,30.74,False,False,pure_batter,466.0,19.0,405.0,24.53,115.06,middle_order,,,,,,
+Chinta Gandhi,Baroda,2022.0,33.57,64.28,48.92,False,False,pure_bowler,10.0,2.0,11.0,5.0,90.91,tailender,4.0,8.0,144.0,0.5,6.92,middle_overs_bowler
+Chintan Gaja,Gujarat,2023.0,28.29,89.97,59.13,False,False,pure_bowler,43.0,8.0,57.0,5.38,75.44,tailender,24.0,20.0,395.0,1.2,7.44,powerplay_bowler
+Chintapalli Kranthi Kumar,Andhra,2019.0,78.38,76.92,77.65,False,False,pure_bowler,99.0,3.0,74.0,33.0,133.78,middle_order,1.0,1.0,6.0,1.0,16.0,part_time_bowler
+Chirag Gandhi,Gujarat,2023.0,57.76,0.0,28.88,False,False,pure_batter,735.0,35.0,615.0,21.0,119.51,finisher,,,,,,
+Chirag Jani,Saurashtra,2024.0,59.88,72.76,66.32,True,True,batting_allrounder,422.0,24.0,311.0,17.58,135.69,finisher,28.0,36.0,737.0,0.778,7.62,middle_overs_bowler
+Chirag Khurana,Meghalaya,2021.0,72.29,76.78,74.54,True,True,batting_allrounder,264.0,8.0,202.0,33.0,130.69,aggressive_opener,5.0,6.0,97.0,0.833,6.06,powerplay_bowler
+Chirag Parmar,Gujarat,2017.0,9.1,40.17,24.64,False,False,pure_batter,1.0,1.0,4.0,1.0,25.0,middle_order,0.0,1.0,12.0,0.0,10.0,part_time_bowler
+Chongtham Mehul,Manipur,2021.0,12.02,35.08,23.55,False,False,pure_batter,1.0,1.0,3.0,1.0,33.33,tailender,0.0,1.0,12.0,0.0,17.5,part_time_bowler
+Chopise Hopongkyu,Nagaland,2022.0,0.0,74.56,37.28,False,False,pure_bowler,,,,,,,4.0,5.0,74.0,0.8,8.92,powerplay_bowler
+Codanda Ajit Karthik,Sikkim,2021.0,54.69,92.7,73.69,False,False,utility_player,107.0,4.0,99.0,26.75,108.08,anchor_opener,5.0,4.0,90.0,1.25,6.13,death_bowler
+D Chauhan,Saurashtra,2019.0,28.5,0.0,14.25,False,False,pure_batter,20.0,2.0,28.0,10.0,71.43,middle_order,,,,,,
+D Dhapola,Uttarakhand,2018.0,0.0,46.98,23.49,False,False,unknown,,,,,,,0.0,2.0,30.0,0.0,9.6,part_time_bowler
+D Joshi,Uttar Pradesh,2022.0,58.8,35.2,47.0,False,False,pure_batter,8.0,1.0,5.0,8.0,160.0,tailender,0.0,1.0,1.0,0.0,12.0,part_time_bowler
+D Khatri,Tripura,2022.0,69.55,0.0,34.78,False,False,pure_batter,13.0,1.0,7.0,13.0,185.71,tailender,,,,,,
+D Padikkal,Karnataka,2023.0,75.74,0.0,37.87,False,False,pure_batter,780.0,24.0,553.0,32.5,141.05,aggressive_opener,,,,,,
+D Rabha,Assam,2022.0,66.15,42.15,54.15,False,False,pure_batter,9.0,1.0,5.0,9.0,180.0,tailender,0.0,2.0,24.0,0.0,10.25,part_time_bowler
+D Rai,Services,2015.0,54.6,70.04,62.32,False,False,pure_bowler,6.0,1.0,4.0,6.0,150.0,tailender,2.0,3.0,60.0,0.667,7.2,powerplay_bowler
+D Siva Kumar,Andhra,2017.0,0.0,82.72,41.36,False,False,pure_bowler,,,,,,,4.0,4.0,84.0,1.0,7.5,powerplay_bowler
+D Yadav,Arunachal Pradesh,2023.0,16.54,0.0,8.27,False,False,pure_batter,7.0,2.0,16.0,3.5,43.75,middle_order,,,,,,
+DB Bana,Haryana,2022.0,43.14,0.0,21.57,False,False,pure_batter,17.0,1.0,16.0,17.0,106.25,middle_order,,,,,,
+DB Das,Bengal,2019.0,33.51,0.0,16.76,False,False,pure_batter,48.0,7.0,54.0,6.86,88.89,middle_order,,,,,,
+DB Ravi Teja,Meghalaya,2021.0,54.88,88.58,71.73,False,False,pure_batter,530.0,23.0,510.0,23.04,103.92,middle_order,2.0,2.0,12.0,1.0,2.5,part_time_bowler
+DG Kumar,Himachal,2017.0,72.1,42.6,57.35,False,False,pure_batter,6.0,1.0,3.0,6.0,200.0,tailender,0.0,2.0,24.0,0.0,11.75,part_time_bowler
+DG Nalkande,Vidarbha,2022.0,31.77,108.32,70.04,False,False,utility_player,76.0,12.0,90.0,6.33,84.44,tailender,45.0,26.0,514.0,1.731,7.79,powerplay_bowler
+DH Yagnik,Rajasthan,2015.0,35.93,0.0,17.96,False,False,pure_batter,44.0,4.0,48.0,11.0,91.67,tailender,,,,,,
+DJ Hooda,Baroda,2021.0,67.17,61.0,64.09,True,False,batting_allrounder,858.0,34.0,629.0,25.24,136.41,top_order_anchor,8.0,18.0,264.0,0.444,7.41,middle_overs_bowler
+DJ Muthuswami,Maharashtra,2017.0,20.7,117.09,68.9,False,False,pure_bowler,4.0,2.0,7.0,2.0,57.14,tailender,22.0,11.0,240.0,2.0,7.78,powerplay_bowler
+DK Sharma,Uttarakhand,2019.0,0.0,49.1,24.55,False,False,unknown,0.0,1.0,2.0,0.0,0.0,tailender,0.0,1.0,12.0,0.0,8.5,part_time_bowler
+DL Chahar,Rajasthan,2020.0,44.05,111.93,77.99,False,False,utility_player,126.0,13.0,115.0,9.69,109.57,tailender,34.0,19.0,422.0,1.789,6.33,powerplay_bowler
+DM Mistry,Baroda,2017.0,48.15,0.0,24.08,False,False,pure_batter,9.0,1.0,7.0,9.0,128.57,anchor_opener,,,,,,
+DM Parwani,Vidarbha,2024.0,0.0,114.79,57.4,False,False,pure_bowler,,,,,,,2.0,1.0,20.0,2.0,9.9,part_time_bowler
+DR Deshmukh,Maharashtra,2019.0,50.82,89.28,70.05,False,False,pure_bowler,19.0,2.0,14.0,9.5,135.71,tailender,9.0,7.0,156.0,1.286,10.15,death_bowler
+DR Shorey,Delhi,2021.0,56.38,36.4,46.39,False,False,pure_batter,493.0,23.0,434.0,21.43,113.59,finisher,0.0,1.0,6.0,0.0,9.0,part_time_bowler
+DS Kulkarni,Mumbai,2020.0,38.22,89.33,63.78,False,False,pure_bowler,68.0,11.0,66.0,6.18,103.03,tailender,46.0,39.0,867.0,1.179,7.46,death_bowler
+Damodaran Rohit,Puducherry,2022.0,45.21,52.8,49.0,False,False,utility_player,405.0,25.0,408.0,16.2,99.26,anchor_opener,4.0,13.0,132.0,0.308,9.14,middle_overs_bowler
+Darremsanga,Mizoram,2020.0,12.02,0.0,6.01,False,False,pure_batter,2.0,2.0,6.0,1.0,33.33,middle_order,,,,,,
+Darshan Misal,Goa,2023.0,40.62,68.23,54.42,False,True,bowling_allrounder,337.0,29.0,332.0,11.62,101.51,middle_order,21.0,33.0,668.0,0.636,7.13,middle_overs_bowler
+Daryl Ferrario,Kerala,2018.0,37.52,0.0,18.76,False,False,pure_batter,51.0,4.0,54.0,12.75,94.44,middle_order,,,,,,
+Dasari Swaroop Kumar,Andhra,2019.0,35.35,76.85,56.1,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,3.0,3.0,48.0,1.0,7.12,part_time_bowler
+Debabrata Pradhan,Odisha,2021.0,29.63,80.39,55.01,False,False,pure_bowler,31.0,6.0,39.0,5.17,79.49,tailender,11.0,12.0,234.0,0.917,6.77,powerplay_bowler
+Debasish Samantray,Odisha,2017.0,44.37,0.0,22.18,False,False,pure_batter,44.0,2.0,42.0,22.0,104.76,middle_order,,,,,,
+Deendyal Upadhyay,Arunachal Pradesh,2018.0,9.1,44.96,27.03,False,False,pure_batter,1.0,1.0,4.0,1.0,25.0,tailender,0.0,2.0,36.0,0.0,10.17,part_time_bowler
+Deepak Behera,Odisha,2015.0,26.95,105.0,65.97,False,False,pure_bowler,11.0,3.0,15.0,3.67,73.33,tailender,8.0,5.0,104.0,1.6,7.56,powerplay_bowler
+Deepak Gohain,Assam,2018.0,0.0,89.72,44.86,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,2.25,part_time_bowler
+Deepak Punia,Saurashtra,2021.0,41.62,70.78,56.2,False,False,utility_player,80.0,7.0,84.0,11.43,95.24,middle_order,8.0,11.0,228.0,0.727,8.05,middle_overs_bowler
+Deepraj Gaonkar,Goa,2023.0,50.38,65.14,57.76,False,True,bowling_allrounder,283.0,19.0,255.0,14.89,110.98,tailender,9.0,14.0,240.0,0.643,8.28,middle_overs_bowler
+Denish Das,Assam,2023.0,42.82,0.0,21.41,False,False,pure_batter,243.0,15.0,273.0,16.2,89.01,anchor_opener,,,,,,
+Dev Lakra,Delhi,2023.0,35.35,0.0,17.68,False,False,pure_batter,1.0,1.0,1.0,1.0,100.0,tailender,,,,,,
+Devender Lohchab,Services,2021.0,34.52,0.0,17.26,False,False,pure_batter,52.0,4.0,81.0,13.0,64.2,anchor_opener,,,,,,
+Dharmendrasinh Jadeja,Saurashtra,2023.0,50.96,69.78,60.37,False,False,utility_player,106.0,13.0,81.0,8.15,130.86,tailender,26.0,38.0,722.0,0.684,7.14,middle_overs_bowler
+Dhavanath,Nagaland,2018.0,26.13,0.0,13.06,False,False,pure_batter,8.0,1.0,12.0,8.0,66.67,tailender,,,,,,
+Dhrumil Matkar,Mumbai,2019.0,35.35,51.27,43.31,False,False,pure_bowler,2.0,2.0,2.0,1.0,100.0,tailender,1.0,5.0,78.0,0.2,9.38,middle_overs_bowler
+Dhrushant Soni,Railways,2022.0,33.99,92.81,63.4,False,False,pure_bowler,24.0,5.0,26.0,4.8,92.31,tailender,11.0,8.0,166.0,1.375,8.6,death_bowler
+Dhruv Jurel,Uttar Pradesh,2023.0,43.16,0.0,21.58,False,False,pure_batter,69.0,5.0,63.0,13.8,109.52,finisher,,,,,,
+Dhruv Patel,Baroda,2023.0,46.56,50.35,48.46,False,False,pure_batter,104.0,7.0,88.0,14.86,118.18,middle_order,1.0,4.0,48.0,0.25,11.62,part_time_bowler
+Dhruv Raval,Gujarat,2021.0,62.45,0.0,31.22,False,False,pure_batter,384.0,17.0,283.0,22.59,135.69,aggressive_opener,,,,,,
+Digvijay Rangi,Himachal,2021.0,51.14,61.65,56.4,False,False,pure_bowler,92.0,6.0,79.0,15.33,116.46,finisher,3.0,7.0,87.0,0.429,7.1,death_bowler
+Dikshanshu Negi,Uttarakhand,2022.0,47.79,71.09,59.44,False,True,bowling_allrounder,318.0,17.0,282.0,18.71,112.77,middle_order,11.0,16.0,264.0,0.688,6.61,middle_overs_bowler
+Dinesh Mor,Railways,2020.0,42.87,0.0,21.44,False,False,pure_batter,98.0,9.0,96.0,10.89,102.08,middle_order,,,,,,
+Dinesh Rai,Sikkim,2019.0,19.85,64.05,41.95,False,False,pure_bowler,15.0,3.0,29.0,5.0,51.72,tailender,2.0,4.0,39.0,0.5,7.69,part_time_bowler
+Dipayan Debbarma,Tripura,2021.0,32.99,0.0,16.5,False,False,pure_batter,39.0,3.0,48.0,13.0,81.25,middle_order,,,,,,
+Dippu Sangma,Meghalaya,2021.0,22.74,79.63,51.18,False,False,pure_bowler,17.0,4.0,28.0,4.25,60.71,middle_order,6.0,7.0,120.0,0.857,6.1,powerplay_bowler
+Divyang Hinganekar,Maharashtra,2021.0,58.58,80.54,69.56,False,False,utility_player,119.0,10.0,81.0,11.9,146.91,tailender,19.0,19.0,313.0,1.0,6.9,middle_overs_bowler
+Diwesh Pathania,Services,2021.0,54.15,90.64,72.4,False,True,bowling_allrounder,182.0,15.0,133.0,12.13,136.84,tailender,31.0,25.0,575.0,1.24,7.65,powerplay_bowler
+E Sanketh,Hyderabad (India),2021.0,0.0,38.48,19.24,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,9.0,part_time_bowler
+EC Sen,Himachal,2022.0,63.46,0.0,31.73,False,False,pure_batter,351.0,17.0,280.0,20.65,125.36,finisher,,,,,,
+ER Dwivedi,Uttar Pradesh,2017.0,63.5,0.0,31.75,False,False,pure_batter,296.0,11.0,240.0,26.91,123.33,top_order_anchor,,,,,,
+Eknath Kerkar,Goa,2023.0,52.19,0.0,26.1,False,False,pure_batter,239.0,16.0,212.0,14.94,112.74,anchor_opener,,,,,,
+Erik Roy,Assam,2020.0,42.47,0.0,21.24,False,False,pure_batter,26.0,2.0,24.0,13.0,108.33,middle_order,,,,,,
+Eshaan Ravi,Bihar,2019.0,36.4,0.0,18.2,False,False,pure_batter,4.0,1.0,4.0,4.0,100.0,anchor_opener,,,,,,
+F Lalmuanzuala,Mizoram,2023.0,11.37,0.0,5.68,False,False,pure_batter,11.0,4.0,37.0,2.75,29.73,tailender,,,,,,
+FY Fazal,Vidarbha,2019.0,53.47,63.42,58.44,False,False,pure_batter,448.0,21.0,419.0,21.33,106.92,anchor_opener,1.0,2.0,18.0,0.5,6.0,part_time_bowler
+Fabid Ahmed,Puducherry,2021.0,37.38,73.08,55.23,False,True,bowling_allrounder,218.0,22.0,225.0,9.91,96.89,middle_order,20.0,26.0,494.0,0.769,6.96,powerplay_bowler
+Faiz Ahmed,Railways,2015.0,33.27,66.17,49.72,False,False,pure_bowler,41.0,2.0,55.0,20.5,74.55,middle_order,1.0,2.0,14.0,0.5,5.14,part_time_bowler
+Faruque Hussain,Arunachal Pradesh,2020.0,35.35,0.0,17.68,False,False,pure_batter,1.0,1.0,1.0,1.0,100.0,tailender,,,,,,
+Fazil Rashid,Jammu & Kashmir,2023.0,43.4,0.0,21.7,False,False,pure_batter,42.0,4.0,37.0,10.5,113.51,finisher,,,,,,
+Felix Alemao,Goa,2018.0,38.21,76.93,57.57,False,False,pure_bowler,22.0,5.0,21.0,4.4,104.76,tailender,11.0,12.0,210.0,0.917,9.91,powerplay_bowler
+G Ajitesh,Tamil Nadu,2023.0,39.33,0.0,19.66,False,False,pure_batter,14.0,3.0,13.0,4.67,107.69,anchor_opener,,,,,,
+G Anikethreddy,Hyderabad (India),2023.0,0.0,85.65,42.82,False,False,pure_bowler,,,,,,,3.0,3.0,72.0,1.0,5.5,middle_overs_bowler
+G Gambhir,Delhi,2017.0,47.7,0.0,23.85,False,False,pure_batter,226.0,13.0,228.0,17.38,99.12,anchor_opener,,,,,,
+G Lalbiakvela,Mizoram,2022.0,14.56,60.12,37.34,False,False,pure_bowler,16.0,10.0,40.0,1.6,40.0,tailender,11.0,23.0,360.0,0.478,9.78,middle_overs_bowler
+G Periyaswamy,Tamil Nadu,2020.0,0.0,84.22,42.11,False,False,pure_bowler,,,,,,,9.0,8.0,128.0,1.125,7.88,death_bowler
+GA Singh,Haryana,2020.0,59.91,0.0,29.96,False,False,pure_batter,174.0,9.0,131.0,19.33,132.82,anchor_opener,,,,,,
+GH Vihari,Andhra,2023.0,60.59,61.82,61.2,True,True,batting_allrounder,574.0,25.0,455.0,22.96,126.15,middle_order,9.0,17.0,210.0,0.529,7.8,middle_overs_bowler
+GK Singh,Himachal,2018.0,0.0,123.81,61.9,False,False,pure_bowler,,,,,,,2.0,1.0,18.0,2.0,3.67,part_time_bowler
+GS Raju,Tamil Nadu,2017.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,2.0,0.0,0.0,middle_order,,,,,,
+Gagandeep Singh,Chhattisgarh,2023.0,30.71,46.78,38.75,False,False,pure_batter,13.0,2.0,16.0,6.5,81.25,tailender,0.0,2.0,30.0,0.0,6.0,part_time_bowler
+Gandhar Bhatawadekar,Railways,2019.0,37.54,0.0,18.77,False,False,pure_batter,39.0,4.0,40.0,9.75,97.5,middle_order,,,,,,
+Ganesh Satish,Vidarbha,2023.0,48.55,0.0,24.28,False,False,pure_batter,530.0,30.0,540.0,17.67,98.15,middle_order,,,,,,
+Gaurav,Nagaland,2018.0,36.05,75.85,55.95,False,False,pure_bowler,3.0,1.0,3.0,3.0,100.0,tailender,1.0,1.0,12.0,1.0,13.5,part_time_bowler
+Gaurav Chaudhary,Punjab,2022.0,0.0,82.95,41.48,False,False,pure_bowler,,,,,,,2.0,2.0,48.0,1.0,7.5,part_time_bowler
+Gaurav Gambhir,Chandigarh,2019.0,27.3,70.61,48.96,False,False,pure_bowler,3.0,1.0,4.0,3.0,75.0,tailender,5.0,8.0,132.0,0.625,5.59,middle_overs_bowler
+Gaurav Kumar,Delhi,2018.0,0.0,43.53,21.76,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,12.0,part_time_bowler
+Gaurav Puri,Chandigarh,2021.0,67.19,0.0,33.6,False,False,pure_batter,91.0,6.0,56.0,15.17,162.5,middle_order,,,,,,
+Gaurav Singh,Uttarakhand,2018.0,0.0,75.62,37.81,False,False,pure_bowler,,,,,,,1.0,1.0,11.0,1.0,9.82,part_time_bowler
+Gaurav Yadav,Madhya Pradesh,2019.0,60.08,82.49,71.28,False,False,pure_bowler,5.0,1.0,3.0,5.0,166.67,tailender,8.0,8.0,161.0,1.0,8.09,powerplay_bowler
+Gemson Singh,Manipur,2020.0,12.37,0.0,6.18,False,False,pure_batter,2.0,1.0,6.0,2.0,33.33,anchor_opener,,,,,,
+Girinath Reddy,Andhra,2022.0,58.94,67.51,63.22,False,True,bowling_allrounder,209.0,14.0,148.0,14.93,141.22,tailender,11.0,17.0,249.0,0.647,7.4,middle_overs_bowler
+Girish Rauturi,Uttarakhand,2020.0,55.59,68.52,62.06,False,False,pure_bowler,76.0,7.0,56.0,10.86,135.71,tailender,5.0,7.0,96.0,0.714,10.06,death_bowler
+Gitansh Khera,Punjab,2015.0,32.55,0.0,16.27,False,False,pure_batter,31.0,2.0,40.0,15.5,77.5,middle_order,,,,,,
+Gokul Sharma,Assam,2015.0,33.57,0.0,16.78,False,False,pure_batter,10.0,2.0,11.0,5.0,90.91,middle_order,,,,,,
+Gourav Choudhury,Odisha,2020.0,62.83,0.0,31.42,False,False,pure_batter,68.0,3.0,53.0,22.67,128.3,aggressive_opener,,,,,,
+Govinda Poddar,Odisha,2021.0,58.57,71.85,65.21,True,True,batting_allrounder,438.0,19.0,347.0,23.05,126.22,finisher,11.0,15.0,234.0,0.733,6.69,middle_overs_bowler
+Gurinder Singh,Chandigarh,2021.0,60.46,83.04,71.75,True,True,batting_allrounder,439.0,20.0,351.0,21.95,125.07,finisher,29.0,28.0,612.0,1.036,7.25,middle_overs_bowler
+Gurkeerat Singh,Punjab,2023.0,64.11,49.74,56.92,False,False,pure_batter,675.0,29.0,518.0,23.28,130.31,middle_order,1.0,7.0,84.0,0.143,6.79,middle_overs_bowler
+H Desai,Saurashtra,2024.0,51.97,0.0,25.98,False,False,pure_batter,345.0,21.0,288.0,16.43,119.79,aggressive_opener,,,,,,
+HH Khadiwale,Maharashtra,2015.0,37.57,0.0,18.78,False,False,pure_batter,22.0,3.0,22.0,7.33,100.0,anchor_opener,,,,,,
+HH Pandya,Baroda,2024.0,71.57,93.27,82.42,True,True,batting_allrounder,387.0,11.0,297.0,35.18,130.3,top_order_anchor,14.0,11.0,216.0,1.273,6.58,middle_overs_bowler
+HM Chauhan,Delhi,2024.0,0.0,79.63,39.82,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,9.25,part_time_bowler
+HP Gawli,Madhya Pradesh,2024.0,60.61,0.0,30.3,False,False,pure_batter,43.0,3.0,33.0,14.33,130.3,aggressive_opener,,,,,,
+HP Patel,Gujarat,2021.0,14.28,87.1,50.69,False,False,pure_bowler,4.0,5.0,10.0,0.8,40.0,tailender,30.0,26.0,547.0,1.154,6.65,middle_overs_bowler
+HR Shokeen,Delhi,2023.0,0.0,99.29,49.64,False,False,pure_bowler,,,,,,,3.0,2.0,18.0,1.5,7.33,part_time_bowler
+HS Desai,Baroda,2023.0,43.35,0.0,21.68,False,False,pure_batter,57.0,4.0,52.0,14.25,109.62,anchor_opener,,,,,,
+HS Joshi,Vidarbha,2015.0,57.61,0.0,28.8,False,False,pure_batter,79.0,3.0,72.0,26.33,109.72,top_order_anchor,,,,,,
+HV Patel,Haryana,2023.0,76.69,91.16,83.92,True,True,batting_allrounder,672.0,26.0,428.0,25.85,157.01,aggressive_opener,32.0,25.0,519.0,1.28,8.16,death_bowler
+Harbhajan Singh,Punjab,2018.0,47.06,85.26,66.16,False,False,utility_player,121.0,10.0,115.0,12.1,105.22,middle_order,16.0,15.0,312.0,1.067,6.27,middle_overs_bowler
+Hardeep Singh,Uttar Pradesh,2019.0,5.35,0.0,2.68,False,False,pure_batter,1.0,1.0,7.0,1.0,14.29,middle_order,,,,,,
+Hardik Rathod,Saurashtra,2018.0,0.0,44.32,22.16,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,10.0,part_time_bowler
+Hardik Tamore,Mumbai,2022.0,33.17,0.0,16.58,False,False,pure_batter,24.0,2.0,29.0,12.0,82.76,anchor_opener,,,,,,
+Hari Nishaanth,Tamil Nadu,2023.0,61.2,45.17,53.18,False,False,pure_batter,688.0,27.0,541.0,25.48,127.17,aggressive_opener,0.0,2.0,11.0,0.0,9.82,part_time_bowler
+Harishankar Reddy,Andhra,2023.0,41.7,86.71,64.2,False,False,pure_bowler,30.0,8.0,26.0,3.75,115.38,tailender,24.0,20.0,419.0,1.2,9.09,death_bowler
+Harmeet Singh,Tripura,2019.0,61.15,55.27,58.21,False,False,pure_bowler,38.0,4.0,23.0,9.5,165.22,tailender,2.0,8.0,129.0,0.25,7.95,powerplay_bowler
+Harpreet Brar,Punjab,2023.0,42.26,86.58,64.42,False,False,utility_player,91.0,13.0,80.0,7.0,113.75,tailender,36.0,32.0,640.0,1.125,6.87,middle_overs_bowler
+Harpreet Singh,Chhattisgarh,2024.0,74.91,67.97,71.44,False,True,bowling_allrounder,1181.0,34.0,899.0,34.74,131.37,top_order_anchor,3.0,5.0,81.0,0.6,5.7,middle_overs_bowler
+Harsh Dubey,Vidarbha,2024.0,0.0,63.17,31.58,False,False,pure_bowler,,,,,,,2.0,4.0,66.0,0.5,6.64,middle_overs_bowler
+Harsh Tyagi,Railways,2024.0,56.0,66.71,61.36,False,True,bowling_allrounder,276.0,20.0,207.0,13.8,133.33,tailender,18.0,30.0,565.0,0.6,7.09,middle_overs_bowler
+Harsh Vikram Singh,Bihar,2022.0,21.46,60.36,40.91,False,False,pure_bowler,10.0,4.0,17.0,2.5,58.82,tailender,3.0,6.0,90.0,0.5,9.53,death_bowler
+Harshit Bisht,Uttarakhand,2019.0,39.33,0.0,19.66,False,False,pure_batter,39.0,2.0,42.0,19.5,92.86,anchor_opener,,,,,,
+Harshit Rana,Delhi,2023.0,0.0,66.83,33.42,False,False,pure_bowler,,,,,,,2.0,3.0,54.0,0.667,8.67,part_time_bowler
+Harshit Rathod,Odisha,2021.0,17.85,81.98,49.92,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,1.0,1.0,24.0,1.0,6.0,part_time_bowler
+Hem Chetri,Nagaland,2021.0,42.45,83.35,62.9,False,False,pure_bowler,22.0,4.0,19.0,5.5,115.79,middle_order,2.0,2.0,24.0,1.0,7.75,part_time_bowler
+Hemang Patel,Gujarat,2023.0,33.05,75.72,54.38,False,False,utility_player,71.0,8.0,83.0,8.88,85.54,tailender,10.0,12.0,164.0,0.833,7.21,middle_overs_bowler
+Henan Nazir,Jammu & Kashmir,2023.0,42.87,0.0,21.44,False,False,pure_batter,58.0,4.0,67.0,14.5,86.57,middle_order,,,,,,
+Henry Renthlei,Mizoram,2019.0,9.45,58.6,34.02,False,False,pure_bowler,2.0,1.0,8.0,2.0,25.0,middle_order,1.0,2.0,24.0,0.5,10.25,part_time_bowler
+Heramb Parab,Goa,2019.0,67.99,84.86,76.42,False,False,pure_bowler,37.0,4.0,20.0,9.25,185.0,tailender,8.0,7.0,108.0,1.143,8.11,powerplay_bowler
+Het Patel,Gujarat,2022.0,46.26,0.0,23.13,False,False,pure_batter,153.0,8.0,167.0,19.12,91.62,middle_order,,,,,,
+Himalay Agarwal,Hyderabad (India),2021.0,40.39,0.0,20.2,False,False,pure_batter,218.0,16.0,226.0,13.62,96.46,middle_order,,,,,,
+Himalaya Barad,Saurashtra,2021.0,45.71,0.0,22.86,False,False,pure_batter,115.0,8.0,109.0,14.38,105.5,aggressive_opener,,,,,,
+Himan Phukan,Meghalaya,2021.0,0.0,65.51,32.76,False,False,pure_bowler,,,,,,,1.0,2.0,42.0,0.5,5.29,part_time_bowler
+Himanshu Bisht,Uttarakhand,2020.0,36.73,71.33,54.03,False,False,pure_bowler,54.0,8.0,55.0,6.75,98.18,tailender,11.0,15.0,252.0,0.733,7.38,middle_overs_bowler
+Himanshu Chawla,Punjab,2015.0,71.99,0.0,35.99,False,False,pure_batter,67.0,4.0,40.0,16.75,167.5,middle_order,,,,,,
+Himanshu Rana,Haryana,2023.0,60.25,0.0,30.12,False,False,pure_batter,808.0,32.0,658.0,25.25,122.8,top_order_anchor,,,,,,
+Himanshu Sangwan,Railways,2021.0,44.62,67.19,55.9,False,False,pure_bowler,10.0,4.0,8.0,2.5,125.0,tailender,5.0,7.0,140.0,0.714,9.69,death_bowler
+Himmat Singh,Delhi,2024.0,55.33,100.0,77.66,False,False,pure_batter,599.0,33.0,472.0,18.15,126.91,finisher,1.0,1.0,3.0,1.0,0.0,part_time_bowler
+Hiten Dalal,Delhi,2022.0,66.72,82.22,74.47,False,False,pure_batter,516.0,23.0,363.0,22.43,142.15,aggressive_opener,1.0,1.0,12.0,1.0,8.0,part_time_bowler
+Hiten Mehra,Gujarat,2018.0,28.86,0.0,14.43,False,False,pure_batter,14.0,3.0,18.0,4.67,77.78,middle_order,,,,,,
+Hitesh Kadam,Railways,2017.0,48.07,43.9,45.98,False,False,pure_batter,4.0,1.0,3.0,4.0,133.33,tailender,0.0,2.0,30.0,0.0,9.0,part_time_bowler
+Hitesh Yadav,Hyderabad (India),2020.0,0.0,45.53,22.76,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,7.0,part_time_bowler
+Hmar Zothanchhunga,Mizoram,2020.0,0.0,82.46,41.23,False,False,pure_bowler,0.0,1.0,5.0,0.0,0.0,middle_order,1.0,1.0,18.0,1.0,5.67,part_time_bowler
+Hokaito Zhimomi,Nagaland,2023.0,29.64,64.67,47.16,False,False,utility_player,119.0,15.0,155.0,7.93,76.77,middle_order,3.0,5.0,42.0,0.6,8.71,part_time_bowler
+Homendro Kabrambam,Manipur,2021.0,25.04,58.46,41.75,False,False,utility_player,53.0,10.0,80.0,5.3,66.25,tailender,5.0,13.0,210.0,0.385,8.97,powerplay_bowler
+Hrishi Raj,Bihar,2021.0,35.35,115.52,75.44,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,4.0,2.0,42.0,2.0,10.0,part_time_bowler
+Hrishikesh Tamuli,Assam,2019.0,24.72,0.0,12.36,False,False,pure_batter,21.0,3.0,33.0,7.0,63.64,anchor_opener,,,,,,
+Hrithik Kanojia,Manipur,2018.0,16.49,0.0,8.24,False,False,pure_batter,8.0,3.0,18.0,2.67,44.44,anchor_opener,,,,,,
+I Sharma,Delhi,2018.0,0.0,87.99,44.0,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,20.0,18.0,367.0,1.111,7.05,powerplay_bowler
+IC Pandey,Madhya Pradesh,2020.0,41.4,88.22,64.81,False,False,pure_bowler,56.0,14.0,49.0,4.0,114.29,tailender,29.0,25.0,556.0,1.16,7.01,powerplay_bowler
+IC Porel,Bengal,2018.0,14.7,91.89,53.3,False,False,pure_bowler,2.0,1.0,5.0,2.0,40.0,tailender,26.0,21.0,456.0,1.238,6.72,death_bowler
+IK Pathan,Baroda,2018.0,65.74,87.12,76.43,True,True,batting_allrounder,246.0,13.0,158.0,18.92,155.7,finisher,16.0,14.0,304.0,1.143,8.35,powerplay_bowler
+IR Jaggi,Jharkhand,2021.0,76.66,0.0,38.33,False,False,pure_batter,596.0,19.0,418.0,31.37,142.58,middle_order,,,,,,
+Ian Dev Singh,Jammu & Kashmir,2021.0,63.48,0.0,31.74,False,False,pure_batter,373.0,13.0,350.0,28.69,106.57,top_order_anchor,,,,,,
+Imliwati Lemtur,Nagaland,2023.0,36.19,69.94,53.06,False,False,utility_player,101.0,14.0,105.0,7.21,96.19,tailender,14.0,21.0,371.0,0.667,7.26,middle_overs_bowler
+Inakato Zhimomi,Nagaland,2018.0,0.0,51.74,25.87,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,1.0,3.0,17.0,0.333,14.47,part_time_bowler
+Indiya Toku,Arunachal Pradesh,2021.0,6.18,0.0,3.09,False,False,pure_batter,1.0,1.0,6.0,1.0,16.67,middle_order,,,,,,
+Iqbal Abdulla,Sikkim,2021.0,47.49,63.3,55.4,False,False,utility_player,237.0,14.0,236.0,16.93,100.42,middle_order,6.0,14.0,282.0,0.429,6.34,middle_overs_bowler
+Iqlas Naha,Puducherry,2021.0,39.18,0.0,19.59,False,False,pure_batter,20.0,3.0,19.0,6.67,105.26,tailender,,,,,,
+Irfan-ul-Haq,Jammu & Kashmir,2021.0,0.0,32.8,16.4,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,18.0,part_time_bowler
+Ishaan Gadekar,Goa,2023.0,81.83,0.0,40.92,False,False,pure_batter,172.0,6.0,106.0,28.67,162.26,aggressive_opener,,,,,,
+Ishan Kishan,Jharkhand,2020.0,76.57,0.0,38.28,False,False,pure_batter,767.0,23.0,531.0,33.35,144.44,aggressive_opener,,,,,,
+Ishwar Chaudhary,Sikkim,2019.0,27.46,70.77,49.11,False,False,pure_bowler,45.0,13.0,60.0,3.46,75.0,tailender,11.0,16.0,286.0,0.688,8.83,powerplay_bowler
+J Anderson,Mizoram,2023.0,29.48,0.0,14.74,False,False,pure_batter,45.0,3.0,65.0,15.0,69.23,middle_order,,,,,,
+J Biakthanpuia,Mizoram,2023.0,14.12,0.0,7.06,False,False,pure_batter,7.0,1.0,21.0,7.0,33.33,middle_order,,,,,,
+J Butte,Chhattisgarh,2023.0,18.2,47.62,32.91,False,False,pure_batter,2.0,1.0,4.0,2.0,50.0,tailender,0.0,1.0,24.0,0.0,7.0,part_time_bowler
+J Kousik,Tamil Nadu,2018.0,54.61,82.06,68.34,False,False,pure_bowler,44.0,3.0,39.0,14.67,112.82,tailender,5.0,5.0,78.0,1.0,7.15,powerplay_bowler
+J Mallikarjun,Hyderabad (India),2019.0,39.23,0.0,19.61,False,False,pure_batter,61.0,4.0,63.0,15.25,96.83,middle_order,,,,,,
+J Suchith,Karnataka,2021.0,51.74,72.9,62.32,False,True,bowling_allrounder,204.0,20.0,153.0,10.2,133.33,tailender,29.0,37.0,756.0,0.784,7.16,middle_overs_bowler
+J Syed Mohammad,Assam,2015.0,64.46,99.2,81.83,False,False,utility_player,146.0,5.0,141.0,29.2,103.55,tailender,6.0,4.0,60.0,1.5,6.2,middle_overs_bowler
+J Yadav,Haryana,2022.0,38.63,71.18,54.9,False,False,pure_bowler,54.0,12.0,51.0,4.5,105.88,tailender,24.0,34.0,617.0,0.706,6.7,middle_overs_bowler
+JD Unadkat,Saurashtra,2024.0,64.35,103.49,83.92,False,True,bowling_allrounder,282.0,23.0,180.0,12.26,156.67,lower_order_hitter,65.0,41.0,941.0,1.585,6.64,death_bowler
+JH Saroha,Haryana,2019.0,77.63,0.0,38.82,False,False,pure_batter,15.0,2.0,7.0,7.5,214.29,tailender,,,,,,
+JJ Bumrah,Gujarat,2015.0,24.03,102.85,63.44,False,False,pure_bowler,2.0,1.0,3.0,2.0,66.67,tailender,14.0,9.0,208.0,1.556,6.4,death_bowler
+JJ Lamare,Meghalaya,2018.0,21.96,0.0,10.98,False,False,pure_batter,28.0,5.0,49.0,5.6,57.14,anchor_opener,,,,,,
+JM Sharma,Vidarbha,2024.0,67.54,0.0,33.77,False,False,pure_batter,979.0,41.0,670.0,23.88,146.12,aggressive_opener,,,,,,
+JP Zope,Maharashtra,2017.0,53.5,76.9,65.2,False,False,pure_bowler,10.0,1.0,7.0,10.0,142.86,tailender,3.0,3.0,56.0,1.0,7.5,part_time_bowler
+JR Banik,Tripura,2020.0,23.09,0.0,11.54,False,False,pure_batter,40.0,5.0,69.0,8.0,57.97,anchor_opener,,,,,,
+Jafar Jamal,Kerala,2015.0,42.47,0.0,21.24,False,False,pure_batter,14.0,3.0,12.0,4.67,116.67,middle_order,,,,,,
+Jagjit Singh,Chandigarh,2024.0,62.47,70.81,66.64,False,False,pure_bowler,17.0,2.0,10.0,8.5,170.0,tailender,5.0,8.0,158.0,0.625,6.91,powerplay_bowler
+Jahan Uddin,Sikkim,2019.0,13.71,0.0,6.86,False,False,pure_batter,7.0,3.0,19.0,2.33,36.84,tailender,,,,,,
+Jaideep Bhambhu,Haryana,2021.0,35.35,41.18,38.26,False,False,pure_batter,1.0,1.0,1.0,1.0,100.0,tailender,0.0,2.0,24.0,0.0,7.5,part_time_bowler
+Jalaj S Saxena,Kerala,2021.0,34.02,88.11,61.06,False,True,bowling_allrounder,165.0,14.0,208.0,11.79,79.33,anchor_opener,23.0,20.0,408.0,1.15,6.22,middle_overs_bowler
+Jaskaran Singh,Chandigarh,2021.0,63.61,87.23,75.42,False,False,utility_player,152.0,13.0,93.0,11.69,163.44,finisher,25.0,22.0,490.0,1.136,7.33,death_bowler
+Jaskaranvir Singh Sohi,Chandigarh,2021.0,41.84,0.0,20.92,False,False,pure_batter,63.0,7.0,57.0,9.0,110.53,middle_order,,,,,,
+Jasmer Dhankhar,Uttar Pradesh,2023.0,0.0,81.43,40.72,False,False,pure_bowler,,,,,,,4.0,4.0,72.0,1.0,6.5,middle_overs_bowler
+Jatin Saxena,Chhattisgarh,2017.0,38.15,0.0,19.08,False,False,pure_batter,9.0,1.0,9.0,9.0,100.0,anchor_opener,,,,,,
+Jatin Wadhwan,Jammu & Kashmir,2021.0,72.29,0.0,36.15,False,False,pure_batter,473.0,14.0,382.0,33.79,123.82,anchor_opener,,,,,,
+Jaweed Ali,Hyderabad (India),2015.0,78.32,0.0,39.16,False,False,pure_batter,50.0,3.0,28.0,16.67,178.57,middle_order,,,,,,
+Jay Bista,Mumbai,2021.0,72.46,58.38,65.42,False,False,utility_player,820.0,26.0,589.0,31.54,139.22,aggressive_opener,2.0,5.0,54.0,0.4,7.56,part_time_bowler
+Jay Chauhan,Saurashtra,2019.0,0.0,102.55,51.28,False,False,pure_bowler,,,,,,,6.0,4.0,72.0,1.5,5.25,middle_overs_bowler
+Jay Gohil,Saurashtra,2024.0,59.98,0.0,29.99,False,False,pure_batter,147.0,9.0,101.0,16.33,145.54,finisher,,,,,,
+Jayanta Behera,Odisha,2017.0,5.35,87.08,46.22,False,False,pure_bowler,1.0,1.0,7.0,1.0,14.29,tailender,7.0,6.0,120.0,1.167,6.3,middle_overs_bowler
+Jayanta Sagatpam,Manipur,2021.0,36.99,0.0,18.5,False,False,pure_batter,75.0,5.0,102.0,15.0,73.53,middle_order,,,,,,
+Jaydev Shah,Saurashtra,2015.0,38.76,0.0,19.38,False,False,pure_batter,68.0,5.0,85.0,13.6,80.0,middle_order,,,,,,
+Jayveer Parmar,Gujarat,2019.0,25.58,102.76,64.17,False,False,pure_bowler,5.0,3.0,7.0,1.67,71.43,tailender,10.0,6.0,110.0,1.667,8.84,powerplay_bowler
+Jitumoni Kalita,Assam,2018.0,70.12,76.98,73.55,False,False,pure_bowler,35.0,2.0,25.0,17.5,140.0,tailender,4.0,5.0,71.0,0.8,5.75,middle_overs_bowler
+Jiwanjot Singh,Uttarakhand,2022.0,64.42,0.0,32.21,False,False,pure_batter,103.0,3.0,85.0,34.33,121.18,anchor_opener,,,,,,
+Jiyaad Magrey,Jammu & Kashmir,2020.0,43.84,0.0,21.92,False,False,pure_batter,20.0,1.0,19.0,20.0,105.26,anchor_opener,,,,,,
+Jogeswar Bhumij,Assam,2015.0,0.0,44.42,22.21,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,9.75,part_time_bowler
+Johnson Singh,Manipur,2023.0,32.07,45.32,38.7,False,False,pure_batter,155.0,13.0,212.0,11.92,73.11,middle_order,0.0,1.0,12.0,0.0,7.5,part_time_bowler
+Jonty Sidhu,Delhi,2020.0,68.6,127.35,97.98,False,False,pure_bowler,21.0,1.0,12.0,21.0,175.0,middle_order,2.0,1.0,12.0,2.0,3.5,part_time_bowler
+Joseph Lalthankhuma,Mizoram,2023.0,30.4,45.53,37.97,False,False,pure_batter,76.0,7.0,100.0,10.86,76.0,middle_order,0.0,1.0,6.0,0.0,7.0,part_time_bowler
+Joshua Ozukum,Nagaland,2023.0,56.01,84.3,70.16,False,False,pure_batter,219.0,10.0,181.0,21.9,120.99,anchor_opener,1.0,1.0,6.0,1.0,8.0,part_time_bowler
+Jyothi Sai Krishna,Andhra,2015.0,32.26,0.0,16.13,False,False,pure_batter,58.0,5.0,72.0,11.6,80.56,middle_order,,,,,,
+Jyotsnil Singh,Baroda,2023.0,65.45,0.0,32.72,False,False,pure_batter,103.0,4.0,87.0,25.75,118.39,aggressive_opener,,,,,,
+K Bhagath Varma,Hyderabad (India),2022.0,35.35,85.3,60.32,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,1.0,1.0,12.0,1.0,5.5,part_time_bowler
+K Bharath Shankar,Tamil Nadu,2017.0,50.14,0.0,25.07,False,False,pure_batter,93.0,7.0,79.0,13.29,117.72,anchor_opener,,,,,,
+K D Patel,Saurashtra,2022.0,49.16,67.86,58.51,False,False,pure_bowler,19.0,4.0,14.0,4.75,135.71,tailender,12.0,17.0,370.0,0.706,9.0,death_bowler
+K Gadhavi,Gujarat,2015.0,7.35,0.0,3.68,False,False,pure_batter,1.0,1.0,5.0,1.0,20.0,anchor_opener,,,,,,
+K Gowtham,Karnataka,2023.0,57.57,80.98,69.28,False,True,bowling_allrounder,229.0,18.0,161.0,12.72,142.24,top_order_aggressor,26.0,26.0,570.0,1.0,7.29,middle_overs_bowler
+K Kartikeya,Madhya Pradesh,2024.0,26.78,87.26,57.02,False,False,pure_bowler,6.0,4.0,8.0,1.5,75.0,tailender,18.0,16.0,336.0,1.125,6.55,middle_overs_bowler
+K Khejroliya,Delhi,2017.0,69.82,94.97,82.4,False,False,pure_bowler,19.0,2.0,10.0,9.5,190.0,tailender,12.0,9.0,210.0,1.333,6.91,death_bowler
+K L Shrijith,Karnataka,2023.0,47.41,0.0,23.7,False,False,pure_batter,104.0,7.0,96.0,14.86,108.33,finisher,,,,,,
+K Lalhmingmawia,Mizoram,2020.0,47.37,38.26,42.82,False,False,pure_batter,4.0,2.0,3.0,2.0,133.33,tailender,0.0,3.0,42.0,0.0,10.29,part_time_bowler
+K Makwana,Saurashtra,2015.0,17.1,77.07,47.08,False,False,pure_bowler,6.0,1.0,14.0,6.0,42.86,tailender,2.0,2.0,30.0,1.0,9.4,part_time_bowler
+K Saiteja,Andhra,2023.0,0.0,123.68,61.84,False,False,pure_bowler,,,,,,,2.0,1.0,18.0,2.0,4.0,part_time_bowler
+K Tewatiya,Nagaland,2023.0,0.0,82.4,41.2,False,False,pure_bowler,,,,,,,2.0,2.0,47.0,1.0,9.45,part_time_bowler
+K Tripathi,Madhya Pradesh,2022.0,0.0,117.5,58.75,False,False,pure_bowler,,,,,,,4.0,2.0,48.0,2.0,6.0,part_time_bowler
+K Upadhyay,Railways,2019.0,34.73,80.06,57.4,False,False,pure_bowler,18.0,4.0,19.0,4.5,94.74,tailender,16.0,17.0,384.0,0.941,7.56,powerplay_bowler
+K V Sasikanth,Andhra,2022.0,46.3,74.91,60.6,False,True,bowling_allrounder,205.0,17.0,178.0,12.06,115.17,tailender,25.0,29.0,590.0,0.862,8.45,powerplay_bowler
+K Vanlalruata,Mizoram,2020.0,22.29,0.0,11.14,False,False,pure_batter,25.0,6.0,42.0,4.17,59.52,middle_order,,,,,,
+KA Vaz,Goa,2018.0,57.45,0.0,28.72,False,False,pure_batter,225.0,11.0,200.0,20.45,112.5,middle_order,,,,,,
+KB Arun Karthik,Kerala,2022.0,54.26,0.0,27.13,False,False,pure_batter,509.0,30.0,431.0,16.97,118.1,anchor_opener,,,,,,
+KB Panchal,Gujarat,2018.0,33.57,0.0,16.78,False,False,pure_batter,10.0,2.0,11.0,5.0,90.91,tailender,,,,,,
+KB Pawan,Mizoram,2021.0,58.38,0.0,29.19,False,False,pure_batter,473.0,20.0,418.0,23.65,113.16,finisher,,,,,,
+KC Cariappa,Karnataka,2023.0,49.18,89.97,69.58,False,False,pure_bowler,43.0,7.0,32.0,6.14,134.38,tailender,31.0,26.0,598.0,1.192,5.69,middle_overs_bowler
+KD Karthik,Tamil Nadu,2020.0,77.51,0.0,38.76,False,False,pure_batter,746.0,23.0,517.0,32.43,144.29,top_order_anchor,,,,,,
+KD Pandey,Puducherry,2022.0,0.0,85.3,42.65,False,False,pure_bowler,,,,,,,1.0,1.0,12.0,1.0,5.5,part_time_bowler
+KH Devdhar,Baroda,2021.0,67.11,0.0,33.56,False,False,pure_batter,1432.0,45.0,1175.0,31.82,121.87,anchor_opener,,,,,,
+KH Pandya,Baroda,2024.0,61.61,74.42,68.02,True,True,batting_allrounder,598.0,28.0,482.0,21.36,124.07,finisher,24.0,29.0,624.0,0.828,7.02,middle_overs_bowler
+KK Acharjee,Tripura,2019.0,30.44,0.0,15.22,False,False,pure_batter,51.0,7.0,64.0,7.29,79.69,middle_order,,,,,,
+KK Ahmed,Rajasthan,2020.0,9.8,95.43,52.62,False,False,pure_bowler,4.0,3.0,15.0,1.33,26.67,tailender,34.0,24.0,520.0,1.417,7.67,death_bowler
+KK Nair,Karnataka,2024.0,68.71,58.35,63.53,False,False,utility_player,1202.0,45.0,830.0,26.71,144.82,top_order_anchor,2.0,6.0,48.0,0.333,5.38,part_time_bowler
+KL Nagarkoti,Rajasthan,2022.0,40.27,93.44,66.86,False,False,pure_bowler,46.0,4.0,56.0,11.5,82.14,tailender,8.0,6.0,115.0,1.333,8.03,death_bowler
+KL Rahul,Karnataka,2019.0,86.94,0.0,43.47,False,False,pure_batter,313.0,8.0,201.0,39.12,155.72,aggressive_opener,,,,,,
+KM Asif,Kerala,2019.0,11.84,81.48,46.66,False,False,pure_bowler,1.0,2.0,3.0,0.5,33.33,tailender,18.0,18.0,343.0,1.0,8.43,death_bowler
+KM Jadhav,Maharashtra,2021.0,67.94,0.0,33.97,False,False,pure_batter,679.0,23.0,518.0,29.52,131.08,top_order_anchor,,,,,,
+KN Luitel,Sikkim,2018.0,0.0,51.0,25.5,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,1.0,4.0,48.0,0.25,10.0,part_time_bowler
+KP Kakad,Railways,2019.0,0.0,38.11,19.06,False,False,unknown,0.0,2.0,4.0,0.0,0.0,tailender,0.0,3.0,18.0,0.0,11.67,part_time_bowler
+KR Kakade,Baroda,2022.0,48.98,68.96,58.97,False,False,pure_bowler,71.0,8.0,59.0,8.88,120.34,tailender,8.0,12.0,161.0,0.667,6.89,middle_overs_bowler
+KR Mahajan,Railways,2015.0,0.0,63.89,31.94,False,False,pure_bowler,,,,,,,1.0,2.0,18.0,0.5,8.33,part_time_bowler
+KR Sen,Madhya Pradesh,2023.0,3.98,70.8,37.39,False,False,pure_bowler,1.0,4.0,9.0,0.25,11.11,tailender,15.0,21.0,422.0,0.714,8.72,death_bowler
+KR Singh,Jharkhand,2021.0,47.34,69.23,58.28,False,False,utility_player,144.0,12.0,124.0,12.0,116.13,middle_order,8.0,11.0,129.0,0.727,8.98,middle_overs_bowler
+KS Bharat,Andhra,2023.0,49.5,0.0,24.75,False,False,pure_batter,524.0,32.0,481.0,16.38,108.94,anchor_opener,,,,,,
+KS Rathore,Rajasthan,2022.0,65.33,0.0,32.66,False,False,pure_batter,40.0,2.0,24.0,20.0,166.67,middle_order,,,,,,
+KS Sharma,Uttar Pradesh,2024.0,58.53,69.9,64.22,False,False,utility_player,320.0,14.0,267.0,22.86,119.85,anchor_opener,2.0,3.0,36.0,0.667,6.17,part_time_bowler
+KV Sharma,Railways,2023.0,58.43,77.86,68.14,True,True,batting_allrounder,530.0,34.0,382.0,15.59,138.74,tailender,33.0,36.0,763.0,0.917,7.16,middle_overs_bowler
+Kaif Ahmad,Bengal,2021.0,59.96,0.0,29.98,False,False,pure_batter,177.0,7.0,162.0,25.29,109.26,middle_order,,,,,,
+Kamal Das,Tripura,2018.0,9.1,71.32,40.21,False,False,pure_bowler,1.0,1.0,4.0,1.0,25.0,tailender,3.0,4.0,66.0,0.75,6.27,middle_overs_bowler
+Kamsha Yangfo,Arunachal Pradesh,2021.0,24.08,0.0,12.04,False,False,pure_batter,94.0,11.0,156.0,8.55,60.26,middle_order,,,,,,
+Kangabam Singh,Manipur,2023.0,33.74,66.61,50.18,False,True,bowling_allrounder,217.0,18.0,290.0,12.06,74.83,middle_order,8.0,13.0,226.0,0.615,8.6,middle_overs_bowler
+Kanishk Seth,Bengal,2024.0,30.37,86.36,58.36,False,False,pure_bowler,24.0,6.0,29.0,4.0,82.76,tailender,16.0,14.0,294.0,1.143,8.55,powerplay_bowler
+Kant Singh,Chhattisgarh,2018.0,35.7,74.18,54.94,False,False,pure_bowler,2.0,1.0,2.0,2.0,100.0,tailender,1.0,1.0,24.0,1.0,12.5,part_time_bowler
+Kanwar Abhinay,Himachal,2019.0,17.68,77.08,47.38,False,False,pure_bowler,1.0,2.0,2.0,0.5,50.0,tailender,18.0,21.0,420.0,0.857,7.6,death_bowler
+Karan Dagar,Delhi,2019.0,0.0,140.63,70.32,False,False,pure_bowler,,,,,,,5.0,2.0,48.0,2.5,3.62,part_time_bowler
+Karan Kaila,Punjab,2019.0,11.84,68.59,40.22,False,False,pure_bowler,1.0,2.0,3.0,0.5,33.33,middle_order,5.0,8.0,150.0,0.625,6.52,powerplay_bowler
+Karan Lal,Bengal,2024.0,46.52,84.29,65.4,False,False,pure_bowler,80.0,6.0,76.0,13.33,105.26,middle_order,4.0,4.0,60.0,1.0,4.9,middle_overs_bowler
+Karan Patel,Gujarat,2021.0,45.26,69.91,57.58,False,False,pure_bowler,56.0,6.0,53.0,9.33,105.66,middle_order,4.0,6.0,90.0,0.667,7.2,middle_overs_bowler
+Karan Shinde,Andhra,2022.0,58.31,0.0,29.16,False,False,pure_batter,149.0,7.0,112.0,21.29,133.04,finisher,,,,,,
+Karan Thakur,Railways,2017.0,0.0,45.47,22.74,False,False,unknown,,,,,,,0.0,2.0,42.0,0.0,7.14,part_time_bowler
+Karanveer Kaushal,Uttarakhand,2020.0,61.46,0.0,30.73,False,False,pure_batter,397.0,16.0,320.0,24.81,124.06,aggressive_opener,,,,,,
+Karanveer Singh,Chandigarh,2019.0,0.0,160.18,80.09,False,False,pure_bowler,,,,,,,3.0,1.0,24.0,3.0,3.75,part_time_bowler
+Karkir Taye,Arunachal Pradesh,2021.0,42.13,41.08,41.6,False,False,pure_batter,15.0,3.0,13.0,5.0,115.38,tailender,0.0,4.0,48.0,0.0,11.62,part_time_bowler
+Karma Bhutia,Sikkim,2019.0,7.06,0.0,3.53,False,False,pure_batter,6.0,3.0,33.0,2.0,18.18,anchor_opener,,,,,,
+Karnajit Yumnam,Manipur,2023.0,30.01,0.0,15.0,False,False,pure_batter,93.0,10.0,137.0,9.3,67.88,anchor_opener,,,,,,
+Karthik Raman,Railways,2019.0,6.01,94.84,50.42,False,False,pure_bowler,1.0,2.0,6.0,0.5,16.67,tailender,9.0,6.0,102.0,1.5,10.71,middle_overs_bowler
+Kartik Tyagi,Uttar Pradesh,2023.0,0.0,63.5,31.75,False,False,pure_bowler,,,,,,,3.0,7.0,109.0,0.429,8.59,middle_overs_bowler
+Kartikeya Kak,Hyderabad (India),2020.0,0.0,114.7,57.35,False,False,pure_bowler,,,,,,,4.0,2.0,42.0,2.0,10.57,part_time_bowler
+Kashyap Bakhale,Goa,2015.0,28.35,0.0,14.18,False,False,pure_batter,12.0,2.0,16.0,6.0,75.0,tailender,,,,,,
+Kaushik Maity,Bengal,2023.0,44.1,46.82,45.46,False,False,pure_batter,21.0,1.0,20.0,21.0,105.0,tailender,0.0,1.0,12.0,0.0,9.0,part_time_bowler
+Kengo Bam,Arunachal Pradesh,2019.0,12.02,56.99,34.51,False,False,pure_bowler,1.0,1.0,3.0,1.0,33.33,tailender,2.0,5.0,68.0,0.4,9.97,middle_overs_bowler
+Keshav Kumar,Bihar,2018.0,55.54,44.32,49.93,False,False,pure_batter,145.0,5.0,152.0,29.0,95.39,top_order_anchor,0.0,1.0,6.0,0.0,10.0,part_time_bowler
+Khawlhring Lalremruata,Mizoram,2021.0,27.59,0.0,13.8,False,False,pure_batter,43.0,6.0,60.0,7.17,71.67,middle_order,,,,,,
+Khizer Dafedar,Mumbai,2017.0,0.0,46.42,23.21,False,False,unknown,0.0,1.0,5.0,0.0,0.0,middle_order,0.0,1.0,12.0,0.0,10.0,part_time_bowler
+Khrievitso Kense,Nagaland,2021.0,18.2,100.11,59.16,False,False,pure_bowler,2.0,1.0,4.0,2.0,50.0,tailender,13.0,9.0,185.0,1.444,5.45,middle_overs_bowler
+Kilco R Marak,Meghalaya,2023.0,19.88,82.99,51.43,False,False,pure_bowler,5.0,4.0,9.0,1.25,55.56,tailender,13.0,12.0,164.0,1.083,8.23,death_bowler
+Kiran Reddy,Nagaland,2018.0,61.42,45.62,53.52,False,False,pure_batter,13.0,1.0,8.0,13.0,162.5,tailender,0.0,2.0,36.0,0.0,8.5,part_time_bowler
+Kishan Lyngdoh,Meghalaya,2021.0,85.26,42.18,63.72,False,False,pure_batter,247.0,5.0,173.0,49.4,142.77,aggressive_opener,0.0,1.0,6.0,0.0,5.0,part_time_bowler
+Kishan Parmar M,Saurashtra,2019.0,52.36,0.0,26.18,False,False,pure_batter,170.0,8.0,159.0,21.25,106.92,anchor_opener,,,,,,
+Kishan Thokchom,Manipur,2021.0,31.42,57.85,44.64,False,False,pure_bowler,27.0,5.0,32.0,5.4,84.38,tailender,3.0,8.0,144.0,0.375,9.88,powerplay_bowler
+Kolla Sumanth,Hyderabad (India),2021.0,41.2,0.0,20.6,False,False,pure_batter,164.0,18.0,151.0,9.11,108.61,middle_order,,,,,,
+Koripalli Sreekanth,Andhra,2015.0,43.14,0.0,21.57,False,False,pure_batter,70.0,4.0,83.0,17.5,84.34,anchor_opener,,,,,,
+Kranthi Kumar,Sikkim,2021.0,24.02,72.32,48.17,False,False,pure_bowler,17.0,3.0,27.0,5.67,62.96,middle_order,3.0,4.0,90.0,0.75,9.13,death_bowler
+Krishan Alang,Punjab,2021.0,0.0,93.79,46.9,False,False,pure_bowler,,,,,,,7.0,5.0,102.0,1.4,7.65,middle_overs_bowler
+Krishna Das,Assam,2018.0,9.1,59.01,34.06,False,False,pure_bowler,4.0,4.0,16.0,1.0,25.0,tailender,3.0,10.0,192.0,0.3,7.03,powerplay_bowler
+Krishnamoorthy Vignesh,Tamil Nadu,2017.0,11.9,93.45,52.68,False,False,pure_bowler,2.0,3.0,6.0,0.67,33.33,tailender,12.0,9.0,188.0,1.333,8.27,powerplay_bowler
+Krishnamurthy Siddharth,Goa,2023.0,98.68,0.0,49.34,False,False,pure_batter,53.0,1.0,37.0,53.0,143.24,top_order_anchor,,,,,,
+Kruthik Hanagavadi,Mumbai,2020.0,0.0,61.48,30.74,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,1.0,2.0,36.0,0.5,9.17,part_time_bowler
+Kshitij Patel,Gujarat,2019.0,53.1,0.0,26.55,False,False,pure_batter,65.0,4.0,57.0,16.25,114.04,middle_order,,,,,,
+Kshitiz Sharma,Arunachal Pradesh,2021.0,63.39,62.96,63.18,False,False,utility_player,232.0,9.0,183.0,25.78,126.78,top_order_anchor,2.0,4.0,66.0,0.5,8.09,middle_overs_bowler
+Kukna Ajay Singh,Rajasthan,2015.0,0.0,78.69,39.34,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,2.0,2.0,42.0,1.0,7.14,part_time_bowler
+Kuldeep Gehi,Madhya Pradesh,2021.0,69.97,0.0,34.98,False,False,pure_batter,113.0,5.0,79.0,22.6,143.04,aggressive_opener,,,,,,
+Kuldeep Yadav,Uttar Pradesh,2019.0,40.98,81.49,61.24,False,False,pure_bowler,24.0,3.0,22.0,8.0,109.09,tailender,20.0,19.0,402.0,1.053,7.1,middle_overs_bowler
+Kumar Deobrat,Jharkhand,2021.0,55.42,0.0,27.71,False,False,pure_batter,474.0,28.0,367.0,16.93,129.16,finisher,,,,,,
+Kumar Kushagra,Jharkhand,2021.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,1.0,0.0,0.0,anchor_opener,,,,,,
+Kumar Nyompu,Arunachal Pradesh,2023.0,25.76,0.0,12.88,False,False,pure_batter,47.0,4.0,76.0,11.75,61.84,anchor_opener,,,,,,
+Kumar Rajnish,Bihar,2021.0,15.64,0.0,7.82,False,False,pure_batter,7.0,2.0,17.0,3.5,41.18,anchor_opener,,,,,,
+Kumar Suraj,Jharkhand,2020.0,26.75,0.0,13.38,False,False,pure_batter,5.0,1.0,7.0,5.0,71.43,middle_order,,,,,,
+Kunal Chandela,Uttarakhand,2022.0,51.39,0.0,25.7,False,False,pure_batter,239.0,13.0,220.0,18.38,108.64,finisher,,,,,,
+Kunal Dabas,Bihar,2019.0,46.89,0.0,23.44,False,False,pure_batter,73.0,3.0,90.0,24.33,81.11,anchor_opener,,,,,,
+Kunal Mahajan,Chandigarh,2021.0,33.91,43.53,38.72,False,False,pure_batter,8.0,1.0,9.0,8.0,88.89,middle_order,0.0,1.0,6.0,0.0,12.0,part_time_bowler
+Kunal Saikia,Assam,2021.0,63.89,0.0,31.94,False,False,pure_batter,21.0,1.0,13.0,21.0,161.54,middle_order,,,,,,
+Kunwar Bidhuri,Delhi,2019.0,61.08,0.0,30.54,False,False,pure_batter,74.0,3.0,61.0,24.67,121.31,aggressive_opener,,,,,,
+L Jhon,Arunachal Pradesh,2023.0,31.03,0.0,15.52,False,False,pure_batter,22.0,1.0,33.0,22.0,66.67,tailender,,,,,,
+L Kishan Singha,Manipur,2023.0,31.96,71.29,51.62,False,False,utility_player,79.0,8.0,97.0,9.88,81.44,tailender,10.0,13.0,248.0,0.769,8.18,middle_overs_bowler
+L Thareja,Delhi,2022.0,71.4,0.0,35.7,False,False,pure_batter,4.0,1.0,2.0,4.0,200.0,tailender,,,,,,
+LI Meriwala,Baroda,2021.0,24.58,100.88,62.73,False,False,pure_bowler,15.0,3.0,23.0,5.0,65.22,tailender,62.0,40.0,830.0,1.55,7.37,death_bowler
+LM Yadav,Vidarbha,2022.0,0.0,81.38,40.69,False,False,pure_bowler,,,,,,,4.0,4.0,83.0,1.0,8.17,death_bowler
+LR Chethan,Karnataka,2022.0,87.75,0.0,43.88,False,False,pure_batter,33.0,1.0,25.0,33.0,132.0,top_order_anchor,,,,,,
+LUVNITH SISODIA,Karnataka,2022.0,66.56,0.0,33.28,False,False,pure_batter,50.0,4.0,32.0,12.5,156.25,aggressive_opener,,,,,,
+Lagnajit Samal,Odisha,2017.0,29.03,40.6,34.82,False,False,pure_batter,17.0,3.0,22.0,5.67,77.27,tailender,0.0,2.0,24.0,0.0,11.5,part_time_bowler
+Lakhan Singh,Services,2021.0,65.86,68.25,67.06,True,True,batting_allrounder,265.0,10.0,208.0,26.5,127.4,anchor_opener,6.0,9.0,114.0,0.667,9.11,middle_overs_bowler
+Lakshay Garg,Goa,2022.0,44.75,73.11,58.93,False,True,bowling_allrounder,171.0,23.0,142.0,7.43,120.42,tailender,26.0,33.0,671.0,0.788,8.37,powerplay_bowler
+Lalchhuanliana,Mizoram,2020.0,31.58,0.0,15.79,False,False,pure_batter,29.0,3.0,36.0,9.67,80.56,middle_order,,,,,,
+Lalfakzuala Renthlei,Mizoram,2019.0,0.0,39.68,19.84,False,False,unknown,0.0,1.0,4.0,0.0,0.0,tailender,0.0,3.0,16.0,0.0,8.62,part_time_bowler
+Lalhma Chhuana,Mizoram,2020.0,11.55,0.0,5.78,False,False,pure_batter,3.0,1.0,10.0,3.0,30.0,middle_order,,,,,,
+Lalhmangaiha,Mizoram,2022.0,30.55,57.13,43.84,False,False,utility_player,240.0,20.0,338.0,12.0,71.01,anchor_opener,3.0,7.0,85.0,0.429,9.39,middle_overs_bowler
+Lalhriatrenga,Mizoram,2023.0,18.51,0.0,9.26,False,False,pure_batter,17.0,3.0,36.0,5.67,47.22,tailender,,,,,,
+Lalhruai Ralte,Mizoram,2023.0,23.49,65.37,44.43,False,False,utility_player,52.0,14.0,82.0,3.71,63.41,tailender,13.0,22.0,384.0,0.591,9.78,powerplay_bowler
+Lalhruaizela,Mizoram,2023.0,23.86,73.54,48.7,False,True,bowling_allrounder,207.0,24.0,370.0,8.62,55.95,middle_order,5.0,6.0,72.0,0.833,8.17,middle_overs_bowler
+Lalit Yadav,Delhi,2023.0,68.29,71.14,69.72,True,True,batting_allrounder,529.0,27.0,345.0,19.59,153.33,lower_order_hitter,25.0,35.0,667.0,0.714,6.8,middle_overs_bowler
+Lalith Mohan,Andhra,2023.0,0.0,69.3,34.65,False,False,pure_bowler,,,,,,,4.0,6.0,138.0,0.667,7.74,middle_overs_bowler
+Lalnunkima Varte,Mizoram,2020.0,15.03,65.24,40.14,False,False,pure_bowler,7.0,4.0,17.0,1.75,41.18,tailender,6.0,11.0,198.0,0.545,9.21,powerplay_bowler
+Lalrempuia,Mizoram,2018.0,53.55,42.04,47.8,False,False,pure_batter,6.0,2.0,4.0,3.0,150.0,tailender,0.0,3.0,35.0,0.0,10.97,part_time_bowler
+Lamabam Singh,Manipur,2020.0,21.52,66.94,44.23,False,False,pure_bowler,6.0,4.0,10.0,1.5,60.0,tailender,10.0,15.0,259.0,0.667,8.39,middle_overs_bowler
+Langlonyamba Meitan Keishangbam,Manipur,2023.0,42.91,57.95,50.43,False,False,pure_batter,176.0,10.0,222.0,17.6,79.28,middle_order,1.0,3.0,19.0,0.333,7.26,part_time_bowler
+Larry Sangma,Meghalaya,2023.0,28.32,49.7,39.01,False,False,pure_batter,77.0,8.0,108.0,9.62,71.3,middle_order,0.0,1.0,6.0,0.0,7.0,part_time_bowler
+Lavin Coster,Chhattisgarh,2022.0,73.03,0.0,36.52,False,False,pure_batter,26.0,3.0,13.0,8.67,200.0,tailender,,,,,,
+Lee Yong Lepcha,Sikkim,2021.0,13.77,45.0,29.38,False,False,pure_bowler,37.0,12.0,102.0,3.08,36.27,middle_order,1.0,9.0,93.0,0.111,10.65,middle_overs_bowler
+Lekhaz Reddy,Andhra,2021.0,66.66,0.0,33.33,False,False,pure_batter,38.0,4.0,21.0,9.5,180.95,middle_order,,,,,,
+Licha Tehi,Arunachal Pradesh,2019.0,62.47,52.64,57.56,False,False,pure_bowler,7.0,2.0,4.0,3.5,175.0,tailender,2.0,10.0,186.0,0.2,8.39,powerplay_bowler
+Liyan Khan,Sikkim,2021.0,53.76,0.0,26.88,False,False,pure_batter,113.0,4.0,137.0,28.25,82.48,anchor_opener,,,,,,
+Logesh Prabagaran,Puducherry,2021.0,0.0,43.53,21.76,False,False,unknown,0.0,1.0,4.0,0.0,0.0,middle_order,0.0,1.0,6.0,0.0,12.0,part_time_bowler
+Lone Nasir Muzaffar,Jammu & Kashmir,2023.0,27.3,81.38,54.34,False,False,pure_bowler,3.0,1.0,4.0,3.0,75.0,middle_order,2.0,2.0,30.0,1.0,7.0,part_time_bowler
+M Abin Mathew,Puducherry,2022.0,0.0,77.05,38.52,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,10.5,part_time_bowler
+M Ahmed,Railways,2019.0,54.65,0.0,27.32,False,False,pure_batter,95.0,6.0,85.0,15.83,111.76,middle_order,,,,,,
+M Ashwin,Tamil Nadu,2021.0,26.68,86.77,56.72,False,False,pure_bowler,42.0,11.0,58.0,3.82,72.41,tailender,44.0,38.0,783.0,1.158,6.9,middle_overs_bowler
+M Dheeraj Kumar,Andhra,2023.0,51.83,0.0,25.92,False,False,pure_batter,60.0,7.0,43.0,8.57,139.53,middle_order,,,,,,
+M Manhas,Jammu & Kashmir,2015.0,52.07,0.0,26.04,False,False,pure_batter,97.0,6.0,82.0,16.17,118.29,middle_order,,,,,,
+M Markande,Punjab,2023.0,48.01,80.84,64.42,False,False,pure_bowler,55.0,8.0,46.0,6.88,119.57,tailender,35.0,35.0,704.0,1.0,7.53,middle_overs_bowler
+M Mohammed,Tamil Nadu,2021.0,65.14,74.86,70.0,False,False,utility_player,110.0,17.0,63.0,6.47,174.6,lower_order_hitter,27.0,31.0,498.0,0.871,7.75,death_bowler
+M Pranith,Andhra,2018.0,116.45,0.0,58.22,False,False,pure_batter,114.0,2.0,60.0,57.0,190.0,aggressive_opener,,,,,,
+M Prasidh Krishna,Karnataka,2020.0,7.35,80.13,43.74,False,False,pure_bowler,1.0,1.0,5.0,1.0,20.0,tailender,19.0,21.0,435.0,0.905,7.61,powerplay_bowler
+M Rawat,Railways,2017.0,73.15,0.0,36.58,False,False,pure_batter,248.0,7.0,199.0,35.43,124.62,top_order_anchor,,,,,,
+M Shahrukh Khan,Tamil Nadu,2023.0,59.63,39.98,49.8,False,False,pure_batter,379.0,24.0,257.0,15.79,147.47,finisher,0.0,1.0,12.0,0.0,10.5,part_time_bowler
+M Siddharth,Tamil Nadu,2019.0,17.85,158.57,88.21,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,15.0,5.0,108.0,3.0,4.83,middle_overs_bowler
+M Vijay,Tamil Nadu,2019.0,84.3,51.3,67.8,False,False,pure_batter,388.0,9.0,276.0,43.11,140.58,aggressive_opener,0.0,1.0,6.0,0.0,3.0,part_time_bowler
+M Vohra,Punjab,2024.0,71.59,0.0,35.8,False,False,pure_batter,1010.0,30.0,772.0,33.67,130.83,aggressive_opener,,,,,,
+MA Agarwal,Karnataka,2023.0,59.51,0.0,29.76,False,False,pure_batter,804.0,35.0,631.0,22.97,127.42,aggressive_opener,,,,,,
+MA Sharma,Himachal,2020.0,7.7,0.0,3.85,False,False,pure_batter,2.0,1.0,10.0,2.0,20.0,anchor_opener,,,,,,
+MB Darshan,Karnataka,2021.0,0.0,96.9,48.45,False,False,pure_bowler,,,,,,,6.0,4.0,84.0,1.5,9.07,death_bowler
+MC Juneja,Gujarat,2020.0,65.7,0.0,32.85,False,False,pure_batter,214.0,9.0,170.0,23.78,125.88,middle_order,,,,,,
+MD Ingale,Maharashtra,2020.0,81.9,79.93,80.92,False,False,pure_bowler,18.0,2.0,8.0,9.0,225.0,tailender,6.0,6.0,108.0,1.0,9.11,powerplay_bowler
+MD Nidheesh,Kerala,2019.0,71.05,82.5,76.78,False,False,pure_bowler,6.0,2.0,3.0,3.0,200.0,tailender,10.0,10.0,198.0,1.0,7.76,powerplay_bowler
+MD Rahmatullah,Bihar,2020.0,59.56,0.0,29.78,False,False,pure_batter,261.0,13.0,211.0,20.08,123.7,middle_order,,,,,,
+MG Sirur,Goa,2020.0,49.82,95.92,72.87,False,False,pure_bowler,72.0,8.0,54.0,9.0,133.33,tailender,13.0,9.0,190.0,1.444,7.61,middle_overs_bowler
+MJ Suthar,Rajasthan,2022.0,0.0,40.98,20.49,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,8.0,part_time_bowler
+MK Lomror,Rajasthan,2022.0,62.68,51.67,57.18,False,False,utility_player,814.0,31.0,665.0,26.26,122.41,top_order_anchor,3.0,16.0,170.0,0.188,7.16,middle_overs_bowler
+MK Mahale,Vidarbha,2024.0,95.55,36.2,65.88,False,False,pure_batter,13.0,1.0,5.0,13.0,260.0,tailender,0.0,1.0,18.0,0.0,13.0,part_time_bowler
+MK Pandey,Karnataka,2023.0,70.11,0.0,35.06,False,False,pure_batter,1000.0,33.0,734.0,30.3,136.24,top_order_anchor,,,,,,
+MK Tiwary,Bengal,2020.0,55.51,70.05,62.78,False,True,bowling_allrounder,506.0,27.0,442.0,18.74,114.48,middle_order,13.0,17.0,265.0,0.765,8.06,middle_overs_bowler
+MM Patel,Baroda,2015.0,0.0,61.84,30.92,False,False,pure_bowler,,,,,,,3.0,8.0,174.0,0.375,6.21,powerplay_bowler
+MM Sharma,Haryana,2021.0,16.25,66.68,41.46,False,False,pure_bowler,4.0,2.0,9.0,2.0,44.44,tailender,7.0,13.0,276.0,0.538,7.76,death_bowler
+MN Singh,Rajasthan,2020.0,46.18,40.98,43.58,False,False,pure_batter,218.0,17.0,200.0,12.82,109.0,anchor_opener,0.0,1.0,6.0,0.0,8.0,part_time_bowler
+MP Yadav,Delhi,2023.0,0.0,79.76,39.88,False,False,pure_bowler,,,,,,,3.0,3.0,54.0,1.0,7.78,part_time_bowler
+MR Raut,Railways,2022.0,36.79,62.24,49.52,False,False,pure_bowler,44.0,6.0,45.0,7.33,97.78,middle_order,3.0,5.0,54.0,0.6,10.78,part_time_bowler
+MR Shylla,Meghalaya,2023.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,2.0,0.0,0.0,middle_order,,,,,,
+MS Akhil,Kerala,2021.0,81.9,75.42,78.66,False,False,pure_bowler,9.0,1.0,4.0,9.0,225.0,middle_order,3.0,3.0,48.0,1.0,9.38,part_time_bowler
+MS Bhandage,Karnataka,2023.0,55.37,70.85,63.11,True,False,batting_allrounder,91.0,5.0,65.0,18.2,140.0,finisher,7.0,9.0,108.0,0.778,9.44,middle_overs_bowler
+MS Gony,Punjab,2018.0,53.1,87.19,70.14,False,False,pure_bowler,84.0,9.0,59.0,9.33,142.37,tailender,13.0,12.0,241.0,1.083,7.42,powerplay_bowler
+MS Hooda,Haryana,2015.0,61.01,0.0,30.5,False,False,pure_batter,142.0,4.0,148.0,35.5,95.95,top_order_anchor,,,,,,
+MS Redkar,Goa,2023.0,35.35,116.38,75.86,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,4.0,2.0,48.0,2.0,7.5,part_time_bowler
+MSR Charan,Hyderabad (India),2022.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,2.0,0.0,0.0,middle_order,,,,,,
+MSS Hussain,Chhattisgarh,2020.0,54.6,0.0,27.3,False,False,pure_batter,6.0,1.0,4.0,6.0,150.0,tailender,,,,,,
+MV Pithiya,Baroda,2024.0,107.1,46.03,76.56,False,False,pure_batter,12.0,2.0,4.0,6.0,300.0,tailender,0.0,3.0,24.0,0.0,5.75,part_time_bowler
+Madhav Avsh,Arunachal Pradesh,2018.0,8.48,33.6,21.04,False,False,pure_batter,2.0,1.0,9.0,2.0,22.22,middle_order,0.0,1.0,6.0,0.0,16.0,part_time_bowler
+Madhav Kaushik,Uttar Pradesh,2021.0,43.68,0.0,21.84,False,False,pure_batter,67.0,4.0,62.0,16.75,108.06,anchor_opener,,,,,,
+Malay Raj,Bihar,2022.0,0.0,100.13,50.06,False,False,pure_bowler,,,,,,,3.0,2.0,36.0,1.5,8.67,part_time_bowler
+Manan Sharma,Delhi,2015.0,49.61,91.39,70.5,False,False,pure_bowler,21.0,2.0,16.0,10.5,131.25,tailender,9.0,7.0,150.0,1.286,8.24,powerplay_bowler
+Mandeep Singh,Punjab,2023.0,75.1,54.96,65.03,False,False,utility_player,1124.0,37.0,776.0,30.38,144.85,top_order_anchor,4.0,13.0,135.0,0.308,7.6,death_bowler
+Mandup Bhutia,Sikkim,2021.0,26.12,51.17,38.65,False,False,pure_bowler,40.0,9.0,57.0,4.44,70.18,tailender,1.0,6.0,90.0,0.167,8.93,middle_overs_bowler
+Mangal Mahrour,Bihar,2022.0,50.46,53.06,51.76,False,False,pure_batter,342.0,17.0,346.0,20.12,98.84,anchor_opener,1.0,3.0,24.0,0.333,9.5,part_time_bowler
+Manik Beri,Uttar Pradesh,2021.0,39.0,0.0,19.5,False,False,pure_batter,17.0,1.0,18.0,17.0,94.44,middle_order,,,,,,
+Manik Gupta,Jammu & Kashmir,2017.0,42.52,81.92,62.22,False,False,pure_bowler,9.0,1.0,8.0,9.0,112.5,tailender,2.0,2.0,36.0,1.0,7.0,part_time_bowler
+Manisankar Murasingh,Tripura,2023.0,59.8,73.67,66.74,True,True,batting_allrounder,535.0,32.0,373.0,16.72,143.43,finisher,27.0,37.0,727.0,0.73,7.44,powerplay_bowler
+Manish Dogra,Jammu & Kashmir,2015.0,12.02,0.0,6.01,False,False,pure_batter,1.0,1.0,3.0,1.0,33.33,middle_order,,,,,,
+Manish Golamaru,Andhra,2022.0,30.48,78.87,54.68,False,False,pure_bowler,30.0,5.0,37.0,6.0,81.08,tailender,9.0,10.0,216.0,0.9,6.19,middle_overs_bowler
+Manish Sharma,Gujarat,2018.0,0.0,99.34,49.67,False,False,pure_bowler,,,,,,,3.0,2.0,42.0,1.5,6.71,part_time_bowler
+Manjeet Singh,Railways,2018.0,54.08,90.95,72.52,False,False,pure_bowler,9.0,2.0,6.0,4.5,150.0,tailender,5.0,4.0,85.0,1.25,7.76,middle_overs_bowler
+Manjinder Singh,Nagaland,2018.0,27.23,67.65,47.44,False,False,pure_bowler,27.0,2.0,42.0,13.5,64.29,middle_order,1.0,2.0,24.0,0.5,8.5,part_time_bowler
+Manjot Kalra,Delhi,2018.0,34.78,0.0,17.39,False,False,pure_batter,13.0,2.0,14.0,6.5,92.86,anchor_opener,,,,,,
+Manogaran Pooviarasan,Puducherry,2021.0,0.0,40.62,20.31,False,False,unknown,0.0,1.0,1.0,0.0,0.0,tailender,0.0,1.0,18.0,0.0,12.33,part_time_bowler
+Manoj Barik,Odisha,2015.0,0.0,54.5,27.25,False,False,pure_bowler,,,,,,,1.0,3.0,48.0,0.333,8.5,part_time_bowler
+Manoj Singh,Chhattisgarh,2017.0,60.5,0.0,30.25,False,False,pure_batter,79.0,4.0,60.0,19.75,131.67,middle_order,,,,,,
+Manvan Patel,Arunachal Pradesh,2021.0,50.88,74.01,62.45,False,False,pure_bowler,10.0,4.0,7.0,2.5,142.86,tailender,6.0,7.0,132.0,0.857,8.91,powerplay_bowler
+Manzoor Dar,Jammu & Kashmir,2019.0,55.42,54.32,54.87,False,False,utility_player,146.0,11.0,120.0,13.27,121.67,tailender,2.0,6.0,41.0,0.333,10.1,part_time_bowler
+Marimuthu Vikneshwaran,Puducherry,2022.0,36.32,59.95,48.14,False,False,pure_batter,161.0,21.0,175.0,7.67,92.0,middle_order,2.0,4.0,25.0,0.5,8.88,part_time_bowler
+Mark Ingty,Meghalaya,2019.0,65.09,46.12,55.6,False,False,pure_batter,58.0,3.0,42.0,19.33,138.1,finisher,0.0,2.0,18.0,0.0,9.0,part_time_bowler
+Mayank Dagar,Himachal,2022.0,27.45,83.85,55.65,False,False,pure_bowler,53.0,11.0,72.0,4.82,73.61,tailender,31.0,30.0,641.0,1.033,5.88,middle_overs_bowler
+Mayank Mishra,Uttarakhand,2022.0,23.36,86.62,54.99,False,False,pure_bowler,34.0,9.0,54.0,3.78,62.96,tailender,18.0,16.0,317.0,1.125,7.14,middle_overs_bowler
+Mayank Raghav,Manipur,2018.0,87.74,50.93,69.33,False,False,pure_batter,301.0,6.0,210.0,50.17,143.33,aggressive_opener,1.0,3.0,48.0,0.333,12.25,part_time_bowler
+Mayank Rawat,Delhi,2024.0,48.4,44.72,46.56,False,False,pure_batter,24.0,1.0,21.0,24.0,114.29,middle_order,0.0,1.0,6.0,0.0,9.0,part_time_bowler
+Mayank Sidhana,Punjab,2015.0,36.02,0.0,18.01,False,False,pure_batter,39.0,5.0,41.0,7.8,95.12,middle_order,,,,,,
+Md Nazim,Uttarakhand,2021.0,24.03,44.32,34.17,False,False,pure_batter,2.0,1.0,3.0,2.0,66.67,tailender,0.0,1.0,6.0,0.0,10.0,part_time_bowler
+Md Saptula,Sikkim,2021.0,17.97,53.04,35.5,False,False,pure_bowler,4.0,3.0,8.0,1.33,50.0,tailender,1.0,5.0,90.0,0.2,6.4,powerplay_bowler
+Mehdi Hassan,Hyderabad (India),2021.0,26.26,81.28,53.77,False,False,pure_bowler,21.0,8.0,29.0,2.62,72.41,tailender,19.0,19.0,424.0,1.0,7.3,middle_overs_bowler
+Merenka Jamir,Nagaland,2022.0,0.0,32.4,16.2,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,19.0,part_time_bowler
+Mickil Jaiswal,Hyderabad (India),2022.0,75.37,65.73,70.55,False,False,pure_bowler,63.0,3.0,38.0,21.0,165.79,finisher,1.0,2.0,12.0,0.5,5.5,part_time_bowler
+Mihir Hirwani,Madhya Pradesh,2021.0,30.17,72.0,51.08,False,False,pure_bowler,24.0,7.0,29.0,3.43,82.76,tailender,17.0,22.0,419.0,0.773,7.2,middle_overs_bowler
+Milind Kumar,Tripura,2020.0,60.78,56.85,58.82,False,False,utility_player,681.0,26.0,578.0,26.19,117.82,finisher,2.0,5.0,48.0,0.4,8.5,part_time_bowler
+Mitesh Patel,Baroda,2022.0,54.15,0.0,27.08,False,False,pure_batter,152.0,8.0,133.0,19.0,114.29,anchor_opener,,,,,,
+Moakumzuk Tzudir,Nagaland,2023.0,11.78,43.53,27.66,False,False,pure_batter,1.0,3.0,3.0,0.33,33.33,tailender,0.0,1.0,6.0,0.0,12.0,part_time_bowler
+Mohammad Ronak,Sikkim,2020.0,0.0,31.6,15.8,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,21.0,part_time_bowler
+Mohammad Saif,Railways,2023.0,36.99,66.2,51.6,False,False,pure_bowler,53.0,5.0,68.0,10.6,77.94,middle_order,1.0,2.0,25.0,0.5,5.76,part_time_bowler
+Mohammed Azharuddeen,Kerala,2022.0,50.94,0.0,25.47,False,False,pure_batter,436.0,27.0,384.0,16.15,113.54,anchor_opener,,,,,,
+Mohammed Mudhasir,Jammu & Kashmir,2017.0,28.66,84.56,56.61,False,False,pure_bowler,19.0,7.0,24.0,2.71,79.17,tailender,10.0,10.0,194.0,1.0,7.67,powerplay_bowler
+Mohammed Shami,Bengal,2024.0,71.46,118.36,94.91,False,False,pure_bowler,36.0,3.0,22.0,12.0,163.64,tailender,8.0,4.0,86.0,2.0,8.16,death_bowler
+Mohammed Siraj,Hyderabad (India),2019.0,21.68,105.13,63.4,False,False,pure_bowler,16.0,6.0,27.0,2.67,59.26,tailender,38.0,23.0,520.0,1.652,7.67,death_bowler
+Mohammed Taha,Karnataka,2015.0,61.62,0.0,30.81,False,False,pure_batter,86.0,4.0,77.0,21.5,111.69,anchor_opener,,,,,,
+Mohd Israr,Uttar Pradesh,2017.0,0.0,123.68,61.84,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,2.0,1.0,18.0,2.0,4.0,part_time_bowler
+Mohit Ahlawat,Services,2021.0,37.92,0.0,18.96,False,False,pure_batter,27.0,6.0,26.0,4.5,103.85,middle_order,,,,,,
+Mohit Avasthi,Mumbai,2024.0,0.0,95.77,47.88,False,False,pure_bowler,,,,,,,18.0,13.0,288.0,1.385,7.83,death_bowler
+Mohit Jain,Rajasthan,2021.0,0.0,192.05,96.02,False,False,pure_bowler,,,,,,,4.0,1.0,24.0,4.0,3.75,part_time_bowler
+Mohit Jangra,Mizoram,2023.0,41.33,70.15,55.74,False,False,pure_bowler,39.0,4.0,36.0,9.75,108.33,middle_order,4.0,6.0,126.0,0.667,7.81,powerplay_bowler
+Mohit Kumar,Services,2020.0,64.26,101.62,82.94,False,False,pure_bowler,18.0,5.0,10.0,3.6,180.0,tailender,22.0,14.0,319.0,1.571,7.54,death_bowler
+Mohit Mittan,Puducherry,2022.0,45.68,0.0,22.84,False,False,pure_batter,54.0,3.0,48.0,18.0,112.5,middle_order,,,,,,
+Mohit Mongia,Baroda,2018.0,43.98,80.73,62.36,False,False,pure_bowler,29.0,3.0,25.0,9.67,116.0,anchor_opener,1.0,1.0,12.0,1.0,6.5,part_time_bowler
+Mohsin Khan,Uttar Pradesh,2024.0,50.49,95.52,73.0,False,False,pure_bowler,70.0,10.0,51.0,7.0,137.25,tailender,34.0,25.0,516.0,1.36,7.21,powerplay_bowler
+Mohsin Khan (2),Uttar Pradesh,2023.0,0.0,116.2,58.1,False,False,pure_bowler,,,,,,,4.0,2.0,48.0,2.0,6.62,part_time_bowler
+Monu Kumar,Jharkhand,2021.0,55.81,96.29,76.05,False,False,pure_bowler,37.0,7.0,24.0,5.29,154.17,tailender,26.0,19.0,413.0,1.368,7.1,death_bowler
+Mrinmoy Dutta,Assam,2023.0,18.2,81.68,49.94,False,False,pure_bowler,6.0,3.0,12.0,2.0,50.0,tailender,14.0,14.0,262.0,1.0,8.36,powerplay_bowler
+Mrunal Devdhar,Railways,2021.0,59.81,0.0,29.9,False,False,pure_batter,766.0,34.0,622.0,22.53,123.15,aggressive_opener,,,,,,
+Mughavi Wotsa,Nagaland,2019.0,21.14,43.82,32.48,False,False,pure_batter,25.0,3.0,48.0,8.33,52.08,anchor_opener,0.0,3.0,30.0,0.0,9.2,part_time_bowler
+Mujtaba Yousuf,Jammu & Kashmir,2018.0,0.0,76.31,38.16,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,9.0,11.0,228.0,0.818,7.92,powerplay_bowler
+Mukesh Choudhary,Maharashtra,2020.0,47.75,98.23,72.99,False,False,pure_bowler,17.0,3.0,13.0,5.67,130.77,tailender,16.0,11.0,241.0,1.455,8.74,death_bowler
+Mukesh Kumar,Bengal,2020.0,17.85,86.68,52.26,False,False,pure_bowler,4.0,4.0,8.0,1.0,50.0,tailender,19.0,17.0,380.0,1.118,7.75,powerplay_bowler
+Mukhtar Hussain,Assam,2023.0,68.95,87.83,78.39,False,False,pure_bowler,54.0,5.0,29.0,10.8,186.21,tailender,22.0,19.0,384.0,1.158,8.12,powerplay_bowler
+Myendung Singpho,Arunachal Pradesh,2021.0,17.85,67.27,42.56,False,False,pure_bowler,6.0,6.0,12.0,1.0,50.0,middle_order,5.0,7.0,86.0,0.714,9.56,middle_overs_bowler
+N A Sharma,Himachal,2022.0,52.1,0.0,26.05,False,False,pure_batter,211.0,15.0,171.0,14.07,123.39,tailender,,,,,,
+N Jagadeesan,Tamil Nadu,2023.0,59.03,0.0,29.52,False,False,pure_batter,795.0,32.0,664.0,24.84,119.73,anchor_opener,,,,,,
+N Joshi,Arunachal Pradesh,2023.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,4.0,0.0,0.0,tailender,,,,,,
+N Kushwah,Railways,2023.0,0.0,0.0,0.0,False,False,unknown,0.0,2.0,5.0,0.0,0.0,middle_order,,,,,,
+N Rana,Delhi,2024.0,73.84,75.09,74.46,True,True,batting_allrounder,1376.0,46.0,957.0,29.91,143.78,top_order_anchor,23.0,28.0,409.0,0.821,6.43,death_bowler
+N Saini,Haryana,2018.0,59.93,0.0,29.96,False,False,pure_batter,255.0,9.0,223.0,28.33,114.35,top_order_anchor,,,,,,
+N Sindhu,Haryana,2023.0,68.92,73.74,71.33,False,False,pure_batter,108.0,4.0,85.0,27.0,127.06,top_order_anchor,2.0,3.0,24.0,0.667,5.25,part_time_bowler
+N Wadhera,Punjab,2023.0,82.91,0.0,41.46,False,False,pure_batter,128.0,4.0,79.0,32.0,162.03,finisher,,,,,,
+NA Rathva,Baroda,2023.0,53.31,81.63,67.47,True,True,batting_allrounder,276.0,18.0,225.0,15.33,122.67,aggressive_opener,27.0,27.0,420.0,1.0,6.81,middle_overs_bowler
+NB Singh,Rajasthan,2015.0,11.84,135.9,73.87,False,False,pure_bowler,1.0,2.0,3.0,0.5,33.33,tailender,17.0,7.0,156.0,2.429,5.23,death_bowler
+NK Singh,Services,2020.0,30.61,0.0,15.3,False,False,pure_batter,26.0,3.0,33.0,8.67,78.79,anchor_opener,,,,,,
+NN Bhute,Vidarbha,2020.0,45.5,43.02,44.26,False,False,pure_batter,10.0,2.0,8.0,5.0,125.0,tailender,0.0,2.0,30.0,0.0,11.2,part_time_bowler
+NN Sen,Tripura,2018.0,41.81,0.0,20.9,False,False,pure_batter,65.0,7.0,59.0,9.29,110.17,tailender,,,,,,
+NN Sen Chowdhary,Tripura,2023.0,38.76,48.96,43.86,False,False,pure_batter,170.0,12.0,190.0,14.17,89.47,middle_order,1.0,4.0,35.0,0.25,8.4,part_time_bowler
+NR Dhumal,Maharashtra,2019.0,0.0,48.77,24.38,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,9.33,part_time_bowler
+NR Narah,Assam,2022.0,41.87,0.0,20.94,False,False,pure_batter,16.0,3.0,14.0,5.33,114.29,middle_order,,,,,,
+NS Chaturved,Tamil Nadu,2018.0,48.98,0.0,24.49,False,False,pure_batter,79.0,4.0,80.0,19.75,98.75,anchor_opener,,,,,,
+NS Naik,Maharashtra,2020.0,59.27,0.0,29.64,False,False,pure_batter,487.0,26.0,363.0,18.73,134.16,middle_order,,,,,,
+NS Rathour,Uttarakhand,2022.0,27.3,0.0,13.65,False,False,pure_batter,3.0,1.0,4.0,3.0,75.0,middle_order,,,,,,
+NS Sharma,Chandigarh,2024.0,52.99,81.78,67.39,False,False,pure_bowler,22.0,1.0,17.0,22.0,129.41,tailender,1.0,1.0,24.0,1.0,6.5,part_time_bowler
+NV Ojha,Madhya Pradesh,2019.0,57.0,0.0,28.5,False,False,pure_batter,443.0,21.0,365.0,21.1,121.37,anchor_opener,,,,,,
+Nabam Tatang,Arunachal Pradesh,2020.0,24.73,0.0,12.36,False,False,pure_batter,4.0,1.0,6.0,4.0,66.67,middle_order,,,,,,
+Nabam Tempol,Arunachal Pradesh,2020.0,17.85,52.98,35.42,False,False,pure_bowler,2.0,2.0,4.0,1.0,50.0,tailender,1.0,4.0,54.0,0.25,9.11,part_time_bowler
+Nagaho Chishi,Nagaland,2022.0,13.57,65.58,39.58,False,False,pure_bowler,13.0,8.0,35.0,1.62,37.14,tailender,8.0,15.0,227.0,0.533,7.43,powerplay_bowler
+Nakul Sharma,Services,2020.0,55.35,0.0,27.68,False,False,pure_batter,160.0,11.0,125.0,14.55,128.0,middle_order,,,,,,
+Nakul Verma,Services,2023.0,52.14,0.0,26.07,False,False,pure_batter,495.0,24.0,463.0,20.62,106.91,anchor_opener,,,,,,
+Nalin Mishra,Uttar Pradesh,2021.0,32.88,0.0,16.44,False,False,pure_batter,15.0,1.0,19.0,15.0,78.95,anchor_opener,,,,,,
+Naman Dhir,Punjab,2023.0,52.16,0.0,26.08,False,False,pure_batter,39.0,4.0,28.0,9.75,139.29,middle_order,,,,,,
+Naren Reddy,Andhra,2020.0,71.2,69.61,70.4,False,False,pure_bowler,88.0,4.0,55.0,22.0,160.0,finisher,4.0,6.0,83.0,0.667,6.14,middle_overs_bowler
+Narsingh Yadav,Manipur,2021.0,35.16,0.0,17.58,False,False,pure_batter,168.0,16.0,212.0,10.5,79.25,anchor_opener,,,,,,
+Naushad Shaikh,Maharashtra,2021.0,60.4,69.03,64.72,True,True,batting_allrounder,732.0,32.0,609.0,22.88,120.2,finisher,9.0,14.0,191.0,0.643,5.94,middle_overs_bowler
+Navdeep Saini,Delhi,2022.0,21.22,72.96,47.09,False,False,pure_bowler,11.0,4.0,19.0,2.75,57.89,tailender,19.0,27.0,585.0,0.704,6.9,powerplay_bowler
+Navneet Virk,Railways,2020.0,25.24,0.0,12.62,False,False,pure_batter,11.0,1.0,18.0,11.0,61.11,middle_order,,,,,,
+Nawazul Munier,Jammu & Kashmir,2020.0,21.2,0.0,10.6,False,False,pure_batter,5.0,1.0,9.0,5.0,55.56,tailender,,,,,,
+Nazeeb Saiyed,Arunachal Pradesh,2021.0,43.66,65.17,54.42,False,False,utility_player,101.0,7.0,103.0,14.43,98.06,middle_order,2.0,4.0,71.0,0.5,7.27,powerplay_bowler
+Nazim Siddiqui,Jharkhand,2019.0,23.37,0.0,11.68,False,False,pure_batter,23.0,5.0,37.0,4.6,62.16,anchor_opener,,,,,,
+Neelam Obi,Arunachal Pradesh,2023.0,22.7,0.0,11.35,False,False,pure_batter,96.0,11.0,171.0,8.73,56.14,anchor_opener,,,,,,
+Neelambuj Vats,Tripura,2019.0,24.89,42.58,33.74,False,False,pure_batter,31.0,3.0,51.0,10.33,60.78,tailender,0.0,3.0,31.0,0.0,9.68,part_time_bowler
+Neetesh Sharma,Meghalaya,2018.0,7.06,60.42,33.74,False,False,pure_bowler,2.0,1.0,11.0,2.0,18.18,middle_order,1.0,2.0,12.0,0.5,13.5,part_time_bowler
+Ngangom Rajesh Singh,Manipur,2018.0,37.33,0.0,18.66,False,False,pure_batter,22.0,2.0,23.0,11.0,95.65,middle_order,,,,,,
+Nihal Surlaker,Goa,2021.0,23.62,39.38,31.5,False,False,pure_batter,5.0,1.0,8.0,5.0,62.5,tailender,0.0,1.0,12.0,0.0,12.0,part_time_bowler
+Nikhil Chaudhary,Punjab,2019.0,58.39,58.02,58.2,False,False,pure_bowler,48.0,4.0,31.0,12.0,154.84,finisher,2.0,5.0,84.0,0.4,8.57,middle_overs_bowler
+Nikhil Gangta,Himachal,2022.0,64.83,49.12,56.97,False,False,pure_batter,370.0,15.0,293.0,24.67,126.28,middle_order,1.0,5.0,42.0,0.2,9.57,part_time_bowler
+Nikhil Kohli,Uttarakhand,2021.0,7.18,69.49,38.33,False,False,pure_bowler,1.0,2.0,5.0,0.5,20.0,tailender,4.0,6.0,112.0,0.667,9.21,death_bowler
+Nikhilesh Surendran,Kerala,2015.0,55.76,0.0,27.88,False,False,pure_batter,57.0,3.0,51.0,19.0,111.76,anchor_opener,,,,,,
+Nilesh Lamichaney,Sikkim,2021.0,25.76,0.0,12.88,False,False,pure_batter,96.0,11.0,148.0,8.73,64.86,anchor_opener,,,,,,
+Ninad Kadam,Tripura,2018.0,46.39,0.0,23.2,False,False,pure_batter,67.0,4.0,71.0,16.75,94.37,tailender,,,,,,
+Nipan Deka,Assam,2022.0,75.8,40.57,58.18,False,False,pure_batter,44.0,2.0,29.0,22.0,151.72,middle_order,0.0,1.0,18.0,0.0,9.0,part_time_bowler
+Nishunk Birla,Chandigarh,2024.0,141.4,41.53,91.46,False,False,pure_batter,4.0,1.0,1.0,4.0,400.0,tailender,0.0,1.0,6.0,0.0,17.0,part_time_bowler
+Nitesh Gupta,Sikkim,2020.0,0.0,98.54,49.27,False,False,pure_bowler,,,,,,,3.0,2.0,42.0,1.5,5.71,part_time_bowler
+Nitesh Hooda,Haryana,2021.0,0.0,41.38,20.69,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,7.0,part_time_bowler
+Nitesh Lohchab,Nagaland,2018.0,34.65,45.78,40.22,False,False,pure_batter,22.0,3.0,24.0,7.33,91.67,middle_order,0.0,2.0,24.0,0.0,9.0,part_time_bowler
+Nitesh Sedai,Manipur,2023.0,39.87,51.07,45.47,False,False,utility_player,203.0,17.0,221.0,11.94,91.86,anchor_opener,2.0,9.0,132.0,0.222,8.82,middle_overs_bowler
+Nithish Kumar Reddy,Andhra,2021.0,56.59,31.2,43.9,False,False,pure_batter,92.0,4.0,96.0,23.0,95.83,middle_order,0.0,1.0,6.0,0.0,22.0,part_time_bowler
+Nitin Tanwar,Services,2021.0,33.31,81.79,57.55,False,False,pure_bowler,55.0,7.0,63.0,7.86,87.3,tailender,8.0,8.0,167.0,1.0,6.97,middle_overs_bowler
+Nitin Yadav,Services,2017.0,26.78,98.48,62.63,False,False,pure_bowler,3.0,2.0,4.0,1.5,75.0,tailender,15.0,10.0,234.0,1.5,8.31,death_bowler
+Nitish Rao,Chhattisgarh,2017.0,36.05,79.73,57.89,False,False,pure_bowler,3.0,1.0,3.0,3.0,100.0,tailender,1.0,1.0,6.0,1.0,9.0,part_time_bowler
+Niyas Nizar,Kerala,2015.0,0.0,160.28,80.14,False,False,pure_bowler,0.0,1.0,5.0,0.0,0.0,tailender,3.0,1.0,24.0,3.0,3.5,part_time_bowler
+Nongthombam Denin,Manipur,2020.0,37.45,83.1,60.28,False,False,pure_bowler,14.0,2.0,14.0,7.0,100.0,tailender,2.0,2.0,42.0,1.0,6.57,part_time_bowler
+Nongthombam Sarojkumar,Manipur,2020.0,0.0,47.28,23.64,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,5.25,part_time_bowler
+Nzanthung Mozhui,Nagaland,2022.0,10.09,0.0,5.04,False,False,pure_batter,5.0,2.0,19.0,2.5,26.32,anchor_opener,,,,,,
+OA Shah,Jammu & Kashmir,2017.0,18.2,0.0,9.1,False,False,pure_batter,4.0,2.0,8.0,2.0,50.0,middle_order,,,,,,
+Oren Ngullie,Nagaland,2019.0,7.06,0.0,3.53,False,False,pure_batter,4.0,2.0,22.0,2.0,18.18,anchor_opener,,,,,,
+P Awana,Delhi,2015.0,26.13,102.83,64.48,False,False,pure_bowler,8.0,1.0,12.0,8.0,66.67,tailender,9.0,6.0,132.0,1.5,6.36,powerplay_bowler
+P Chopra,Himachal,2022.0,68.45,43.33,55.89,False,False,pure_batter,1118.0,33.0,951.0,33.88,117.56,anchor_opener,0.0,6.0,48.0,0.0,8.62,part_time_bowler
+P Dogra,Puducherry,2022.0,71.84,37.6,54.72,False,False,pure_batter,943.0,31.0,722.0,30.42,130.61,top_order_anchor,0.0,1.0,1.0,0.0,6.0,part_time_bowler
+P Dubey,Karnataka,2021.0,42.64,80.41,61.52,False,False,utility_player,100.0,12.0,94.0,8.33,106.38,middle_order,17.0,17.0,291.0,1.0,7.11,middle_overs_bowler
+P Dutta,Punjab,2023.0,0.0,84.17,42.08,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,8.33,part_time_bowler
+P Karia,Saurashtra,2023.0,0.0,55.28,27.64,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,3.5,part_time_bowler
+P Kumar,Uttar Pradesh,2017.0,40.38,66.63,53.5,False,False,pure_bowler,41.0,4.0,39.0,10.25,105.13,tailender,7.0,12.0,236.0,0.583,8.24,powerplay_bowler
+P Mardi,Bihar,2022.0,0.0,39.57,19.78,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,11.5,part_time_bowler
+P Negi,Delhi,2018.0,58.1,78.67,68.39,False,True,bowling_allrounder,247.0,18.0,173.0,13.72,142.77,tailender,27.0,29.0,559.0,0.931,7.73,middle_overs_bowler
+P Nitesh Reddy,Hyderabad (India),2022.0,8.48,0.0,4.24,False,False,pure_batter,2.0,1.0,9.0,2.0,22.22,anchor_opener,,,,,,
+P Prafullomani,Manipur,2023.0,37.01,0.0,18.5,False,False,pure_batter,197.0,15.0,261.0,13.13,75.48,anchor_opener,,,,,,
+P Prasanth,Kerala,2017.0,48.2,90.27,69.24,False,False,pure_bowler,64.0,9.0,49.0,7.11,130.61,tailender,15.0,12.0,270.0,1.25,6.38,middle_overs_bowler
+P Ray Barman,Bengal,2020.0,52.32,73.99,63.16,False,False,pure_bowler,23.0,4.0,16.0,5.75,143.75,tailender,4.0,5.0,72.0,0.8,7.58,middle_overs_bowler
+P Saravana Kumar,Tamil Nadu,2021.0,80.85,129.72,105.28,False,False,pure_bowler,11.0,1.0,5.0,11.0,220.0,tailender,7.0,3.0,54.0,2.333,9.89,part_time_bowler
+P Simran Singh,Punjab,2023.0,69.71,0.0,34.85,False,False,pure_batter,1002.0,35.0,710.0,28.63,141.13,aggressive_opener,,,,,,
+P Suyal,Nagaland,2018.0,0.0,74.37,37.18,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,5.0,7.0,150.0,0.714,7.36,powerplay_bowler
+P Thamaraikannan,Puducherry,2020.0,30.04,74.12,52.08,False,False,utility_player,63.0,7.0,82.0,9.0,76.83,tailender,7.0,8.0,114.0,0.875,8.26,middle_overs_bowler
+PA Dahiya,Haryana,2022.0,24.72,0.0,12.36,False,False,pure_batter,7.0,1.0,11.0,7.0,63.64,middle_order,,,,,,
+PA Patel,Gujarat,2019.0,75.45,0.0,37.72,False,False,pure_batter,407.0,15.0,264.0,27.13,154.17,aggressive_opener,,,,,,
+PA Reddy,Hyderabad (India),2019.0,70.19,0.0,35.1,False,False,pure_batter,532.0,20.0,393.0,26.6,135.37,aggressive_opener,,,,,,
+PB Mehta,Haryana,2015.0,43.28,40.57,41.92,False,False,pure_batter,7.0,1.0,6.0,7.0,116.67,tailender,0.0,1.0,6.0,0.0,9.0,part_time_bowler
+PH Solanki,Mumbai,2022.0,0.0,79.32,39.66,False,False,pure_bowler,,,,,,,2.0,2.0,42.0,1.0,10.0,part_time_bowler
+PJ Bhati,Maharashtra,2017.0,64.84,0.0,32.42,False,False,pure_batter,167.0,7.0,134.0,23.86,124.63,middle_order,,,,,,
+PJ Sangwan,Delhi,2023.0,48.68,99.08,73.88,False,False,utility_player,100.0,8.0,79.0,12.5,126.58,tailender,26.0,18.0,396.0,1.444,7.71,powerplay_bowler
+PK Garg,Uttar Pradesh,2024.0,57.53,0.0,28.76,False,False,pure_batter,322.0,17.0,257.0,18.94,125.29,finisher,,,,,,
+PM Singh,Chhattisgarh,2018.0,0.0,124.21,62.1,False,False,pure_bowler,,,,,,,2.0,1.0,18.0,2.0,2.67,part_time_bowler
+PN Mankad,Saurashtra,2024.0,67.38,69.34,68.36,True,True,batting_allrounder,681.0,29.0,478.0,23.48,142.47,top_order_aggressor,19.0,25.0,375.0,0.76,8.83,middle_overs_bowler
+PP Chawla,Gujarat,2023.0,54.49,102.8,78.64,False,True,bowling_allrounder,364.0,29.0,271.0,12.55,134.32,tailender,67.0,43.0,987.0,1.558,6.38,middle_overs_bowler
+PP Ojha,Hyderabad (India),2017.0,26.78,72.55,49.66,False,False,pure_bowler,3.0,2.0,4.0,1.5,75.0,tailender,5.0,6.0,90.0,0.833,8.2,middle_overs_bowler
+PP Shaw,Mumbai,2024.0,78.91,0.0,39.46,False,False,pure_batter,718.0,25.0,442.0,28.72,162.44,aggressive_opener,,,,,,
+PR Rekhade,Vidarbha,2024.0,17.85,41.82,29.84,False,False,pure_batter,1.0,1.0,2.0,1.0,50.0,middle_order,0.0,1.0,18.0,0.0,9.33,part_time_bowler
+PR Shah,Baroda,2015.0,40.19,0.0,20.1,False,False,pure_batter,26.0,4.0,24.0,6.5,108.33,tailender,,,,,,
+PR Veer,Uttar Pradesh,2023.0,0.0,163.52,81.76,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,3.0,1.0,18.0,3.0,2.33,part_time_bowler
+PR Yadav,Rajasthan,2015.0,31.59,76.13,53.86,False,False,pure_bowler,36.0,3.0,46.0,12.0,78.26,middle_order,1.0,1.0,6.0,1.0,18.0,part_time_bowler
+PS Kataria,Arunachal Pradesh,2018.0,9.28,57.57,33.42,False,False,pure_bowler,3.0,2.0,12.0,1.5,25.0,tailender,1.0,3.0,60.0,0.333,7.1,middle_overs_bowler
+PS Kumar,Haryana,2019.0,39.2,0.0,19.6,False,False,pure_batter,12.0,1.0,12.0,12.0,100.0,middle_order,,,,,,
+PS Painkra,Chhattisgarh,2023.0,0.0,67.01,33.51,False,False,pure_bowler,,,,,,,2.0,3.0,38.0,0.667,10.58,part_time_bowler
+PS Sairam,Hyderabad (India),2018.0,40.42,70.27,55.34,False,False,pure_bowler,11.0,2.0,10.0,5.5,110.0,tailender,3.0,4.0,84.0,0.75,7.07,middle_overs_bowler
+PV Tambe,Mumbai,2015.0,0.0,88.52,44.26,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,10.0,8.0,186.0,1.25,6.9,middle_overs_bowler
+Padam Limboo,Sikkim,2019.0,29.47,44.32,36.89,False,False,pure_batter,16.0,2.0,21.0,8.0,76.19,tailender,0.0,2.0,18.0,0.0,10.0,part_time_bowler
+Pallav Kumar Das,Assam,2023.0,63.66,67.67,65.66,True,True,batting_allrounder,581.0,31.0,412.0,18.74,141.02,aggressive_opener,7.0,12.0,156.0,0.583,6.27,middle_overs_bowler
+Palzor Tamang,Sikkim,2021.0,24.64,64.54,44.59,False,False,utility_player,107.0,18.0,166.0,5.94,64.46,middle_order,9.0,17.0,238.0,0.529,8.07,powerplay_bowler
+Pankaj Jaswal,Himachal,2022.0,63.96,96.74,80.35,False,True,bowling_allrounder,191.0,21.0,110.0,9.1,173.64,lower_order_hitter,43.0,30.0,559.0,1.433,7.78,death_bowler
+Pankaj Kumar,Jharkhand,2021.0,48.77,0.0,24.38,False,False,pure_batter,12.0,2.0,9.0,6.0,133.33,tailender,,,,,,
+Pankaj Rao,Chhattisgarh,2017.0,12.02,79.71,45.86,False,False,pure_bowler,1.0,1.0,3.0,1.0,33.33,tailender,15.0,16.0,303.0,0.938,7.74,powerplay_bowler
+Pankaj Shaw,Bengal,2015.0,40.04,39.95,40.0,False,False,pure_batter,52.0,5.0,50.0,10.4,104.0,middle_order,0.0,2.0,18.0,0.0,14.0,part_time_bowler
+Pankaj Singh,Rajasthan,2018.0,15.8,71.43,43.62,False,False,pure_bowler,7.0,5.0,16.0,1.4,43.75,tailender,10.0,15.0,322.0,0.667,7.73,powerplay_bowler
+Pappu Roy,Odisha,2020.0,7.71,93.62,50.66,False,False,pure_bowler,3.0,5.0,14.0,0.6,21.43,tailender,19.0,15.0,316.0,1.267,5.87,middle_overs_bowler
+Parameeswaran Sivaraman,Puducherry,2022.0,43.2,0.0,21.6,False,False,pure_batter,32.0,3.0,38.0,10.67,84.21,middle_order,,,,,,
+Paras Sehrawat,Nagaland,2018.0,52.71,0.0,26.36,False,False,pure_batter,51.0,4.0,37.0,12.75,137.84,middle_order,,,,,,
+Pardeep Yadav,Chandigarh,2024.0,59.19,0.0,29.6,False,False,pure_batter,27.0,1.0,19.0,27.0,142.11,middle_order,,,,,,
+Paresh Patel,Odisha,2017.0,35.44,82.58,59.01,False,False,pure_bowler,15.0,2.0,16.0,7.5,93.75,middle_order,1.0,1.0,8.0,1.0,4.5,part_time_bowler
+Pargat Singh,Punjab,2015.0,62.53,82.46,72.5,False,False,pure_batter,169.0,6.0,157.0,28.17,107.64,anchor_opener,2.0,2.0,18.0,1.0,5.67,part_time_bowler
+Parikshit Valsangkar,Mumbai,2017.0,37.8,57.28,47.54,False,False,pure_bowler,24.0,3.0,24.0,8.0,100.0,tailender,3.0,8.0,162.0,0.375,8.11,middle_overs_bowler
+Parivesh Dhar,Chhattisgarh,2020.0,0.0,79.4,39.7,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,1.0,1.0,24.0,1.0,7.25,part_time_bowler
+Parmesh Vaidik,Chandigarh,2021.0,0.0,79.32,39.66,False,False,pure_bowler,,,,,,,2.0,2.0,42.0,1.0,10.0,part_time_bowler
+Parth Bhut,Saurashtra,2023.0,0.0,67.14,33.57,False,False,pure_bowler,,,,,,,3.0,5.0,84.0,0.6,7.71,middle_overs_bowler
+Parth Chauhan,Saurashtra,2022.0,56.59,60.77,58.68,False,False,pure_bowler,76.0,6.0,51.0,12.67,149.02,finisher,2.0,4.0,42.0,0.5,9.71,part_time_bowler
+Parth Kohli,Baroda,2021.0,39.66,0.0,19.83,False,False,pure_batter,59.0,3.0,63.0,19.67,93.65,middle_order,,,,,,
+Parth Sahani,Madhya Pradesh,2023.0,59.96,60.38,60.17,True,False,batting_allrounder,743.0,34.0,598.0,21.85,124.25,finisher,6.0,13.0,132.0,0.462,8.91,middle_overs_bowler
+Parvez Ahmed,Mizoram,2022.0,22.55,46.81,34.68,False,False,pure_bowler,75.0,14.0,127.0,5.36,59.06,tailender,1.0,9.0,108.0,0.111,10.06,middle_overs_bowler
+Parvez Aziz,Assam,2019.0,48.16,0.0,24.08,False,False,pure_batter,59.0,3.0,66.0,19.67,89.39,middle_order,,,,,,
+Parvez Rasool,Jammu & Kashmir,2021.0,55.38,84.64,70.01,False,True,bowling_allrounder,362.0,20.0,305.0,18.1,118.69,middle_order,29.0,26.0,612.0,1.115,6.71,middle_overs_bowler
+Parvez Sultan,Tripura,2023.0,0.0,76.03,38.02,False,False,pure_bowler,,,,,,,4.0,5.0,84.0,0.8,7.43,middle_overs_bowler
+Pavan Deshpande,Karnataka,2021.0,61.96,51.35,56.66,False,False,utility_player,297.0,12.0,227.0,24.75,130.84,middle_order,2.0,7.0,66.0,0.286,9.91,middle_overs_bowler
+Pinninit Tapaswi,Andhra,2021.0,48.07,77.89,62.98,False,False,pure_bowler,8.0,2.0,6.0,4.0,133.33,middle_order,3.0,3.0,60.0,1.0,8.4,death_bowler
+Piyush Joshi,Uttarakhand,2022.0,47.25,0.0,23.62,False,False,pure_batter,88.0,6.0,83.0,14.67,106.02,anchor_opener,,,,,,
+Piyush Singh,Bihar,2022.0,30.42,0.0,15.21,False,False,pure_batter,50.0,5.0,65.0,10.0,76.92,anchor_opener,,,,,,
+Piyush Tanwar,Gujarat,2018.0,52.59,0.0,26.3,False,False,pure_batter,110.0,5.0,99.0,22.0,111.11,middle_order,,,,,,
+Ponnan Rahul,Kerala,2019.0,34.01,0.0,17.0,False,False,pure_batter,11.0,2.0,12.0,5.5,91.67,middle_order,,,,,,
+Prabesh Gurung,Sikkim,2019.0,10.07,59.95,35.01,False,False,pure_bowler,3.0,2.0,11.0,1.5,27.27,tailender,1.0,2.0,12.0,0.5,9.5,part_time_bowler
+Prabin Luha,Odisha,2019.0,5.35,0.0,2.68,False,False,pure_batter,1.0,1.0,7.0,1.0,14.29,tailender,,,,,,
+Pradeep Chamoli,Uttarakhand,2019.0,35.35,65.56,50.46,False,False,pure_bowler,2.0,2.0,2.0,1.0,100.0,tailender,2.0,3.0,58.0,0.667,10.66,part_time_bowler
+Pradeep Dadhe,Maharashtra,2020.0,0.0,74.94,37.47,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,4.0,5.0,77.0,0.8,8.65,powerplay_bowler
+Pradipta Pramanik,Bengal,2024.0,47.48,90.46,68.97,False,False,pure_bowler,56.0,6.0,50.0,9.33,112.0,tailender,12.0,10.0,162.0,1.2,6.59,middle_overs_bowler
+Pragnay Reddy,Hyderabad (India),2022.0,28.92,0.0,14.46,False,False,pure_batter,42.0,8.0,63.0,5.25,66.67,anchor_opener,,,,,,
+Prakash Seet,Jharkhand,2015.0,0.0,96.09,48.04,False,False,pure_bowler,,,,,,,7.0,5.0,114.0,1.4,7.53,death_bowler
+Pramod Chandila,Bengal,2019.0,50.45,57.31,53.88,False,False,pure_batter,206.0,13.0,179.0,15.85,115.08,middle_order,1.0,2.0,30.0,0.5,8.8,part_time_bowler
+Pranav Gupta,Jammu & Kashmir,2017.0,27.96,0.0,13.98,False,False,pure_batter,22.0,1.0,38.0,22.0,57.89,middle_order,,,,,,
+Pranshu Vijayran,Delhi,2022.0,54.88,63.51,59.2,False,False,pure_bowler,42.0,5.0,32.0,8.4,131.25,middle_order,6.0,12.0,186.0,0.5,8.16,middle_overs_bowler
+Prashant Awasthi,Railways,2018.0,47.33,61.81,54.57,False,False,pure_bowler,67.0,6.0,54.0,11.17,124.07,middle_order,3.0,6.0,90.0,0.5,6.6,middle_overs_bowler
+Prashant Gupta,Uttar Pradesh,2018.0,81.19,0.0,40.6,False,False,pure_batter,408.0,11.0,327.0,37.09,124.77,aggressive_opener,,,,,,
+Prashant Singh,Bihar,2018.0,37.04,68.18,52.61,False,False,pure_bowler,41.0,5.0,42.0,8.2,97.62,tailender,3.0,5.0,80.0,0.6,7.8,powerplay_bowler
+Prashanth Kumar,Andhra,2020.0,45.81,56.85,51.33,False,False,pure_batter,281.0,19.0,274.0,14.79,102.55,finisher,1.0,4.0,36.0,0.25,7.5,part_time_bowler
+Pratap Singh,Bengal,2015.0,0.0,136.7,68.35,False,False,pure_bowler,,,,,,,5.0,2.0,48.0,2.5,5.62,part_time_bowler
+Prateek Jain,Karnataka,2021.0,0.0,51.53,25.76,False,False,pure_bowler,,,,,,,1.0,4.0,84.0,0.25,9.43,death_bowler
+Pratham Singh,Railways,2023.0,65.59,0.0,32.8,False,False,pure_batter,877.0,32.0,686.0,27.41,127.84,anchor_opener,,,,,,
+Prathamesh Dake,Mumbai,2020.0,0.0,150.12,75.06,False,False,pure_bowler,,,,,,,3.0,1.0,18.0,3.0,8.0,part_time_bowler
+Prathamesh Gawas,Goa,2019.0,45.5,0.0,22.75,False,False,pure_batter,5.0,1.0,4.0,5.0,125.0,anchor_opener,,,,,,
+Pratik Das,Odisha,2021.0,48.45,0.0,24.22,False,False,pure_batter,34.0,2.0,28.0,17.0,121.43,middle_order,,,,,,
+Pratik Desai,Mizoram,2020.0,50.2,70.09,60.14,False,False,pure_bowler,66.0,4.0,52.0,16.5,126.92,aggressive_opener,3.0,4.0,82.0,0.75,8.71,powerplay_bowler
+Pratik Salunke,Baroda,2018.0,52.83,0.0,26.42,False,False,pure_batter,13.0,2.0,9.0,6.5,144.44,middle_order,,,,,,
+Pratik Sargade,Puducherry,2018.0,0.0,70.94,35.47,False,False,pure_bowler,0.0,2.0,1.0,0.0,0.0,tailender,4.0,6.0,132.0,0.667,6.14,powerplay_bowler
+Pratyush Singh,Tripura,2021.0,23.15,51.14,37.14,False,False,utility_player,53.0,14.0,85.0,3.79,62.35,middle_order,2.0,8.0,91.0,0.25,7.78,middle_overs_bowler
+Praveen Deshetti,Railways,2015.0,40.6,0.0,20.3,False,False,pure_batter,48.0,3.0,48.0,16.0,100.0,anchor_opener,,,,,,
+Prayas Singh,Odisha,2021.0,33.98,70.82,52.4,False,False,pure_bowler,47.0,7.0,52.0,6.71,90.38,middle_order,5.0,7.0,84.0,0.714,7.0,middle_overs_bowler
+Premraj Rajavelu,Puducherry,2021.0,16.73,0.0,8.36,False,False,pure_batter,11.0,2.0,26.0,5.5,42.31,middle_order,,,,,,
+Prince Yadav,Delhi,2024.0,0.0,98.25,49.12,False,False,pure_bowler,,,,,,,3.0,2.0,42.0,1.5,9.43,part_time_bowler
+Pritam Das,Assam,2021.0,29.65,76.63,53.14,False,False,pure_bowler,19.0,9.0,23.0,2.11,82.61,tailender,19.0,21.0,420.0,0.905,8.3,death_bowler
+Pritam Debnath,Assam,2017.0,15.53,0.0,7.76,False,False,pure_batter,3.0,2.0,7.0,1.5,42.86,anchor_opener,,,,,,
+Pritam Nirala,Sikkim,2019.0,13.43,74.92,44.18,False,False,pure_bowler,8.0,4.0,22.0,2.0,36.36,tailender,3.0,4.0,72.0,0.75,7.83,powerplay_bowler
+Priyank Panchal,Gujarat,2023.0,66.19,45.0,55.6,False,False,pure_batter,968.0,36.0,751.0,26.89,128.89,aggressive_opener,0.0,3.0,24.0,0.0,5.75,part_time_bowler
+Priyansh Arya,Delhi,2024.0,75.79,0.0,37.9,False,False,pure_batter,266.0,8.0,176.0,33.25,151.14,aggressive_opener,,,,,,
+Priyesh Patel,Gujarat,2022.0,49.1,0.0,24.55,False,False,pure_batter,59.0,4.0,47.0,14.75,125.53,middle_order,,,,,,
+Pukhraj Mann,Punjab,2022.0,55.65,0.0,27.82,False,False,pure_batter,18.0,2.0,12.0,9.0,150.0,middle_order,,,,,,
+Pulkit Narang,Services,2019.0,38.06,79.35,58.7,False,False,pure_bowler,15.0,1.0,16.0,15.0,93.75,tailender,6.0,6.0,124.0,1.0,8.81,middle_overs_bowler
+Puneet Datey,Madhya Pradesh,2022.0,53.97,80.39,67.18,False,False,pure_bowler,21.0,5.0,14.0,4.2,150.0,tailender,14.0,15.0,312.0,0.933,7.29,death_bowler
+Puneet Kumar,Jammu & Kashmir,2020.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,1.0,0.0,0.0,middle_order,,,,,,
+Puneet Malik,Bihar,2018.0,80.05,0.0,40.02,False,False,pure_batter,33.0,1.0,30.0,33.0,110.0,middle_order,,,,,,
+Punit Bisht,Meghalaya,2021.0,71.91,48.1,60.0,False,False,pure_batter,487.0,20.0,305.0,24.35,159.67,top_order_aggressor,0.0,1.0,6.0,0.0,11.0,part_time_bowler
+Qamran Iqbal,Jammu & Kashmir,2023.0,57.66,0.0,28.83,False,False,pure_batter,201.0,8.0,187.0,25.12,107.49,anchor_opener,,,,,,
+R Ahir,Saurashtra,2024.0,42.39,0.0,21.2,False,False,pure_batter,10.0,1.0,9.0,10.0,111.11,tailender,,,,,,
+R Ashwin,Tamil Nadu,2019.0,43.36,92.06,67.71,False,False,pure_bowler,54.0,6.0,47.0,9.0,114.89,tailender,9.0,7.0,168.0,1.286,7.32,death_bowler
+R Bhatia,Uttarakhand,2018.0,50.15,79.86,65.0,False,True,bowling_allrounder,200.0,10.0,205.0,20.0,97.56,anchor_opener,9.0,9.0,204.0,1.0,6.53,middle_overs_bowler
+R Bishnoi,Rajasthan,2020.0,51.53,0.0,25.76,False,False,pure_batter,326.0,22.0,270.0,14.82,120.74,middle_order,,,,,,
+R Dhawan,Himachal,2022.0,56.47,88.06,72.26,True,True,batting_allrounder,413.0,25.0,315.0,16.52,131.11,finisher,34.0,29.0,555.0,1.172,7.64,death_bowler
+R Parag,Assam,2023.0,76.83,75.44,76.13,True,True,batting_allrounder,874.0,26.0,611.0,33.62,143.04,top_order_anchor,23.0,28.0,544.0,0.821,6.67,middle_overs_bowler
+R Pratap Singh,Bihar,2022.0,106.05,80.13,93.09,False,False,pure_bowler,3.0,1.0,1.0,3.0,300.0,middle_order,1.0,1.0,18.0,1.0,8.0,part_time_bowler
+R Ralte,Mizoram,2023.0,35.35,72.98,54.17,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,1.0,1.0,12.0,1.0,15.5,part_time_bowler
+R Rohit,Tamil Nadu,2018.0,60.08,56.41,58.24,False,False,pure_bowler,5.0,1.0,3.0,5.0,166.67,tailender,1.0,3.0,49.0,0.333,9.8,part_time_bowler
+R Sai Kishore,Tamil Nadu,2023.0,31.47,88.88,60.18,False,False,pure_bowler,26.0,8.0,30.0,3.25,86.67,tailender,44.0,39.0,843.0,1.128,5.56,powerplay_bowler
+R Sanjay Yadav,Meghalaya,2023.0,59.59,76.45,68.02,True,True,batting_allrounder,483.0,23.0,392.0,21.0,123.21,middle_order,17.0,20.0,414.0,0.85,6.93,middle_overs_bowler
+R Sathish,Tamil Nadu,2015.0,81.28,85.6,83.44,False,False,pure_bowler,20.0,2.0,9.0,10.0,222.22,middle_order,4.0,4.0,84.0,1.0,5.5,powerplay_bowler
+R Shukla,Jharkhand,2019.0,36.26,83.69,59.97,False,False,pure_bowler,18.0,5.0,18.0,3.6,100.0,tailender,22.0,20.0,384.0,1.1,9.02,death_bowler
+R Tewatia,Haryana,2023.0,72.4,68.52,70.46,True,True,batting_allrounder,593.0,29.0,371.0,20.45,159.84,finisher,17.0,26.0,381.0,0.654,7.24,middle_overs_bowler
+R Vinay Kumar,Karnataka,2019.0,52.54,90.27,71.4,False,True,bowling_allrounder,261.0,18.0,207.0,14.5,126.09,tailender,34.0,28.0,608.0,1.214,6.99,death_bowler
+RA Bawa,Chandigarh,2024.0,97.2,118.75,107.98,False,False,pure_bowler,32.0,1.0,20.0,32.0,160.0,middle_order,2.0,1.0,24.0,2.0,6.75,part_time_bowler
+RA Patil,Karnataka,2022.0,18.2,0.0,9.1,False,False,pure_batter,2.0,1.0,4.0,2.0,50.0,anchor_opener,,,,,,
+RA Sharma,Railways,2023.0,0.0,83.7,41.85,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,6.0,part_time_bowler
+RA Tripathi,Maharashtra,2023.0,62.27,59.83,61.05,False,False,utility_player,721.0,29.0,570.0,24.86,126.49,aggressive_opener,4.0,9.0,108.0,0.444,7.78,middle_overs_bowler
+RB Bishnoi Jr,Arunachal Pradesh,2023.0,19.9,87.16,53.53,False,False,pure_bowler,23.0,5.0,44.0,4.6,52.27,tailender,6.0,5.0,114.0,1.2,6.84,middle_overs_bowler
+RD Banik,Tripura,2015.0,26.31,58.12,42.22,False,False,pure_bowler,45.0,5.0,68.0,9.0,66.18,middle_order,1.0,2.0,18.0,0.5,12.33,part_time_bowler
+RD Chahar,Rajasthan,2022.0,28.56,95.03,61.8,False,False,pure_bowler,32.0,9.0,41.0,3.56,78.05,tailender,26.0,19.0,415.0,1.368,6.68,middle_overs_bowler
+RD Gaikwad,Maharashtra,2021.0,74.34,0.0,37.17,False,False,pure_batter,1132.0,34.0,816.0,33.29,138.73,aggressive_opener,,,,,,
+RD Hynniewta,Meghalaya,2023.0,0.0,45.72,22.86,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,6.5,part_time_bowler
+RG Hazarika,Assam,2022.0,59.04,0.0,29.52,False,False,pure_batter,72.0,3.0,62.0,24.0,116.13,aggressive_opener,,,,,,
+RG More,Karnataka,2020.0,32.26,87.05,59.66,False,False,pure_bowler,14.0,3.0,16.0,4.67,87.5,tailender,14.0,12.0,246.0,1.167,9.12,powerplay_bowler
+RH Bhatt,Gujarat,2017.0,45.36,57.49,51.42,False,False,utility_player,116.0,10.0,106.0,11.6,109.43,middle_order,3.0,7.0,101.0,0.429,7.43,middle_overs_bowler
+RH Motwani,Maharashtra,2018.0,56.61,0.0,28.3,False,False,pure_batter,70.0,4.0,57.0,17.5,122.81,middle_order,,,,,,
+RI Thakur,Himachal,2020.0,50.09,0.0,25.04,False,False,pure_batter,85.0,5.0,78.0,17.0,108.97,anchor_opener,,,,,,
+RJ Balhara,Haryana,2019.0,0.0,51.18,25.59,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,8.5,part_time_bowler
+RK Bhui,Andhra,2023.0,80.59,43.02,61.81,False,False,pure_batter,926.0,28.0,600.0,33.07,154.33,top_order_anchor,0.0,1.0,18.0,0.0,6.33,part_time_bowler
+RK Singh,Uttar Pradesh,2024.0,76.11,78.88,77.5,False,False,pure_batter,910.0,35.0,570.0,26.0,159.65,finisher,2.0,2.0,30.0,1.0,7.0,part_time_bowler
+RL Jangid,Vidarbha,2018.0,46.44,71.16,58.8,False,True,bowling_allrounder,235.0,19.0,203.0,12.37,115.76,middle_order,15.0,20.0,378.0,0.75,6.73,middle_overs_bowler
+RM Dagar,Haryana,2015.0,27.95,41.78,34.86,False,False,pure_batter,19.0,2.0,27.0,9.5,70.37,middle_order,0.0,1.0,6.0,0.0,6.0,part_time_bowler
+RM Patidar,Madhya Pradesh,2024.0,80.85,0.0,40.42,False,False,pure_batter,1132.0,33.0,742.0,34.3,152.56,top_order_anchor,,,,,,
+RN Gurbani,Vidarbha,2019.0,19.37,75.45,47.41,False,False,pure_bowler,14.0,4.0,27.0,3.5,51.85,tailender,12.0,15.0,288.0,0.8,8.31,powerplay_bowler
+RP Sharma,Haryana,2023.0,53.76,0.0,26.88,False,False,pure_batter,309.0,21.0,244.0,14.71,126.64,finisher,,,,,,
+RP Singh,Gujarat,2015.0,11.84,102.05,56.94,False,False,pure_bowler,1.0,2.0,3.0,0.5,33.33,tailender,14.0,9.0,216.0,1.556,6.47,powerplay_bowler
+RR Biswa,Meghalaya,2019.0,37.57,67.14,52.36,False,True,bowling_allrounder,167.0,13.0,190.0,12.85,87.89,anchor_opener,7.0,10.0,210.0,0.7,7.71,middle_overs_bowler
+RR Pant,Delhi,2019.0,106.68,0.0,53.34,False,False,pure_batter,443.0,8.0,254.0,55.38,174.41,aggressive_opener,,,,,,
+RR Raje,Mumbai,2015.0,8.93,108.72,58.82,False,False,pure_bowler,1.0,2.0,4.0,0.5,25.0,tailender,7.0,4.0,84.0,1.75,8.14,death_bowler
+RR Rathod,Vidarbha,2020.0,60.7,48.1,54.4,False,False,pure_batter,213.0,11.0,163.0,19.36,130.67,finisher,0.0,1.0,6.0,0.0,11.0,part_time_bowler
+RR Singh,Goa,2015.0,49.32,66.99,58.16,False,False,pure_bowler,57.0,4.0,45.0,14.25,126.67,middle_order,3.0,6.0,140.0,0.5,6.64,powerplay_bowler
+RR Taylor,Gujarat,2015.0,85.93,0.0,42.96,False,False,pure_batter,44.0,1.0,38.0,44.0,115.79,middle_order,,,,,,
+RS Hangargekar,Maharashtra,2020.0,31.05,44.78,37.92,False,False,pure_batter,6.0,2.0,7.0,3.0,85.71,tailender,0.0,2.0,42.0,0.0,8.86,part_time_bowler
+RS Jaganath Sinivas,Nagaland,2023.0,80.7,116.65,98.68,False,False,pure_bowler,31.0,2.0,18.0,15.5,172.22,middle_order,4.0,2.0,48.0,2.0,8.12,part_time_bowler
+RS Khaira,Bengal,2023.0,21.4,0.0,10.7,False,False,pure_batter,4.0,1.0,7.0,4.0,57.14,middle_order,,,,,,
+RT Arothe,Baroda,2019.0,22.7,78.36,50.53,False,False,pure_bowler,12.0,7.0,19.0,1.71,63.16,tailender,28.0,29.0,525.0,0.966,8.24,death_bowler
+RV Gomez,Kerala,2018.0,54.51,71.39,62.95,False,False,utility_player,124.0,10.0,92.0,12.4,134.78,finisher,5.0,7.0,96.0,0.714,6.81,middle_overs_bowler
+RV Patel,Gujarat,2023.0,63.5,39.78,51.64,False,False,pure_batter,295.0,17.0,198.0,17.35,148.99,finisher,0.0,3.0,18.0,0.0,11.0,part_time_bowler
+RV Uthappa,Kerala,2021.0,64.45,0.0,32.22,False,False,pure_batter,766.0,29.0,584.0,26.41,131.16,aggressive_opener,,,,,,
+Rachit Bhatia,Nagaland,2018.0,7.35,81.26,44.3,False,False,pure_bowler,1.0,1.0,5.0,1.0,20.0,tailender,2.0,2.0,36.0,1.0,8.67,part_time_bowler
+Raghav Dhawan,Himachal,2021.0,75.75,43.05,59.4,False,False,pure_batter,123.0,3.0,104.0,41.0,118.27,anchor_opener,0.0,1.0,12.0,0.0,8.0,part_time_bowler
+Raghu Sharma,Puducherry,2021.0,0.0,79.34,39.67,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,3.0,3.0,66.0,1.0,8.09,middle_overs_bowler
+Ragupathy Silambarasan,Tamil Nadu,2021.0,0.0,42.29,21.14,False,False,unknown,,,,,,,0.0,1.0,22.0,0.0,8.45,part_time_bowler
+Rahil Sambyal,Jammu & Kashmir,2015.0,0.0,116.12,58.06,False,False,pure_bowler,,,,,,,2.0,1.0,24.0,2.0,10.75,part_time_bowler
+Rahil Shah,Tripura,2021.0,35.7,83.17,59.44,False,False,pure_bowler,4.0,2.0,4.0,2.0,100.0,tailender,18.0,18.0,361.0,1.0,6.08,middle_overs_bowler
+Rahul Batham,Madhya Pradesh,2024.0,57.4,66.58,61.99,False,False,pure_bowler,53.0,3.0,45.0,17.67,117.78,tailender,4.0,6.0,114.0,0.667,7.79,middle_overs_bowler
+Rahul Buddhi,Hyderabad (India),2023.0,53.64,47.7,50.67,False,False,pure_batter,237.0,15.0,188.0,15.8,126.06,finisher,0.0,1.0,2.0,0.0,12.0,part_time_bowler
+Rahul Dalal,Arunachal Pradesh,2020.0,62.97,0.0,31.48,False,False,pure_batter,294.0,11.0,241.0,26.73,121.99,top_order_anchor,,,,,,
+Rahul Khajan Singh,Services,2021.0,29.92,72.95,51.44,False,False,pure_bowler,19.0,3.0,24.0,6.33,79.17,tailender,6.0,7.0,162.0,0.857,7.67,middle_overs_bowler
+Rahul Kumar,Bihar,2020.0,27.3,53.56,40.43,False,False,pure_batter,3.0,1.0,4.0,3.0,75.0,tailender,0.0,2.0,30.0,0.0,7.8,part_time_bowler
+Rahul Sharma,Nagaland,2018.0,0.0,48.7,24.35,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,9.5,part_time_bowler
+Rahul Singh,Services,2023.0,71.64,50.38,61.01,False,False,pure_batter,613.0,24.0,407.0,25.54,150.61,top_order_anchor,1.0,5.0,96.0,0.2,7.81,middle_overs_bowler
+Rajan Kumar,Uttarakhand,2022.0,0.0,103.18,51.59,False,False,pure_bowler,,,,,,,6.0,4.0,90.0,1.5,5.93,powerplay_bowler
+Rajashekhar Harikant,Goa,2019.0,35.85,0.0,17.92,False,False,pure_batter,75.0,10.0,79.0,7.5,94.94,anchor_opener,,,,,,
+Rajat Dey,Tripura,2023.0,65.97,56.41,61.19,False,False,pure_batter,488.0,21.0,357.0,23.24,136.69,finisher,1.0,2.0,18.0,0.5,9.67,part_time_bowler
+Rajat Paliwal,Services,2021.0,52.08,61.63,56.86,False,True,bowling_allrounder,521.0,27.0,446.0,19.3,116.82,middle_order,5.0,10.0,132.0,0.5,7.18,middle_overs_bowler
+Rajdeep Das,Assam,2017.0,15.53,0.0,7.76,False,False,pure_batter,3.0,2.0,7.0,1.5,42.86,anchor_opener,,,,,,
+Rajendran Vivek,Tamil Nadu,2018.0,56.98,0.0,28.49,False,False,pure_batter,65.0,5.0,49.0,13.0,132.65,finisher,,,,,,
+Rajesh Dhuper,Odisha,2021.0,49.37,0.0,24.68,False,False,pure_batter,392.0,19.0,383.0,20.63,102.35,anchor_opener,,,,,,
+Rajesh Mohanty,Odisha,2020.0,42.74,71.38,57.06,False,False,pure_bowler,69.0,7.0,69.0,9.86,100.0,tailender,8.0,12.0,195.0,0.667,7.48,powerplay_bowler
+Rajesh Singh,Bihar,2019.0,63.74,56.85,60.3,False,False,utility_player,106.0,6.0,78.0,17.67,135.9,middle_order,2.0,5.0,66.0,0.4,9.0,powerplay_bowler
+Rajesh Tati,Meghalaya,2019.0,17.76,0.0,8.88,False,False,pure_batter,7.0,1.0,16.0,7.0,43.75,anchor_opener,,,,,,
+Rajiv Darjee,Sikkim,2020.0,16.95,50.25,33.6,False,False,pure_bowler,4.0,1.0,9.0,4.0,44.44,tailender,1.0,4.0,54.0,0.25,9.0,part_time_bowler
+Rajjakuddin Ahmed,Assam,2022.0,63.36,68.14,65.75,False,True,bowling_allrounder,342.0,25.0,233.0,13.68,146.78,tailender,17.0,25.0,348.0,0.68,8.34,middle_overs_bowler
+Rakesh Kumar,Arunachal Pradesh,2020.0,0.0,62.27,31.14,False,False,pure_bowler,0.0,2.0,5.0,0.0,0.0,tailender,2.0,4.0,83.0,0.5,6.14,middle_overs_bowler
+Rakesh Thakur,Madhya Pradesh,2023.0,38.36,0.0,19.18,False,False,pure_batter,86.0,9.0,95.0,9.56,90.53,middle_order,,,,,,
+Rakshan Readdi,Hyderabad (India),2022.0,14.35,80.89,47.62,False,False,pure_bowler,2.0,2.0,5.0,1.0,40.0,tailender,9.0,9.0,188.0,1.0,8.52,powerplay_bowler
+Ram Dayal,Jammu & Kashmir,2020.0,22.94,74.17,48.56,False,False,pure_bowler,28.0,6.0,46.0,4.67,60.87,tailender,11.0,14.0,270.0,0.786,7.91,powerplay_bowler
+Ram Gurung,Meghalaya,2023.0,31.54,57.8,44.67,False,False,pure_bowler,11.0,2.0,13.0,5.5,84.62,tailender,1.0,3.0,54.0,0.333,5.44,part_time_bowler
+Ramachandran Ragupathy,Puducherry,2022.0,61.86,0.0,30.93,False,False,pure_batter,118.0,5.0,116.0,23.6,101.72,anchor_opener,,,,,,
+Ramandeep Singh,Punjab,2023.0,57.84,68.56,63.2,False,True,bowling_allrounder,169.0,15.0,114.0,11.27,148.25,finisher,7.0,10.0,114.0,0.7,8.47,middle_overs_bowler
+Rana Dutta,Tripura,2022.0,37.0,73.12,55.06,False,False,pure_bowler,76.0,8.0,79.0,9.5,96.2,tailender,12.0,16.0,303.0,0.75,7.39,powerplay_bowler
+Ranjeet Mali,Railways,2015.0,8.93,119.39,64.16,False,False,pure_bowler,1.0,2.0,4.0,0.5,25.0,tailender,10.0,5.0,98.0,2.0,7.16,death_bowler
+Ranjeet Nikam,Maharashtra,2021.0,37.58,0.0,18.79,False,False,pure_batter,55.0,6.0,56.0,9.17,98.21,middle_order,,,,,,
+Rasikh Salam,Jammu & Kashmir,2023.0,19.3,82.25,50.78,False,False,pure_bowler,11.0,4.0,21.0,2.75,52.38,tailender,9.0,9.0,202.0,1.0,7.87,death_bowler
+Raushan Raj,Services,2015.0,37.68,118.55,78.11,False,False,pure_bowler,23.0,3.0,23.0,7.67,100.0,tailender,10.0,5.0,120.0,2.0,6.75,death_bowler
+Ravi Bishnoi,Rajasthan,2021.0,32.55,101.74,67.14,False,False,pure_bowler,31.0,7.0,35.0,4.43,88.57,tailender,29.0,19.0,438.0,1.526,5.85,middle_overs_bowler
+Ravi Chauhan,Services,2021.0,66.22,0.0,33.11,False,False,pure_batter,739.0,23.0,617.0,32.13,119.77,aggressive_opener,,,,,,
+Ravi Kiran,Hyderabad (India),2022.0,13.38,82.5,47.94,False,False,pure_bowler,7.0,5.0,19.0,1.4,36.84,tailender,20.0,19.0,411.0,1.053,7.75,death_bowler
+Ravi Teja,Hyderabad (India),2022.0,47.63,94.54,71.09,False,True,bowling_allrounder,155.0,16.0,128.0,9.69,121.09,tailender,28.0,20.0,413.0,1.4,7.64,middle_overs_bowler
+Ravikant Singh,Bengal,2019.0,0.0,111.08,55.54,False,False,pure_bowler,,,,,,,2.0,1.0,24.0,2.0,7.75,part_time_bowler
+Ravikumar Samarth,Karnataka,2019.0,45.96,0.0,22.98,False,False,pure_batter,153.0,9.0,146.0,17.0,104.79,middle_order,,,,,,
+Ravikumar Thakur,Vidarbha,2015.0,24.03,109.34,66.68,False,False,pure_bowler,2.0,1.0,3.0,2.0,66.67,tailender,22.0,12.0,269.0,1.833,8.16,death_bowler
+Reagan Pinto,Goa,2015.0,18.98,0.0,9.49,False,False,pure_batter,17.0,3.0,35.0,5.67,48.57,middle_order,,,,,,
+Remruatdika Ralte,Mizoram,2023.0,20.32,58.99,39.66,False,False,pure_bowler,10.0,4.0,18.0,2.5,55.56,tailender,3.0,8.0,124.0,0.375,8.03,powerplay_bowler
+Reuben Lalhruaizela,Mizoram,2019.0,16.95,54.81,35.88,False,False,pure_bowler,4.0,1.0,9.0,4.0,44.44,middle_order,1.0,2.0,18.0,0.5,13.67,part_time_bowler
+Rex Rajkumar,Manipur,2023.0,43.14,64.61,53.88,False,True,bowling_allrounder,167.0,15.0,157.0,11.13,106.37,middle_order,8.0,16.0,269.0,0.5,8.03,powerplay_bowler
+Rinsangzela Hmamte,Mizoram,2022.0,0.0,63.78,31.89,False,False,pure_bowler,,,,,,,3.0,5.0,85.0,0.6,7.06,middle_overs_bowler
+Rinzing Bhutia,Sikkim,2018.0,45.6,58.48,52.04,False,False,pure_bowler,16.0,1.0,14.0,16.0,114.29,tailender,1.0,2.0,30.0,0.5,8.0,part_time_bowler
+Rishabh Chouhan,Madhya Pradesh,2023.0,48.23,94.22,71.22,False,False,pure_batter,225.0,16.0,190.0,14.06,118.42,tailender,1.0,1.0,6.0,1.0,4.0,part_time_bowler
+Rishabh Tiwari,Chhattisgarh,2021.0,65.42,0.0,32.71,False,False,pure_batter,356.0,14.0,272.0,25.43,130.88,aggressive_opener,,,,,,
+Rishav,Bihar,2021.0,7.35,0.0,3.68,False,False,pure_batter,1.0,1.0,5.0,1.0,20.0,middle_order,,,,,,
+Rishav Das,Assam,2023.0,54.82,0.0,27.41,False,False,pure_batter,353.0,17.0,319.0,20.76,110.66,aggressive_opener,,,,,,
+Rishikesh Das,Odisha,2015.0,27.38,0.0,13.69,False,False,pure_batter,9.0,1.0,13.0,9.0,69.23,anchor_opener,,,,,,
+Ritesh Negi,Services,2015.0,35.04,56.46,45.75,False,False,pure_bowler,17.0,3.0,18.0,5.67,94.44,tailender,1.0,3.0,54.0,0.333,10.0,part_time_bowler
+Ritwik Roy Chowdhury,Bengal,2024.0,54.01,45.53,49.77,False,False,pure_batter,237.0,16.0,184.0,14.81,128.8,middle_order,0.0,1.0,6.0,0.0,7.0,part_time_bowler
+Robin Bist,Rajasthan,2021.0,47.55,0.0,23.78,False,False,pure_batter,186.0,12.0,188.0,15.5,98.94,finisher,,,,,,
+Rohan Kadam,Karnataka,2021.0,78.89,0.0,39.44,False,False,pure_batter,995.0,25.0,761.0,39.8,130.75,aggressive_opener,,,,,,
+Rohan Kunnummal,Kerala,2023.0,62.82,0.0,31.41,False,False,pure_batter,361.0,13.0,322.0,27.77,112.11,anchor_opener,,,,,,
+Rohan Prem,Kerala,2018.0,62.83,67.47,65.15,False,True,bowling_allrounder,394.0,15.0,348.0,26.27,113.22,top_order_anchor,3.0,6.0,78.0,0.5,4.69,middle_overs_bowler
+Rohan Suresh,Puducherry,2022.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,0.0,0.0,,tailender,,,,,,
+Rohit Dahiya,Gujarat,2017.0,56.46,64.94,60.7,False,False,utility_player,102.0,8.0,74.0,12.75,137.84,tailender,5.0,8.0,126.0,0.625,9.71,middle_overs_bowler
+Rohit Dangwal,Uttarakhand,2018.0,3.68,72.29,37.99,False,False,pure_bowler,1.0,2.0,10.0,0.5,10.0,tailender,4.0,5.0,102.0,0.8,7.65,powerplay_bowler
+Rohit Dhruw,Chhattisgarh,2017.0,18.2,0.0,9.1,False,False,pure_batter,2.0,1.0,4.0,2.0,50.0,tailender,,,,,,
+Rohit Jhanjhariya,Nagaland,2018.0,55.0,0.0,27.5,False,False,pure_batter,50.0,2.0,56.0,25.0,89.29,anchor_opener,,,,,,
+Rohit Rayudu,Hyderabad (India),2023.0,55.72,62.42,59.07,False,False,pure_batter,124.0,7.0,106.0,17.71,116.98,aggressive_opener,1.0,2.0,12.0,0.5,8.5,part_time_bowler
+Rohit Shah,Meghalaya,2021.0,37.01,0.0,18.5,False,False,pure_batter,84.0,5.0,117.0,16.8,71.79,anchor_opener,,,,,,
+Rohit Sharma,Jammu & Kashmir,2015.0,13.08,49.43,31.26,False,False,pure_bowler,5.0,3.0,14.0,1.67,35.71,tailender,0.0,5.0,84.0,0.0,6.93,powerplay_bowler
+Rojith Ganesh,Kerala,2021.0,29.03,37.78,33.4,False,False,pure_batter,17.0,3.0,22.0,5.67,77.27,tailender,0.0,1.0,6.0,0.0,16.0,part_time_bowler
+Romario Sharma,Assam,2017.0,47.48,0.0,23.74,False,False,pure_batter,37.0,3.0,30.0,12.33,123.33,middle_order,,,,,,
+Rongsen Jonathan,Nagaland,2023.0,56.05,56.5,56.28,False,False,utility_player,493.0,21.0,474.0,23.48,104.01,middle_order,2.0,6.0,83.0,0.333,7.45,middle_overs_bowler
+Roosh Kalaria,Gujarat,2022.0,45.06,87.86,66.46,False,False,pure_bowler,87.0,14.0,71.0,6.21,122.54,tailender,28.0,24.0,498.0,1.167,7.35,death_bowler
+Rosan Kumar Rao,Odisha,2015.0,39.36,0.0,19.68,False,False,pure_batter,39.0,3.0,55.0,13.0,70.91,middle_order,,,,,,
+Roshan Alam,Assam,2021.0,37.1,75.73,56.42,False,False,pure_bowler,18.0,3.0,18.0,6.0,100.0,tailender,10.0,12.0,246.0,0.833,6.44,middle_overs_bowler
+Royston Dias,Mumbai,2024.0,0.0,70.62,35.31,False,False,pure_bowler,,,,,,,3.0,4.0,82.0,0.75,10.39,powerplay_bowler
+S Akhil,Andhra,2023.0,0.0,50.5,25.25,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,5.0,part_time_bowler
+S Anirudha,Tamil Nadu,2018.0,69.11,0.0,34.56,False,False,pure_batter,147.0,6.0,113.0,24.5,130.09,tailender,,,,,,
+S Aravind,Karnataka,2017.0,26.02,105.36,65.69,False,False,pure_bowler,8.0,5.0,11.0,1.6,72.73,tailender,20.0,12.0,254.0,1.667,7.09,death_bowler
+S Arora,Uttarakhand,2021.0,105.54,0.0,52.77,False,False,pure_batter,68.0,1.0,46.0,68.0,147.83,top_order_anchor,,,,,,
+S Ashish,Andhra,2020.0,0.0,79.9,39.95,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,6.0,part_time_bowler
+S Baliyan,Uttarakhand,2022.0,0.0,60.25,30.12,False,False,pure_bowler,,,,,,,1.0,2.0,36.0,0.5,7.0,part_time_bowler
+S Dhawan,Delhi,2022.0,60.08,0.0,30.04,False,False,pure_batter,194.0,8.0,154.0,24.25,125.97,aggressive_opener,,,,,,
+S Dube,Mumbai,2024.0,56.65,73.71,65.18,True,True,batting_allrounder,574.0,35.0,423.0,16.4,135.7,finisher,29.0,34.0,596.0,0.853,8.48,middle_overs_bowler
+S Gani,Bihar,2022.0,55.58,45.13,50.36,False,False,pure_batter,252.0,11.0,224.0,22.91,112.5,finisher,0.0,1.0,6.0,0.0,8.0,part_time_bowler
+S Ghadigaonkar,Assam,2023.0,78.12,0.0,39.06,False,False,pure_batter,80.0,2.0,57.0,40.0,140.35,top_order_anchor,,,,,,
+S Gopal,Karnataka,2023.0,44.97,96.74,70.85,False,False,pure_bowler,65.0,8.0,54.0,8.12,120.37,tailender,38.0,27.0,500.0,1.407,6.76,middle_overs_bowler
+S Habib Gandhi,Bengal,2024.0,37.33,0.0,18.66,False,False,pure_batter,22.0,2.0,23.0,11.0,95.65,middle_order,,,,,,
+S Hegde,Karnataka,2023.0,0.0,55.37,27.68,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,1.0,3.0,60.0,0.333,8.4,middle_overs_bowler
+S Karthik,Puducherry,2021.0,34.07,0.0,17.04,False,False,pure_batter,82.0,10.0,92.0,8.2,89.13,anchor_opener,,,,,,
+S Kaul,Punjab,2017.0,33.15,91.69,62.42,False,False,pure_bowler,12.0,5.0,13.0,2.4,92.31,tailender,60.0,47.0,1028.0,1.277,7.94,death_bowler
+S Ladda,Punjab,2015.0,0.0,156.57,78.28,False,False,pure_bowler,,,,,,,3.0,1.0,24.0,3.0,7.5,part_time_bowler
+S Midhun,Kerala,2019.0,37.93,81.21,59.57,False,False,pure_bowler,23.0,6.0,22.0,3.83,104.55,tailender,24.0,24.0,530.0,1.0,6.66,middle_overs_bowler
+S Mylliempdah,Meghalaya,2023.0,26.4,0.0,13.2,False,False,pure_batter,33.0,2.0,56.0,16.5,58.93,anchor_opener,,,,,,
+S Nadeem,Jharkhand,2021.0,37.89,82.89,60.39,False,False,pure_bowler,66.0,8.0,66.0,8.25,100.0,tailender,29.0,28.0,647.0,1.036,6.42,middle_overs_bowler
+S Sanandia,Saurashtra,2017.0,50.66,122.61,86.64,False,False,pure_bowler,53.0,6.0,39.0,8.83,135.9,tailender,21.0,10.0,212.0,2.1,6.42,death_bowler
+S Sandeep Warrier,Kerala,2017.0,11.78,81.7,46.74,False,False,pure_bowler,1.0,3.0,3.0,0.33,33.33,tailender,35.0,37.0,785.0,0.946,7.4,powerplay_bowler
+S Santhosh Kumaran,Puducherry,2018.0,0.0,33.4,16.7,False,False,unknown,,,,,,,0.0,1.0,4.0,0.0,16.5,part_time_bowler
+S Solanki,Madhya Pradesh,2023.0,34.65,45.78,40.22,False,False,pure_batter,18.0,2.0,20.0,9.0,90.0,middle_order,0.0,2.0,24.0,0.0,9.0,part_time_bowler
+S Sreesanth,Kerala,2020.0,0.0,79.74,39.87,False,False,pure_bowler,,,,,,,4.0,4.0,84.0,1.0,9.71,powerplay_bowler
+SA Asnodkar,Goa,2017.0,50.87,0.0,25.44,False,False,pure_batter,169.0,10.0,141.0,16.9,119.86,anchor_opener,,,,,,
+SA Yadav,Mumbai,2024.0,75.27,0.0,37.64,False,False,pure_batter,1124.0,40.0,726.0,28.1,154.82,top_order_anchor,,,,,,
+SB Dubey,Vidarbha,2024.0,59.96,0.0,29.98,False,False,pure_batter,224.0,10.0,170.0,22.4,131.76,finisher,,,,,,
+SB Jakati,Goa,2017.0,30.2,87.28,58.74,False,False,pure_bowler,38.0,7.0,47.0,5.43,80.85,tailender,13.0,11.0,248.0,1.182,7.4,middle_overs_bowler
+SB Kurkalang,Meghalaya,2023.0,0.0,34.8,17.4,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,13.0,part_time_bowler
+SB Wagh,Vidarbha,2021.0,32.98,96.46,64.72,False,False,pure_bowler,64.0,12.0,72.0,5.33,88.89,tailender,32.0,23.0,451.0,1.391,7.06,powerplay_bowler
+SC Das,Tripura,2015.0,23.62,57.92,40.77,False,False,pure_bowler,15.0,3.0,24.0,5.0,62.5,middle_order,1.0,2.0,30.0,0.5,9.4,part_time_bowler
+SD Chitnis,Mumbai,2015.0,27.3,0.0,13.65,False,False,pure_batter,3.0,1.0,4.0,3.0,75.0,middle_order,,,,,,
+SD Lad,Mumbai,2022.0,59.86,68.94,64.4,True,True,batting_allrounder,764.0,36.0,630.0,21.22,121.27,middle_order,17.0,26.0,324.0,0.654,7.24,middle_overs_bowler
+SD Patel,Baroda,2022.0,0.0,36.17,18.08,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,20.0,part_time_bowler
+SF Khan,Rajasthan,2022.0,56.04,0.0,28.02,False,False,pure_batter,184.0,11.0,144.0,16.73,127.78,finisher,,,,,,
+SG Rohilla,Haryana,2017.0,41.72,0.0,20.86,False,False,pure_batter,43.0,3.0,41.0,14.33,104.88,anchor_opener,,,,,,
+SI Sopariya,Baroda,2023.0,0.0,75.26,37.63,False,False,pure_bowler,,,,,,,3.0,4.0,90.0,0.75,6.67,powerplay_bowler
+SJ Barman,Assam,2017.0,36.05,61.05,48.55,False,False,pure_bowler,3.0,1.0,3.0,3.0,100.0,tailender,2.0,4.0,90.0,0.5,7.13,middle_overs_bowler
+SK Das,Arunachal Pradesh,2023.0,32.92,38.17,35.54,False,False,pure_batter,20.0,1.0,27.0,20.0,74.07,tailender,0.0,1.0,6.0,0.0,15.0,part_time_bowler
+SK Gharami,Bengal,2024.0,10.85,0.0,5.42,False,False,pure_batter,3.0,3.0,10.0,1.0,30.0,middle_order,,,,,,
+SK Ismail,Andhra,2018.0,0.0,70.76,35.38,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,4.0,5.0,110.0,0.8,9.05,middle_overs_bowler
+SK Patel,Baroda,2020.0,64.99,0.0,32.49,False,False,pure_batter,282.0,10.0,246.0,28.2,114.63,anchor_opener,,,,,,
+SK Raina,Uttar Pradesh,2020.0,66.12,50.99,58.56,False,False,utility_player,630.0,23.0,465.0,27.39,135.48,top_order_anchor,2.0,10.0,108.0,0.2,6.22,death_bowler
+SK Rasheed,Andhra,2023.0,60.04,43.05,51.54,False,False,pure_batter,84.0,4.0,78.0,21.0,107.69,middle_order,0.0,2.0,24.0,0.0,8.0,part_time_bowler
+SL Verma,Himachal,2022.0,57.56,67.7,62.63,False,False,pure_batter,133.0,11.0,92.0,12.09,144.57,top_order_aggressor,2.0,3.0,30.0,0.667,5.8,part_time_bowler
+SM Fallah,Maharashtra,2020.0,16.34,79.26,47.8,False,False,pure_bowler,5.0,4.0,11.0,1.25,45.45,tailender,26.0,28.0,604.0,0.929,7.45,death_bowler
+SM Gugale,Maharashtra,2020.0,35.32,75.34,55.33,False,False,utility_player,75.0,9.0,81.0,8.33,92.59,anchor_opener,4.0,4.0,51.0,1.0,11.41,part_time_bowler
+SM Kazi,Maharashtra,2020.0,29.32,90.05,59.68,False,False,pure_bowler,21.0,7.0,26.0,3.0,80.77,tailender,18.0,14.0,288.0,1.286,7.33,middle_overs_bowler
+SM Patidar,Madhya Pradesh,2022.0,54.8,0.0,27.4,False,False,pure_batter,25.0,1.0,19.0,25.0,131.58,top_order_anchor,,,,,,
+SM Rohilla,Haryana,2023.0,30.92,0.0,15.46,False,False,pure_batter,5.0,1.0,6.0,5.0,83.33,middle_order,,,,,,
+SM Singha,Tripura,2021.0,40.03,0.0,20.02,False,False,pure_batter,165.0,11.0,197.0,15.0,83.76,anchor_opener,,,,,,
+SN Khan,Mumbai,2023.0,54.17,41.78,47.98,False,False,pure_batter,280.0,18.0,233.0,15.56,120.17,finisher,0.0,1.0,6.0,0.0,6.0,part_time_bowler
+SN Mandal,Assam,2022.0,78.65,0.0,39.33,False,False,pure_batter,39.0,1.0,39.0,39.0,100.0,top_order_anchor,,,,,,
+SN Patel,Gujarat,2023.0,0.0,93.68,46.84,False,False,pure_bowler,,,,,,,4.0,3.0,60.0,1.333,9.5,powerplay_bowler
+SN Thakur,Mumbai,2019.0,26.96,84.78,55.87,False,False,pure_bowler,44.0,9.0,61.0,4.89,72.13,tailender,35.0,32.0,675.0,1.094,8.22,death_bowler
+SP Goswami,Bengal,2022.0,73.72,0.0,36.86,False,False,pure_batter,1131.0,35.0,799.0,32.31,141.55,aggressive_opener,,,,,,
+SP Jackson,Saurashtra,2023.0,67.78,0.0,33.89,False,False,pure_batter,1069.0,37.0,822.0,28.89,130.05,top_order_anchor,,,,,,
+SP Tari,Goa,2023.0,0.0,65.2,32.6,False,False,pure_bowler,,,,,,,1.0,2.0,36.0,0.5,8.5,part_time_bowler
+SR Swain,Services,2015.0,50.31,0.0,25.16,False,False,pure_batter,52.0,5.0,39.0,10.4,133.33,middle_order,,,,,,
+SS Agarwal,Chhattisgarh,2023.0,38.55,85.8,62.18,False,False,pure_bowler,15.0,5.0,14.0,3.0,107.14,tailender,9.0,8.0,137.0,1.125,6.74,middle_overs_bowler
+SS Bandekar,Goa,2015.0,44.55,107.5,76.03,False,False,pure_bowler,59.0,5.0,60.0,11.8,98.33,middle_order,10.0,6.0,132.0,1.667,6.5,powerplay_bowler
+SS Bandiwar,Vidarbha,2015.0,0.0,82.79,41.4,False,False,pure_bowler,0.0,1.0,4.0,0.0,0.0,tailender,3.0,3.0,60.0,1.0,7.6,powerplay_bowler
+SS Dobal,Rajasthan,2015.0,92.15,81.73,86.94,False,False,pure_bowler,75.0,2.0,41.0,37.5,182.93,top_order_anchor,1.0,1.0,6.0,1.0,4.0,part_time_bowler
+SS Dubhashi,Goa,2022.0,21.19,0.0,10.6,False,False,pure_batter,6.0,1.0,11.0,6.0,54.55,middle_order,,,,,,
+SS Ghosh,Tripura,2023.0,27.63,45.07,36.35,False,False,pure_batter,15.0,2.0,21.0,7.5,71.43,middle_order,0.0,3.0,42.0,0.0,6.71,part_time_bowler
+SS Iyer,Mumbai,2024.0,77.43,55.31,66.37,False,False,pure_batter,1213.0,34.0,821.0,35.68,147.75,top_order_anchor,1.0,3.0,41.0,0.333,10.68,part_time_bowler
+SS Majumder,Tripura,2023.0,33.88,74.88,54.38,False,False,utility_player,99.0,13.0,111.0,7.62,89.19,tailender,14.0,16.0,274.0,0.875,6.92,middle_overs_bowler
+SS Mundhe,Nagaland,2022.0,62.69,63.88,63.28,True,True,batting_allrounder,598.0,26.0,461.0,23.0,129.72,finisher,12.0,23.0,367.0,0.522,8.29,powerplay_bowler
+SS Prabhudessai,Goa,2023.0,68.83,51.11,59.97,False,False,utility_player,466.0,22.0,323.0,21.18,144.27,finisher,2.0,9.0,102.0,0.222,7.59,middle_overs_bowler
+SS Sharma,Baroda,2024.0,67.66,0.0,33.83,False,False,pure_batter,119.0,5.0,88.0,23.8,135.23,middle_order,,,,,,
+SS Shinde,Gujarat,2017.0,31.44,67.05,49.24,False,False,pure_bowler,7.0,3.0,8.0,2.33,87.5,tailender,3.0,4.0,68.0,0.75,9.0,middle_overs_bowler
+SS Tiwary,Jharkhand,2021.0,57.9,49.3,53.6,False,False,pure_batter,656.0,31.0,514.0,21.16,127.63,finisher,0.0,1.0,6.0,0.0,8.0,part_time_bowler
+SSK Bal,Bengal,2020.0,64.99,0.0,32.49,False,False,pure_batter,53.0,3.0,38.0,17.67,139.47,middle_order,,,,,,
+SSK Chaudhary,Bengal,2024.0,26.95,85.1,56.02,False,False,pure_bowler,7.0,1.0,10.0,7.0,70.0,tailender,1.0,1.0,24.0,1.0,6.0,part_time_bowler
+ST Suwalka,Rajasthan,2015.0,27.7,0.0,13.85,False,False,pure_batter,23.0,2.0,34.0,11.5,67.65,anchor_opener,,,,,,
+STR Binny,Karnataka,2020.0,58.0,80.29,69.15,True,True,batting_allrounder,388.0,23.0,316.0,16.87,122.78,finisher,23.0,24.0,409.0,0.958,7.73,powerplay_bowler
+SU Shrivastava,Vidarbha,2019.0,47.2,0.0,23.6,False,False,pure_batter,195.0,12.0,187.0,16.25,104.28,middle_order,,,,,,
+SU Yadav,Haryana,2015.0,36.4,0.0,18.2,False,False,pure_batter,4.0,1.0,4.0,4.0,100.0,middle_order,,,,,,
+SV Samson,Kerala,2023.0,72.23,0.0,36.12,False,False,pure_batter,946.0,31.0,704.0,30.52,134.38,top_order_anchor,,,,,,
+SZ Mulani,Mumbai,2023.0,49.91,87.58,68.74,False,False,utility_player,111.0,11.0,89.0,10.09,124.72,tailender,35.0,31.0,679.0,1.129,6.53,powerplay_bowler
+Saahil Jain,Assam,2021.0,43.37,0.0,21.68,False,False,pure_batter,135.0,11.0,130.0,12.27,103.85,middle_order,,,,,,
+Sabin Chettri,Sikkim,2019.0,22.05,0.0,11.02,False,False,pure_batter,3.0,1.0,5.0,3.0,60.0,tailender,,,,,,
+Sachidanand Pandey,Services,2021.0,44.69,73.35,59.02,False,False,pure_bowler,35.0,5.0,29.0,7.0,120.69,tailender,10.0,12.0,235.0,0.833,9.19,death_bowler
+Sachin Baby,Kerala,2022.0,74.19,64.79,69.49,True,True,batting_allrounder,1111.0,35.0,831.0,31.74,133.69,top_order_anchor,5.0,9.0,106.0,0.556,7.3,middle_overs_bowler
+Sachin Kumar,Bihar,2022.0,48.99,71.59,60.29,False,False,utility_player,121.0,8.0,106.0,15.12,114.15,middle_order,6.0,8.0,131.0,0.75,7.15,middle_overs_bowler
+Sagar Trivedi,Puducherry,2021.0,35.78,78.9,57.34,False,False,utility_player,92.0,11.0,98.0,8.36,93.88,middle_order,17.0,17.0,354.0,1.0,9.32,death_bowler
+Sagar Udeshi,Puducherry,2022.0,21.02,75.63,48.32,False,False,pure_bowler,17.0,5.0,30.0,3.4,56.67,tailender,15.0,19.0,438.0,0.789,6.08,powerplay_bowler
+Sagun Kamat,Goa,2018.0,54.1,0.0,27.05,False,False,pure_batter,400.0,16.0,389.0,25.0,102.83,anchor_opener,,,,,,
+Sahban Khan,Chhattisgarh,2022.0,5.35,50.25,27.8,False,False,pure_batter,1.0,1.0,7.0,1.0,14.29,tailender,0.0,1.0,16.0,0.0,5.62,part_time_bowler
+Sahil Gupta,Chhattisgarh,2017.0,36.42,0.0,18.21,False,False,pure_batter,31.0,2.0,35.0,15.5,88.57,anchor_opener,,,,,,
+Sahil Lotra,Jammu & Kashmir,2023.0,37.1,56.65,46.88,False,False,pure_bowler,6.0,1.0,6.0,6.0,100.0,tailender,1.0,3.0,66.0,0.333,6.45,middle_overs_bowler
+Saidingliana Sailo,Mizoram,2019.0,17.41,0.0,8.7,False,False,pure_batter,18.0,5.0,39.0,3.6,46.15,middle_order,,,,,,
+Sairaj Patil,Mumbai,2022.0,59.17,42.28,50.72,False,False,pure_batter,31.0,2.0,28.0,15.5,110.71,middle_order,0.0,2.0,18.0,0.0,11.67,part_time_bowler
+Sakib Hussain,Bihar,2022.0,0.0,113.63,56.82,False,False,pure_bowler,,,,,,,4.0,2.0,24.0,2.0,11.75,part_time_bowler
+Salman Baig,Madhya Pradesh,2018.0,30.04,39.98,35.01,False,False,pure_batter,5.0,2.0,6.0,2.5,83.33,anchor_opener,0.0,2.0,12.0,0.0,10.5,part_time_bowler
+Salman Nizar,Kerala,2023.0,62.05,0.0,31.02,False,False,pure_batter,188.0,10.0,133.0,18.8,141.35,finisher,,,,,,
+Samar Quadri,Bihar,2020.0,22.1,73.2,47.65,False,False,pure_bowler,8.0,5.0,13.0,1.6,61.54,tailender,8.0,11.0,231.0,0.727,6.05,middle_overs_bowler
+Samarpit Joshi,Rajasthan,2022.0,94.2,0.0,47.1,False,False,pure_batter,39.0,1.0,27.0,39.0,144.44,middle_order,,,,,,
+Samarth Seth,Arunachal Pradesh,2019.0,57.14,54.78,55.96,False,False,utility_player,275.0,12.0,246.0,22.92,111.79,anchor_opener,2.0,5.0,50.0,0.4,10.56,part_time_bowler
+Samarth Singh,Uttar Pradesh,2019.0,55.79,0.0,27.9,False,False,pure_batter,609.0,25.0,532.0,24.36,114.47,anchor_opener,,,,,,
+Samarth Vyas,Saurashtra,2023.0,68.59,0.0,34.3,False,False,pure_batter,512.0,22.0,352.0,23.27,145.45,top_order_aggressor,,,,,,
+Sameer Choudhary,Uttar Pradesh,2021.0,21.18,77.95,49.56,False,False,pure_bowler,16.0,3.0,29.0,5.33,55.17,middle_order,1.0,1.0,24.0,1.0,8.25,part_time_bowler
+Sameer Rizvi,Uttar Pradesh,2024.0,71.0,0.0,35.5,False,False,pure_batter,213.0,7.0,157.0,30.43,135.67,top_order_anchor,,,,,,
+Samit Gohel,Tripura,2021.0,39.46,0.0,19.73,False,False,pure_batter,18.0,1.0,19.0,18.0,94.74,middle_order,,,,,,
+Sammar Gajjar,Saurashtra,2024.0,33.47,38.28,35.88,False,False,pure_batter,11.0,1.0,13.0,11.0,84.62,middle_order,0.0,1.0,5.0,0.0,16.8,part_time_bowler
+Sams Alam,Arunachal Pradesh,2018.0,47.37,52.78,50.08,False,False,pure_bowler,4.0,2.0,3.0,2.0,133.33,tailender,1.0,3.0,52.0,0.333,12.81,part_time_bowler
+Sanatombaroy Laiphangbam,Manipur,2021.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,3.0,0.0,0.0,middle_order,,,,,,
+Sandeep Pattnaik,Odisha,2021.0,52.99,0.0,26.5,False,False,pure_batter,193.0,9.0,174.0,21.44,110.92,anchor_opener,,,,,,
+Sandeep Sharma,Punjab,2020.0,28.09,80.73,54.41,False,False,pure_bowler,20.0,6.0,26.0,3.33,76.92,tailender,24.0,25.0,540.0,0.96,7.29,death_bowler
+Sanidhya Hurkat,Chhattisgarh,2023.0,27.63,0.0,13.82,False,False,pure_batter,15.0,2.0,21.0,7.5,71.43,anchor_opener,,,,,,
+Sanjay Budhwar,Haryana,2015.0,0.0,43.57,21.78,False,False,unknown,0.0,1.0,3.0,0.0,0.0,tailender,0.0,2.0,39.0,0.0,7.08,part_time_bowler
+Sanjay Raghunath,Vidarbha,2022.0,65.75,52.58,59.16,False,False,pure_batter,116.0,4.0,100.0,29.0,116.0,anchor_opener,0.0,1.0,12.0,0.0,5.0,part_time_bowler
+Sanjeet Desai,Chhattisgarh,2023.0,48.77,0.0,24.38,False,False,pure_batter,117.0,7.0,106.0,16.71,110.38,middle_order,,,,,,
+Sankar Paul,Tripura,2021.0,37.24,73.79,55.52,False,False,pure_bowler,71.0,5.0,77.0,14.2,92.21,middle_order,9.0,12.0,192.0,0.75,6.84,middle_overs_bowler
+Santha Moorthy,Puducherry,2020.0,18.9,116.6,67.75,False,False,pure_bowler,4.0,1.0,8.0,4.0,50.0,tailender,6.0,3.0,60.0,2.0,8.5,powerplay_bowler
+Sanvir Singh,Punjab,2023.0,80.38,65.18,72.78,False,True,bowling_allrounder,226.0,12.0,115.0,18.83,196.52,finisher,4.0,6.0,78.0,0.667,9.85,middle_overs_bowler
+Sarang Rawat,Delhi,2015.0,0.0,77.95,38.98,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,10.0,part_time_bowler
+Saransh Jain,Madhya Pradesh,2023.0,27.17,73.23,50.2,False,False,pure_bowler,23.0,4.0,32.0,5.75,71.88,tailender,7.0,9.0,174.0,0.778,7.24,middle_overs_bowler
+Sarbeswar Mohanty,Odisha,2021.0,28.67,55.45,42.06,False,False,pure_bowler,30.0,6.0,39.0,5.0,76.92,tailender,1.0,4.0,54.0,0.25,7.56,part_time_bowler
+Sarfaraz Ashraf,Bihar,2019.0,22.16,72.73,47.44,False,False,pure_bowler,34.0,6.0,59.0,5.67,57.63,middle_order,5.0,6.0,96.0,0.833,8.62,middle_overs_bowler
+Sarthak Ranjan,Delhi,2017.0,58.26,0.0,29.13,False,False,pure_batter,61.0,4.0,47.0,15.25,129.79,aggressive_opener,,,,,,
+Saruk Hossain,Tripura,2021.0,0.0,58.84,29.42,False,False,pure_bowler,,,,,,,1.0,3.0,42.0,0.333,5.86,part_time_bowler
+Sarul Kanwar,Chandigarh,2021.0,51.79,34.8,43.3,False,False,pure_batter,148.0,8.0,137.0,18.5,108.03,anchor_opener,0.0,1.0,6.0,0.0,13.0,part_time_bowler
+Satender Thakran,Railways,2017.0,0.0,39.97,19.98,False,False,unknown,,,,,,,0.0,2.0,30.0,0.0,8.4,part_time_bowler
+Satish Jangir,Puducherry,2018.0,24.72,72.2,48.46,False,False,pure_bowler,7.0,1.0,11.0,7.0,63.64,tailender,3.0,4.0,60.0,0.75,7.0,middle_overs_bowler
+Satyajeet Bachhav,Maharashtra,2021.0,35.3,88.55,61.92,False,False,pure_bowler,51.0,11.0,53.0,4.64,96.23,tailender,41.0,34.0,786.0,1.206,6.71,middle_overs_bowler
+Saurabh Das,Tripura,2021.0,43.39,53.3,48.34,False,False,utility_player,107.0,9.0,115.0,11.89,93.04,tailender,3.0,12.0,177.0,0.25,7.69,powerplay_bowler
+Saurabh Dubey,Uttar Pradesh,2015.0,105.77,45.13,75.45,False,False,pure_batter,45.0,2.0,19.0,22.5,236.84,middle_order,0.0,2.0,12.0,0.0,8.0,part_time_bowler
+Saurabh Kumar,Uttar Pradesh,2021.0,51.15,74.13,62.64,False,False,utility_player,115.0,13.0,88.0,8.85,130.68,tailender,23.0,28.0,548.0,0.821,7.13,middle_overs_bowler
+Saurabh Rawat,Uttarakhand,2021.0,51.48,38.57,45.02,False,False,pure_batter,300.0,19.0,265.0,15.79,113.21,finisher,0.0,1.0,6.0,0.0,14.0,part_time_bowler
+Saurabh Wakaskar,Railways,2017.0,70.9,41.78,56.34,False,False,pure_batter,239.0,8.0,158.0,29.88,151.27,top_order_anchor,0.0,1.0,6.0,0.0,6.0,part_time_bowler
+Saurav Chauhan,Gujarat,2023.0,57.69,39.78,48.74,False,False,pure_batter,242.0,13.0,202.0,18.62,119.8,anchor_opener,0.0,1.0,6.0,0.0,11.0,part_time_bowler
+Sayan Ghosh,Bengal,2024.0,41.15,91.29,66.22,False,False,pure_bowler,17.0,4.0,15.0,4.25,113.33,tailender,32.0,25.0,534.0,1.28,7.65,death_bowler
+Sayan Mondal,Bengal,2015.0,58.12,60.24,59.18,False,False,utility_player,146.0,6.0,129.0,24.33,113.18,anchor_opener,3.0,6.0,102.0,0.5,9.71,middle_overs_bowler
+Sedezhalie Rupero,Nagaland,2023.0,33.8,0.0,16.9,False,False,pure_batter,166.0,15.0,224.0,11.07,74.11,anchor_opener,,,,,,
+Shahbaz Ahmed,Bengal,2024.0,54.51,79.13,66.82,True,True,batting_allrounder,294.0,18.0,235.0,16.33,125.11,middle_order,27.0,29.0,594.0,0.931,6.77,middle_overs_bowler
+Shakeeb Ahmed,Chhattisgarh,2019.0,56.98,87.98,72.48,False,False,pure_bowler,87.0,7.0,63.0,12.43,138.1,finisher,17.0,14.0,270.0,1.214,8.96,death_bowler
+Shantanu Mishra,Odisha,2020.0,46.99,0.0,23.5,False,False,pure_batter,14.0,2.0,11.0,7.0,127.27,anchor_opener,,,,,,
+Shanu Saini,Uttar Pradesh,2020.0,18.2,89.4,53.8,False,False,pure_bowler,2.0,1.0,4.0,2.0,50.0,tailender,6.0,5.0,114.0,1.2,5.63,middle_overs_bowler
+Sharad Lumba,Punjab,2019.0,56.51,0.0,28.26,False,False,pure_batter,134.0,8.0,100.0,16.75,134.0,finisher,,,,,,
+Sharafuddeen,Kerala,2021.0,16.05,56.31,36.18,False,False,pure_bowler,3.0,1.0,7.0,3.0,42.86,middle_order,1.0,3.0,48.0,0.333,10.5,part_time_bowler
+Sharukh Dar,Jammu & Kashmir,2018.0,0.0,81.38,40.69,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,7.5,part_time_bowler
+Shashank Chandrakar,Chhattisgarh,2023.0,63.48,0.0,31.74,False,False,pure_batter,614.0,27.0,450.0,22.74,136.44,aggressive_opener,,,,,,
+Shashank Singh,Chhattisgarh,2023.0,52.22,69.2,60.71,True,True,batting_allrounder,366.0,24.0,297.0,15.25,123.23,finisher,11.0,15.0,228.0,0.733,8.39,middle_overs_bowler
+Shasheem Rathour,Bihar,2020.0,54.12,73.57,63.84,False,True,bowling_allrounder,260.0,12.0,249.0,21.67,104.42,anchor_opener,7.0,10.0,162.0,0.7,5.52,middle_overs_bowler
+Shashi Anand,Bihar,2021.0,0.0,39.05,19.52,False,False,unknown,0.0,1.0,4.0,0.0,0.0,tailender,0.0,1.0,4.0,0.0,18.0,part_time_bowler
+Shashi Shekhar,Bihar,2019.0,8.87,75.64,42.26,False,False,pure_bowler,1.0,3.0,4.0,0.33,25.0,tailender,3.0,4.0,81.0,0.75,6.59,powerplay_bowler
+Shashidhar Reddy,Hyderabad (India),2019.0,21.4,0.0,10.7,False,False,pure_batter,4.0,1.0,7.0,4.0,57.14,middle_order,,,,,,
+Shashwat Kohli,Arunachal Pradesh,2019.0,29.6,0.0,14.8,False,False,pure_batter,51.0,7.0,66.0,7.29,77.27,anchor_opener,,,,,,
+Shashwat Rawat,Baroda,2024.0,62.02,80.3,71.16,False,False,pure_bowler,81.0,4.0,71.0,20.25,114.08,anchor_opener,1.0,1.0,2.0,1.0,18.0,part_time_bowler
+Shekhar Kumar Singh,Bihar,2021.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,5.0,0.0,0.0,middle_order,,,,,,
+Shiva Chauhan,Rajasthan,2021.0,72.1,42.85,57.47,False,False,pure_batter,6.0,1.0,3.0,6.0,200.0,tailender,0.0,1.0,12.0,0.0,8.5,part_time_bowler
+Shiva Singh,Uttar Pradesh,2023.0,52.37,63.02,57.7,False,False,pure_bowler,26.0,5.0,18.0,5.2,144.44,tailender,7.0,15.0,307.0,0.467,6.76,middle_overs_bowler
+Shivam Bhambri,Chandigarh,2024.0,68.12,0.0,34.06,False,False,pure_batter,394.0,13.0,300.0,30.31,131.33,top_order_anchor,,,,,,
+Shivam Chaudhary,Railways,2023.0,61.5,52.96,57.23,False,False,utility_player,586.0,23.0,502.0,25.48,116.73,anchor_opener,3.0,14.0,184.0,0.214,7.4,middle_overs_bowler
+Shivam Chauhan,Haryana,2021.0,69.44,0.0,34.72,False,False,pure_batter,627.0,22.0,509.0,28.5,123.18,top_order_anchor,,,,,,
+Shivam Khurana,Uttarakhand,2018.0,42.42,0.0,21.21,False,False,pure_batter,50.0,4.0,46.0,12.5,108.7,middle_order,,,,,,
+Shivam Kumar,Bihar,2019.0,30.58,48.76,39.67,False,False,pure_bowler,19.0,4.0,23.0,4.75,82.61,tailender,1.0,6.0,89.0,0.167,8.83,middle_overs_bowler
+Shivam Mavi,Uttar Pradesh,2024.0,13.82,80.46,47.14,False,False,pure_bowler,6.0,3.0,16.0,2.0,37.5,tailender,8.0,8.0,167.0,1.0,8.8,death_bowler
+Shivam Sharma,Delhi,2021.0,29.38,90.17,59.78,False,False,pure_bowler,15.0,3.0,19.0,5.0,78.95,tailender,7.0,6.0,109.0,1.167,5.94,middle_overs_bowler
+Shivam Shukla,Madhya Pradesh,2024.0,12.02,68.43,40.22,False,False,pure_bowler,1.0,1.0,3.0,1.0,33.33,tailender,2.0,3.0,60.0,0.667,7.1,middle_overs_bowler
+Shivank Vashisth,Delhi,2022.0,20.49,119.21,69.85,False,False,pure_bowler,12.0,3.0,22.0,4.0,54.55,tailender,16.0,8.0,174.0,2.0,5.72,middle_overs_bowler
+Shivendra Singh,Chhattisgarh,2019.0,34.97,66.9,50.94,False,False,pure_bowler,44.0,7.0,47.0,6.29,93.62,tailender,8.0,12.0,237.0,0.667,8.0,middle_overs_bowler
+Shoaib Mohammed Khan,Andhra,2022.0,43.04,61.79,52.42,False,False,pure_bowler,81.0,6.0,74.0,13.5,109.46,tailender,5.0,11.0,210.0,0.455,6.77,middle_overs_bowler
+Shourabh Kharwar,Chhattisgarh,2020.0,0.0,37.38,18.69,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,17.0,part_time_bowler
+Shreshth Nirmohi,Chandigarh,2019.0,17.85,67.19,42.52,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,5.0,8.0,156.0,0.625,9.15,powerplay_bowler
+Shubham Arora,Himachal,2021.0,52.16,0.0,26.08,False,False,pure_batter,40.0,2.0,31.0,20.0,129.03,middle_order,,,,,,
+Shubham Chaubey,Uttar Pradesh,2023.0,48.44,37.4,42.92,False,False,pure_batter,182.0,15.0,151.0,12.13,120.53,finisher,0.0,2.0,18.0,0.0,10.0,part_time_bowler
+Shubham Kamal Sharma,Rajasthan,2021.0,22.2,83.28,52.74,False,False,pure_bowler,13.0,3.0,22.0,4.33,59.09,tailender,4.0,4.0,90.0,1.0,5.67,powerplay_bowler
+Shubham Khajuria,Jammu & Kashmir,2023.0,53.24,0.0,26.62,False,False,pure_batter,322.0,19.0,275.0,16.95,117.09,anchor_opener,,,,,,
+Shubham Kumar Singh,Jharkhand,2021.0,0.0,62.79,31.4,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,1.0,2.0,36.0,0.5,9.33,part_time_bowler
+Shubham Pundir,Jammu & Kashmir,2023.0,54.12,41.24,47.68,False,False,pure_batter,452.0,21.0,401.0,21.52,112.72,finisher,0.0,1.0,18.0,0.0,7.33,part_time_bowler
+Shubham Ranjane,Mumbai,2021.0,57.64,67.87,62.76,False,True,bowling_allrounder,256.0,12.0,223.0,21.33,114.8,tailender,16.0,24.0,363.0,0.667,7.31,middle_overs_bowler
+Shubham Sharma,Madhya Pradesh,2023.0,50.99,59.74,55.36,False,False,pure_batter,203.0,9.0,195.0,22.56,104.1,anchor_opener,1.0,3.0,30.0,0.333,4.8,part_time_bowler
+Shubham Singh,Chhattisgarh,2018.0,0.0,65.69,32.84,False,False,pure_bowler,0.0,1.0,3.0,0.0,0.0,tailender,5.0,9.0,174.0,0.556,8.48,middle_overs_bowler
+Shubman Gill,Punjab,2022.0,76.19,0.0,38.1,False,False,pure_batter,635.0,18.0,455.0,35.28,139.56,anchor_opener,,,,,,
+Sibsankar Roy,Assam,2023.0,64.93,71.34,68.14,True,True,batting_allrounder,528.0,20.0,423.0,26.4,124.82,top_order_anchor,6.0,8.0,84.0,0.75,6.64,middle_overs_bowler
+Siddhant Sharma,Delhi,2020.0,0.0,48.9,24.45,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,9.0,part_time_bowler
+Siddhesh Neral,Vidarbha,2021.0,0.0,89.94,44.97,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,4.33,part_time_bowler
+Siddhesh Wath,Vidarbha,2021.0,50.36,0.0,25.18,False,False,pure_batter,166.0,9.0,156.0,18.44,106.41,anchor_opener,,,,,,
+Sidharth Sharma,Himachal Pradesh,2022.0,0.0,47.72,23.86,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,6.75,part_time_bowler
+Sijomon Joseph,Kerala,2017.0,0.0,58.9,29.45,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,2.0,5.0,102.0,0.4,8.0,middle_overs_bowler
+Simarjeet Singh,Delhi,2019.0,14.23,94.53,54.38,False,False,pure_bowler,2.0,3.0,5.0,0.67,40.0,tailender,22.0,17.0,342.0,1.294,7.77,powerplay_bowler
+Sinan Khadir,Mizoram,2018.0,33.91,78.16,56.04,False,False,pure_bowler,56.0,7.0,63.0,8.0,88.89,middle_order,7.0,7.0,160.0,1.0,10.09,powerplay_bowler
+Sirla Srinivas,Andhra,2015.0,45.64,75.75,60.7,False,False,utility_player,105.0,6.0,93.0,17.5,112.9,tailender,5.0,6.0,101.0,0.833,7.01,middle_overs_bowler
+Skalzang Kalyan,Jammu & Kashmir,2020.0,0.0,38.98,19.49,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,13.0,part_time_bowler
+Snehal Kauthankar,Goa,2022.0,51.95,0.0,25.98,False,False,pure_batter,392.0,20.0,365.0,19.6,107.4,middle_order,,,,,,
+Soaeb Tai,Baroda,2017.0,43.92,76.64,60.28,False,False,pure_bowler,56.0,5.0,49.0,11.2,114.29,tailender,13.0,14.0,207.0,0.929,8.12,middle_overs_bowler
+Sohraab Dhaliwal,Madhya Pradesh,2018.0,64.43,44.27,54.35,False,False,pure_batter,213.0,14.0,136.0,15.21,156.62,finisher,0.0,5.0,42.0,0.0,10.14,part_time_bowler
+Somnath Soni,Arunachal Pradesh,2018.0,0.0,73.18,36.59,False,False,pure_bowler,0.0,1.0,3.0,0.0,0.0,tailender,1.0,1.0,6.0,1.0,15.0,part_time_bowler
+Somorjit Salam,Manipur,2021.0,36.52,42.88,39.7,False,False,pure_batter,13.0,3.0,13.0,4.33,100.0,tailender,0.0,3.0,37.0,0.0,11.35,part_time_bowler
+Song Tacho,Arunachal Pradesh,2021.0,28.49,0.0,14.24,False,False,pure_batter,74.0,10.0,100.0,7.4,74.0,tailender,,,,,,
+Sonu Singh,Jharkhand,2019.0,24.03,96.94,60.48,False,False,pure_bowler,2.0,1.0,3.0,2.0,66.67,tailender,10.0,7.0,151.0,1.429,7.51,middle_overs_bowler
+Sonu Yadav,Tamil Nadu,2020.0,40.6,112.43,76.52,False,False,pure_bowler,16.0,1.0,16.0,16.0,100.0,middle_order,9.0,5.0,114.0,1.8,7.68,death_bowler
+Sooraj Rai,Vidarbha,2021.0,0.0,84.9,42.45,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,6.5,part_time_bowler
+Sourabh Majumdar,Chhattisgarh,2023.0,13.48,73.08,43.28,False,False,pure_bowler,3.0,3.0,8.0,1.0,37.5,tailender,8.0,11.0,190.0,0.727,6.92,powerplay_bowler
+Sourav Dey,Assam,2023.0,0.0,55.68,27.84,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,1.0,3.0,48.0,0.333,6.88,part_time_bowler
+Srinivas Fadte,Goa,2017.0,35.8,59.82,47.81,False,False,pure_bowler,32.0,6.0,33.0,5.33,96.97,tailender,2.0,5.0,60.0,0.4,9.4,middle_overs_bowler
+Subham Nayak,Odisha,2018.0,12.02,79.02,45.52,False,False,pure_bowler,1.0,1.0,3.0,1.0,33.33,tailender,1.0,1.0,18.0,1.0,7.33,part_time_bowler
+Subhash Sharma,Arunachal Pradesh,2018.0,0.0,83.2,41.6,False,False,pure_bowler,,,,,,,2.0,2.0,43.0,1.0,7.12,part_time_bowler
+Subhransu Senapati,Odisha,2024.0,65.69,0.0,32.84,False,False,pure_batter,492.0,20.0,382.0,24.6,128.8,finisher,,,,,,
+Suboth Bhati,Delhi,2021.0,51.04,92.15,71.6,False,False,utility_player,122.0,17.0,88.0,7.18,138.64,tailender,43.0,33.0,709.0,1.303,7.77,death_bowler
+Subramanian Anand,Puducherry,2020.0,55.65,123.88,89.76,False,False,pure_batter,177.0,8.0,169.0,22.12,104.73,middle_order,2.0,1.0,12.0,2.0,7.0,part_time_bowler
+Sudip Chatterjee,Bengal,2023.0,55.36,0.0,27.68,False,False,pure_batter,399.0,21.0,348.0,19.0,114.66,middle_order,,,,,,
+Sufiyan Alam,Services,2021.0,18.38,0.0,9.19,False,False,pure_batter,5.0,2.0,10.0,2.5,50.0,anchor_opener,,,,,,
+Suheh Hussain,Arunachal Pradesh,2018.0,36.9,0.0,18.45,False,False,pure_batter,27.0,3.0,28.0,9.0,96.43,middle_order,,,,,,
+Sujit Nayak,Mumbai,2020.0,50.82,62.42,56.62,False,False,pure_bowler,38.0,4.0,28.0,9.5,135.71,tailender,2.0,5.0,78.0,0.4,5.38,middle_overs_bowler
+Sujit Yadav,Bengal,2021.0,0.0,44.6,22.3,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,6.75,part_time_bowler
+Sukesh Heera,Odisha,2020.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,3.0,0.0,0.0,anchor_opener,,,,,,
+Sultan Karim,Manipur,2023.0,17.98,71.64,44.81,False,False,utility_player,45.0,10.0,96.0,4.5,46.88,tailender,8.0,10.0,141.0,0.8,9.53,middle_overs_bowler
+Sumanta Gupta,Bengal,2017.0,0.0,65.9,32.95,False,False,pure_bowler,,,,,,,2.0,3.0,36.0,0.667,7.5,part_time_bowler
+Sumit Kumar,Haryana,2023.0,54.49,88.13,71.31,True,True,batting_allrounder,628.0,38.0,500.0,16.53,125.6,finisher,36.0,30.0,506.0,1.2,7.43,middle_overs_bowler
+Sumit Lama,Mizoram,2020.0,18.73,80.43,49.58,False,False,pure_bowler,14.0,4.0,28.0,3.5,50.0,tailender,7.0,7.0,114.0,1.0,9.42,powerplay_bowler
+Sumit Ruikar,Chhattisgarh,2022.0,46.52,71.79,59.16,False,False,pure_bowler,47.0,8.0,37.0,5.88,127.03,tailender,14.0,19.0,375.0,0.737,7.2,middle_overs_bowler
+Sumit Singh,Services,2021.0,42.79,75.22,59.0,False,False,utility_player,122.0,8.0,114.0,15.25,107.02,middle_order,8.0,9.0,187.0,0.889,7.8,middle_overs_bowler
+Sunil Roul,Odisha,2020.0,0.0,41.19,20.6,False,False,unknown,0.0,2.0,2.0,0.0,0.0,tailender,0.0,2.0,30.0,0.0,11.6,part_time_bowler
+Sunil Salam,Manipur,2021.0,0.0,36.98,18.49,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,18.0,part_time_bowler
+Sunil Yadav,Maharashtra,2021.0,29.4,41.17,35.28,False,False,pure_bowler,8.0,2.0,10.0,4.0,80.0,tailender,0.0,5.0,77.0,0.0,9.27,middle_overs_bowler
+Sunny Gupta,Jharkhand,2017.0,0.0,44.72,22.36,False,False,unknown,0.0,1.0,4.0,0.0,0.0,tailender,0.0,1.0,12.0,0.0,9.0,part_time_bowler
+Sunny Kashyap,Uttarakhand,2018.0,20.7,80.42,50.56,False,False,pure_bowler,4.0,2.0,7.0,2.0,57.14,tailender,5.0,5.0,96.0,1.0,7.25,death_bowler
+Sunny Rana,Uttarakhand,2019.0,7.18,91.6,49.39,False,False,pure_bowler,2.0,4.0,10.0,0.5,20.0,tailender,13.0,10.0,204.0,1.3,7.76,death_bowler
+Supriyo Chakraborty,Jharkhand,2019.0,36.58,68.31,52.44,False,False,pure_bowler,9.0,2.0,9.0,4.5,100.0,middle_order,2.0,3.0,60.0,0.667,8.4,middle_overs_bowler
+Suraj Ahuja,Railways,2022.0,41.92,0.0,20.96,False,False,pure_batter,72.0,8.0,65.0,9.0,110.77,middle_order,,,,,,
+Suraj Kashyap,Bihar,2021.0,25.24,63.03,44.14,False,False,pure_bowler,22.0,2.0,36.0,11.0,61.11,tailender,1.0,2.0,30.0,0.5,7.0,part_time_bowler
+Suraj Tayam,Arunachal Pradesh,2021.0,22.18,0.0,11.09,False,False,pure_batter,29.0,3.0,54.0,9.67,53.7,middle_order,,,,,,
+Surendra Malviya,Madhya Pradesh,2020.0,0.0,39.9,19.95,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,13.25,part_time_bowler
+Suresh Kumar,Puducherry,2019.0,29.67,118.42,74.04,False,False,pure_bowler,21.0,3.0,27.0,7.0,77.78,middle_order,4.0,2.0,30.0,2.0,6.0,part_time_bowler
+Suresh Vishweshwar,Kerala,2021.0,0.0,44.67,22.34,False,False,unknown,,,,,,,0.0,2.0,42.0,0.0,9.14,part_time_bowler
+Suryakant Pradhan,Odisha,2020.0,61.29,77.57,69.43,False,False,utility_player,127.0,13.0,80.0,9.77,158.75,lower_order_hitter,16.0,19.0,374.0,0.842,7.49,powerplay_bowler
+Suryansh Raina,Jammu & Kashmir,2020.0,59.54,0.0,29.77,False,False,pure_batter,91.0,6.0,72.0,15.17,126.39,tailender,,,,,,
+Suryansh Shedge,Mumbai,2024.0,126.61,101.17,113.89,False,False,pure_bowler,78.0,3.0,28.0,26.0,278.57,finisher,5.0,3.0,48.0,1.667,9.88,part_time_bowler
+Susheel Kumar,Railways,2023.0,0.0,66.1,33.05,False,False,pure_bowler,,,,,,,3.0,5.0,104.0,0.6,8.88,death_bowler
+Suyash Sharma,Delhi,2024.0,0.0,129.07,64.54,False,False,pure_bowler,,,,,,,14.0,6.0,142.0,2.333,6.97,middle_overs_bowler
+Swapnil Singh,Baroda,2022.0,55.49,80.68,68.09,True,True,batting_allrounder,534.0,30.0,432.0,17.8,123.61,middle_order,32.0,33.0,694.0,0.97,6.92,middle_overs_bowler
+Swarajeet Das,Meghalaya,2019.0,26.01,50.92,38.47,False,False,utility_player,70.0,11.0,103.0,6.36,67.96,middle_order,3.0,10.0,154.0,0.3,10.32,middle_overs_bowler
+Swarupam Purkayastha,Assam,2019.0,27.82,86.11,56.96,False,False,utility_player,90.0,13.0,124.0,6.92,72.58,anchor_opener,7.0,6.0,95.0,1.167,8.53,powerplay_bowler
+Swastik Samal,Odisha,2018.0,29.4,0.0,14.7,False,False,pure_batter,8.0,2.0,10.0,4.0,80.0,anchor_opener,,,,,,
+Syed Sagar,Jammu & Kashmir,2015.0,16.25,52.82,34.53,False,False,pure_bowler,8.0,4.0,18.0,2.0,44.44,tailender,1.0,4.0,66.0,0.25,7.82,middle_overs_bowler
+T Kohli,Mizoram,2022.0,61.84,58.32,60.08,False,False,utility_player,812.0,26.0,722.0,31.23,112.47,anchor_opener,8.0,17.0,232.0,0.471,10.22,death_bowler
+T Mishra,Tripura,2019.0,35.29,0.0,17.64,False,False,pure_batter,55.0,6.0,60.0,9.17,91.67,anchor_opener,,,,,,
+T Natarajan,Tamil Nadu,2023.0,0.0,79.65,39.83,False,False,pure_bowler,,,,,,,16.0,17.0,333.0,0.941,7.78,death_bowler
+T Pradeep,Railways,2021.0,72.13,76.31,74.22,True,False,batting_allrounder,158.0,10.0,96.0,15.8,164.58,lower_order_hitter,15.0,17.0,366.0,0.882,9.1,death_bowler
+T R Dhillon,Maharashtra,2020.0,43.64,101.4,72.52,False,False,pure_bowler,13.0,2.0,11.0,6.5,118.18,tailender,3.0,2.0,48.0,1.5,6.38,part_time_bowler
+T Tatar,Arunachal Pradesh,2021.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,1.0,0.0,0.0,middle_order,,,,,,
+T Teti,Arunachal Pradesh,2023.0,0.0,32.17,16.08,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,30.0,part_time_bowler
+T Vijay,Andhra,2023.0,35.81,94.2,65.0,False,False,pure_bowler,23.0,1.0,29.0,23.0,79.31,tailender,3.0,2.0,48.0,1.5,11.38,part_time_bowler
+TC Vanlalremruata,Mizoram,2023.0,0.0,77.98,38.99,False,False,pure_bowler,,,,,,,3.0,3.0,60.0,1.0,7.1,middle_overs_bowler
+TM Srivastava,Uttarakhand,2019.0,75.56,0.0,37.78,False,False,pure_batter,229.0,6.0,190.0,38.17,120.53,top_order_anchor,,,,,,
+TS Saha,Tripura,2020.0,20.08,79.29,49.68,False,False,pure_bowler,17.0,4.0,32.0,4.25,53.12,tailender,6.0,6.0,107.0,1.0,8.52,middle_overs_bowler
+TT Sawkar,Goa,2023.0,52.59,0.0,26.3,False,False,pure_batter,72.0,5.0,53.0,14.4,135.85,middle_order,,,,,,
+TU Deshpande,Mumbai,2022.0,31.24,106.56,68.9,False,False,pure_bowler,13.0,5.0,15.0,2.6,86.67,tailender,51.0,30.0,662.0,1.7,7.86,death_bowler
+Tahmeed Rahman,Nagaland,2023.0,16.38,64.14,40.26,False,False,pure_bowler,18.0,10.0,40.0,1.8,45.0,tailender,12.0,21.0,339.0,0.571,8.62,middle_overs_bowler
+Tajinder Singh,Rajasthan,2018.0,69.86,80.87,75.37,True,True,batting_allrounder,223.0,11.0,143.0,20.27,155.94,finisher,9.0,9.0,150.0,1.0,5.76,middle_overs_bowler
+Takam Tallum,Arunachal Pradesh,2020.0,16.05,0.0,8.02,False,False,pure_batter,3.0,1.0,7.0,3.0,42.86,tailender,,,,,,
+Tana Davit,Arunachal Pradesh,2018.0,24.73,0.0,12.36,False,False,pure_batter,12.0,3.0,18.0,4.0,66.67,tailender,,,,,,
+Tanay Thyagarajan,Hyderabad (India),2022.0,48.71,65.69,57.2,False,False,utility_player,111.0,11.0,86.0,10.09,129.07,tailender,9.0,16.0,342.0,0.562,6.7,middle_overs_bowler
+Tanmay Agarwal,Hyderabad (India),2023.0,63.16,0.0,31.58,False,False,pure_batter,925.0,36.0,747.0,25.69,123.83,anchor_opener,,,,,,
+Tanush Gusain,Uttarakhand,2021.0,26.95,0.0,13.48,False,False,pure_batter,7.0,1.0,10.0,7.0,70.0,anchor_opener,,,,,,
+Tanush Kotian,Mumbai,2022.0,50.23,89.72,69.97,False,False,pure_bowler,51.0,4.0,39.0,12.75,130.77,tailender,18.0,15.0,289.0,1.2,6.44,middle_overs_bowler
+Tanveer Ul-Haq,Rajasthan,2021.0,27.24,87.09,57.16,False,False,pure_bowler,38.0,8.0,52.0,4.75,73.08,tailender,13.0,12.0,234.0,1.083,6.41,powerplay_bowler
+Tarang Gohel,Saurashtra,2024.0,76.77,0.0,38.38,False,False,pure_batter,143.0,7.0,82.0,20.43,174.39,aggressive_opener,,,,,,
+Tarani Sa,Odisha,2020.0,0.0,76.82,38.41,False,False,pure_bowler,0.0,1.0,3.0,0.0,0.0,tailender,2.0,2.0,36.0,1.0,9.33,part_time_bowler
+Tashi Bhalla,Sikkim,2018.0,29.03,40.15,34.59,False,False,pure_batter,17.0,3.0,22.0,5.67,77.27,tailender,0.0,2.0,18.0,0.0,17.0,part_time_bowler
+Techi Doria,Arunachal Pradesh,2023.0,36.91,70.4,53.66,False,True,bowling_allrounder,242.0,16.0,304.0,15.12,79.61,anchor_opener,7.0,9.0,138.0,0.778,8.39,middle_overs_bowler
+Techi Neri,Arunachal Pradesh,2023.0,26.65,54.16,40.4,False,False,utility_player,64.0,11.0,91.0,5.82,70.33,tailender,3.0,11.0,204.0,0.273,7.79,middle_overs_bowler
+Techi Sonam,Arunachal Pradesh,2021.0,9.8,0.0,4.9,False,False,pure_batter,4.0,3.0,15.0,1.33,26.67,middle_order,,,,,,
+Tejas Baroka,Delhi,2017.0,0.0,38.17,19.08,False,False,unknown,,,,,,,0.0,2.0,18.0,0.0,15.0,part_time_bowler
+Tejas Patel,Gujarat,2021.0,66.47,76.21,71.34,False,False,pure_bowler,43.0,4.0,24.0,10.75,179.17,tailender,9.0,11.0,209.0,0.818,8.24,powerplay_bowler
+Tejosel Yiethun,Nagaland,2019.0,26.13,0.0,13.06,False,False,pure_batter,8.0,1.0,12.0,8.0,66.67,anchor_opener,,,,,,
+Temjentoshi Jamir,Nagaland,2019.0,12.37,0.0,6.18,False,False,pure_batter,2.0,1.0,6.0,2.0,33.33,tailender,,,,,,
+Thivagar Gopal,Puducherry,2022.0,0.0,86.81,43.4,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,8.67,part_time_bowler
+Thomas Moirangthem,Manipur,2019.0,13.19,83.69,48.44,False,False,pure_bowler,4.0,3.0,11.0,1.33,36.36,tailender,4.0,4.0,66.0,1.0,7.64,death_bowler
+Tilak Varma,Hyderabad (India),2023.0,73.99,54.36,64.18,False,False,utility_player,520.0,18.0,360.0,28.89,144.44,top_order_anchor,2.0,6.0,60.0,0.333,7.8,middle_overs_bowler
+Toni Chishi,Nagaland,2018.0,26.31,51.03,38.67,False,False,pure_bowler,12.0,1.0,19.0,12.0,63.16,middle_order,1.0,3.0,24.0,0.333,12.0,part_time_bowler
+Treyaksh Bali,Haryana,2019.0,38.59,0.0,19.3,False,False,pure_batter,49.0,6.0,48.0,8.17,102.08,anchor_opener,,,,,,
+Tripuresh Singh,Madhya Pradesh,2024.0,0.0,94.81,47.4,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,4.0,3.0,59.0,1.333,8.24,part_time_bowler
+Trishank Gupta,Hyderabad (India),2022.0,0.0,45.72,22.86,False,False,unknown,,,,,,,0.0,2.0,24.0,0.0,6.5,part_time_bowler
+Tukuna Sahoo,Odisha,2015.0,25.61,61.5,43.56,False,False,pure_bowler,15.0,3.0,22.0,5.0,68.18,anchor_opener,2.0,4.0,60.0,0.5,6.7,middle_overs_bowler
+Tushar Gill,Vidarbha,2019.0,36.71,0.0,18.36,False,False,pure_batter,16.0,1.0,18.0,16.0,88.89,tailender,,,,,,
+U Kaul,Mizoram,2021.0,68.54,0.0,34.27,False,False,pure_batter,140.0,4.0,145.0,35.0,96.55,anchor_opener,,,,,,
+U U Bose,Tripura,2020.0,50.48,56.69,53.58,False,False,utility_player,434.0,24.0,376.0,18.08,115.43,anchor_opener,2.0,5.0,50.0,0.4,8.28,part_time_bowler
+UBT Chand,Delhi,2018.0,67.1,0.0,33.55,False,False,pure_batter,516.0,20.0,392.0,25.8,131.63,aggressive_opener,,,,,,
+UR Kumar,Gujarat,2023.0,71.84,0.0,35.92,False,False,pure_batter,92.0,4.0,66.0,23.0,139.39,middle_order,,,,,,
+UR Patel,Vidarbha,2015.0,63.39,0.0,31.7,False,False,pure_batter,112.0,5.0,90.0,22.4,124.44,middle_order,,,,,,
+UT Yadav,Vidarbha,2022.0,78.65,71.3,74.97,False,False,pure_bowler,56.0,6.0,26.0,9.33,215.38,tailender,8.0,12.0,242.0,0.667,7.24,death_bowler
+Umang Sharma,Uttar Pradesh,2017.0,74.32,41.6,57.96,False,False,pure_batter,264.0,11.0,168.0,24.0,157.14,top_order_aggressor,0.0,2.0,24.0,0.0,9.0,part_time_bowler
+Umar Alam,Jammu & Kashmir,2015.0,22.58,107.06,64.82,False,False,pure_bowler,9.0,2.0,15.0,4.5,60.0,tailender,5.0,3.0,66.0,1.667,6.64,powerplay_bowler
+Umar Nazir,Jammu & Kashmir,2020.0,39.43,69.06,54.24,False,False,pure_bowler,13.0,3.0,12.0,4.33,108.33,tailender,6.0,9.0,191.0,0.667,8.58,powerplay_bowler
+Umran Malik,Jammu & Kashmir,2023.0,0.0,113.24,56.62,False,False,pure_bowler,,,,,,,13.0,7.0,168.0,1.857,6.89,death_bowler
+Unnikrishnan Manukrishnan,Kerala,2023.0,56.18,95.38,75.78,False,False,pure_bowler,44.0,5.0,29.0,8.8,151.72,tailender,19.0,14.0,300.0,1.357,6.98,powerplay_bowler
+Upendra Yadav,Uttar Pradesh,2023.0,59.68,0.0,29.84,False,False,pure_batter,537.0,24.0,449.0,22.38,119.6,anchor_opener,,,,,,
+Urvil Patel,Gujarat,2023.0,66.05,0.0,33.02,False,False,pure_batter,611.0,31.0,401.0,19.71,152.37,aggressive_opener,,,,,,
+Utkarsh Singh,Jharkhand,2021.0,56.62,91.76,74.19,True,True,batting_allrounder,174.0,9.0,141.0,19.33,123.4,anchor_opener,20.0,16.0,289.0,1.25,6.35,powerplay_bowler
+Uvais Ahmad,Arunachal Pradesh,2019.0,78.25,0.0,39.12,False,False,pure_batter,214.0,7.0,127.0,30.57,168.5,finisher,,,,,,
+V Athisayaraj Davidson,Tamil Nadu,2017.0,35.35,91.7,63.53,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,12.0,9.0,180.0,1.333,7.9,death_bowler
+V Cheluvaraj,Railways,2015.0,30.26,0.0,15.13,False,False,pure_batter,27.0,2.0,37.0,13.5,72.97,middle_order,,,,,,
+V Dhaka,Railways,2020.0,22.05,45.26,33.66,False,False,pure_batter,3.0,1.0,5.0,3.0,60.0,middle_order,0.0,1.0,18.0,0.0,7.67,part_time_bowler
+V Kaverappa,Karnataka,2023.0,0.0,94.15,47.08,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,5.0,4.0,81.0,1.25,6.44,death_bowler
+V M Jivrajani,Saurashtra,2019.0,0.0,87.6,43.8,False,False,pure_bowler,,,,,,,6.0,5.0,114.0,1.2,7.37,middle_overs_bowler
+V Nayanar,Kerala,2023.0,37.45,0.0,18.73,False,False,pure_batter,7.0,1.0,7.0,7.0,100.0,anchor_opener,,,,,,
+V Nigam,Uttar Pradesh,2024.0,37.45,43.92,40.68,False,False,pure_batter,7.0,1.0,7.0,7.0,100.0,tailender,0.0,1.0,12.0,0.0,11.0,part_time_bowler
+V Panwar,Uttar Pradesh,2024.0,66.15,77.85,72.0,False,False,pure_bowler,9.0,1.0,5.0,9.0,180.0,tailender,1.0,1.0,24.0,1.0,8.5,part_time_bowler
+V Pratap Singh,Chhattisgarh,2020.0,6.07,59.74,32.9,False,False,pure_bowler,2.0,3.0,12.0,0.67,16.67,tailender,3.0,7.0,126.0,0.429,9.0,powerplay_bowler
+V Sehwag,Haryana,2015.0,16.25,0.0,8.12,False,False,pure_batter,4.0,2.0,9.0,2.0,44.44,anchor_opener,,,,,,
+V Shankar,Tamil Nadu,2023.0,63.27,61.23,62.25,True,False,batting_allrounder,625.0,25.0,487.0,25.0,128.34,top_order_anchor,6.0,15.0,193.0,0.4,7.49,powerplay_bowler
+V Tokas,Delhi,2018.0,21.52,67.9,44.71,False,False,pure_bowler,3.0,2.0,5.0,1.5,60.0,tailender,2.0,3.0,37.0,0.667,10.54,part_time_bowler
+V Vishal,Jharkhand,2020.0,37.97,0.0,18.98,False,False,pure_batter,21.0,1.0,24.0,21.0,87.5,anchor_opener,,,,,,
+VA Jagadeesh,Kerala,2015.0,34.95,73.97,54.46,False,False,utility_player,84.0,8.0,94.0,10.5,89.36,anchor_opener,6.0,7.0,114.0,0.857,7.63,middle_overs_bowler
+VA Naik,Goa,2022.0,0.0,46.19,23.1,False,False,unknown,,,,,,,0.0,2.0,18.0,0.0,5.33,part_time_bowler
+VG Arora,Himachal Pradesh,2022.0,35.7,93.86,64.78,False,False,pure_bowler,2.0,1.0,2.0,2.0,100.0,tailender,19.0,15.0,328.0,1.267,7.08,powerplay_bowler
+VH Zol,Maharashtra,2019.0,43.25,0.0,21.62,False,False,pure_batter,132.0,8.0,137.0,16.5,96.35,anchor_opener,,,,,,
+VK Saha,Tripura,2023.0,21.23,67.78,44.5,False,False,pure_bowler,7.0,3.0,12.0,2.33,58.33,tailender,2.0,4.0,84.0,0.5,6.29,powerplay_bowler
+VK Singh,Goa,2023.0,0.0,69.78,34.89,False,False,pure_bowler,,,,,,,1.0,2.0,30.0,0.5,6.8,part_time_bowler
+VR Aaron,Jharkhand,2022.0,12.21,87.88,50.04,False,False,pure_bowler,14.0,6.0,43.0,2.33,32.56,tailender,26.0,22.0,457.0,1.182,9.28,powerplay_bowler
+VR Iyer,Madhya Pradesh,2024.0,68.62,72.56,70.59,True,True,batting_allrounder,901.0,33.0,655.0,27.3,137.56,finisher,22.0,30.0,462.0,0.733,7.1,middle_overs_bowler
+VS Kahlon,Goa,2022.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,3.0,0.0,0.0,middle_order,,,,,,
+VV Gite,Maharashtra,2019.0,96.13,75.76,85.94,False,False,pure_bowler,8.0,1.0,3.0,8.0,266.67,tailender,6.0,7.0,121.0,0.857,8.83,powerplay_bowler
+VV More,Maharashtra,2020.0,55.1,0.0,27.55,False,False,pure_batter,13.0,1.0,9.0,13.0,144.44,tailender,,,,,,
+Vaibhav Bhatt,Uttarakhand,2021.0,24.03,0.0,12.02,False,False,pure_batter,2.0,1.0,3.0,2.0,66.67,middle_order,,,,,,
+Vaibhav Govekar,Goa,2020.0,71.51,37.6,54.56,False,False,pure_batter,32.0,2.0,22.0,16.0,145.45,anchor_opener,0.0,1.0,2.0,0.0,6.0,part_time_bowler
+Vaibhav Singh Panwar,Uttarakhand,2019.0,53.62,45.87,49.74,False,False,pure_batter,180.0,9.0,172.0,20.0,104.65,middle_order,0.0,2.0,20.0,0.0,7.2,part_time_bowler
+Vaisakh Chandran,Kerala,2022.0,0.0,46.73,23.36,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,4.0,part_time_bowler
+Varun Choudhary,Services,2021.0,34.88,104.9,69.89,False,False,pure_bowler,13.0,1.0,15.0,13.0,86.67,tailender,19.0,11.0,257.0,1.727,8.8,death_bowler
+Varun Sood,Sikkim,2020.0,50.64,69.01,59.82,False,True,bowling_allrounder,185.0,9.0,176.0,20.56,105.11,aggressive_opener,7.0,11.0,222.0,0.636,7.32,middle_overs_bowler
+Vasuki Koushik,Karnataka,2020.0,22.89,89.33,56.11,False,False,pure_bowler,7.0,4.0,11.0,1.75,63.64,tailender,29.0,24.0,523.0,1.208,8.07,death_bowler
+Vidyadhar Patil,Karnataka,2021.0,35.35,71.74,53.54,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,5.0,6.0,132.0,0.833,8.23,death_bowler
+Vignesh Kannan,Puducherry,2020.0,0.0,79.32,39.66,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,10.0,part_time_bowler
+Vijay Bharti,Bihar,2019.0,29.67,0.0,14.84,False,False,pure_batter,28.0,4.0,36.0,7.0,77.78,anchor_opener,,,,,,
+Vijay Jethi,Uttarakhand,2021.0,42.52,0.0,21.26,False,False,pure_batter,18.0,2.0,16.0,9.0,112.5,middle_order,,,,,,
+Vijay Rao,Arunachal Pradesh,2021.0,21.52,0.0,10.76,False,False,pure_batter,3.0,2.0,5.0,1.5,60.0,middle_order,,,,,,
+Vijay Sharma,Uttarakhand,2022.0,44.35,0.0,22.18,False,False,pure_batter,119.0,10.0,112.0,11.9,106.25,middle_order,,,,,,
+Vijaykumar Vyshak,Karnataka,2023.0,30.39,84.5,57.44,False,False,pure_bowler,11.0,5.0,13.0,2.2,84.62,tailender,11.0,10.0,216.0,1.1,8.75,death_bowler
+Vijesh Prabhudessai,Goa,2018.0,23.68,73.99,48.83,False,False,pure_bowler,2.0,2.0,3.0,1.0,66.67,tailender,7.0,8.0,147.0,0.875,11.14,death_bowler
+Vikas Hathwala,Services,2021.0,51.7,58.98,55.34,False,False,pure_batter,364.0,22.0,315.0,16.55,115.56,middle_order,1.0,3.0,54.0,0.333,6.0,part_time_bowler
+Vikas Mishra,Delhi,2019.0,35.35,54.08,44.72,False,False,pure_batter,1.0,1.0,1.0,1.0,100.0,tailender,0.0,1.0,24.0,0.0,6.5,part_time_bowler
+Vikas Yadav,Services,2021.0,43.36,80.65,62.0,False,False,pure_bowler,48.0,5.0,42.0,9.6,114.29,tailender,20.0,20.0,462.0,1.0,6.57,middle_overs_bowler
+Vikash Kumar,Mizoram,2023.0,42.3,0.0,21.15,False,False,pure_batter,21.0,5.0,18.0,4.2,116.67,middle_order,,,,,,
+Vikash Singh,Jharkhand,2020.0,43.36,71.3,57.33,False,False,pure_bowler,48.0,5.0,42.0,9.6,114.29,tailender,14.0,20.0,408.0,0.7,8.56,death_bowler
+Vikash Yadav,Bihar,2020.0,39.9,0.0,19.95,False,False,pure_batter,14.0,1.0,14.0,14.0,100.0,tailender,,,,,,
+Vikrant Rajput,Railways,2020.0,63.3,39.17,51.24,False,False,pure_batter,153.0,6.0,136.0,25.5,112.5,top_order_anchor,0.0,2.0,12.0,0.0,12.5,part_time_bowler
+Vinod Kumar,Kerala,2017.0,30.04,41.16,35.6,False,False,pure_batter,5.0,2.0,6.0,2.5,83.33,tailender,0.0,3.0,60.0,0.0,9.6,all_phases_bowler
+Vinoop Manoharan,Kerala,2018.0,54.26,85.4,69.83,False,False,utility_player,131.0,8.0,123.0,16.38,106.5,middle_order,7.0,6.0,114.0,1.167,7.79,middle_overs_bowler
+Vipin Dhaka,Arunachal Pradesh,2021.0,24.22,0.0,12.11,False,False,pure_batter,17.0,2.0,28.0,8.5,60.71,middle_order,,,,,,
+Vipin Kumar,Haryana,2019.0,0.0,50.5,25.25,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,5.0,part_time_bowler
+Vipul Krishna,Bihar,2019.0,0.0,77.57,38.78,False,False,pure_bowler,,,,,,,2.0,2.0,30.0,1.0,14.4,part_time_bowler
+Virat Singh,Jharkhand,2021.0,72.65,49.77,61.21,False,False,pure_batter,1236.0,36.0,948.0,34.33,130.38,top_order_anchor,1.0,5.0,60.0,0.2,8.7,middle_overs_bowler
+Vishal Das,Bihar,2018.0,17.68,81.82,49.75,False,False,pure_bowler,1.0,2.0,2.0,0.5,50.0,tailender,4.0,4.0,78.0,1.0,7.77,powerplay_bowler
+Vishal Jayswal,Gujarat,2023.0,39.58,74.18,56.88,False,False,pure_bowler,12.0,3.0,11.0,4.0,109.09,tailender,2.0,2.0,24.0,1.0,12.5,part_time_bowler
+Vishal Kushwah,Chhattisgarh,2021.0,69.89,80.79,75.34,True,True,batting_allrounder,309.0,18.0,189.0,17.17,163.49,finisher,14.0,13.0,222.0,1.077,9.46,middle_overs_bowler
+Vishal Sharma,Hyderabad (India),2015.0,0.0,44.46,22.23,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,9.67,part_time_bowler
+Vishnu Solanki,Baroda,2024.0,55.57,40.57,48.07,False,False,pure_batter,834.0,40.0,703.0,20.85,118.63,finisher,0.0,1.0,6.0,0.0,9.0,part_time_bowler
+Vishnu Vinod,Kerala,2023.0,71.58,43.54,57.56,False,False,pure_batter,768.0,27.0,532.0,28.44,144.36,aggressive_opener,0.0,2.0,19.0,0.0,7.58,part_time_bowler
+Vishvaraj Jadeja,Saurashtra,2024.0,52.58,0.0,26.29,False,False,pure_batter,315.0,18.0,266.0,17.5,118.42,finisher,,,,,,
+Vivek Kumar,Bihar,2019.0,42.88,62.92,52.9,False,False,pure_bowler,32.0,8.0,27.0,4.0,118.52,tailender,4.0,8.0,161.0,0.5,8.57,powerplay_bowler
+Vivek Singh,Bengal,2023.0,66.48,49.58,58.03,False,False,pure_batter,1056.0,42.0,775.0,25.14,136.26,aggressive_opener,1.0,8.0,84.0,0.125,7.79,middle_overs_bowler
+Vivekanand Tiwari,Jharkhand,2021.0,54.6,82.4,68.5,False,False,pure_bowler,18.0,3.0,12.0,6.0,150.0,tailender,6.0,6.0,96.0,1.0,8.88,powerplay_bowler
+Vivrant Sharma,Jammu & Kashmir,2023.0,39.29,0.0,19.64,False,False,pure_batter,56.0,4.0,57.0,14.0,98.25,anchor_opener,,,,,,
+W Nongkhlaw,Meghalaya,2018.0,18.55,0.0,9.28,False,False,pure_batter,3.0,1.0,6.0,3.0,50.0,tailender,,,,,,
+WP Saha,Bengal,2023.0,60.72,0.0,30.36,False,False,pure_batter,561.0,24.0,436.0,23.38,128.67,aggressive_opener,,,,,,
+Walter Toppo,Odisha,2020.0,37.8,0.0,18.9,False,False,pure_batter,8.0,1.0,8.0,8.0,100.0,tailender,,,,,,
+Waseem Raza,Jammu & Kashmir,2017.0,24.73,72.09,48.41,False,False,pure_bowler,32.0,8.0,48.0,4.0,66.67,tailender,11.0,14.0,255.0,0.786,7.93,middle_overs_bowler
+Washington Sundar,Tamil Nadu,2023.0,61.29,75.11,68.2,False,True,bowling_allrounder,576.0,25.0,489.0,23.04,117.79,aggressive_opener,21.0,27.0,570.0,0.778,6.31,powerplay_bowler
+Wasiqur Rahman,Assam,2022.0,31.9,0.0,15.95,False,False,pure_batter,95.0,15.0,112.0,6.33,84.82,middle_order,,,,,,
+Writtick Chatterjee,Bengal,2024.0,64.13,82.34,73.24,True,True,batting_allrounder,237.0,13.0,171.0,18.23,138.6,middle_order,15.0,15.0,276.0,1.0,6.33,middle_overs_bowler
+X Thalaivan Sargunam,Puducherry,2018.0,31.94,0.0,15.97,False,False,pure_batter,103.0,6.0,139.0,17.17,74.1,middle_order,,,,,,
+Y Avinash Jadhav,Puducherry,2022.0,51.57,0.0,25.78,False,False,pure_batter,28.0,2.0,21.0,14.0,133.33,aggressive_opener,,,,,,
+Y Nagar,Meghalaya,2018.0,42.49,0.0,21.24,False,False,pure_batter,91.0,6.0,99.0,15.17,91.92,anchor_opener,,,,,,
+Y Prithvi Raj,Andhra,2018.0,106.05,131.85,118.95,False,False,pure_bowler,3.0,1.0,1.0,3.0,300.0,tailender,5.0,2.0,47.0,2.5,11.74,part_time_bowler
+Y Sandeep,Andhra,2023.0,17.85,0.0,8.93,False,False,pure_batter,1.0,1.0,2.0,1.0,50.0,middle_order,,,,,,
+Y Sera,Arunachal Pradesh,2023.0,0.0,41.1,20.55,False,False,unknown,,,,,,,0.0,2.0,24.0,0.0,15.5,part_time_bowler
+YB Kothari,Rajasthan,2022.0,28.12,0.0,14.06,False,False,pure_batter,53.0,5.0,76.0,10.6,69.74,anchor_opener,,,,,,
+YBK Jaiswal,Mumbai,2023.0,60.37,43.53,51.95,False,False,pure_batter,349.0,16.0,270.0,21.81,129.26,middle_order,0.0,2.0,12.0,0.0,12.0,part_time_bowler
+YD Gardharia,Gujarat,2018.0,0.0,42.72,21.36,False,False,unknown,0.0,1.0,1.0,0.0,0.0,tailender,0.0,1.0,12.0,0.0,14.0,part_time_bowler
+YK Pathan,Baroda,2019.0,44.38,70.47,57.42,False,True,bowling_allrounder,354.0,23.0,353.0,15.39,100.28,finisher,5.0,7.0,89.0,0.714,6.67,middle_overs_bowler
+YR Sharma,Haryana,2020.0,46.35,0.0,23.18,False,False,pure_batter,58.0,5.0,48.0,11.6,120.83,middle_order,,,,,,
+YS Chahal,Haryana,2021.0,12.02,72.4,42.21,False,False,pure_bowler,5.0,5.0,15.0,1.0,33.33,tailender,20.0,27.0,555.0,0.741,7.41,middle_overs_bowler
+YV Dhull,Delhi,2024.0,62.03,0.0,31.02,False,False,pure_batter,284.0,10.0,268.0,28.4,105.97,top_order_anchor,,,,,,
+YV Rathod,Vidarbha,2020.0,83.25,0.0,41.62,False,False,pure_batter,36.0,1.0,31.0,36.0,116.13,top_order_anchor,,,,,,
+YV Takawale,Nagaland,2019.0,37.45,0.0,18.73,False,False,pure_batter,69.0,6.0,85.0,11.5,81.18,anchor_opener,,,,,,
+YY Singh,Haryana,2022.0,42.47,0.0,21.24,False,False,pure_batter,13.0,1.0,12.0,13.0,108.33,anchor_opener,,,,,,
+Yab Niya,Arunachal Pradesh,2023.0,11.08,51.7,31.39,False,False,pure_bowler,12.0,5.0,41.0,2.4,29.27,tailender,2.0,9.0,129.0,0.222,10.05,powerplay_bowler
+Yash Dayal,Uttar Pradesh,2019.0,18.2,76.96,47.58,False,False,pure_bowler,6.0,3.0,12.0,2.0,50.0,tailender,16.0,19.0,336.0,0.842,7.34,death_bowler
+Yash Nahar,Maharashtra,2021.0,57.47,0.0,28.74,False,False,pure_batter,250.0,12.0,205.0,20.83,121.95,anchor_opener,,,,,,
+Yash Thakur,Vidarbha,2020.0,23.37,101.95,62.66,False,False,pure_bowler,23.0,8.0,36.0,2.88,63.89,tailender,48.0,31.0,602.0,1.548,6.77,death_bowler
+Yashaswi Rishav,Bihar,2022.0,44.07,0.0,22.04,False,False,pure_batter,48.0,3.0,59.0,16.0,81.36,anchor_opener,,,,,,
+Yashpal Singh,Sikkim,2019.0,65.92,65.26,65.59,False,True,bowling_allrounder,547.0,20.0,463.0,27.35,118.14,top_order_anchor,5.0,9.0,125.0,0.556,7.01,middle_overs_bowler
+Yogesh Sharma,Delhi,2022.0,35.35,64.57,49.96,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,1.0,2.0,42.0,0.5,6.14,part_time_bowler
+Yogesh Tiwari,Meghalaya,2021.0,44.07,0.0,22.04,False,False,pure_batter,63.0,4.0,71.0,15.75,88.73,anchor_opener,,,,,,
+Yudhvir Singh,Jammu & Kashmir,2023.0,68.4,82.35,75.38,False,False,pure_bowler,38.0,7.0,20.0,5.43,190.0,middle_order,10.0,10.0,204.0,1.0,8.24,death_bowler
+Yuvraj Chaudhary,Chandigarh,2021.0,0.0,84.9,42.45,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,6.5,part_time_bowler
+Yuvraj Chudasama,Saurashtra,2017.0,27.3,71.6,49.45,False,False,pure_bowler,9.0,3.0,12.0,3.0,75.0,tailender,7.0,9.0,157.0,0.778,7.76,middle_overs_bowler
+Yuvraj Singh,Punjab,2023.0,54.6,74.92,64.76,False,True,bowling_allrounder,338.0,18.0,311.0,18.78,108.68,middle_order,16.0,20.0,284.0,0.8,8.01,powerplay_bowler
+Zafar Ali,Madhya Pradesh,2015.0,53.81,0.0,26.9,False,False,pure_batter,71.0,5.0,58.0,14.2,122.41,aggressive_opener,,,,,,
+Zahoor Sofi,Jammu & Kashmir,2015.0,21.75,63.16,42.46,False,False,pure_bowler,20.0,4.0,35.0,5.0,57.14,tailender,2.0,4.0,57.0,0.5,7.79,part_time_bowler
+Zeeshan Ansari,Uttar Pradesh,2018.0,0.0,44.1,22.05,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,8.0,part_time_bowler
