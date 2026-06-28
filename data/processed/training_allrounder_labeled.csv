@@ -1,0 +1,795 @@
+player,team,season_start_year,batting_strength_score,bowling_strength_score,allrounder_index,is_batting_allrounder,is_bowling_allrounder,allrounder_role,total_runs,total_matches,total_balls_faced,avg_runs,strike_rate,batting_role,total_wickets,total_matches_bowled,total_balls_bowled,avg_wickets_per_match,economy_rate,bowling_role,success_label,predicted_success_probability
+A Ashish Reddy,Sunrisers Hyderabad,2016.0,57.65,75.8,66.72,False,True,bowling_allrounder,280.0,23.0,193.0,12.17,145.08,tailender,18.0,20.0,262.0,0.9,9.07,death_bowler,1,0.9823657557759632
+A Badoni,Lucknow Super Giants,2026.0,64.32,59.31,61.82,False,False,utility_player,1135.0,54.0,817.0,21.02,138.92,finisher,4.0,8.0,41.0,0.5,9.22,part_time_bowler,1,0.6658972915618281
+A Chandila,Rajasthan Royals,2013.0,20.7,80.84,50.77,False,False,pure_bowler,4.0,2.0,7.0,2.0,57.14,tailender,11.0,12.0,234.0,0.917,6.21,powerplay_bowler,0,0.03725600813829795
+A Chopra,Kolkata Knight Riders,2009.0,29.22,0.0,14.61,False,False,pure_batter,53.0,6.0,71.0,8.83,74.65,anchor_opener,,,,,,,0,0.0050290581550837135
+A Choudhary,Royal Challengers Bengaluru,2017.0,46.67,81.98,64.32,False,False,pure_bowler,25.0,3.0,20.0,8.33,125.0,tailender,5.0,5.0,101.0,1.0,8.55,powerplay_bowler,1,0.9503948634713754
+A Dananjaya,Mumbai Indians,2018.0,29.4,41.55,35.47,False,False,pure_batter,4.0,1.0,5.0,4.0,80.0,tailender,0.0,1.0,24.0,0.0,11.75,part_time_bowler,1,0.9540246698520717
+A Flintoff,Chennai Super Kings,2009.0,48.18,67.47,57.82,False,False,pure_bowler,62.0,3.0,53.0,20.67,116.98,middle_order,2.0,3.0,66.0,0.667,9.55,death_bowler,1,0.757590311045749
+A Kamboj,Chennai Super Kings,2026.0,45.89,91.29,68.59,False,False,pure_bowler,55.0,9.0,44.0,6.11,125.0,tailender,24.0,19.0,355.0,1.263,8.84,powerplay_bowler,1,0.9698208723734438
+A Kumble,Royal Challengers Bengaluru,2010.0,26.88,85.13,56.0,False,False,pure_bowler,35.0,15.0,47.0,2.33,74.47,tailender,45.0,42.0,965.0,1.071,6.58,middle_overs_bowler,1,0.8639504539079806
+A Manohar,Gujarat Titans,2025.0,54.6,0.0,27.3,False,False,pure_batter,292.0,20.0,235.0,14.6,124.26,tailender,,,,,,,1,0.8189371606710844
+A Mhatre,Chennai Super Kings,2026.0,96.94,0.0,48.47,False,False,pure_batter,441.0,13.0,240.0,33.92,183.75,top_order_anchor,,,,,,,1,0.9945000407323109
+A Mishra,Delhi Capitals,2023.0,35.33,83.69,59.51,False,True,bowling_allrounder,381.0,55.0,419.0,6.93,90.93,tailender,174.0,162.0,3371.0,1.074,7.38,middle_overs_bowler,0,0.22544794479253014
+A Mithun,Royal Challengers Bengaluru,2013.0,47.75,59.65,53.7,False,False,pure_bowler,34.0,6.0,26.0,5.67,130.77,tailender,7.0,16.0,288.0,0.438,9.83,middle_overs_bowler,1,0.7397412951214577
+A Mukund,Chennai Super Kings,2013.0,33.55,0.0,16.77,False,False,pure_batter,19.0,2.0,22.0,9.5,86.36,anchor_opener,,,,,,,0,0.0036884865556568833
+A Nehra,Delhi Capitals,2016.0,23.99,89.88,56.93,False,False,pure_bowler,41.0,17.0,62.0,2.41,66.13,tailender,106.0,88.0,1908.0,1.205,7.85,powerplay_bowler,1,0.9181476135252109
+A Nel,Mumbai Indians,2008.0,0.0,80.59,40.3,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,10.33,part_time_bowler,0,0.007135795716416973
+A Nortje,Delhi Capitals,2026.0,35.52,90.04,62.78,False,False,pure_bowler,49.0,14.0,50.0,3.5,98.0,tailender,61.0,49.0,1120.0,1.245,9.09,death_bowler,1,0.9834018086856414
+A Raghuvanshi,Kolkata Knight Riders,2026.0,71.99,0.0,35.99,False,False,pure_batter,672.0,26.0,468.0,25.85,143.59,top_order_anchor,,,,,,,1,0.9973696740242943
+A Singh,Rajasthan Royals,2012.0,7.14,90.03,48.58,False,False,pure_bowler,2.0,5.0,10.0,0.4,20.0,tailender,28.0,23.0,473.0,1.217,7.86,death_bowler,0,0.0858414399965377
+A Symonds,Sunrisers Hyderabad,2011.0,66.6,70.05,68.32,True,True,batting_allrounder,974.0,36.0,750.0,27.06,129.87,top_order_anchor,20.0,30.0,527.0,0.667,7.67,middle_overs_bowler,1,0.8837670191579236
+A Tomar,Kolkata Knight Riders,2022.0,18.9,0.0,9.45,False,False,pure_batter,4.0,1.0,8.0,4.0,50.0,anchor_opener,,,,,,,0,0.0019175794465418811
+A Uniyal,Rajasthan Royals,2010.0,20.7,76.85,48.78,False,False,pure_bowler,4.0,2.0,7.0,2.0,57.14,tailender,2.0,2.0,36.0,1.0,11.0,part_time_bowler,0,0.02808154937833218
+A Zampa,Rajasthan Royals,2023.0,22.92,93.61,58.26,False,False,pure_bowler,15.0,5.0,24.0,3.0,62.5,tailender,31.0,22.0,467.0,1.409,8.38,middle_overs_bowler,1,0.9772328947832798
+AA Bilakhia,Sunrisers Hyderabad,2010.0,31.86,0.0,15.93,False,False,pure_batter,69.0,7.0,85.0,9.86,81.18,middle_order,,,,,,,0,0.005253579860307444
+AA Chavan,Rajasthan Royals,2012.0,39.58,69.47,54.52,False,False,pure_bowler,12.0,3.0,11.0,4.0,109.09,tailender,8.0,13.0,248.0,0.615,7.89,powerplay_bowler,1,0.7810824851036102
+AA Jhunjhunwala,Rajasthan Royals,2012.0,45.22,48.08,46.65,False,False,pure_bowler,217.0,15.0,210.0,14.47,103.33,middle_order,1.0,10.0,85.0,0.1,9.11,powerplay_bowler,0,0.3727319224670095
+AA Kazi,Royal Challengers Bengaluru,2011.0,0.0,39.98,19.99,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,10.5,part_time_bowler,1,0.5893227120668194
+AA Kulkarni,Lucknow Super Giants,2024.0,40.95,0.0,20.48,False,False,pure_batter,9.0,2.0,8.0,4.5,112.5,anchor_opener,,,,,,,0,0.0072883794719904955
+AA Noffke,Royal Challengers Bengaluru,2008.0,34.65,78.3,56.47,False,False,pure_bowler,9.0,1.0,10.0,9.0,90.0,tailender,1.0,1.0,24.0,1.0,10.0,part_time_bowler,1,0.9422016062253721
+AB Agarkar,Kolkata Knight Riders,2013.0,45.84,69.34,57.59,False,True,bowling_allrounder,179.0,18.0,154.0,9.94,116.23,tailender,29.0,42.0,782.0,0.69,8.83,middle_overs_bowler,0,0.20518867812164301
+AB Barath,Punjab Kings,2010.0,49.89,0.0,24.94,False,False,pure_batter,42.0,3.0,42.0,14.0,100.0,anchor_opener,,,,,,,0,0.021449176171130454
+AB Dinda,Pune Warriors,2017.0,19.53,79.59,49.56,False,False,pure_bowler,26.0,16.0,48.0,1.62,54.17,tailender,69.0,75.0,1516.0,0.92,8.2,powerplay_bowler,0,0.018158737231849558
+AB McDonald,Delhi Capitals,2013.0,54.49,82.13,68.31,False,False,utility_player,123.0,9.0,100.0,13.67,123.0,middle_order,11.0,10.0,186.0,1.1,8.42,middle_overs_bowler,1,0.9377439282936456
+AB de Villiers,Royal Challengers Bengaluru,2021.0,75.36,0.0,37.68,False,False,pure_batter,5162.0,170.0,3403.0,30.36,151.69,top_order_anchor,,,,,,,1,0.9979357578870403
+AC Blizzard,Mumbai Indians,2012.0,61.24,0.0,30.62,False,False,pure_batter,120.0,7.0,90.0,17.14,133.33,aggressive_opener,,,,,,,1,0.9880781903399048
+AC Gilchrist,Sunrisers Hyderabad,2013.0,67.24,100.0,83.62,False,False,pure_batter,2069.0,80.0,1495.0,25.86,138.39,aggressive_opener,1.0,1.0,1.0,1.0,0.0,part_time_bowler,1,0.9558778323600187
+AC Thomas,Pune Warriors,2012.0,38.59,80.11,59.35,False,False,pure_bowler,20.0,4.0,19.0,5.0,105.26,tailender,14.0,15.0,315.0,0.933,7.73,death_bowler,1,0.8481307673074002
+AC Voges,Rajasthan Royals,2010.0,61.93,43.57,52.75,False,False,pure_batter,181.0,7.0,143.0,25.86,126.57,finisher,0.0,7.0,54.0,0.0,8.44,part_time_bowler,1,0.9819130918609889
+AD Hales,Sunrisers Hyderabad,2018.0,67.53,0.0,33.76,False,False,pure_batter,148.0,6.0,118.0,24.67,125.42,aggressive_opener,,,,,,,1,0.9916870914189139
+AD Mascarenhas,Rajasthan Royals,2013.0,37.96,98.94,68.45,False,False,pure_bowler,79.0,11.0,78.0,7.18,101.28,tailender,19.0,13.0,308.0,1.462,6.94,powerplay_bowler,1,0.9824072279606301
+AD Mathews,Pune Warriors,2017.0,56.1,65.72,60.91,True,True,batting_allrounder,724.0,41.0,575.0,17.66,125.91,finisher,27.0,44.0,791.0,0.614,8.18,middle_overs_bowler,0,0.26134416287311857
+AD Nath,Royal Challengers Bengaluru,2019.0,35.29,0.0,17.64,False,False,pure_batter,90.0,10.0,98.0,9.0,91.84,middle_order,,,,,,,0,0.008918707840369263
+AD Russell,Kolkata Knight Riders,2025.0,79.36,80.72,80.04,True,True,batting_allrounder,2651.0,114.0,1522.0,23.25,174.18,finisher,123.0,121.0,1806.0,1.017,9.51,death_bowler,1,0.9467486401758461
+AF Milne,Royal Challengers Bengaluru,2021.0,29.1,70.01,49.56,False,False,pure_bowler,23.0,6.0,29.0,3.83,79.31,tailender,7.0,10.0,207.0,0.7,9.48,powerplay_bowler,0,0.06236713136250093
+AG Murtaza,Pune Warriors,2013.0,26.17,73.46,49.82,False,False,pure_bowler,10.0,3.0,14.0,3.33,71.43,tailender,9.0,12.0,264.0,0.75,7.11,middle_overs_bowler,0,0.029442744586217883
+AG Paunikar,Rajasthan Royals,2011.0,33.0,0.0,16.5,False,False,pure_batter,49.0,5.0,58.0,9.8,84.48,anchor_opener,,,,,,,0,0.003700828430479856
+AJ Finch,Gujarat Lions,2022.0,62.0,50.81,56.4,False,False,pure_batter,2091.0,90.0,1631.0,23.23,128.2,anchor_opener,1.0,5.0,43.0,0.2,9.35,part_time_bowler,1,0.7338355059413351
+AJ Hosein,Sunrisers Hyderabad,2026.0,55.65,94.83,75.24,False,False,pure_bowler,18.0,2.0,12.0,9.0,150.0,tailender,7.0,5.0,106.0,1.4,8.43,powerplay_bowler,1,0.9894056743201065
+AJ Turner,Rajasthan Royals,2024.0,31.4,0.0,15.7,False,False,pure_batter,24.0,6.0,28.0,4.0,85.71,middle_order,,,,,,,0,0.0036884865556568833
+AJ Tye,Punjab Kings,2020.0,44.36,93.74,69.05,False,False,pure_bowler,91.0,13.0,76.0,7.0,119.74,tailender,42.0,30.0,684.0,1.4,8.59,death_bowler,1,0.9665190712993124
+AK Markram,Sunrisers Hyderabad,2026.0,68.61,51.74,60.18,True,False,batting_allrounder,1633.0,63.0,1200.0,25.92,136.08,top_order_anchor,6.0,23.0,221.0,0.261,9.31,middle_overs_bowler,0,0.4401654756217052
+AL Menaria,Rajasthan Royals,2013.0,52.03,54.71,53.37,False,False,utility_player,401.0,23.0,356.0,17.43,112.64,middle_order,3.0,12.0,110.0,0.25,7.85,powerplay_bowler,0,0.3435917667058307
+AM Ghazanfar,Mumbai Indians,2026.0,0.0,102.58,51.29,False,False,pure_bowler,,,,,,,10.0,6.0,125.0,1.667,9.41,middle_overs_bowler,0,0.10827032285018728
+AM Nayar,Mumbai Indians,2014.0,49.06,60.86,54.96,False,False,utility_player,672.0,50.0,577.0,13.44,116.46,finisher,9.0,19.0,229.0,0.474,8.44,middle_overs_bowler,0,0.1216715209876961
+AM Rahane,Rajasthan Royals,2026.0,64.84,81.32,73.08,False,False,pure_batter,5194.0,191.0,4145.0,27.19,125.31,aggressive_opener,1.0,1.0,6.0,1.0,5.0,part_time_bowler,1,0.9393363116729315
+AM Salvi,Delhi Capitals,2011.0,0.0,81.98,40.99,False,False,pure_bowler,,,,,,,7.0,7.0,150.0,1.0,8.0,powerplay_bowler,0,0.014981587727447326
+AN Ahmed,Royal Challengers Bengaluru,2015.0,50.56,70.76,60.66,False,False,pure_bowler,36.0,6.0,26.0,6.0,138.46,tailender,12.0,17.0,344.0,0.706,8.69,powerplay_bowler,1,0.8830976778166384
+AN Ghosh,Kolkata Knight Riders,2009.0,31.85,0.0,15.92,False,False,pure_batter,7.0,2.0,8.0,3.5,87.5,middle_order,,,,,,,0,0.005051956247629222
+AP Dole,Rajasthan Royals,2010.0,75.04,102.22,88.63,False,False,pure_bowler,34.0,2.0,22.0,17.0,154.55,tailender,5.0,3.0,66.0,1.667,10.18,powerplay_bowler,1,0.990203432864646
+AP Majumdar,Pune Warriors,2012.0,62.68,0.0,31.34,False,False,pure_batter,87.0,4.0,76.0,21.75,114.47,middle_order,,,,,,,1,0.8331107310862368
+AP Tare,Mumbai Indians,2017.0,50.08,0.0,25.04,False,False,pure_batter,339.0,27.0,273.0,12.56,124.18,anchor_opener,,,,,,,0,0.1273372956154851
+AR Bawne,Delhi Capitals,2017.0,39.2,0.0,19.6,False,False,pure_batter,12.0,1.0,12.0,12.0,100.0,tailender,,,,,,,0,0.004675171782457249
+AR Patel,Delhi Capitals,2026.0,56.33,73.63,64.98,True,True,batting_allrounder,1947.0,129.0,1461.0,15.09,133.26,tailender,136.0,169.0,3483.0,0.805,7.42,middle_overs_bowler,0,0.4657581484839702
+AS Joseph,Gujarat Titans,2023.0,31.42,79.5,55.46,False,False,pure_bowler,27.0,5.0,32.0,5.4,84.38,tailender,21.0,22.0,434.0,0.955,9.55,middle_overs_bowler,1,0.9403374402127281
+AS Rajpoot,Punjab Kings,2020.0,23.49,75.36,49.42,False,False,pure_bowler,26.0,7.0,41.0,3.71,63.41,tailender,24.0,29.0,529.0,0.828,9.23,powerplay_bowler,0,0.023133477087658113
+AS Raut,Rajasthan Royals,2011.0,48.65,42.31,45.48,False,False,pure_batter,194.0,16.0,167.0,12.12,116.17,tailender,0.0,5.0,30.0,0.0,8.8,part_time_bowler,1,0.910216256670007
+AS Roy,Kolkata Knight Riders,2026.0,45.65,69.13,57.39,False,False,pure_bowler,65.0,12.0,52.0,5.42,125.0,tailender,11.0,16.0,251.0,0.688,8.56,powerplay_bowler,1,0.8315251897575169
+AS Yadav,Sunrisers Hyderabad,2008.0,46.83,0.0,23.42,False,False,pure_batter,49.0,6.0,39.0,8.17,125.64,tailender,,,,,,,0,0.11829219511829196
+AT Carey,Delhi Capitals,2020.0,42.35,0.0,21.18,False,False,pure_batter,32.0,3.0,29.0,10.67,110.34,middle_order,,,,,,,0,0.01629063093431819
+AT Rayudu,Mumbai Indians,2023.0,62.58,0.0,31.29,False,False,pure_batter,4348.0,185.0,3409.0,23.5,127.54,finisher,,,,,,,1,0.994701942561671
+AU Rashid,Sunrisers Hyderabad,2023.0,51.98,68.03,60.0,False,False,pure_bowler,22.0,2.0,16.0,11.0,137.5,tailender,2.0,3.0,60.0,0.667,9.1,middle_overs_bowler,1,0.9248183005118843
+AUK Pathan,Royal Challengers Bengaluru,2012.0,61.3,41.9,51.6,False,False,pure_batter,39.0,7.0,23.0,5.57,169.57,middle_order,0.0,3.0,39.0,0.0,9.69,part_time_bowler,1,0.9854323179538699
+Abdul Basith,Rajasthan Royals,2023.0,35.35,0.0,17.68,False,False,pure_batter,1.0,1.0,1.0,1.0,100.0,tailender,,,,,,,0,0.006127438194055706
+Abdul Samad,Sunrisers Hyderabad,2026.0,60.29,50.02,55.16,False,False,utility_player,813.0,56.0,553.0,14.52,147.02,tailender,2.0,7.0,57.0,0.286,13.16,part_time_bowler,0,0.5649252948584558
+Abdur Razzak,Royal Challengers Bengaluru,2008.0,0.0,44.62,22.31,False,False,unknown,0.0,1.0,2.0,0.0,0.0,tailender,0.0,1.0,12.0,0.0,14.5,part_time_bowler,1,0.7427618234764461
+Abhinandan Singh,Royal Challengers Bengaluru,2026.0,0.0,76.43,38.22,False,False,pure_bowler,,,,,,,3.0,3.0,58.0,1.0,12.62,part_time_bowler,0,0.04860221183503912
+Abhishek Sharma,Sunrisers Hyderabad,2026.0,81.67,54.42,68.04,True,False,batting_allrounder,2241.0,83.0,1317.0,27.0,170.16,aggressive_opener,11.0,35.0,353.0,0.314,9.11,middle_overs_bowler,1,0.7985250109855694
+Abishek Porel,Delhi Capitals,2026.0,72.07,0.0,36.03,False,False,pure_batter,691.0,30.0,474.0,23.03,145.78,top_order_aggressor,,,,,,,1,0.995040439051617
+Akash Deep,Royal Challengers Bengaluru,2025.0,64.25,68.53,66.39,False,False,pure_bowler,25.0,5.0,14.0,5.0,178.57,tailender,10.0,14.0,278.0,0.714,11.83,powerplay_bowler,1,0.9780517084091048
+Akash Madhwal,Mumbai Indians,2025.0,21.4,93.35,57.38,False,False,pure_bowler,8.0,2.0,14.0,4.0,57.14,tailender,24.0,17.0,352.0,1.412,10.06,death_bowler,1,0.9622507188889132
+Akash Singh,Chennai Super Kings,2025.0,0.0,76.58,38.29,False,False,pure_bowler,,,,,,,9.0,10.0,205.0,0.9,9.54,powerplay_bowler,0,0.01079279772777247
+Aman Hakim Khan,Delhi Capitals,2023.0,45.73,38.98,42.36,False,False,pure_batter,115.0,10.0,104.0,11.5,110.58,tailender,0.0,1.0,6.0,0.0,13.0,part_time_bowler,1,0.8625632715592152
+Anand Rajan,Sunrisers Hyderabad,2013.0,0.0,82.16,41.08,False,False,pure_bowler,,,,,,,8.0,8.0,149.0,1.0,8.09,middle_overs_bowler,0,0.015477372982055359
+Aniket Verma,Sunrisers Hyderabad,2026.0,67.96,0.0,33.98,False,False,pure_batter,309.0,19.0,188.0,16.26,164.36,finisher,,,,,,,1,0.9936032114283182
+Anirudh Singh,Sunrisers Hyderabad,2010.0,46.42,0.0,23.21,False,False,pure_batter,63.0,4.0,66.0,15.75,95.45,middle_order,,,,,,,0,0.007511977020503685
+Ankit Sharma,Sunrisers Hyderabad,2017.0,51.49,66.52,59.0,False,False,pure_bowler,87.0,10.0,67.0,8.7,129.85,tailender,12.0,21.0,367.0,0.571,7.36,powerplay_bowler,1,0.4554583736046872
+Ankit Soni,Gujarat Lions,2017.0,28.04,57.21,42.62,False,False,pure_bowler,7.0,3.0,9.0,2.33,77.78,tailender,2.0,6.0,109.0,0.333,7.93,middle_overs_bowler,0,0.04091210799244554
+Anmolpreet Singh,Sunrisers Hyderabad,2024.0,57.7,0.0,28.85,False,False,pure_batter,139.0,9.0,115.0,15.44,120.87,middle_order,,,,,,,1,0.9344082986483979
+Anuj Rawat,Royal Challengers Bengaluru,2024.0,49.83,0.0,24.92,False,False,pure_batter,318.0,21.0,267.0,15.14,119.1,anchor_opener,,,,,,,0,0.05988345942026198
+Anureet Singh,Punjab Kings,2018.0,28.38,74.23,51.3,False,False,pure_bowler,36.0,8.0,47.0,4.5,76.6,tailender,18.0,22.0,412.0,0.818,9.07,death_bowler,0,0.09788647022252048
+Arjun Tendulkar,Mumbai Indians,2023.0,55.1,68.55,61.82,False,False,pure_bowler,13.0,1.0,9.0,13.0,144.44,tailender,3.0,5.0,73.0,0.6,9.37,powerplay_bowler,1,0.9477947582330738
+Arshad Khan,Gujarat Titans,2025.0,56.75,75.09,65.92,False,False,utility_player,119.0,10.0,84.0,11.9,141.67,tailender,17.0,20.0,304.0,0.85,11.09,powerplay_bowler,1,0.9691300073030938
+Arshad Khan (2),Lucknow Super Giants,2024.0,45.5,45.62,45.56,False,False,pure_batter,5.0,1.0,4.0,5.0,125.0,tailender,0.0,1.0,12.0,0.0,12.0,part_time_bowler,1,0.8992370103573435
+Arshdeep Singh,Punjab Kings,2025.0,24.42,86.85,55.64,False,False,pure_bowler,31.0,13.0,46.0,2.38,67.39,tailender,105.0,89.0,1894.0,1.18,9.18,death_bowler,1,0.9078683538423197
+Ashok Sharma,Gujarat Titans,2026.0,8.93,81.18,45.06,False,False,pure_bowler,1.0,2.0,4.0,0.5,25.0,tailender,6.0,6.0,126.0,1.0,10.86,death_bowler,0,0.014134058450416693
+Ashutosh Sharma,Delhi Capitals,2026.0,74.91,0.0,37.46,False,False,pure_batter,451.0,21.0,275.0,21.48,164.0,lower_order_hitter,,,,,,,1,0.9974516550316271
+Ashwani Kumar,Mumbai Indians,2026.0,6.18,103.17,54.68,False,False,pure_bowler,1.0,1.0,6.0,1.0,16.67,tailender,17.0,10.0,183.0,1.7,10.95,middle_overs_bowler,1,0.8226528326877183
+Atharva Taide,Punjab Kings,2025.0,69.51,30.4,49.96,False,False,pure_batter,260.0,10.0,177.0,26.0,146.89,top_order_anchor,0.0,1.0,1.0,0.0,24.0,part_time_bowler,1,0.9733671644537387
+Auqib Nabi,Delhi Capitals,2026.0,71.4,40.58,55.99,False,False,pure_batter,4.0,1.0,2.0,4.0,200.0,tailender,0.0,3.0,42.0,0.0,13.43,part_time_bowler,1,0.9822934354785211
+Avesh Khan,Lucknow Super Giants,2026.0,56.84,86.1,71.47,False,False,pure_bowler,68.0,16.0,43.0,4.25,158.14,lower_order_hitter,93.0,80.0,1721.0,1.162,9.18,death_bowler,1,0.9814056993409878
+Azhar Mahmood,Punjab Kings,2015.0,58.43,90.61,74.52,True,True,batting_allrounder,388.0,21.0,303.0,18.48,128.05,middle_order,29.0,23.0,537.0,1.261,7.82,death_bowler,1,0.9781540096711251
+Azmatullah Omarzai,Punjab Kings,2025.0,50.67,73.07,61.87,False,False,pure_bowler,99.0,9.0,74.0,11.0,133.78,middle_order,12.0,15.0,288.0,0.8,9.69,powerplay_bowler,1,0.7667625110459434
+B Akhil,Royal Challengers Bengaluru,2011.0,50.78,61.58,56.18,False,False,pure_bowler,76.0,11.0,55.0,6.91,138.18,tailender,6.0,13.0,188.0,0.462,7.72,middle_overs_bowler,1,0.6852118031516617
+B Chipli,Sunrisers Hyderabad,2013.0,46.56,36.17,41.36,False,False,pure_batter,280.0,21.0,251.0,13.33,111.55,finisher,0.0,1.0,6.0,0.0,20.0,part_time_bowler,1,0.8089597942976433
+B Geeves,Delhi Capitals,2008.0,0.0,60.75,30.38,False,False,pure_bowler,,,,,,,1.0,2.0,48.0,0.5,11.38,part_time_bowler,0,0.03200706515370008
+B Indrajith,Kolkata Knight Riders,2022.0,26.95,0.0,13.48,False,False,pure_batter,21.0,3.0,30.0,7.0,70.0,anchor_opener,,,,,,,0,0.002399761256438396
+B Kumar,Sunrisers Hyderabad,2026.0,34.03,85.65,59.84,False,True,bowling_allrounder,347.0,74.0,375.0,4.69,92.53,tailender,215.0,199.0,4432.0,1.08,7.68,death_bowler,0,0.3195319109381569
+B Laughlin,Chennai Super Kings,2018.0,13.9,81.41,47.66,False,False,pure_bowler,5.0,4.0,13.0,1.25,38.46,tailender,10.0,9.0,168.0,1.111,10.07,death_bowler,0,0.015889562383765956
+B Lee,Punjab Kings,2013.0,47.03,71.45,59.24,False,False,utility_player,124.0,19.0,97.0,6.53,127.84,tailender,25.0,38.0,875.0,0.658,7.51,death_bowler,0,0.3042135871532234
+B Muzarabani,Kolkata Knight Riders,2026.0,0.0,113.47,56.74,False,False,pure_bowler,,,,,,,4.0,2.0,42.0,2.0,10.71,part_time_bowler,1,0.8008103663689184
+B Sai Sudharsan,Gujarat Titans,2026.0,86.62,0.0,43.31,False,False,pure_batter,2121.0,49.0,1431.0,43.29,148.22,aggressive_opener,,,,,,,1,0.9985634037548847
+B Stanlake,Sunrisers Hyderabad,2018.0,89.25,88.61,88.93,False,False,pure_bowler,5.0,1.0,2.0,5.0,250.0,tailender,7.0,6.0,144.0,1.167,8.33,powerplay_bowler,1,0.9930714160017593
+B Sumanth,Sunrisers Hyderabad,2010.0,36.17,0.0,18.08,False,False,pure_batter,35.0,4.0,37.0,8.75,94.59,tailender,,,,,,,0,0.0039433982434609344
+BA Bhatt,Punjab Kings,2012.0,31.05,73.06,52.06,False,False,pure_bowler,6.0,2.0,7.0,3.0,85.71,tailender,12.0,15.0,296.0,0.8,8.05,powerplay_bowler,1,0.7851240431025069
+BA Stokes,Rajasthan Royals,2023.0,62.17,71.41,66.79,True,True,batting_allrounder,935.0,43.0,698.0,21.74,133.95,finisher,28.0,38.0,689.0,0.737,8.64,middle_overs_bowler,1,0.9617115079033217
+BAW Mendis,Kolkata Knight Riders,2013.0,17.85,73.38,45.61,False,False,pure_bowler,3.0,3.0,6.0,1.0,50.0,tailender,8.0,10.0,240.0,0.8,7.12,middle_overs_bowler,0,0.007091060549812818
+BB McCullum,Kolkata Knight Riders,2018.0,67.48,0.0,33.74,False,False,pure_batter,2880.0,109.0,2186.0,26.42,131.75,aggressive_opener,,,,,,,1,0.996590580029324
+BB Samantray,Sunrisers Hyderabad,2013.0,51.68,0.0,25.84,False,False,pure_batter,125.0,8.0,113.0,15.62,110.62,middle_order,,,,,,,0,0.11322320201585662
+BB Sran,Sunrisers Hyderabad,2019.0,25.5,71.54,48.52,False,False,pure_bowler,10.0,7.0,14.0,1.43,71.43,tailender,18.0,24.0,483.0,0.75,9.4,powerplay_bowler,0,0.032546894695883184
+BCJ Cutting,Mumbai Indians,2019.0,67.52,63.87,65.69,False,True,bowling_allrounder,238.0,17.0,141.0,14.0,168.79,finisher,10.0,17.0,281.0,0.588,9.16,middle_overs_bowler,1,0.9137661994524289
+BE Hendricks,Punjab Kings,2015.0,11.84,90.42,51.13,False,False,pure_bowler,1.0,2.0,3.0,0.5,33.33,tailender,9.0,7.0,150.0,1.286,9.4,death_bowler,0,0.09882125868632897
+BJ Haddin,Kolkata Knight Riders,2011.0,63.57,0.0,31.78,False,False,pure_batter,18.0,1.0,11.0,18.0,163.64,anchor_opener,,,,,,,1,0.9457015464384056
+BJ Hodge,Rajasthan Royals,2014.0,61.59,75.09,68.34,True,True,batting_allrounder,1400.0,63.0,1118.0,22.22,125.22,finisher,17.0,20.0,234.0,0.85,7.77,middle_overs_bowler,1,0.9533330603404121
+BJ Rohrer,Delhi Capitals,2013.0,67.94,39.38,53.66,False,False,pure_batter,193.0,8.0,140.0,24.12,137.86,finisher,0.0,1.0,6.0,0.0,12.0,part_time_bowler,1,0.975997915079366
+BKG Mendis,Gujarat Titans,2025.0,77.0,0.0,38.5,False,False,pure_batter,20.0,1.0,10.0,20.0,200.0,top_order_aggressor,,,,,,,1,0.9473309138721895
+BMAJ Mendis,Delhi Capitals,2013.0,32.5,63.8,48.15,False,False,pure_bowler,23.0,3.0,27.0,7.67,85.19,middle_order,1.0,2.0,30.0,0.5,7.2,part_time_bowler,0,0.0838002059457834
+BR Dunk,Mumbai Indians,2014.0,44.67,0.0,22.34,False,False,pure_batter,40.0,3.0,35.0,13.33,114.29,anchor_opener,,,,,,,0,0.016497443922265306
+BR Sharath,Gujarat Titans,2024.0,14.7,0.0,7.35,False,False,pure_batter,2.0,1.0,5.0,2.0,40.0,middle_order,,,,,,,0,0.000950360192686774
+BW Hilfenhaus,Chennai Super Kings,2014.0,0.0,94.57,47.28,False,False,pure_bowler,,,,,,,22.0,17.0,372.0,1.294,7.73,powerplay_bowler,0,0.08486657677697736
+Basil Thampi,Gujarat Lions,2019.0,33.6,74.73,54.17,False,False,pure_bowler,32.0,7.0,35.0,4.57,91.43,tailender,22.0,25.0,521.0,0.88,9.74,death_bowler,1,0.9282081755020412
+Bipul Sharma,Punjab Kings,2017.0,58.83,66.17,62.5,False,True,bowling_allrounder,187.0,17.0,123.0,11.0,152.03,lower_order_hitter,17.0,28.0,426.0,0.607,8.06,middle_overs_bowler,1,0.7731553604894167
+Brijesh Sharma,Rajasthan Royals,2026.0,12.02,79.1,45.56,False,False,pure_bowler,1.0,1.0,3.0,1.0,33.33,tailender,7.0,7.0,137.0,1.0,9.37,death_bowler,0,0.002779524227415124
+C Bosch,Mumbai Indians,2026.0,63.15,71.95,67.55,False,False,pure_bowler,58.0,3.0,36.0,19.33,161.11,tailender,2.0,3.0,61.0,0.667,9.25,middle_overs_bowler,1,0.9866427185331075
+C Connolly,Punjab Kings,2026.0,89.69,0.0,44.84,False,False,pure_batter,270.0,7.0,160.0,38.57,168.75,top_order_anchor,,,,,,,1,0.9974516550316271
+C Ganapathy,Chennai Super Kings,2010.0,0.0,38.98,19.49,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,13.0,part_time_bowler,0,0.3376854117155259
+C Green,Mumbai Indians,2026.0,75.04,64.47,69.76,True,True,batting_allrounder,903.0,36.0,588.0,25.08,153.57,top_order_anchor,18.0,33.0,487.0,0.545,9.38,middle_overs_bowler,1,0.9438394026484563
+C Madan,Mumbai Indians,2010.0,32.88,0.0,16.44,False,False,pure_batter,15.0,1.0,19.0,15.0,78.95,anchor_opener,,,,,,,0,0.003473409193646568
+C Munro,Delhi Capitals,2019.0,55.03,47.42,51.22,False,False,pure_batter,177.0,11.0,141.0,16.09,125.53,aggressive_opener,0.0,2.0,12.0,0.0,7.5,part_time_bowler,1,0.8965018103719938
+C Nanda,Mumbai Indians,2009.0,0.0,67.8,33.9,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,2.0,3.0,48.0,0.667,7.12,part_time_bowler,0,0.010103942179194306
+C Sakariya,Rajasthan Royals,2023.0,23.58,80.23,51.9,False,False,pure_bowler,20.0,7.0,31.0,2.86,64.52,tailender,20.0,20.0,444.0,1.0,8.62,powerplay_bowler,0,0.17263772597615154
+C de Grandhomme,Royal Challengers Bengaluru,2019.0,59.32,54.69,57.0,False,False,utility_player,303.0,21.0,225.0,14.43,134.67,middle_order,6.0,19.0,216.0,0.316,8.86,middle_overs_bowler,0,0.2985997280293147
+CA Ingram,Delhi Capitals,2019.0,48.64,0.0,24.32,False,False,pure_batter,205.0,15.0,180.0,13.67,113.89,finisher,,,,,,,0,0.024966449788412982
+CA Lynn,Kolkata Knight Riders,2021.0,74.57,0.0,37.28,False,False,pure_batter,1329.0,42.0,945.0,31.64,140.63,aggressive_opener,,,,,,,1,0.9956876724410822
+CA Pujara,Royal Challengers Bengaluru,2014.0,46.57,0.0,23.28,False,False,pure_batter,390.0,22.0,391.0,17.73,99.74,anchor_opener,,,,,,,0,0.08364722845703298
+CH Gayle,Royal Challengers Bengaluru,2021.0,77.45,62.28,69.87,True,False,batting_allrounder,4965.0,141.0,3333.0,35.21,148.96,aggressive_opener,18.0,38.0,554.0,0.474,7.9,middle_overs_bowler,1,0.8446103273646075
+CH Morris,Delhi Capitals,2021.0,62.42,88.1,75.26,False,True,bowling_allrounder,618.0,49.0,398.0,12.61,155.28,lower_order_hitter,95.0,81.0,1720.0,1.173,8.01,death_bowler,1,0.9913402993984702
+CJ Anderson,Mumbai Indians,2018.0,58.24,60.57,59.4,True,True,batting_allrounder,538.0,29.0,423.0,18.55,127.19,finisher,11.0,22.0,297.0,0.5,10.46,middle_overs_bowler,0,0.2350575934641871
+CJ Dala,Delhi Capitals,2018.0,0.0,45.19,22.6,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,11.33,part_time_bowler,1,0.9314323733627387
+CJ Ferguson,Pune Warriors,2012.0,33.6,0.0,16.8,False,False,pure_batter,98.0,8.0,117.0,12.25,83.76,middle_order,,,,,,,0,0.018973660606975088
+CJ Green,Kolkata Knight Riders,2020.0,0.0,45.44,22.72,False,False,unknown,,,,,,,0.0,1.0,17.0,0.0,8.47,part_time_bowler,1,0.934704171381003
+CJ Jordan,Punjab Kings,2023.0,41.67,75.4,58.54,False,False,pure_bowler,81.0,12.0,77.0,6.75,105.19,tailender,30.0,34.0,668.0,0.882,9.61,death_bowler,1,0.7735203046332448
+CJ McKay,Mumbai Indians,2012.0,21.47,62.4,41.94,False,False,pure_bowler,8.0,1.0,15.0,8.0,53.33,tailender,1.0,2.0,42.0,0.5,8.57,part_time_bowler,0,0.014875500029140032
+CK Kapugedera,Chennai Super Kings,2008.0,26.21,33.08,29.64,False,False,pure_batter,16.0,3.0,23.0,5.33,69.57,middle_order,0.0,3.0,17.0,0.0,17.29,part_time_bowler,0,0.43744767310990074
+CK Langeveldt,Kolkata Knight Riders,2011.0,32.51,114.14,73.32,False,False,pure_bowler,8.0,2.0,9.0,4.0,88.89,tailender,13.0,7.0,156.0,1.857,7.19,death_bowler,1,0.9866980949368991
+CL White,Sunrisers Hyderabad,2013.0,61.64,45.68,53.66,False,False,pure_batter,954.0,45.0,755.0,21.2,126.36,finisher,1.0,6.0,42.0,0.167,12.29,part_time_bowler,1,0.9452877552905625
+CM Gautam,Mumbai Indians,2015.0,50.91,0.0,25.46,False,False,pure_batter,169.0,13.0,150.0,13.0,112.67,anchor_opener,,,,,,,0,0.07290482509223395
+CR Brathwaite,Delhi Capitals,2019.0,65.89,72.52,69.2,False,True,bowling_allrounder,181.0,14.0,111.0,12.93,163.06,lower_order_hitter,13.0,16.0,254.0,0.812,8.95,middle_overs_bowler,1,0.9920753427185279
+CR Woakes,Kolkata Knight Riders,2021.0,37.73,96.25,66.99,False,False,pure_bowler,78.0,12.0,77.0,6.5,101.3,tailender,30.0,21.0,440.0,1.429,8.97,death_bowler,1,0.9734181304620552
+CRD Fernando,Mumbai Indians,2010.0,47.37,107.87,77.62,False,False,pure_bowler,4.0,2.0,3.0,2.0,133.33,tailender,17.0,10.0,234.0,1.7,7.64,death_bowler,1,0.9766835374633047
+CV Varun,Kolkata Knight Riders,2026.0,19.72,88.46,54.09,False,False,pure_bowler,26.0,12.0,48.0,2.17,54.17,tailender,107.0,89.0,2014.0,1.202,7.66,middle_overs_bowler,1,0.8752854448537751
+D Brevis,Mumbai Indians,2026.0,75.98,76.92,76.45,False,False,pure_batter,519.0,20.0,350.0,25.95,148.29,top_order_anchor,1.0,1.0,3.0,1.0,16.0,part_time_bowler,1,0.9803635060991506
+D Ferreira,Rajasthan Royals,2026.0,78.58,73.58,76.08,False,False,pure_batter,238.0,10.0,143.0,23.8,166.43,finisher,1.0,1.0,6.0,1.0,14.0,part_time_bowler,1,0.9921492654274685
+D Jansen,Mumbai Indians,2023.0,0.0,75.95,37.98,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,13.25,part_time_bowler,0,0.04777252813674228
+D Kalyankrishna,Sunrisers Hyderabad,2008.0,14.18,64.72,39.45,False,False,pure_bowler,3.0,1.0,8.0,3.0,37.5,tailender,2.0,3.0,48.0,0.667,10.88,part_time_bowler,0,0.012665921252425537
+D Madushanka,Sunrisers Hyderabad,2026.0,0.0,79.73,39.86,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,9.0,part_time_bowler,0,0.00917047114734912
+D Padikkal,Royal Challengers Bengaluru,2026.0,66.5,0.0,33.25,False,False,pure_batter,2088.0,82.0,1580.0,25.46,132.15,top_order_anchor,,,,,,,1,0.9967149400670743
+D Pretorius,Chennai Super Kings,2022.0,58.08,73.86,65.97,False,False,pure_bowler,44.0,5.0,28.0,8.8,157.14,tailender,6.0,7.0,150.0,0.857,9.52,death_bowler,1,0.9959153917247644
+D Salunkhe,Rajasthan Royals,2008.0,51.98,50.99,51.48,False,False,pure_bowler,33.0,3.0,24.0,11.0,137.5,tailender,1.0,5.0,47.0,0.2,9.96,part_time_bowler,0,0.4415156963198091
+D Wiese,Royal Challengers Bengaluru,2023.0,58.72,81.05,69.88,False,False,utility_player,148.0,11.0,101.0,13.45,146.53,tailender,16.0,15.0,296.0,1.067,8.92,middle_overs_bowler,1,0.9938729047631887
+D du Preez,Royal Challengers Bengaluru,2009.0,30.42,117.52,73.97,False,False,pure_bowler,10.0,1.0,13.0,10.0,76.92,tailender,4.0,2.0,42.0,2.0,8.0,part_time_bowler,1,0.9739423458175585
+DA Miller,Punjab Kings,2026.0,65.19,0.0,32.6,False,False,pure_batter,3200.0,140.0,2304.0,22.86,138.89,finisher,,,,,,,1,0.9945832332869471
+DA Payne,Sunrisers Hyderabad,2026.0,44.1,73.58,58.84,False,False,pure_bowler,6.0,1.0,5.0,6.0,120.0,tailender,2.0,2.0,30.0,1.0,14.0,part_time_bowler,1,0.9104892627521718
+DA Warner,Sunrisers Hyderabad,2024.0,77.07,35.2,56.14,False,False,pure_batter,6565.0,184.0,4697.0,35.68,139.77,aggressive_opener,0.0,1.0,1.0,0.0,12.0,part_time_bowler,1,0.9859511644189092
+DAJ Bracewell,Delhi Capitals,2012.0,50.87,152.23,101.55,False,False,pure_bowler,12.0,1.0,9.0,12.0,133.33,tailender,3.0,1.0,24.0,3.0,8.0,part_time_bowler,1,0.968307115251442
+DB Das,Kolkata Knight Riders,2013.0,48.34,0.0,24.17,False,False,pure_batter,304.0,22.0,261.0,13.82,116.48,middle_order,,,,,,,0,0.058306271044772186
+DB Ravi Teja,Sunrisers Hyderabad,2013.0,52.65,59.32,55.98,False,False,pure_batter,375.0,25.0,317.0,15.0,118.3,tailender,1.0,2.0,18.0,0.5,9.33,part_time_bowler,1,0.49784910744753136
+DE Bollinger,Chennai Super Kings,2012.0,33.79,96.79,65.29,False,False,pure_bowler,21.0,4.0,23.0,5.25,91.3,tailender,37.0,27.0,576.0,1.37,7.22,death_bowler,1,0.9749349414432221
+DG Nalkande,Gujarat Titans,2024.0,37.1,77.92,57.51,False,False,pure_bowler,12.0,2.0,12.0,6.0,100.0,middle_order,6.0,6.0,84.0,1.0,10.57,middle_overs_bowler,1,0.9362927245881351
+DH Yagnik,Rajasthan Royals,2014.0,50.47,0.0,25.24,False,False,pure_batter,170.0,17.0,137.0,10.0,124.09,tailender,,,,,,,0,0.11262727253799057
+DJ Bravo,Chennai Super Kings,2022.0,54.39,85.63,70.01,False,True,bowling_allrounder,1560.0,110.0,1204.0,14.18,129.57,finisher,183.0,158.0,3120.0,1.158,8.38,death_bowler,1,0.8221662589202081
+DJ Harris,Sunrisers Hyderabad,2012.0,63.18,42.08,52.63,False,False,pure_batter,111.0,4.0,101.0,27.75,109.9,anchor_opener,0.0,2.0,18.0,0.0,8.67,part_time_bowler,1,0.8873808231414139
+DJ Hooda,Sunrisers Hyderabad,2025.0,54.03,53.83,53.93,False,False,utility_player,1496.0,101.0,1172.0,14.81,127.65,middle_order,10.0,34.0,379.0,0.294,8.64,middle_overs_bowler,0,0.12604167614657794
+DJ Hussey,Punjab Kings,2014.0,59.96,54.44,57.2,True,False,batting_allrounder,1322.0,61.0,1075.0,21.67,122.98,finisher,8.0,26.0,317.0,0.308,8.97,middle_overs_bowler,0,0.1974097369783383
+DJ Jacobs,Mumbai Indians,2012.0,41.75,0.0,20.88,False,False,pure_batter,92.0,7.0,98.0,13.14,93.88,anchor_opener,,,,,,,0,0.009962660663186672
+DJ Malan,Punjab Kings,2021.0,44.1,0.0,22.05,False,False,pure_batter,26.0,1.0,26.0,26.0,100.0,top_order_anchor,,,,,,,0,0.0065950677333070805
+DJ Mitchell,Chennai Super Kings,2024.0,62.21,46.5,54.36,False,False,pure_batter,351.0,15.0,267.0,23.4,131.46,middle_order,1.0,4.0,48.0,0.25,12.12,part_time_bowler,1,0.8681144441697601
+DJ Muthuswami,Delhi Capitals,2015.0,12.02,74.46,43.24,False,False,pure_bowler,1.0,1.0,3.0,1.0,33.33,tailender,4.0,6.0,84.0,0.667,7.21,powerplay_bowler,0,0.007462653098920305
+DJ Thornely,Mumbai Indians,2008.0,36.67,75.27,55.97,False,False,pure_bowler,39.0,4.0,53.0,9.75,73.58,middle_order,3.0,4.0,42.0,0.75,5.71,part_time_bowler,1,0.7710510705638618
+DJ Willey,Royal Challengers Bengaluru,2023.0,33.63,65.78,49.7,False,False,pure_bowler,53.0,5.0,62.0,10.6,85.48,tailender,6.0,11.0,216.0,0.545,7.56,powerplay_bowler,0,0.06863158531627449
+DJG Sammy,Sunrisers Hyderabad,2015.0,49.51,64.66,57.08,False,True,bowling_allrounder,295.0,20.0,241.0,14.75,122.41,middle_order,11.0,19.0,236.0,0.579,8.9,middle_overs_bowler,0,0.26103914099526837
+DJM Short,Rajasthan Royals,2018.0,54.99,66.07,60.53,False,False,pure_batter,115.0,7.0,99.0,16.43,116.16,anchor_opener,1.0,2.0,18.0,0.5,6.33,part_time_bowler,1,0.6253612885487018
+DL Chahar,Chennai Super Kings,2026.0,52.67,79.31,65.99,False,False,utility_player,123.0,17.0,89.0,7.24,138.2,tailender,89.0,98.0,1954.0,0.908,8.24,powerplay_bowler,1,0.9428987243291402
+DL Vettori,Royal Challengers Bengaluru,2012.0,40.12,75.22,57.67,False,False,utility_player,121.0,16.0,113.0,7.56,107.08,tailender,28.0,34.0,777.0,0.824,6.79,middle_overs_bowler,0,0.19653310990888856
+DM Bravo,Kolkata Knight Riders,2017.0,44.1,0.0,22.05,False,False,pure_batter,6.0,1.0,5.0,6.0,120.0,middle_order,,,,,,,0,0.03575424670043156
+DNT Zoysa,Sunrisers Hyderabad,2008.0,44.7,69.22,56.96,False,False,pure_bowler,11.0,2.0,9.0,5.5,122.22,tailender,2.0,3.0,66.0,0.667,9.0,powerplay_bowler,1,0.8922381294609065
+DP Conway,Chennai Super Kings,2025.0,79.53,0.0,39.76,False,False,pure_batter,1080.0,28.0,773.0,38.57,139.72,aggressive_opener,,,,,,,1,0.9957889886605907
+DP Nannes,Delhi Capitals,2010.0,11.47,82.74,47.1,False,False,pure_bowler,4.0,2.0,13.0,2.0,30.77,tailender,28.0,29.0,646.0,0.966,7.29,death_bowler,0,0.007777179605026918
+DP Vijaykumar,Sunrisers Hyderabad,2008.0,35.35,63.75,49.55,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,4.0,9.0,152.0,0.444,7.86,powerplay_bowler,0,0.04905499715196289
+DPMD Jayawardene,Punjab Kings,2013.0,60.08,0.0,30.04,False,False,pure_batter,1802.0,78.0,1462.0,23.1,123.26,finisher,,,,,,,1,0.9801257074427603
+DR Martyn,Rajasthan Royals,2010.0,34.36,0.0,17.18,False,False,pure_batter,19.0,1.0,24.0,19.0,79.17,middle_order,,,,,,,0,0.0036181013536938146
+DR Sams,Mumbai Indians,2022.0,36.18,77.14,56.66,False,False,pure_bowler,44.0,13.0,44.0,3.38,100.0,tailender,14.0,16.0,360.0,0.875,8.72,powerplay_bowler,1,0.9181733302413987
+DR Shorey,Chennai Super Kings,2019.0,29.04,0.0,14.52,False,False,pure_batter,13.0,2.0,17.0,6.5,76.47,middle_order,,,,,,,0,0.005016716280260741
+DR Smith,Chennai Super Kings,2017.0,68.74,64.47,66.6,True,True,batting_allrounder,2385.0,88.0,1764.0,27.1,135.2,aggressive_opener,26.0,46.0,539.0,0.565,9.02,middle_overs_bowler,1,0.8490427241410388
+DS Kulkarni,Mumbai Indians,2020.0,35.52,80.1,57.81,False,False,utility_player,104.0,20.0,108.0,5.2,96.3,tailender,86.0,92.0,1787.0,0.935,8.31,powerplay_bowler,0,0.5054568563932329
+DS Lehmann,Rajasthan Royals,2008.0,38.15,0.0,19.08,False,False,pure_batter,18.0,2.0,18.0,9.0,100.0,middle_order,,,,,,,0,0.003931056368637962
+DS Rathi,Lucknow Super Giants,2026.0,13.48,75.28,44.38,False,False,pure_bowler,3.0,3.0,8.0,1.0,37.5,tailender,17.0,19.0,456.0,0.895,8.61,middle_overs_bowler,0,0.00783189396269201
+DT Christian,Sunrisers Hyderabad,2021.0,45.85,72.87,59.36,False,True,bowling_allrounder,460.0,41.0,398.0,11.22,115.58,middle_order,38.0,49.0,883.0,0.776,8.1,middle_overs_bowler,0,0.21105623129285575
+DT Patil,Royal Challengers Bengaluru,2008.0,37.28,0.0,18.64,False,False,pure_batter,13.0,2.0,13.0,6.5,100.0,tailender,,,,,,,0,0.003931056368637962
+DV Malewar,Mumbai Indians,2026.0,14.35,0.0,7.18,False,False,pure_batter,2.0,2.0,5.0,1.0,40.0,anchor_opener,,,,,,,0,0.000950360192686774
+DW Steyn,Sunrisers Hyderabad,2020.0,38.3,85.19,61.74,False,True,bowling_allrounder,167.0,33.0,160.0,5.06,104.38,tailender,97.0,95.0,2176.0,1.021,6.92,powerplay_bowler,0,0.2672574756938941
+Dhruv Jurel,Rajasthan Royals,2026.0,71.09,0.0,35.54,False,False,pure_batter,970.0,45.0,634.0,21.56,153.0,finisher,,,,,,,1,0.9982413289645596
+E Lewis,Mumbai Indians,2022.0,68.34,0.0,34.17,False,False,pure_batter,654.0,26.0,477.0,25.15,137.11,aggressive_opener,,,,,,,1,0.9952688976540327
+E Malinga,Sunrisers Hyderabad,2026.0,0.0,106.5,53.25,False,False,pure_bowler,,,,,,,28.0,16.0,346.0,1.75,9.05,death_bowler,1,0.7271868011554258
+EJG Morgan,Kolkata Knight Riders,2021.0,57.27,0.0,28.64,False,False,pure_batter,1405.0,74.0,1146.0,18.99,122.6,finisher,,,,,,,1,0.9403352997647223
+ER Dwivedi,Gujarat Lions,2016.0,64.2,0.0,32.1,False,False,pure_batter,24.0,2.0,14.0,12.0,171.43,anchor_opener,,,,,,,1,0.9443925526717093
+F Behardien,Punjab Kings,2016.0,39.33,0.0,19.66,False,False,pure_batter,14.0,3.0,13.0,4.67,107.69,middle_order,,,,,,,0,0.006684686671601323
+F du Plessis,Chennai Super Kings,2025.0,72.78,33.6,53.19,False,False,pure_batter,4773.0,147.0,3515.0,32.47,135.79,aggressive_opener,0.0,1.0,6.0,0.0,16.0,part_time_bowler,1,0.9866713541357596
+FA Allen,Punjab Kings,2022.0,27.42,61.1,44.26,False,False,pure_bowler,14.0,3.0,19.0,4.67,73.68,tailender,2.0,4.0,90.0,0.5,9.07,middle_overs_bowler,0,0.014255200342269733
+FH Allen,Kolkata Knight Riders,2026.0,79.17,0.0,39.58,False,False,pure_batter,81.0,5.0,42.0,16.2,192.86,aggressive_opener,,,,,,,1,0.9885769322727246
+FH Edwards,Sunrisers Hyderabad,2009.0,28.7,79.92,54.31,False,False,pure_bowler,4.0,2.0,5.0,2.0,80.0,tailender,5.0,6.0,140.0,0.833,6.6,death_bowler,1,0.8573436622659307
+FY Fazal,Rajasthan Royals,2011.0,51.04,38.08,44.56,False,False,pure_batter,183.0,11.0,173.0,16.64,105.78,middle_order,0.0,2.0,12.0,0.0,10.0,part_time_bowler,1,0.8578648892600811
+Fazalhaq Farooqi,Sunrisers Hyderabad,2025.0,12.25,61.55,36.9,False,False,pure_bowler,5.0,3.0,15.0,1.67,33.33,tailender,6.0,12.0,254.0,0.5,10.32,powerplay_bowler,0,0.005028658260682613
+G Coetzee,Mumbai Indians,2025.0,34.43,82.69,58.56,False,False,pure_bowler,31.0,7.0,33.0,4.43,93.94,tailender,15.0,14.0,273.0,1.071,10.37,death_bowler,1,0.9190783734419326
+G Gambhir,Kolkata Knight Riders,2018.0,64.65,0.0,32.33,False,False,pure_batter,4217.0,151.0,3404.0,27.93,123.88,aggressive_opener,,,,,,,1,0.9887313076585811
+GB Hogg,Rajasthan Royals,2015.0,36.92,84.61,60.76,False,False,pure_bowler,22.0,4.0,22.0,5.5,100.0,tailender,23.0,21.0,458.0,1.095,7.47,middle_overs_bowler,1,0.8800082471780983
+GC Smith,Rajasthan Royals,2011.0,56.94,0.0,28.47,False,False,pure_batter,739.0,29.0,668.0,25.48,110.63,anchor_opener,,,,,,,1,0.8472774568341919
+GC Viljoen,Punjab Kings,2019.0,15.35,85.51,50.43,False,False,pure_bowler,3.0,3.0,7.0,1.0,42.86,tailender,7.0,6.0,138.0,1.167,9.65,death_bowler,0,0.019219074481419258
+GD McGrath,Delhi Capitals,2008.0,28.7,79.85,54.28,False,False,pure_bowler,4.0,2.0,5.0,2.0,80.0,tailender,12.0,14.0,324.0,0.857,6.61,powerplay_bowler,1,0.8623075524338162
+GD Phillips,Sunrisers Hyderabad,2026.0,45.94,62.63,54.28,False,False,pure_batter,132.0,13.0,109.0,10.15,121.1,finisher,2.0,4.0,30.0,0.5,8.0,part_time_bowler,1,0.5518761854190494
+GF Linde,Lucknow Super Giants,2026.0,55.28,54.84,55.06,False,False,pure_bowler,31.0,3.0,21.0,10.33,147.62,tailender,1.0,3.0,37.0,0.333,8.92,part_time_bowler,1,0.8382788616156562
+GH Vihari,Sunrisers Hyderabad,2019.0,39.19,53.89,46.54,False,False,pure_batter,284.0,23.0,321.0,12.35,88.47,middle_order,1.0,6.0,42.0,0.167,6.71,part_time_bowler,1,0.42804387954624123
+GHS Garton,Royal Challengers Bengaluru,2021.0,17.85,66.3,42.08,False,False,pure_bowler,2.0,2.0,4.0,1.0,50.0,tailender,3.0,5.0,90.0,0.6,9.0,powerplay_bowler,0,0.0027882481257082955
+GJ Bailey,Punjab Kings,2016.0,55.76,0.0,27.88,False,False,pure_batter,663.0,36.0,544.0,18.42,121.88,finisher,,,,,,,1,0.8699955708044581
+GJ Maxwell,Punjab Kings,2025.0,70.19,61.8,66.0,True,False,batting_allrounder,2819.0,134.0,1817.0,21.04,155.15,top_order_aggressor,41.0,85.0,1022.0,0.482,8.3,middle_overs_bowler,1,0.8609807506041077
+GR Napier,Mumbai Indians,2009.0,38.06,81.68,59.87,False,False,pure_bowler,15.0,1.0,16.0,15.0,93.75,middle_order,1.0,1.0,24.0,1.0,6.75,part_time_bowler,1,0.8897901564093111
+GS Sandhu,Delhi Capitals,2015.0,0.0,58.6,29.3,False,False,pure_bowler,,,,,,,1.0,2.0,48.0,0.5,10.25,part_time_bowler,0,0.012382297815191677
+Gagandeep Singh,Punjab Kings,2008.0,0.0,69.97,34.98,False,False,pure_bowler,,,,,,,3.0,4.0,84.0,0.75,10.07,middle_overs_bowler,0,0.01193312464203139
+Gulbadin Naib,Delhi Capitals,2024.0,50.98,39.38,45.18,False,False,pure_batter,19.0,1.0,15.0,19.0,126.67,tailender,0.0,1.0,6.0,0.0,12.0,part_time_bowler,1,0.8613951403023044
+Gurjapneet Singh,Chennai Super Kings,2026.0,0.0,65.3,32.65,False,False,pure_bowler,,,,,,,3.0,5.0,85.0,0.6,9.81,death_bowler,0,0.014626850235596697
+Gurkeerat Singh,Punjab Kings,2020.0,50.79,74.5,62.64,True,True,batting_allrounder,511.0,32.0,422.0,15.97,121.09,tailender,5.0,6.0,78.0,0.833,7.46,middle_overs_bowler,0,0.41296077158458727
+Gurnoor Brar,Punjab Kings,2023.0,0.0,44.12,22.06,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,14.0,part_time_bowler,1,0.8670487150322104
+H Das,Sunrisers Hyderabad,2008.0,14.7,0.0,7.35,False,False,pure_batter,2.0,1.0,5.0,2.0,40.0,tailender,,,,,,,0,0.000950360192686774
+H Klaasen,Sunrisers Hyderabad,2026.0,87.36,0.0,43.68,False,False,pure_batter,1894.0,54.0,1135.0,35.07,166.87,finisher,,,,,,,1,0.9985634037548847
+H Sharma,Royal Challengers Bengaluru,2024.0,0.0,38.76,19.38,False,False,unknown,,,,,,,0.0,2.0,30.0,0.0,11.4,part_time_bowler,0,0.39236746755176627
+HC Brook,Sunrisers Hyderabad,2023.0,51.96,0.0,25.98,False,False,pure_batter,190.0,11.0,154.0,17.27,123.38,anchor_opener,,,,,,,0,0.22306723503727477
+HE van der Dussen,Rajasthan Royals,2022.0,34.65,0.0,17.32,False,False,pure_batter,22.0,3.0,24.0,7.33,91.67,middle_order,,,,,,,0,0.003931056368637962
+HF Gurney,Kolkata Knight Riders,2019.0,7.35,74.98,41.16,False,False,pure_bowler,1.0,1.0,5.0,1.0,20.0,tailender,7.0,8.0,162.0,0.875,8.81,death_bowler,0,0.00222858339292208
+HH Gibbs,Sunrisers Hyderabad,2012.0,56.22,0.0,28.11,False,False,pure_batter,886.0,36.0,807.0,24.61,109.79,anchor_opener,,,,,,,1,0.8394050793628774
+HH Pandya,Mumbai Indians,2026.0,65.29,70.16,67.72,True,True,batting_allrounder,2877.0,147.0,1955.0,19.57,147.16,finisher,82.0,114.0,1740.0,0.719,9.38,middle_overs_bowler,1,0.9603804902413299
+HM Amla,Punjab Kings,2017.0,73.49,0.0,36.74,False,False,pure_batter,577.0,16.0,407.0,36.06,141.77,aggressive_opener,,,,,,,1,0.9943773495556383
+HR Shokeen,Mumbai Indians,2023.0,40.16,59.83,50.0,False,False,pure_bowler,66.0,5.0,65.0,13.2,101.54,tailender,5.0,13.0,204.0,0.385,9.24,middle_overs_bowler,0,0.03688781484845091
+HV Patel,Royal Challengers Bengaluru,2026.0,44.8,89.47,67.13,False,True,bowling_allrounder,274.0,43.0,233.0,6.37,117.6,tailender,151.0,119.0,2470.0,1.269,8.92,death_bowler,1,0.8147660090852136
+Harbhajan Singh,Mumbai Indians,2021.0,53.62,79.6,66.61,False,True,bowling_allrounder,833.0,88.0,604.0,9.47,137.91,tailender,150.0,160.0,3416.0,0.938,7.08,middle_overs_bowler,1,0.7629667279802933
+Harmeet Singh,Punjab Kings,2013.0,54.08,80.24,67.16,False,False,pure_bowler,18.0,4.0,12.0,4.5,150.0,tailender,27.0,28.0,549.0,0.964,7.99,middle_overs_bowler,1,0.9660373385487465
+Harpreet Brar,Punjab Kings,2025.0,45.35,71.48,58.42,False,True,bowling_allrounder,244.0,26.0,203.0,9.38,120.2,tailender,35.0,47.0,835.0,0.745,7.98,middle_overs_bowler,0,0.18912235207306616
+Harpreet Singh,Punjab Kings,2024.0,45.31,0.0,22.66,False,False,pure_batter,123.0,8.0,119.0,15.38,103.36,middle_order,,,,,,,0,0.016604768715036074
+Harsh Dubey,Sunrisers Hyderabad,2026.0,51.69,89.28,70.48,False,False,pure_bowler,13.0,4.0,9.0,3.25,144.44,tailender,13.0,10.0,180.0,1.3,9.67,powerplay_bowler,1,0.9750333127555266
+Harshit Rana,Kolkata Knight Riders,2025.0,41.94,90.05,66.0,False,False,pure_bowler,59.0,10.0,56.0,5.9,105.36,tailender,40.0,32.0,649.0,1.25,9.51,powerplay_bowler,1,0.9845895466839523
+Himmat Singh,Lucknow Super Giants,2026.0,51.2,0.0,25.6,False,False,pure_batter,35.0,3.0,26.0,11.67,134.62,tailender,,,,,,,0,0.19442505442002025
+I Malhotra,Sunrisers Hyderabad,2011.0,63.7,30.8,47.25,False,False,pure_batter,7.0,1.0,4.0,7.0,175.0,tailender,0.0,1.0,6.0,0.0,23.0,part_time_bowler,1,0.9379261534121076
+I Sharma,Kolkata Knight Riders,2024.0,29.86,76.43,53.14,False,False,pure_bowler,57.0,21.0,69.0,2.71,82.61,tailender,96.0,117.0,2419.0,0.821,8.38,powerplay_bowler,1,0.8236059967158064
+I Udana,Royal Challengers Bengaluru,2020.0,49.04,71.16,60.1,False,False,pure_bowler,15.0,4.0,11.0,3.75,136.36,tailender,8.0,10.0,174.0,0.8,9.72,death_bowler,1,0.9335270332935083
+IC Pandey,Pune Warriors,2013.0,0.0,75.25,37.62,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,18.0,24.0,462.0,0.75,7.68,powerplay_bowler,0,0.011662077004660184
+IC Porel,Punjab Kings,2021.0,0.0,81.52,40.76,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,9.75,part_time_bowler,0,0.012618721196937839
+IK Pathan,Delhi Capitals,2017.0,50.3,75.43,62.86,False,True,bowling_allrounder,1139.0,82.0,946.0,13.89,120.4,middle_order,80.0,101.0,2043.0,0.792,7.78,powerplay_bowler,1,0.3816735715572604
+IR Jaggi,Sunrisers Hyderabad,2017.0,31.22,0.0,15.61,False,False,pure_batter,76.0,7.0,97.0,10.86,78.35,anchor_opener,,,,,,,0,0.004895428686559349
+IS Sodhi,Rajasthan Royals,2019.0,15.64,85.82,50.73,False,False,pure_bowler,7.0,2.0,17.0,3.5,41.18,tailender,9.0,8.0,181.0,1.125,6.7,middle_overs_bowler,0,0.06059948498853938
+Imran Tahir,Delhi Capitals,2020.0,32.66,94.12,63.39,False,False,pure_bowler,33.0,8.0,37.0,4.12,89.19,tailender,82.0,59.0,1316.0,1.39,7.76,middle_overs_bowler,1,0.9778716411424553
+Iqbal Abdulla,Kolkata Knight Riders,2017.0,41.35,75.66,58.5,False,False,utility_player,88.0,13.0,84.0,6.77,104.76,tailender,40.0,48.0,920.0,0.833,7.23,powerplay_bowler,0,0.3737859494511467
+Ishan Kishan,Mumbai Indians,2026.0,70.33,30.4,50.36,False,False,pure_batter,3310.0,121.0,2336.0,27.36,141.7,aggressive_opener,0.0,1.0,1.0,0.0,24.0,part_time_bowler,1,0.9802703731178913
+J Arunkumar,Royal Challengers Bengaluru,2008.0,37.68,0.0,18.84,False,False,pure_batter,23.0,3.0,23.0,7.67,100.0,anchor_opener,,,,,,,0,0.003931056368637962
+J Botha,Rajasthan Royals,2015.0,49.28,72.61,60.94,False,True,bowling_allrounder,409.0,28.0,359.0,14.61,113.93,middle_order,25.0,34.0,694.0,0.735,6.92,middle_overs_bowler,0,0.17401734422585477
+J Fraser-McGurk,Delhi Capitals,2025.0,88.79,0.0,44.4,False,False,pure_batter,385.0,15.0,193.0,25.67,199.48,aggressive_opener,,,,,,,1,0.9956004713094588
+J Little,Gujarat Titans,2024.0,0.0,80.63,40.32,False,False,pure_bowler,,,,,,,11.0,11.0,228.0,1.0,8.92,powerplay_bowler,0,0.009027096770381425
+J Overton,Chennai Super Kings,2026.0,70.94,75.04,72.99,True,False,batting_allrounder,151.0,8.0,93.0,18.88,162.37,lower_order_hitter,9.0,10.0,150.0,0.9,10.72,middle_overs_bowler,1,0.9881965978696038
+J Suchith,Mumbai Indians,2022.0,46.22,76.68,61.45,False,False,pure_bowler,70.0,9.0,61.0,7.78,114.75,tailender,19.0,21.0,420.0,0.905,8.6,middle_overs_bowler,1,0.8894872815740734
+J Syed Mohammad,Royal Challengers Bengaluru,2013.0,41.07,68.41,54.74,False,False,pure_bowler,29.0,5.0,26.0,5.8,111.54,tailender,8.0,11.0,192.0,0.727,8.84,middle_overs_bowler,1,0.7906292919426884
+J Theron,Punjab Kings,2015.0,30.04,76.69,53.36,False,False,pure_bowler,10.0,4.0,12.0,2.5,83.33,tailender,9.0,10.0,216.0,0.9,8.14,death_bowler,1,0.9085122065289769
+J Yadav,Delhi Capitals,2021.0,42.39,61.18,51.78,False,False,pure_bowler,40.0,4.0,36.0,10.0,111.11,tailender,8.0,20.0,390.0,0.4,6.85,powerplay_bowler,0,0.20548476734555535
+JA Duffy,Royal Challengers Bengaluru,2026.0,0.0,115.82,57.91,False,False,pure_bowler,,,,,,,6.0,3.0,72.0,2.0,11.5,powerplay_bowler,1,0.8044738119362546
+JA Morkel,Chennai Super Kings,2016.0,57.9,80.81,69.36,False,True,bowling_allrounder,974.0,67.0,686.0,14.54,141.98,finisher,85.0,87.0,1723.0,0.977,8.21,powerplay_bowler,1,0.9716201274258962
+JA Richardson,Punjab Kings,2024.0,24.87,70.96,47.92,False,False,pure_bowler,17.0,3.0,26.0,5.67,65.38,tailender,3.0,4.0,90.0,0.75,10.47,powerplay_bowler,0,0.019314341557638344
+JC Archer,Rajasthan Royals,2026.0,53.68,90.04,71.86,False,True,bowling_allrounder,276.0,35.0,193.0,7.89,143.01,tailender,74.0,62.0,1440.0,1.194,8.0,death_bowler,1,0.9723285272844853
+JC Buttler,Rajasthan Royals,2026.0,77.71,0.0,38.85,False,False,pure_batter,4429.0,128.0,2955.0,34.6,149.88,aggressive_opener,,,,,,,1,0.9979357578870403
+JD Ryder,Pune Warriors,2012.0,61.73,63.32,62.52,True,True,batting_allrounder,604.0,29.0,458.0,20.83,131.88,aggressive_opener,8.0,16.0,236.0,0.5,7.7,middle_overs_bowler,0,0.29702259246575075
+JD Unadkat,Rajasthan Royals,2026.0,44.14,79.43,61.78,False,True,bowling_allrounder,201.0,28.0,169.0,7.18,118.93,tailender,114.0,115.0,2351.0,0.991,8.94,powerplay_bowler,0,0.3377352799984502
+JDP Oram,Chennai Super Kings,2011.0,40.46,68.04,54.25,False,False,utility_player,106.0,11.0,108.0,9.64,98.15,middle_order,9.0,14.0,237.0,0.643,8.84,death_bowler,0,0.29716551653494655
+JDS Neesham,Delhi Capitals,2022.0,37.84,65.69,51.76,False,False,utility_player,92.0,10.0,93.0,9.2,98.92,tailender,8.0,13.0,216.0,0.615,9.28,middle_overs_bowler,0,0.11346177966079693
+JE Root,Rajasthan Royals,2023.0,26.83,41.38,34.11,False,False,pure_batter,10.0,1.0,15.0,10.0,66.67,middle_order,0.0,1.0,12.0,0.0,7.0,part_time_bowler,1,0.8633829202728962
+JE Taylor,Pune Warriors,2011.0,35.52,90.33,62.92,False,False,pure_bowler,3.0,2.0,3.0,1.5,100.0,tailender,6.0,5.0,117.0,1.2,8.05,death_bowler,1,0.9667960957395831
+JEC Franklin,Mumbai Indians,2012.0,50.82,64.3,57.56,False,True,bowling_allrounder,327.0,16.0,301.0,20.44,108.64,anchor_opener,9.0,15.0,151.0,0.6,8.74,middle_overs_bowler,0,0.14439347888591297
+JG Bethell,Royal Challengers Bengaluru,2026.0,70.5,0.0,35.25,False,False,pure_batter,106.0,5.0,65.0,21.2,163.08,aggressive_opener,,,,,,,1,0.9945905167232137
+JH Kallis,Kolkata Knight Riders,2014.0,57.91,71.56,64.74,False,True,bowling_allrounder,2427.0,95.0,2222.0,25.55,109.23,anchor_opener,65.0,89.0,1742.0,0.73,7.9,middle_overs_bowler,1,0.6565931902742386
+JJ Bumrah,Mumbai Indians,2026.0,31.43,89.93,60.68,False,False,utility_player,75.0,29.0,86.0,2.59,87.21,tailender,185.0,153.0,3517.0,1.209,7.33,death_bowler,1,0.8901499791415762
+JJ Roy,Kolkata Knight Riders,2023.0,73.02,0.0,36.51,False,False,pure_batter,614.0,21.0,443.0,29.24,138.6,aggressive_opener,,,,,,,1,0.9964402654661041
+JJ van der Wath,Royal Challengers Bengaluru,2011.0,41.48,81.48,61.48,False,False,pure_bowler,18.0,3.0,16.0,6.0,112.5,tailender,3.0,3.0,72.0,1.0,10.75,death_bowler,1,0.9223441212278074
+JL Denly,Kolkata Knight Riders,2019.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,1.0,0.0,0.0,anchor_opener,,,,,,,0,0.0036857274693215514
+JL Pattinson,Mumbai Indians,2020.0,43.01,84.05,63.53,False,False,pure_bowler,15.0,2.0,13.0,7.5,115.38,tailender,11.0,10.0,213.0,1.1,9.01,powerplay_bowler,1,0.9351869822266196
+JM Bairstow,Sunrisers Hyderabad,2025.0,76.25,0.0,38.12,False,False,pure_batter,1674.0,52.0,1146.0,32.19,146.07,aggressive_opener,,,,,,,1,0.9986799969097384
+JM Kemp,Chennai Super Kings,2010.0,42.47,68.28,55.38,False,False,pure_bowler,26.0,2.0,24.0,13.0,108.33,middle_order,3.0,5.0,44.0,0.6,7.36,part_time_bowler,1,0.7645881129288556
+JM Sharma,Punjab Kings,2026.0,66.65,0.0,33.33,False,False,pure_batter,1054.0,54.0,687.0,19.52,153.42,finisher,,,,,,,1,0.997760809582634
+JO Holder,Sunrisers Hyderabad,2026.0,49.11,85.2,67.16,False,True,bowling_allrounder,294.0,29.0,231.0,10.14,127.27,tailender,56.0,49.0,1066.0,1.143,8.71,powerplay_bowler,1,0.890518691265575
+JP Behrendorff,Mumbai Indians,2023.0,24.38,85.49,54.93,False,False,pure_bowler,6.0,2.0,9.0,3.0,66.67,tailender,19.0,17.0,366.0,1.118,9.05,powerplay_bowler,1,0.9090093964168081
+JP Duminy,Delhi Capitals,2018.0,63.67,62.39,63.03,True,False,batting_allrounder,2029.0,75.0,1636.0,27.05,124.02,finisher,23.0,49.0,678.0,0.469,7.38,middle_overs_bowler,0,0.17622023494277458
+JP Faulkner,Rajasthan Royals,2017.0,55.51,79.83,67.67,False,True,bowling_allrounder,527.0,45.0,389.0,11.71,135.48,tailender,59.0,60.0,1227.0,0.983,8.69,death_bowler,1,0.949478663379316
+JP Inglis,Punjab Kings,2025.0,79.39,0.0,39.7,False,False,pure_batter,278.0,11.0,171.0,25.27,162.57,top_order_anchor,,,,,,,1,0.9947745792403896
+JPR Scantlebury-Searles,Kolkata Knight Riders,2018.0,48.07,62.44,55.26,False,False,pure_bowler,8.0,2.0,6.0,4.0,133.33,tailender,2.0,3.0,42.0,0.667,12.71,part_time_bowler,1,0.8818096275179123
+JR Hazlewood,Royal Challengers Bengaluru,2026.0,23.0,98.39,60.7,False,False,pure_bowler,19.0,8.0,30.0,2.38,63.33,tailender,65.0,45.0,1008.0,1.444,8.37,powerplay_bowler,1,0.9760004799927554
+JR Hopes,Punjab Kings,2011.0,61.71,69.12,65.42,True,True,batting_allrounder,417.0,19.0,306.0,21.95,136.27,aggressive_opener,14.0,20.0,360.0,0.7,9.13,death_bowler,1,0.9335077868338039
+JR Philippe,Royal Challengers Bengaluru,2020.0,52.92,0.0,26.46,False,False,pure_batter,78.0,5.0,77.0,15.6,101.3,anchor_opener,,,,,,,1,0.486224811534731
+JW Hastings,Kolkata Knight Riders,2016.0,0.0,85.62,42.81,False,False,pure_bowler,,,,,,,3.0,3.0,58.0,1.0,6.83,part_time_bowler,0,0.03480518129323884
+Jalaj S Saxena,Punjab Kings,2021.0,0.0,43.35,21.68,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,9.0,part_time_bowler,1,0.9076942733952743
+Jaskaran Singh,Sunrisers Hyderabad,2010.0,26.16,76.27,51.22,False,False,pure_bowler,8.0,4.0,11.0,2.0,72.73,tailender,6.0,7.0,102.0,0.857,10.06,powerplay_bowler,0,0.03330479874831381
+Joginder Sharma,Chennai Super Kings,2011.0,44.52,71.2,57.86,False,False,pure_bowler,36.0,5.0,30.0,7.2,120.0,tailender,12.0,15.0,256.0,0.8,9.82,middle_overs_bowler,1,0.887636840590107
+K Goel,Punjab Kings,2010.0,39.66,44.2,41.93,False,False,pure_batter,218.0,16.0,231.0,13.62,94.37,anchor_opener,0.0,6.0,66.0,0.0,8.45,middle_overs_bowler,1,0.9303140849500098
+K Gowtham,Rajasthan Royals,2023.0,62.72,66.88,64.8,False,True,bowling_allrounder,247.0,27.0,148.0,9.15,166.89,lower_order_hitter,21.0,35.0,588.0,0.6,8.24,powerplay_bowler,1,0.922618926075538
+K Kartikeya,Mumbai Indians,2025.0,25.76,70.76,48.26,False,False,pure_bowler,12.0,4.0,17.0,3.0,70.59,tailender,12.0,16.0,282.0,0.75,8.66,middle_overs_bowler,0,0.031207572276727623
+K Khejroliya,Royal Challengers Bengaluru,2025.0,0.0,69.2,34.6,False,False,pure_bowler,,,,,,,6.0,8.0,139.0,0.75,10.62,middle_overs_bowler,0,0.016473503968767875
+K Rabada,Delhi Capitals,2026.0,41.54,96.81,69.18,False,True,bowling_allrounder,250.0,32.0,231.0,7.81,108.23,tailender,133.0,93.0,2112.0,1.43,8.72,death_bowler,1,0.854006957476275
+K Santokie,Mumbai Indians,2014.0,0.0,96.32,48.16,False,False,pure_bowler,,,,,,,3.0,2.0,48.0,1.5,11.25,part_time_bowler,0,0.11044506707697081
+K Upadhyay,Pune Warriors,2013.0,48.77,45.65,47.21,False,False,pure_batter,12.0,2.0,9.0,6.0,133.33,tailender,0.0,3.0,54.0,0.0,9.0,part_time_bowler,1,0.8793667833633282
+K Yadav,Rajasthan Royals,2021.0,0.0,66.09,33.04,False,False,pure_bowler,0.0,1.0,4.0,0.0,0.0,tailender,2.0,3.0,54.0,0.667,9.33,part_time_bowler,0,0.0049556385374944015
+KA Jamieson,Royal Challengers Bengaluru,2026.0,39.61,82.87,61.24,False,False,pure_bowler,77.0,10.0,73.0,7.7,105.48,tailender,16.0,15.0,300.0,1.067,10.12,powerplay_bowler,1,0.8840722857922684
+KA Maharaj,Rajasthan Royals,2024.0,17.85,80.05,48.95,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,2.0,2.0,36.0,1.0,6.5,part_time_bowler,0,0.02873807188718864
+KA Pollard,Mumbai Indians,2022.0,65.09,66.16,65.62,True,True,batting_allrounder,3412.0,168.0,2316.0,20.31,147.32,finisher,69.0,107.0,1488.0,0.645,8.79,middle_overs_bowler,1,0.9554577898681225
+KAJ Roach,Sunrisers Hyderabad,2010.0,42.39,46.42,44.4,False,False,pure_batter,10.0,1.0,9.0,10.0,111.11,tailender,0.0,2.0,48.0,0.0,10.0,part_time_bowler,1,0.9404402180934045
+KB Arun Karthik,Royal Challengers Bengaluru,2013.0,37.23,0.0,18.61,False,False,pure_batter,51.0,8.0,51.0,6.38,100.0,tailender,,,,,,,0,0.0039433982434609344
+KC Cariappa,Punjab Kings,2019.0,41.68,68.75,55.22,False,False,pure_bowler,24.0,5.0,21.0,4.8,114.29,tailender,8.0,11.0,216.0,0.727,9.67,middle_overs_bowler,1,0.8119099456252421
+KC Sangakkara,Punjab Kings,2013.0,61.24,0.0,30.62,False,False,pure_batter,1687.0,68.0,1392.0,24.81,121.19,finisher,,,,,,,1,0.9841176767738358
+KD Karthik,Kolkata Knight Riders,2024.0,62.9,0.0,31.45,False,False,pure_batter,4842.0,233.0,3577.0,20.78,135.36,finisher,,,,,,,1,0.9952692174583312
+KH Pandya,Mumbai Indians,2026.0,56.95,70.64,63.8,True,True,batting_allrounder,1796.0,118.0,1358.0,15.22,132.25,tailender,102.0,140.0,2560.0,0.729,7.56,middle_overs_bowler,0,0.2852200571035357
+KJ Abbott,Punjab Kings,2016.0,58.39,57.38,57.89,False,False,pure_bowler,13.0,3.0,8.0,4.33,162.5,tailender,2.0,5.0,96.0,0.4,11.06,powerplay_bowler,1,0.8710746122229246
+KK Ahmed,Sunrisers Hyderabad,2025.0,7.89,89.19,48.54,False,False,pure_bowler,2.0,6.0,9.0,0.33,22.22,tailender,91.0,76.0,1657.0,1.197,8.96,powerplay_bowler,0,0.05808875083513357
+KK Cooper,Rajasthan Royals,2014.0,65.58,92.12,78.85,False,False,utility_player,116.0,12.0,68.0,9.67,170.59,finisher,33.0,25.0,576.0,1.32,7.89,death_bowler,1,0.9932795769548054
+KK Nair,Delhi Capitals,2026.0,62.75,0.0,31.38,False,False,pure_batter,1699.0,77.0,1291.0,22.06,131.6,finisher,,,,,,,1,0.9968315332219279
+KL Nagarkoti,Kolkata Knight Riders,2021.0,24.43,59.35,41.89,False,False,pure_bowler,22.0,7.0,33.0,3.14,66.67,tailender,5.0,11.0,180.0,0.455,9.5,middle_overs_bowler,0,0.012334217505468802
+KL Rahul,Punjab Kings,2026.0,77.35,0.0,38.67,False,False,pure_batter,5655.0,144.0,4072.0,39.27,138.88,aggressive_opener,,,,,,,1,0.9949434334183839
+KM Asif,Rajasthan Royals,2023.0,0.0,79.48,39.74,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,7.0,7.0,133.0,1.0,10.42,powerplay_bowler,0,0.01336366676241312
+KM Jadhav,Delhi Capitals,2023.0,52.4,0.0,26.2,False,False,pure_batter,1208.0,81.0,981.0,14.91,123.14,middle_order,,,,,,,0,0.3170881128574835
+KMA Paul,Delhi Capitals,2019.0,27.51,84.16,55.84,False,False,pure_bowler,18.0,5.0,24.0,3.6,75.0,tailender,9.0,8.0,163.0,1.125,8.72,death_bowler,1,0.9186528480794393
+KMDN Kulasekara,Chennai Super Kings,2012.0,60.08,83.7,71.89,False,False,pure_bowler,5.0,1.0,3.0,5.0,166.67,tailender,5.0,5.0,102.0,1.0,7.06,powerplay_bowler,1,0.9820113398497298
+KP Appanna,Royal Challengers Bengaluru,2010.0,17.73,69.14,43.44,False,False,pure_bowler,2.0,3.0,4.0,0.67,50.0,tailender,9.0,13.0,216.0,0.692,7.94,middle_overs_bowler,0,0.010173230676500345
+KP Pietersen,Delhi Capitals,2016.0,69.4,64.07,66.74,True,True,batting_allrounder,1001.0,36.0,743.0,27.81,134.72,top_order_anchor,7.0,13.0,174.0,0.538,7.41,middle_overs_bowler,1,0.8394049778690235
+KR Mayers,Lucknow Super Giants,2023.0,72.19,44.95,58.57,False,False,pure_batter,379.0,13.0,263.0,29.15,144.11,aggressive_opener,0.0,6.0,42.0,0.0,8.43,part_time_bowler,1,0.9811794930711812
+KR Sen,Rajasthan Royals,2022.0,0.0,86.22,43.11,False,False,pure_bowler,0.0,1.0,3.0,0.0,0.0,tailender,14.0,12.0,241.0,1.167,9.63,middle_overs_bowler,0,0.02458419494878224
+KS Bharat,Royal Challengers Bengaluru,2022.0,62.69,0.0,31.34,False,False,pure_batter,199.0,8.0,163.0,24.88,122.09,middle_order,,,,,,,1,0.9823732850346703
+KS Rathore,Rajasthan Royals,2025.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,5.0,0.0,0.0,middle_order,,,,,,,0,0.0036857274693215514
+KS Sharma,Lucknow Super Giants,2023.0,24.27,0.0,12.14,False,False,pure_batter,16.0,3.0,25.0,5.33,64.0,anchor_opener,,,,,,,0,0.004314017662100348
+KS Williamson,Sunrisers Hyderabad,2024.0,64.81,38.64,51.72,False,False,pure_batter,2128.0,76.0,1694.0,28.0,125.62,top_order_anchor,0.0,2.0,18.0,0.0,10.33,part_time_bowler,1,0.9815736938054876
+KT Maphaka,Rajasthan Royals,2025.0,142.8,61.4,102.1,False,False,pure_bowler,8.0,1.0,2.0,8.0,400.0,tailender,2.0,4.0,66.0,0.5,13.0,powerplay_bowler,1,0.9825512874067075
+KV Sharma,Sunrisers Hyderabad,2025.0,46.34,78.54,62.44,False,True,bowling_allrounder,352.0,40.0,295.0,8.8,119.32,tailender,83.0,87.0,1585.0,0.954,8.38,middle_overs_bowler,1,0.5652280985690141
+KW Richardson,Pune Warriors,2016.0,35.46,91.12,63.29,False,False,pure_bowler,36.0,4.0,39.0,9.0,92.31,tailender,19.0,15.0,335.0,1.267,8.45,death_bowler,1,0.993970636016669
+Kamran Akmal,Rajasthan Royals,2008.0,69.91,0.0,34.96,False,False,pure_batter,128.0,6.0,78.0,21.33,164.1,aggressive_opener,,,,,,,1,0.9952181625910586
+Kamran Khan,Rajasthan Royals,2009.0,22.05,82.59,52.32,False,False,pure_bowler,3.0,1.0,5.0,3.0,60.0,tailender,9.0,9.0,160.0,1.0,8.4,powerplay_bowler,1,0.8267201074866034
+Karanveer Singh,Punjab Kings,2015.0,25.76,90.98,58.37,False,False,pure_bowler,12.0,4.0,17.0,3.0,70.59,tailender,12.0,9.0,204.0,1.333,9.44,middle_overs_bowler,1,0.957140969581576
+Karim Janat,Gujarat Titans,2025.0,0.0,28.0,14.0,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,30.0,part_time_bowler,0,0.2551349092615272
+Kartik Sharma,Chennai Super Kings,2026.0,45.49,0.0,22.74,False,False,pure_batter,58.0,5.0,49.0,11.6,118.37,middle_order,,,,,,,0,0.010697825453339306
+Kartik Tyagi,Rajasthan Royals,2026.0,34.65,76.41,55.53,False,False,pure_bowler,24.0,8.0,25.0,3.0,96.0,tailender,24.0,27.0,584.0,0.889,10.0,death_bowler,1,0.949185872388825
+Krish Bhagat,Mumbai Indians,2026.0,18.78,47.35,33.06,False,False,pure_batter,7.0,1.0,15.0,7.0,46.67,tailender,0.0,2.0,24.0,0.0,10.25,part_time_bowler,1,0.839785907557448
+Kuldeep Yadav,Delhi Capitals,2026.0,31.56,81.09,56.32,False,True,bowling_allrounder,210.0,41.0,253.0,5.12,83.0,tailender,109.0,104.0,2226.0,1.048,8.23,middle_overs_bowler,0,0.349460175214999
+Kumar Kushagra,Delhi Capitals,2026.0,36.84,0.0,18.42,False,False,pure_batter,21.0,4.0,21.0,5.25,100.0,tailender,,,,,,,0,0.003931056368637962
+L Ablish,Punjab Kings,2011.0,0.0,77.27,38.64,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,3.0,3.0,42.0,1.0,10.71,part_time_bowler,0,0.02310307503440824
+L Balaji,Chennai Super Kings,2014.0,26.68,82.84,54.76,False,False,pure_bowler,36.0,13.0,49.0,2.77,73.47,tailender,76.0,73.0,1512.0,1.041,8.05,death_bowler,1,0.8441785611812361
+L Ngidi,Delhi Capitals,2026.0,13.48,103.5,58.49,False,False,pure_bowler,3.0,3.0,8.0,1.0,37.5,tailender,36.0,22.0,514.0,1.636,8.58,death_bowler,1,0.8420154318250288
+L Ronchi,Mumbai Indians,2009.0,37.38,0.0,18.69,False,False,pure_batter,34.0,5.0,34.0,6.8,100.0,anchor_opener,,,,,,,0,0.0039433982434609344
+L Wood,Mumbai Indians,2024.0,108.15,57.55,82.85,False,False,pure_bowler,9.0,1.0,3.0,9.0,300.0,tailender,1.0,2.0,36.0,0.5,15.5,part_time_bowler,1,0.9731547690843553
+LA Carseldine,Rajasthan Royals,2009.0,53.36,89.28,71.32,False,False,pure_bowler,81.0,5.0,68.0,16.2,119.12,middle_order,1.0,1.0,6.0,1.0,6.0,part_time_bowler,1,0.9018639573369797
+LA Pomersbach,Punjab Kings,2013.0,55.21,0.0,27.6,False,False,pure_batter,302.0,16.0,246.0,18.88,122.76,middle_order,,,,,,,1,0.8779412739910157
+LB Williams,Delhi Capitals,2024.0,17.85,61.72,39.78,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,1.0,2.0,36.0,0.5,12.0,part_time_bowler,0,0.0338842537657024
+LE Plunkett,Delhi Capitals,2018.0,11.84,63.38,37.61,False,False,pure_bowler,1.0,2.0,3.0,0.5,33.33,tailender,4.0,7.0,150.0,0.571,9.0,death_bowler,0,0.0023070810738586942
+LG Pretorius,Rajasthan Royals,2026.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,2.0,0.0,0.0,middle_order,,,,,,,0,0.0036857274693215514
+LH Ferguson,Kolkata Knight Riders,2025.0,56.77,82.49,69.63,False,False,pure_bowler,72.0,8.0,47.0,9.0,153.19,lower_order_hitter,52.0,50.0,1047.0,1.04,9.09,death_bowler,1,0.9912300638280137
+LI Meriwala,Delhi Capitals,2021.0,0.0,79.06,39.53,False,False,pure_bowler,,,,,,,1.0,1.0,18.0,1.0,10.67,part_time_bowler,0,0.007135795716416973
+LJ Wright,Pune Warriors,2013.0,81.25,52.74,67.0,False,False,utility_player,106.0,5.0,60.0,21.2,176.67,top_order_aggressor,2.0,6.0,71.0,0.333,10.48,middle_overs_bowler,1,0.9234317304181403
+LMP Simmons,Mumbai Indians,2017.0,74.93,73.24,74.09,False,False,pure_batter,1079.0,29.0,852.0,37.21,126.64,anchor_opener,1.0,1.0,18.0,1.0,11.33,part_time_bowler,1,0.9728046716600163
+LPC Silva,Sunrisers Hyderabad,2008.0,58.51,31.6,45.06,False,False,pure_batter,40.0,3.0,26.0,13.33,153.85,top_order_aggressor,0.0,1.0,6.0,0.0,21.0,part_time_bowler,1,0.9327694965255957
+LR Shukla,Kolkata Knight Riders,2014.0,47.52,65.37,56.45,False,True,bowling_allrounder,405.0,33.0,350.0,12.27,115.71,middle_order,15.0,27.0,314.0,0.556,8.54,middle_overs_bowler,0,0.15031361613728886
+LRPL Taylor,Royal Challengers Bengaluru,2014.0,56.01,35.2,45.6,False,False,pure_batter,1017.0,54.0,822.0,18.83,123.72,finisher,0.0,2.0,12.0,0.0,12.0,part_time_bowler,1,0.9481606269667988
+LS Livingstone,Punjab Kings,2026.0,69.28,59.8,64.54,True,False,batting_allrounder,1066.0,49.0,687.0,21.76,155.17,top_order_aggressor,13.0,27.0,312.0,0.481,9.02,middle_overs_bowler,0,0.44226836169731065
+Lalit Yadav,Delhi Capitals,2024.0,46.18,62.35,54.26,False,True,bowling_allrounder,305.0,21.0,290.0,14.52,105.17,middle_order,10.0,19.0,288.0,0.526,8.85,powerplay_bowler,0,0.13128370442227785
+Liton Das,Kolkata Knight Riders,2023.0,36.4,0.0,18.2,False,False,pure_batter,4.0,1.0,4.0,4.0,100.0,anchor_opener,,,,,,,0,0.006149568582692429
+M Ashwin,Punjab Kings,2022.0,25.52,73.2,49.36,False,False,pure_bowler,35.0,12.0,50.0,2.92,70.0,tailender,35.0,44.0,870.0,0.795,8.01,middle_overs_bowler,0,0.05234473347724211
+M Jansen,Sunrisers Hyderabad,2026.0,41.5,80.18,60.84,False,True,bowling_allrounder,151.0,22.0,140.0,6.86,107.86,tailender,41.0,42.0,897.0,0.976,9.4,powerplay_bowler,0,0.3392474353409854
+M Kaif,Rajasthan Royals,2012.0,43.11,0.0,21.56,False,False,pure_batter,259.0,22.0,250.0,11.77,103.6,middle_order,,,,,,,0,0.035108413512537094
+M Kartik,Kolkata Knight Riders,2013.0,39.44,65.64,52.54,False,False,utility_player,113.0,14.0,108.0,8.07,104.63,tailender,31.0,55.0,1149.0,0.564,7.25,middle_overs_bowler,0,0.25417061973014304
+M Klinger,Kochi Tuskers Kerala,2011.0,39.57,0.0,19.78,False,False,pure_batter,73.0,4.0,77.0,18.25,94.81,anchor_opener,,,,,,,0,0.005552584875399551
+M Manhas,Pune Warriors,2014.0,46.97,46.52,46.74,False,False,pure_batter,514.0,38.0,470.0,13.53,109.36,middle_order,0.0,3.0,42.0,0.0,6.0,part_time_bowler,1,0.9136764306206699
+M Markande,Mumbai Indians,2023.0,41.68,76.14,58.91,False,False,pure_bowler,48.0,10.0,42.0,4.8,114.29,tailender,37.0,40.0,750.0,0.925,9.16,middle_overs_bowler,1,0.8563093858262405
+M Morkel,Delhi Capitals,2016.0,51.2,86.75,68.97,False,False,utility_player,126.0,20.0,90.0,6.3,140.0,tailender,77.0,70.0,1629.0,1.1,7.69,powerplay_bowler,1,0.9520589035331054
+M Muralitharan,Chennai Super Kings,2012.0,24.11,81.28,52.7,False,False,pure_bowler,20.0,9.0,30.0,2.22,66.67,tailender,63.0,66.0,1524.0,0.955,6.68,middle_overs_bowler,1,0.7840471658485563
+M Ntini,Chennai Super Kings,2008.0,23.31,77.32,50.32,False,False,pure_bowler,11.0,2.0,18.0,5.5,61.11,tailender,7.0,9.0,210.0,0.778,6.91,powerplay_bowler,0,0.03512259724208765
+M Pathirana,Chennai Super Kings,2025.0,0.0,97.19,48.6,False,False,pure_bowler,,,,,,,47.0,32.0,702.0,1.469,8.68,death_bowler,0,0.0953448399908465
+M Prasidh Krishna,Kolkata Knight Riders,2022.0,13.58,88.11,50.84,False,False,pure_bowler,9.0,7.0,24.0,1.29,37.5,tailender,86.0,73.0,1655.0,1.178,8.92,death_bowler,0,0.07125980942520774
+M Rawat,Rajasthan Royals,2013.0,29.65,0.0,14.82,False,False,pure_batter,55.0,11.0,69.0,5.0,79.71,tailender,,,,,,,0,0.007306009827946166
+M Shahrukh Khan,Punjab Kings,2026.0,60.27,54.87,57.57,False,False,pure_batter,775.0,53.0,524.0,14.62,147.9,finisher,1.0,3.0,18.0,0.333,9.33,part_time_bowler,1,0.6642173950426432
+M Siddharth,Lucknow Super Giants,2026.0,0.0,75.63,37.82,False,False,pure_bowler,,,,,,,7.0,8.0,162.0,0.875,8.74,powerplay_bowler,0,0.006062778037676861
+M Theekshana,Rajasthan Royals,2025.0,18.49,77.64,48.06,False,False,pure_bowler,17.0,6.0,34.0,2.83,50.0,tailender,36.0,38.0,876.0,0.947,8.27,powerplay_bowler,0,0.005708053404741271
+M Tiwari,Delhi Capitals,2025.0,27.3,34.4,30.85,False,False,pure_batter,3.0,1.0,4.0,3.0,75.0,tailender,0.0,1.0,6.0,0.0,14.0,part_time_bowler,0,0.5167283584699719
+M Vijay,Chennai Super Kings,2020.0,61.67,42.28,51.98,False,False,pure_batter,2619.0,105.0,2149.0,24.94,121.87,anchor_opener,0.0,4.0,36.0,0.0,8.17,part_time_bowler,1,0.9791035685836872
+M Vohra,Punjab Kings,2023.0,61.98,0.0,30.99,False,False,pure_batter,1083.0,51.0,829.0,21.24,130.64,aggressive_opener,,,,,,,1,0.997760809582634
+M de Lange,Mumbai Indians,2014.0,17.85,80.74,49.3,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,5.0,5.0,108.0,1.0,9.39,powerplay_bowler,0,0.013313816114700748
+MA Agarwal,Punjab Kings,2025.0,62.37,0.0,31.18,False,False,pure_batter,2756.0,125.0,2064.0,22.05,133.53,aggressive_opener,,,,,,,1,0.9972814284594698
+MA Khote,Mumbai Indians,2008.0,40.98,75.92,58.45,False,False,pure_bowler,24.0,3.0,22.0,8.0,109.09,tailender,2.0,2.0,30.0,1.0,10.2,part_time_bowler,1,0.8891815013104601
+MA Starc,Royal Challengers Bengaluru,2025.0,34.5,93.86,64.18,False,False,utility_player,111.0,21.0,119.0,5.29,93.28,tailender,68.0,51.0,1083.0,1.333,8.68,death_bowler,1,0.9159694806983193
+MA Wood,Lucknow Super Giants,2023.0,53.9,124.67,89.28,False,False,pure_bowler,12.0,3.0,8.0,4.0,150.0,tailender,11.0,5.0,120.0,2.2,8.95,death_bowler,1,0.9855291225541908
+MB Parmar,Kolkata Knight Riders,2010.0,0.0,41.15,20.58,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,11.0,part_time_bowler,1,0.7628658075648281
+MC Henriques,Sunrisers Hyderabad,2021.0,57.56,69.54,63.55,True,True,batting_allrounder,1000.0,54.0,788.0,18.52,126.9,finisher,42.0,60.0,950.0,0.7,8.14,middle_overs_bowler,0,0.49774605270651107
+MC Juneja,Delhi Capitals,2013.0,44.72,0.0,22.36,False,False,pure_batter,125.0,7.0,128.0,17.86,97.66,middle_order,,,,,,,0,0.01056574791621406
+MD Choudhary,Lucknow Super Giants,2026.0,65.35,0.0,32.67,False,False,pure_batter,156.0,8.0,107.0,19.5,145.79,tailender,,,,,,,1,0.992620945505843
+MD Mishra,Sunrisers Hyderabad,2012.0,48.3,0.0,24.15,False,False,pure_batter,237.0,17.0,208.0,13.94,113.94,anchor_opener,,,,,,,0,0.02916234665920646
+MD Shanaka,Gujarat Titans,2023.0,38.03,0.0,19.02,False,False,pure_batter,26.0,3.0,26.0,8.67,100.0,middle_order,,,,,,,0,0.004714121255047995
+MDKJ Perera,Rajasthan Royals,2013.0,40.14,0.0,20.07,False,False,pure_batter,14.0,2.0,13.0,7.0,107.69,anchor_opener,,,,,,,0,0.006306106505823813
+MEK Hussey,Chennai Super Kings,2015.0,69.35,0.0,34.67,False,False,pure_batter,1977.0,58.0,1612.0,34.09,122.64,anchor_opener,,,,,,,1,0.9888043401016603
+MF Maharoof,Delhi Capitals,2010.0,56.92,94.8,75.86,False,True,bowling_allrounder,177.0,14.0,123.0,12.64,143.9,tailender,27.0,20.0,420.0,1.35,7.43,powerplay_bowler,1,0.9589268403637639
+MG Bracewell,Royal Challengers Bengaluru,2023.0,48.26,88.39,68.32,False,False,pure_bowler,58.0,4.0,47.0,14.5,123.4,middle_order,6.0,5.0,66.0,1.2,8.64,middle_overs_bowler,1,0.9565866417619329
+MG Johnson,Punjab Kings,2018.0,37.73,87.48,62.6,False,True,bowling_allrounder,167.0,28.0,164.0,5.96,101.83,tailender,61.0,54.0,1232.0,1.13,8.29,powerplay_bowler,1,0.748475849412969
+MG Neser,Punjab Kings,2013.0,0.0,39.0,19.5,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,15.5,part_time_bowler,0,0.29129032079657136
+MJ Clarke,Pune Warriors,2012.0,47.22,60.66,53.94,False,False,utility_player,98.0,6.0,94.0,16.33,104.26,anchor_opener,2.0,5.0,66.0,0.4,6.09,middle_overs_bowler,0,0.3437389351187213
+MJ Guptill,Punjab Kings,2019.0,67.04,0.0,33.52,False,False,pure_batter,270.0,13.0,196.0,20.77,137.76,aggressive_opener,,,,,,,1,0.9936688999176191
+MJ Henry,Chennai Super Kings,2026.0,25.72,57.56,41.64,False,False,pure_bowler,7.0,2.0,10.0,3.5,70.0,tailender,4.0,9.0,162.0,0.444,11.52,powerplay_bowler,0,0.026000151617494246
+MJ Lumb,Rajasthan Royals,2011.0,70.77,0.0,35.38,False,False,pure_batter,278.0,12.0,194.0,23.17,143.3,aggressive_opener,,,,,,,1,0.9911546089038887
+MJ McClenaghan,Mumbai Indians,2019.0,43.99,91.46,67.72,False,False,pure_bowler,85.0,20.0,70.0,4.25,121.43,tailender,71.0,56.0,1274.0,1.268,8.49,powerplay_bowler,1,0.9707061405277885
+MJ Owen,Punjab Kings,2025.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,2.0,0.0,0.0,middle_order,,,,,,,0,0.0036857274693215514
+MJ Santner,Chennai Super Kings,2026.0,40.97,76.02,58.5,False,False,utility_player,136.0,21.0,123.0,6.48,110.57,tailender,30.0,35.0,687.0,0.857,7.51,middle_overs_bowler,0,0.16587587891841193
+MJ Suthar,Gujarat Titans,2024.0,17.85,69.64,43.74,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,2.0,3.0,42.0,0.667,9.57,part_time_bowler,0,0.0057069809445278365
+MK Lomror,Royal Challengers Bengaluru,2024.0,60.72,45.9,53.31,False,False,pure_batter,527.0,35.0,373.0,15.06,141.29,finisher,1.0,11.0,90.0,0.091,8.47,middle_overs_bowler,1,0.9454705951689829
+MK Pandey,Kolkata Knight Riders,2025.0,61.15,0.0,30.58,False,False,pure_batter,3942.0,161.0,3244.0,24.48,121.52,finisher,,,,,,,1,0.9816772988989176
+MK Tiwary,Kolkata Knight Riders,2018.0,57.12,46.45,51.78,False,False,pure_batter,1695.0,83.0,1449.0,20.42,116.98,middle_order,1.0,6.0,42.0,0.167,11.86,part_time_bowler,1,0.8401764760385985
+ML Hayden,Chennai Super Kings,2010.0,76.17,0.0,38.08,False,False,pure_batter,1107.0,32.0,805.0,34.59,137.52,aggressive_opener,,,,,,,1,0.9978519045710565
+MM Ali,Chennai Super Kings,2025.0,63.46,71.12,67.29,True,True,batting_allrounder,1167.0,59.0,835.0,19.78,139.76,finisher,41.0,57.0,854.0,0.719,7.23,middle_overs_bowler,1,0.8689346751756712
+MM Patel,Rajasthan Royals,2017.0,34.43,89.42,61.92,False,False,pure_bowler,39.0,12.0,41.0,3.25,95.12,tailender,74.0,63.0,1355.0,1.175,7.52,powerplay_bowler,1,0.9528558759708621
+MM Sharma,Punjab Kings,2025.0,33.63,84.6,59.11,False,False,utility_player,125.0,30.0,136.0,4.17,91.91,tailender,134.0,119.0,2403.0,1.126,8.77,death_bowler,1,0.5440336674805075
+MN Samuels,Pune Warriors,2017.0,41.08,74.8,57.94,False,True,bowling_allrounder,161.0,14.0,172.0,11.5,93.6,middle_order,9.0,11.0,214.0,0.818,7.96,powerplay_bowler,0,0.206319792969647
+MN van Wyk,Kolkata Knight Riders,2009.0,73.97,0.0,36.98,False,False,pure_batter,167.0,5.0,132.0,33.4,126.52,top_order_anchor,,,,,,,1,0.9921091733597482
+MP Breetzke,Lucknow Super Giants,2025.0,45.73,0.0,22.86,False,False,pure_batter,14.0,1.0,12.0,14.0,116.67,anchor_opener,,,,,,,0,0.020134425528375875
+MP Stoinis,Lucknow Super Giants,2026.0,65.75,64.46,65.1,True,True,batting_allrounder,2136.0,104.0,1448.0,20.54,147.51,finisher,44.0,73.0,900.0,0.603,9.85,middle_overs_bowler,0,0.8540764256400512
+MP Yadav,Lucknow Super Giants,2026.0,36.75,92.4,64.58,False,False,pure_bowler,5.0,1.0,5.0,5.0,100.0,tailender,9.0,7.0,145.0,1.286,9.97,middle_overs_bowler,1,0.9781722094986212
+MR Marsh,Delhi Capitals,2026.0,69.8,83.12,76.46,True,True,batting_allrounder,1504.0,57.0,1063.0,26.39,141.49,aggressive_opener,37.0,34.0,560.0,1.088,8.52,middle_overs_bowler,1,0.9902290576520816
+MS Bhandage,Royal Challengers Bengaluru,2025.0,9.1,0.0,4.55,False,False,pure_batter,1.0,1.0,4.0,1.0,25.0,tailender,,,,,,,0,0.0036857274693215514
+MS Bisla,Kolkata Knight Riders,2015.0,51.57,0.0,25.78,False,False,pure_batter,798.0,39.0,702.0,20.46,113.68,anchor_opener,,,,,,,0,0.18385573409709607
+MS Dhoni,Chennai Super Kings,2025.0,64.47,0.0,32.24,False,False,pure_batter,5439.0,241.0,3957.0,22.57,137.45,finisher,,,,,,,1,0.9960185033295683
+MS Gony,Chennai Super Kings,2013.0,53.12,76.26,64.69,False,False,pure_bowler,99.0,15.0,71.0,6.6,139.44,tailender,37.0,44.0,888.0,0.841,8.7,powerplay_bowler,1,0.9301222998014484
+MS Wade,Gujarat Titans,2024.0,45.05,0.0,22.52,False,False,pure_batter,183.0,14.0,177.0,13.07,103.39,middle_order,,,,,,,0,0.026977295886849415
+MV Boucher,Royal Challengers Bengaluru,2011.0,58.45,0.0,29.22,False,False,pure_batter,394.0,23.0,309.0,17.13,127.51,finisher,,,,,,,1,0.9850018511185407
+MW Short,Punjab Kings,2026.0,59.45,45.73,52.59,False,False,pure_batter,153.0,8.0,129.0,19.12,118.6,middle_order,0.0,5.0,43.0,0.0,8.93,part_time_bowler,1,0.9096371045506209
+Mandeep Singh,Punjab Kings,2023.0,54.76,36.88,45.82,False,False,pure_batter,1706.0,97.0,1388.0,17.59,122.91,anchor_opener,0.0,2.0,12.0,0.0,13.0,part_time_bowler,1,0.9453430046509266
+Mashrafe Mortaza,Kolkata Knight Riders,2009.0,35.7,41.5,38.6,False,False,pure_batter,2.0,1.0,2.0,2.0,100.0,middle_order,0.0,1.0,24.0,0.0,14.5,part_time_bowler,1,0.9228821820150208
+Mayank Dagar,Royal Challengers Bengaluru,2024.0,0.0,53.22,26.61,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,2.0,8.0,137.0,0.25,8.89,middle_overs_bowler,0,0.06621071628776545
+Misbah-ul-Haq,Royal Challengers Bengaluru,2008.0,63.17,0.0,31.58,False,False,pure_batter,117.0,8.0,81.0,14.62,144.44,top_order_aggressor,,,,,,,1,0.990314605208571
+Mohammad Ashraful,Mumbai Indians,2009.0,7.7,0.0,3.85,False,False,pure_batter,2.0,1.0,10.0,2.0,20.0,middle_order,,,,,,,0,0.00302286251779052
+Mohammad Asif,Delhi Capitals,2008.0,18.02,80.55,49.28,False,False,pure_bowler,3.0,2.0,6.0,1.5,50.0,tailender,8.0,8.0,192.0,1.0,9.25,death_bowler,0,0.00972702827960058
+Mohammad Hafeez,Kolkata Knight Riders,2008.0,29.79,65.2,47.5,False,False,utility_player,64.0,8.0,83.0,8.0,77.11,anchor_opener,2.0,4.0,60.0,0.5,6.8,middle_overs_bowler,0,0.07137768070476112
+Mohammad Nabi,Sunrisers Hyderabad,2024.0,55.72,69.02,62.37,False,True,bowling_allrounder,215.0,19.0,150.0,11.32,143.33,tailender,15.0,23.0,417.0,0.652,7.44,powerplay_bowler,1,0.6641265726743829
+Mohammed Shami,Delhi Capitals,2026.0,37.81,85.73,61.77,False,False,utility_player,115.0,33.0,110.0,3.48,104.55,tailender,140.0,127.0,2792.0,1.102,8.59,powerplay_bowler,1,0.7119358603789889
+Mohammed Siraj,Royal Challengers Bengaluru,2026.0,32.89,82.86,57.88,False,False,utility_player,112.0,22.0,126.0,5.09,88.89,tailender,118.0,117.0,2498.0,1.009,8.69,powerplay_bowler,0,0.41042059936410497
+Mohit Rathee,Punjab Kings,2023.0,17.85,40.45,29.15,False,False,pure_batter,1.0,1.0,2.0,1.0,50.0,tailender,0.0,1.0,12.0,0.0,14.5,part_time_bowler,0,0.5531895071111714
+Mohsin Khan,Lucknow Super Giants,2026.0,32.5,94.6,63.55,False,False,pure_bowler,25.0,7.0,28.0,3.57,89.29,tailender,36.0,27.0,582.0,1.333,8.15,powerplay_bowler,1,0.9880368278888324
+Monu Kumar,Chennai Super Kings,2020.0,0.0,44.32,22.16,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,10.0,part_time_bowler,1,0.9519202631412718
+Mujeeb Ur Rahman,Punjab Kings,2021.0,28.7,80.41,54.56,False,False,pure_bowler,12.0,6.0,15.0,2.0,80.0,tailender,20.0,20.0,446.0,1.0,8.34,powerplay_bowler,1,0.9135491640957688
+Mukesh Choudhary,Chennai Super Kings,2022.0,36.05,85.59,60.82,False,False,pure_bowler,6.0,2.0,6.0,3.0,100.0,tailender,20.0,18.0,351.0,1.111,9.81,powerplay_bowler,1,0.9507108242645129
+Mukesh Kumar,Delhi Capitals,2024.0,20.15,82.14,51.14,False,False,pure_bowler,10.0,5.0,18.0,2.0,55.56,tailender,42.0,39.0,786.0,1.077,10.51,death_bowler,0,0.04228727101743852
+Musheer Khan,Punjab Kings,2025.0,0.0,71.68,35.84,False,False,pure_bowler,0.0,1.0,3.0,0.0,0.0,tailender,1.0,1.0,12.0,1.0,13.5,part_time_bowler,0,0.046297133338891405
+Mustafizur Rahman,Rajasthan Royals,2025.0,19.61,84.03,51.82,False,False,pure_bowler,13.0,7.0,24.0,1.86,54.17,tailender,65.0,60.0,1364.0,1.083,8.13,death_bowler,0,0.14877170157062955
+N Burger,Rajasthan Royals,2026.0,22.05,84.83,53.44,False,False,pure_bowler,3.0,1.0,5.0,3.0,60.0,tailender,16.0,15.0,297.0,1.067,9.72,powerplay_bowler,1,0.8135692053009574
+N Jagadeesan,Kolkata Knight Riders,2023.0,53.24,0.0,26.62,False,False,pure_batter,162.0,10.0,147.0,16.2,110.2,anchor_opener,,,,,,,1,0.5715399870881197
+N Pooran,Lucknow Super Giants,2026.0,77.68,0.0,38.84,False,False,pure_batter,2375.0,94.0,1458.0,25.27,162.89,finisher,,,,,,,1,0.9985634037548847
+N Rana,Kolkata Knight Riders,2026.0,67.4,56.99,62.2,True,False,batting_allrounder,3055.0,119.0,2212.0,25.67,138.11,top_order_anchor,10.0,27.0,216.0,0.37,9.03,middle_overs_bowler,0,0.22654368904000186
+N Saini,Punjab Kings,2012.0,45.65,0.0,22.82,False,False,pure_batter,140.0,10.0,141.0,14.0,99.29,middle_order,,,,,,,0,0.016800933072967768
+N Thushara,Mumbai Indians,2025.0,0.0,84.08,42.04,False,False,pure_bowler,,,,,,,9.0,8.0,180.0,1.125,9.43,death_bowler,0,0.027114039353728813
+N Wadhera,Punjab Kings,2026.0,65.5,41.3,53.4,False,False,pure_batter,784.0,36.0,554.0,21.78,141.52,finisher,0.0,2.0,17.0,0.0,7.76,part_time_bowler,1,0.9574649818551846
+NA Saini,Rajasthan Royals,2023.0,0.0,39.45,19.73,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,17.0,part_time_bowler,0,0.2918101640148527
+NB Singh,Gujarat Lions,2017.0,0.0,72.68,36.34,False,False,pure_bowler,,,,,,,1.0,2.0,24.0,0.5,3.75,part_time_bowler,0,0.050191680348163056
+ND Doshi,Rajasthan Royals,2011.0,0.0,64.84,32.42,False,False,pure_bowler,0.0,1.0,13.0,0.0,0.0,tailender,2.0,4.0,56.0,0.5,8.46,part_time_bowler,0,0.012769258232711453
+NJ Maddinson,Royal Challengers Bengaluru,2015.0,35.67,0.0,17.84,False,False,pure_batter,20.0,3.0,21.0,6.67,95.24,anchor_opener,,,,,,,0,0.003931056368637962
+NJ Rimmington,Punjab Kings,2011.0,35.35,51.37,43.36,False,False,pure_batter,1.0,1.0,1.0,1.0,100.0,tailender,0.0,1.0,18.0,0.0,6.33,part_time_bowler,1,0.9031370221716736
+NK Patel,Rajasthan Royals,2009.0,52.64,0.0,26.32,False,False,pure_batter,121.0,6.0,119.0,20.17,101.68,anchor_opener,,,,,,,0,0.44762228779727614
+NL McCullum,Pune Warriors,2011.0,45.91,46.46,46.18,False,False,pure_batter,26.0,2.0,22.0,13.0,118.18,tailender,0.0,2.0,30.0,0.0,6.8,part_time_bowler,1,0.9335816657054551
+NLTC Perera,Sunrisers Hyderabad,2016.0,58.05,75.17,66.61,False,True,bowling_allrounder,422.0,30.0,307.0,14.07,137.46,finisher,31.0,36.0,698.0,0.861,8.73,death_bowler,1,0.9794407763957759
+NM Coulter-Nile,Delhi Capitals,2022.0,41.65,92.42,67.04,False,False,pure_bowler,82.0,16.0,72.0,5.12,113.89,tailender,48.0,38.0,857.0,1.263,7.7,powerplay_bowler,1,0.9583708802201794
+NS Naik,Punjab Kings,2020.0,24.41,0.0,12.2,False,False,pure_batter,31.0,4.0,50.0,7.75,62.0,middle_order,,,,,,,0,0.003182826142848428
+NT Ellis,Punjab Kings,2023.0,27.93,83.86,55.9,False,False,pure_bowler,19.0,5.0,25.0,3.8,76.0,tailender,19.0,17.0,378.0,1.118,8.67,death_bowler,1,0.9064575560051295
+NV Ojha,Sunrisers Hyderabad,2018.0,50.72,0.0,25.36,False,False,pure_batter,1554.0,94.0,1313.0,16.53,118.35,middle_order,,,,,,,0,0.14788374272199892
+Naman Dhir,Mumbai Indians,2026.0,73.95,41.79,57.87,False,False,pure_batter,568.0,27.0,338.0,21.04,168.05,lower_order_hitter,0.0,5.0,52.0,0.0,8.77,part_time_bowler,1,0.980286804140208
+Navdeep Saini,Royal Challengers Bengaluru,2022.0,32.86,72.43,52.64,False,False,pure_bowler,33.0,7.0,37.0,4.71,89.19,tailender,23.0,32.0,664.0,0.719,8.83,powerplay_bowler,1,0.8156193016883018
+Naveen-ul-Haq,Lucknow Super Giants,2024.0,26.78,96.87,61.82,False,False,pure_bowler,18.0,4.0,25.0,4.5,72.0,tailender,25.0,17.0,387.0,1.471,9.16,death_bowler,1,0.9598452107585825
+Nithish Kumar Reddy,Sunrisers Hyderabad,2026.0,66.83,60.95,63.89,True,True,batting_allrounder,678.0,30.0,485.0,22.6,139.79,finisher,11.0,21.0,265.0,0.524,10.91,middle_overs_bowler,0,0.3162614923010635
+Noor Ahmad,Chennai Super Kings,2026.0,20.56,88.16,54.36,False,False,pure_bowler,30.0,14.0,53.0,2.14,56.6,tailender,55.0,45.0,966.0,1.222,8.2,middle_overs_bowler,1,0.9458530093365508
+O Thomas,Rajasthan Royals,2019.0,0.0,89.76,44.88,False,False,pure_bowler,,,,,,,5.0,4.0,60.0,1.25,7.9,powerplay_bowler,0,0.0645909254423485
+OA Shah,Rajasthan Royals,2013.0,61.77,0.0,30.88,False,False,pure_batter,506.0,22.0,389.0,23.0,130.08,finisher,,,,,,,1,0.9957480412471318
+OC McCoy,Rajasthan Royals,2022.0,58.8,92.17,75.48,False,False,pure_bowler,8.0,1.0,5.0,8.0,160.0,tailender,11.0,8.0,161.0,1.375,9.32,death_bowler,1,0.9942042295459409
+OF Smith,Punjab Kings,2022.0,43.54,80.25,61.9,False,False,pure_bowler,51.0,6.0,44.0,8.5,115.91,tailender,6.0,6.0,90.0,1.0,11.87,middle_overs_bowler,1,0.8940629577612669
+P Amarnath,Chennai Super Kings,2008.0,0.0,83.0,41.5,False,False,pure_bowler,,,,,,,7.0,6.0,132.0,1.167,10.73,middle_overs_bowler,0,0.03838761962833732
+P Awana,Punjab Kings,2013.0,12.85,88.34,50.6,False,False,pure_bowler,5.0,5.0,14.0,1.0,35.71,tailender,39.0,33.0,747.0,1.182,8.27,powerplay_bowler,0,0.07213493575056598
+P Chopra,Rajasthan Royals,2018.0,49.47,0.0,24.74,False,False,pure_batter,8.0,1.0,6.0,8.0,133.33,middle_order,,,,,,,0,0.1680617370295068
+P Dogra,Rajasthan Royals,2013.0,38.4,0.0,19.2,False,False,pure_batter,127.0,12.0,138.0,10.58,92.03,tailender,,,,,,,0,0.011401590489816085
+P Dubey,Delhi Capitals,2023.0,28.42,58.28,43.35,False,False,pure_bowler,23.0,2.0,33.0,11.5,69.7,tailender,2.0,5.0,78.0,0.4,8.54,middle_overs_bowler,0,0.022188099596702985
+P Kumar,Royal Challengers Bengaluru,2017.0,40.52,74.72,57.62,False,True,bowling_allrounder,340.0,57.0,314.0,5.96,108.28,tailender,90.0,119.0,2524.0,0.756,7.73,powerplay_bowler,0,0.11987884735688953
+P Negi,Royal Challengers Bengaluru,2019.0,50.44,73.9,62.17,False,True,bowling_allrounder,365.0,35.0,289.0,10.43,126.3,tailender,34.0,42.0,716.0,0.81,7.87,middle_overs_bowler,1,0.5791259599481442
+P Nissanka,Delhi Capitals,2026.0,79.98,0.0,39.99,False,False,pure_batter,209.0,8.0,131.0,26.12,159.54,aggressive_opener,,,,,,,1,0.9952181625910586
+P Parameswaran,Kochi Tuskers Kerala,2012.0,17.68,86.61,52.14,False,False,pure_bowler,1.0,2.0,2.0,0.5,50.0,tailender,9.0,8.0,154.0,1.125,8.73,middle_overs_bowler,1,0.8280908431845488
+P Prasanth,Kochi Tuskers Kerala,2011.0,0.0,45.3,22.65,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,18.0,part_time_bowler,1,0.8084595221401606
+P Ray Barman,Royal Challengers Bengaluru,2019.0,34.36,36.48,35.42,False,False,pure_batter,19.0,1.0,24.0,19.0,79.17,tailender,0.0,1.0,24.0,0.0,14.0,part_time_bowler,1,0.8581238009100103
+P Sahu,Punjab Kings,2016.0,54.48,64.09,59.28,False,False,pure_bowler,19.0,2.0,13.0,9.5,146.15,tailender,3.0,5.0,105.0,0.6,8.34,middle_overs_bowler,1,0.9180692065558007
+P Simran Singh,Punjab Kings,2026.0,76.92,0.0,38.46,False,False,pure_batter,1701.0,59.0,1080.0,28.83,157.5,aggressive_opener,,,,,,,1,0.9986799969097384
+P Suyal,Mumbai Indians,2015.0,0.0,60.37,30.18,False,False,pure_bowler,,,,,,,2.0,5.0,96.0,0.4,9.44,powerplay_bowler,0,0.017336741012359953
+PA Patel,Mumbai Indians,2019.0,57.76,0.0,28.88,False,False,pure_batter,2848.0,136.0,2358.0,20.94,120.78,aggressive_opener,,,,,,,1,0.9317611737171497
+PA Reddy,Sunrisers Hyderabad,2013.0,44.62,0.0,22.31,False,False,pure_batter,164.0,10.0,160.0,16.4,102.5,anchor_opener,,,,,,,0,0.022449180588227913
+PBB Rajapaksa,Punjab Kings,2023.0,69.77,0.0,34.88,False,False,pure_batter,277.0,13.0,191.0,21.31,145.03,top_order_aggressor,,,,,,,1,0.9941114194740135
+PC Valthaty,Punjab Kings,2013.0,56.48,68.87,62.68,True,True,batting_allrounder,505.0,23.0,418.0,21.96,120.81,anchor_opener,7.0,10.0,151.0,0.7,8.15,middle_overs_bowler,0,0.386157311118603
+PD Collingwood,Delhi Capitals,2010.0,68.57,73.18,70.88,True,True,batting_allrounder,203.0,7.0,156.0,29.0,130.13,top_order_anchor,5.0,6.0,89.0,0.833,6.81,middle_overs_bowler,1,0.9298703683841175
+PD Salt,Royal Challengers Bengaluru,2026.0,86.33,0.0,43.16,False,False,pure_batter,1258.0,40.0,721.0,31.45,174.48,aggressive_opener,,,,,,,1,0.9986799969097384
+PH Solanki,Chennai Super Kings,2022.0,0.0,80.79,40.4,False,False,pure_bowler,,,,,,,2.0,2.0,36.0,1.0,6.33,part_time_bowler,0,0.03339312025296719
+PHKD Mendis,Sunrisers Hyderabad,2025.0,65.11,60.62,62.86,False,False,pure_bowler,92.0,5.0,69.0,18.4,133.33,middle_order,2.0,4.0,42.0,0.5,8.57,part_time_bowler,1,0.8286562895924097
+PJ Cummins,Kolkata Knight Riders,2025.0,62.13,83.82,72.97,False,True,bowling_allrounder,612.0,48.0,402.0,12.75,152.24,lower_order_hitter,80.0,74.0,1665.0,1.081,8.79,powerplay_bowler,1,0.9965711087182259
+PJ Sangwan,Delhi Capitals,2022.0,21.33,78.07,49.7,False,False,pure_bowler,26.0,14.0,44.0,1.86,59.09,tailender,38.0,42.0,856.0,0.905,8.69,powerplay_bowler,0,0.025349762042540986
+PK Garg,Sunrisers Hyderabad,2023.0,47.83,0.0,23.92,False,False,pure_batter,273.0,19.0,241.0,14.37,113.28,finisher,,,,,,,0,0.040712903266290804
+PM Sarvesh Kumar,Sunrisers Hyderabad,2008.0,17.85,63.32,40.58,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,1.0,2.0,30.0,0.5,8.4,part_time_bowler,0,0.011850662976416593
+PN Mankad,Lucknow Super Giants,2023.0,59.3,0.0,29.65,False,False,pure_batter,97.0,5.0,73.0,19.4,132.88,middle_order,,,,,,,1,0.9767604856299911
+PP Chawla,Punjab Kings,2024.0,41.33,80.82,61.08,False,True,bowling_allrounder,624.0,86.0,563.0,7.26,110.83,tailender,192.0,191.0,3850.0,1.005,7.96,middle_overs_bowler,0,0.1746196042973799
+PP Hinge,Sunrisers Hyderabad,2026.0,0.0,114.2,57.1,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,8.0,4.0,96.0,2.0,12.31,death_bowler,1,0.7971261680933915
+PP Ojha,Sunrisers Hyderabad,2014.0,12.74,80.99,46.86,False,False,pure_bowler,16.0,19.0,45.0,0.84,35.56,tailender,89.0,90.0,1899.0,0.989,7.37,middle_overs_bowler,0,0.008845555011145534
+PP Shaw,Delhi Capitals,2024.0,69.48,0.0,34.74,False,False,pure_batter,1892.0,79.0,1283.0,23.95,147.47,aggressive_opener,,,,,,,1,0.9985634037548847
+PR Shah,Mumbai Indians,2011.0,38.96,0.0,19.48,False,False,pure_batter,92.0,9.0,91.0,10.22,101.1,tailender,,,,,,,0,0.008918707840369263
+PR Veer,Chennai Super Kings,2026.0,71.21,0.0,35.6,False,False,pure_batter,49.0,2.0,36.0,24.5,136.11,tailender,,,,,,,1,0.9343890468366189
+PSP Handscomb,Rising Pune Supergiant,2016.0,19.6,0.0,9.8,False,False,pure_batter,6.0,1.0,12.0,6.0,50.0,middle_order,,,,,,,0,0.0019175794465418811
+PV Tambe,Rajasthan Royals,2016.0,17.2,74.73,45.96,False,False,pure_bowler,18.0,6.0,39.0,3.0,46.15,tailender,28.0,33.0,660.0,0.848,7.75,middle_overs_bowler,0,0.005224069498679518
+PVD Chameera,Lucknow Super Giants,2026.0,42.91,68.72,55.82,False,False,pure_bowler,53.0,11.0,45.0,4.82,117.78,tailender,13.0,20.0,396.0,0.65,9.82,powerplay_bowler,1,0.8200267161587753
+PVSN Raju,Mumbai Indians,2025.0,35.35,56.38,45.86,False,False,pure_bowler,1.0,1.0,1.0,1.0,100.0,tailender,1.0,2.0,24.0,0.5,13.25,part_time_bowler,0,0.12043970549967187
+PWA Mulder,Sunrisers Hyderabad,2025.0,31.79,37.78,34.78,False,False,pure_batter,9.0,1.0,11.0,9.0,81.82,tailender,0.0,1.0,6.0,0.0,16.0,part_time_bowler,1,0.831563879784387
+PWH de Silva,Royal Challengers Bengaluru,2025.0,33.71,88.79,61.25,False,False,utility_player,81.0,19.0,88.0,4.26,92.05,tailender,46.0,37.0,798.0,1.243,8.41,middle_overs_bowler,1,0.9497338489840204
+Pankaj Singh,Royal Challengers Bengaluru,2010.0,20.91,68.48,44.7,False,False,pure_bowler,7.0,5.0,12.0,1.4,58.33,tailender,11.0,17.0,300.0,0.647,9.36,powerplay_bowler,0,0.009638239337774974
+Parvez Rasool,Pune Warriors,2016.0,31.24,57.28,44.26,False,False,pure_bowler,17.0,4.0,20.0,4.25,85.0,tailender,4.0,11.0,198.0,0.364,8.21,powerplay_bowler,0,0.046737513951148425
+Prince Yadav,Lucknow Super Giants,2026.0,16.49,85.94,51.22,False,False,pure_bowler,5.0,3.0,11.0,1.67,45.45,tailender,16.0,14.0,317.0,1.143,8.84,death_bowler,0,0.03228350708529245
+Priyansh Arya,Punjab Kings,2026.0,93.93,0.0,46.96,False,False,pure_batter,828.0,25.0,412.0,33.12,200.97,aggressive_opener,,,,,,,1,0.9929604796925658
+Q de Kock,Mumbai Indians,2026.0,68.36,0.0,34.18,False,False,pure_batter,3441.0,118.0,2550.0,29.16,134.94,aggressive_opener,,,,,,,1,0.9962570634576128
+R Ashwin,Chennai Super Kings,2025.0,46.11,76.11,61.11,False,True,bowling_allrounder,833.0,93.0,705.0,8.96,118.16,tailender,187.0,217.0,4710.0,0.862,7.2,middle_overs_bowler,0,0.1744315509679901
+R Bhatia,Kolkata Knight Riders,2017.0,44.7,71.46,58.08,False,True,bowling_allrounder,342.0,47.0,284.0,7.28,120.42,tailender,71.0,91.0,1636.0,0.78,7.41,middle_overs_bowler,0,0.19889670021606287
+R Bishnoi,Royal Challengers Bengaluru,2009.0,41.33,0.0,20.66,False,False,pure_batter,19.0,3.0,17.0,6.33,111.76,middle_order,,,,,,,0,0.01179169595881098
+R Dhawan,Punjab Kings,2023.0,42.65,69.28,55.96,False,True,bowling_allrounder,210.0,22.0,187.0,9.55,112.3,tailender,25.0,36.0,662.0,0.694,8.08,middle_overs_bowler,0,0.16504391857903652
+R Dravid,Rajasthan Royals,2013.0,61.41,0.0,30.7,False,False,pure_batter,2174.0,82.0,1882.0,26.51,115.52,anchor_opener,,,,,,,1,0.9088775274545604
+R Goyal,Mumbai Indians,2023.0,0.0,44.0,22.0,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,8.25,part_time_bowler,1,0.9322928488266262
+R McLaren,Mumbai Indians,2013.0,41.44,68.72,55.08,False,True,bowling_allrounder,159.0,13.0,171.0,12.23,92.98,tailender,12.0,18.0,354.0,0.667,9.19,powerplay_bowler,0,0.2347854596666908
+R Minz,Mumbai Indians,2026.0,16.13,0.0,8.06,False,False,pure_batter,7.0,3.0,16.0,2.33,43.75,middle_order,,,,,,,0,0.0014406053152480544
+R Ninan,Royal Challengers Bengaluru,2011.0,18.55,93.72,56.14,False,False,pure_bowler,3.0,1.0,6.0,3.0,50.0,tailender,3.0,2.0,36.0,1.5,10.83,part_time_bowler,1,0.902449169432249
+R Parag,Rajasthan Royals,2026.0,64.97,50.97,57.97,True,False,batting_allrounder,1773.0,82.0,1248.0,21.62,142.07,top_order_aggressor,9.0,34.0,319.0,0.265,9.69,middle_overs_bowler,0,0.2799573220556301
+R Powell,Delhi Capitals,2026.0,63.75,58.38,61.06,False,False,pure_batter,486.0,28.0,339.0,17.36,143.36,finisher,1.0,2.0,18.0,0.5,11.67,part_time_bowler,1,0.7022023061059789
+R Rampaul,Royal Challengers Bengaluru,2014.0,38.25,90.89,64.57,False,False,pure_bowler,51.0,7.0,50.0,7.29,102.0,middle_order,14.0,12.0,262.0,1.167,6.82,powerplay_bowler,1,0.9821880674679089
+R Ravindra,Chennai Super Kings,2025.0,70.06,49.02,59.54,False,False,pure_batter,413.0,18.0,287.0,22.94,143.9,aggressive_opener,0.0,2.0,12.0,0.0,3.5,part_time_bowler,1,0.9026414650453906
+R Sai Kishore,Gujarat Titans,2025.0,40.95,88.86,64.9,False,False,pure_bowler,18.0,4.0,16.0,4.5,112.5,tailender,32.0,25.0,441.0,1.28,8.86,middle_overs_bowler,1,0.9627295222721308
+R Sanjay Yadav,Mumbai Indians,2022.0,0.0,47.9,23.95,False,False,unknown,0.0,1.0,2.0,0.0,0.0,tailender,0.0,1.0,12.0,0.0,11.5,part_time_bowler,1,0.8072153056262589
+R Sathish,Mumbai Indians,2016.0,44.85,49.06,46.96,False,False,utility_player,270.0,24.0,231.0,11.25,116.88,tailender,3.0,14.0,139.0,0.214,10.01,middle_overs_bowler,0,0.24721191554187916
+R Sharma,Pune Warriors,2013.0,32.01,78.28,55.14,False,False,pure_bowler,66.0,19.0,75.0,3.47,88.0,tailender,40.0,44.0,928.0,0.909,7.02,middle_overs_bowler,1,0.855769283729811
+R Shepherd,Royal Challengers Bengaluru,2026.0,74.92,65.3,70.11,False,True,bowling_allrounder,241.0,17.0,127.0,14.18,189.76,lower_order_hitter,15.0,23.0,306.0,0.652,12.0,middle_overs_bowler,1,0.9713586932943703
+R Shukla,Delhi Capitals,2014.0,30.58,70.0,50.29,False,False,pure_bowler,19.0,4.0,23.0,4.75,82.61,tailender,5.0,7.0,120.0,0.714,10.4,powerplay_bowler,0,0.08382437965684232
+R Tewatia,Gujarat Titans,2026.0,57.15,66.36,61.76,False,True,bowling_allrounder,1188.0,83.0,870.0,14.31,136.55,finisher,32.0,52.0,843.0,0.615,7.91,middle_overs_bowler,0,0.44118208391810576
+R Vinay Kumar,Royal Challengers Bengaluru,2018.0,42.18,81.44,61.81,False,True,bowling_allrounder,310.0,42.0,274.0,7.38,113.14,tailender,105.0,104.0,2121.0,1.01,8.39,death_bowler,0,0.28971317801041613
+RA Bawa,Punjab Kings,2025.0,39.16,0.0,19.58,False,False,pure_batter,19.0,3.0,18.0,6.33,105.56,middle_order,,,,,,,0,0.005940571257782037
+RA Jadeja,Chennai Super Kings,2026.0,56.01,71.75,63.88,True,True,batting_allrounder,3412.0,201.0,2619.0,16.98,130.28,finisher,177.0,233.0,4188.0,0.76,7.68,middle_overs_bowler,0,0.2982921529018365
+RA Shaikh,Mumbai Indians,2009.0,0.0,39.78,19.89,False,False,unknown,,,,,,,0.0,1.0,6.0,0.0,11.0,part_time_bowler,0,0.4610846330535292
+RA Tripathi,Sunrisers Hyderabad,2025.0,66.24,35.2,50.72,False,False,pure_batter,2291.0,98.0,1662.0,23.38,137.85,middle_order,0.0,1.0,6.0,0.0,12.0,part_time_bowler,1,0.9905079093006788
+RD Chahar,Punjab Kings,2024.0,38.46,78.9,58.68,False,False,utility_player,129.0,22.0,124.0,5.86,104.03,tailender,75.0,79.0,1694.0,0.949,7.78,middle_overs_bowler,0,0.25156447373096374
+RD Gaikwad,Chennai Super Kings,2026.0,74.71,0.0,37.35,False,False,pure_batter,2680.0,78.0,1967.0,34.36,136.25,aggressive_opener,,,,,,,1,0.9976339951966945
+RD Rickelton,Mumbai Indians,2026.0,80.04,0.0,40.02,False,False,pure_batter,648.0,20.0,400.0,32.4,162.0,aggressive_opener,,,,,,,1,0.9973696740242943
+RE Levi,Mumbai Indians,2012.0,49.65,0.0,24.82,False,False,pure_batter,83.0,6.0,73.0,13.83,113.7,anchor_opener,,,,,,,0,0.021096655322778178
+RE van der Merwe,Royal Challengers Bengaluru,2013.0,47.17,81.28,64.22,False,True,bowling_allrounder,159.0,15.0,141.0,10.6,112.77,tailender,21.0,21.0,443.0,1.0,6.74,middle_overs_bowler,1,0.6293786197501264
+RG More,Chennai Super Kings,2015.0,35.7,57.03,46.36,False,False,pure_bowler,2.0,1.0,2.0,2.0,100.0,tailender,1.0,2.0,35.0,0.5,10.11,part_time_bowler,0,0.0729350662979162
+RG Sharma,Mumbai Indians,2026.0,66.82,60.13,63.47,True,False,batting_allrounder,7183.0,270.0,5417.0,26.6,132.6,aggressive_opener,15.0,32.0,339.0,0.469,8.02,middle_overs_bowler,0,0.26832053951317497
+RJ Gleeson,Chennai Super Kings,2024.0,35.7,68.66,52.18,False,False,pure_bowler,2.0,1.0,2.0,2.0,100.0,tailender,2.0,3.0,68.0,0.667,9.71,death_bowler,1,0.808854793282993
+RJ Harris,Punjab Kings,2013.0,38.51,91.26,64.89,False,False,utility_player,117.0,21.0,112.0,5.57,104.46,tailender,45.0,37.0,832.0,1.216,7.55,death_bowler,1,0.8897674414157914
+RJ Peterson,Mumbai Indians,2012.0,39.57,73.7,56.64,False,False,pure_bowler,32.0,5.0,30.0,6.4,106.67,tailender,3.0,4.0,48.0,0.75,8.75,part_time_bowler,1,0.7877676344900654
+RJ Quiney,Rajasthan Royals,2009.0,44.78,0.0,22.39,False,False,pure_batter,103.0,7.0,102.0,14.71,100.98,anchor_opener,,,,,,,0,0.01824020776388294
+RJW Topley,Royal Challengers Bengaluru,2024.0,18.55,73.89,46.22,False,False,pure_bowler,3.0,1.0,6.0,3.0,50.0,tailender,5.0,6.0,120.0,0.833,11.1,powerplay_bowler,0,0.016152414248305418
+RK Bhui,Sunrisers Hyderabad,2024.0,14.34,0.0,7.17,False,False,pure_batter,10.0,4.0,26.0,2.5,38.46,anchor_opener,,,,,,,0,0.00169447560650606
+RK Singh,Kolkata Knight Riders,2026.0,67.82,0.0,33.91,False,False,pure_batter,1314.0,58.0,909.0,22.66,144.55,finisher,,,,,,,1,0.9958140133352114
+RM Patidar,Royal Challengers Bengaluru,2026.0,79.92,0.0,39.96,False,False,pure_batter,1368.0,46.0,848.0,29.74,161.32,top_order_anchor,,,,,,,1,0.9986799969097384
+RN ten Doeschate,Kolkata Knight Riders,2015.0,59.68,51.16,55.42,False,False,utility_player,326.0,21.0,235.0,15.52,138.72,finisher,2.0,10.0,78.0,0.2,7.23,middle_overs_bowler,0,0.44237952155596827
+RP Meredith,Mumbai Indians,2023.0,0.0,83.23,41.62,False,False,pure_bowler,0.0,2.0,3.0,0.0,0.0,tailender,19.0,18.0,388.0,1.056,9.46,death_bowler,0,0.010139799574670628
+RP Singh,Sunrisers Hyderabad,2012.0,24.6,86.4,55.5,False,False,pure_bowler,52.0,28.0,76.0,1.86,68.42,tailender,90.0,82.0,1775.0,1.098,7.9,powerplay_bowler,1,0.899132942997414
+RR Bhatkal,Royal Challengers Bengaluru,2012.0,0.0,33.0,16.5,False,False,unknown,0.0,1.0,2.0,0.0,0.0,middle_order,0.0,1.0,12.0,0.0,17.5,part_time_bowler,0,0.27517227752858436
+RR Bose,Punjab Kings,2009.0,0.0,45.62,22.81,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,12.0,part_time_bowler,1,0.9161892044181256
+RR Pant,Delhi Capitals,2026.0,73.84,0.0,36.92,False,False,pure_batter,3742.0,131.0,2556.0,28.56,146.4,top_order_anchor,,,,,,,1,0.9979357578870403
+RR Powar,Punjab Kings,2011.0,39.25,64.73,51.99,False,False,pure_bowler,67.0,9.0,64.0,7.44,104.69,tailender,13.0,26.0,426.0,0.5,7.42,powerplay_bowler,1,0.5661784295529262
+RR Raje,Mumbai Indians,2009.0,40.29,64.77,52.53,False,False,pure_bowler,20.0,5.0,18.0,4.0,111.11,tailender,6.0,10.0,139.0,0.6,9.02,middle_overs_bowler,1,0.716741527908727
+RR Rossouw,Delhi Capitals,2024.0,70.81,0.0,35.4,False,False,pure_batter,473.0,22.0,308.0,21.5,153.57,top_order_aggressor,,,,,,,1,0.9974516550316271
+RR Sarwan,Punjab Kings,2008.0,47.95,0.0,23.98,False,False,pure_batter,73.0,4.0,75.0,18.25,97.33,anchor_opener,,,,,,,0,0.004771211449210419
+RS Bopara,Punjab Kings,2015.0,57.67,72.11,64.89,False,True,bowling_allrounder,531.0,22.0,453.0,24.14,117.22,anchor_opener,11.0,14.0,206.0,0.786,8.5,middle_overs_bowler,1,0.7685432359925861
+RS Gavaskar,Kolkata Knight Riders,2010.0,9.45,45.13,27.29,False,False,pure_batter,2.0,1.0,8.0,2.0,25.0,tailender,0.0,1.0,6.0,0.0,8.0,part_time_bowler,0,0.7945282631933842
+RS Hangargekar,Chennai Super Kings,2023.0,0.0,98.22,49.11,False,False,pure_bowler,,,,,,,3.0,2.0,36.0,1.5,10.0,part_time_bowler,0,0.09200328129678621
+RS Sodhi,Punjab Kings,2010.0,71.4,0.0,35.7,False,False,pure_batter,4.0,1.0,2.0,4.0,200.0,middle_order,,,,,,,1,0.9360504466373956
+RT Ponting,Mumbai Indians,2013.0,28.42,0.0,14.21,False,False,pure_batter,91.0,9.0,128.0,10.11,71.09,anchor_opener,,,,,,,0,0.008158135739756758
+RV Gomez,Kochi Tuskers Kerala,2013.0,36.26,66.14,51.2,False,False,pure_bowler,50.0,9.0,51.0,5.56,98.04,tailender,5.0,9.0,96.0,0.556,8.06,middle_overs_bowler,0,0.06299387121514992
+RV Patel,Delhi Capitals,2023.0,42.36,44.02,43.19,False,False,pure_batter,80.0,7.0,73.0,11.43,109.59,middle_order,0.0,1.0,18.0,0.0,7.33,part_time_bowler,1,0.950237452007552
+RV Uthappa,Kolkata Knight Riders,2022.0,65.37,0.0,32.68,False,False,pure_batter,4952.0,197.0,3799.0,25.14,130.35,aggressive_opener,,,,,,,1,0.9966537825916252
+RW Price,Mumbai Indians,2011.0,0.0,37.0,18.5,False,False,unknown,,,,,,,0.0,1.0,18.0,0.0,11.0,part_time_bowler,0,0.4148926006599934
+Rahmanullah Gurbaz,Kolkata Knight Riders,2025.0,60.95,0.0,30.48,False,False,pure_batter,363.0,18.0,269.0,20.17,134.94,aggressive_opener,,,,,,,1,0.992038040408583
+Ramandeep Singh,Kolkata Knight Riders,2026.0,57.38,83.07,70.22,False,False,utility_player,299.0,26.0,205.0,11.5,145.85,tailender,7.0,6.0,56.0,1.167,10.07,part_time_bowler,1,0.9610969164724227
+Rashid Khan,Gujarat Titans,2026.0,60.76,87.08,73.92,False,True,bowling_allrounder,620.0,70.0,394.0,8.86,157.36,lower_order_hitter,168.0,145.0,3387.0,1.159,7.16,middle_overs_bowler,1,0.9275937052622112
+Rasikh Salam,Delhi Capitals,2024.0,37.33,75.0,56.16,False,False,pure_bowler,40.0,6.0,40.0,6.67,100.0,tailender,16.0,18.0,326.0,0.889,10.03,powerplay_bowler,1,0.9401733404307261
+Ravi Bishnoi,Lucknow Super Giants,2026.0,23.7,79.44,51.57,False,False,pure_bowler,45.0,18.0,69.0,2.5,65.22,tailender,83.0,85.0,1789.0,0.976,8.36,middle_overs_bowler,0,0.08992123999220095
+S Anirudha,Chennai Super Kings,2014.0,48.58,0.0,24.29,False,False,pure_batter,136.0,12.0,113.0,11.33,120.35,tailender,,,,,,,0,0.04097842860736408
+S Aravind,Royal Challengers Bengaluru,2017.0,38.29,88.08,63.18,False,False,pure_bowler,59.0,10.0,57.0,5.9,103.51,tailender,45.0,38.0,760.0,1.184,8.2,powerplay_bowler,1,0.9817207005315396
+S Arora,Sunrisers Hyderabad,2026.0,70.36,0.0,35.18,False,False,pure_batter,93.0,7.0,53.0,13.29,175.47,finisher,,,,,,,1,0.9946933344858673
+S Badree,Royal Challengers Bengaluru,2017.0,20.69,80.18,50.44,False,False,pure_bowler,13.0,5.0,23.0,2.6,56.52,tailender,11.0,12.0,258.0,0.917,7.42,powerplay_bowler,0,0.01667358414384197
+S Badrinath,Chennai Super Kings,2013.0,59.99,0.0,30.0,False,False,pure_batter,1441.0,65.0,1212.0,22.17,118.89,finisher,,,,,,,1,0.9151727926380899
+S Chanderpaul,Royal Challengers Bengaluru,2008.0,31.14,0.0,15.57,False,False,pure_batter,25.0,3.0,31.0,8.33,80.65,anchor_opener,,,,,,,0,0.0072936679531231926
+S Dhawan,Sunrisers Hyderabad,2024.0,68.12,70.47,69.3,False,False,utility_player,6769.0,221.0,5324.0,30.63,127.14,aggressive_opener,4.0,6.0,48.0,0.667,8.25,part_time_bowler,1,0.9392045726285599
+S Dube,Chennai Super Kings,2026.0,67.69,53.58,60.64,True,False,batting_allrounder,2009.0,83.0,1401.0,24.2,143.4,top_order_aggressor,6.0,17.0,142.0,0.353,10.56,middle_overs_bowler,0,0.390289141303282
+S Gopal,Rajasthan Royals,2022.0,40.14,80.66,60.4,False,True,bowling_allrounder,180.0,22.0,169.0,8.18,106.51,tailender,52.0,51.0,991.0,1.02,8.17,middle_overs_bowler,0,0.30158733263148946
+S Joseph,Lucknow Super Giants,2024.0,0.0,47.8,23.9,False,False,unknown,,,,,,,0.0,1.0,24.0,0.0,11.75,part_time_bowler,1,0.9133011450705029
+S Kaul,Sunrisers Hyderabad,2021.0,20.22,81.95,51.08,False,False,pure_bowler,20.0,9.0,36.0,2.22,55.56,tailender,58.0,55.0,1209.0,1.055,8.63,death_bowler,0,0.04412409394953248
+S Kaushik,Gujarat Lions,2016.0,0.0,66.33,33.16,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,6.0,10.0,204.0,0.6,8.74,middle_overs_bowler,0,0.00421332028910775
+S Ladda,Delhi Capitals,2010.0,0.0,64.44,32.22,False,False,pure_bowler,0.0,2.0,9.0,0.0,0.0,tailender,5.0,9.0,138.0,0.556,9.74,middle_overs_bowler,0,0.005757027988726942
+S Lamichhane,Delhi Capitals,2019.0,0.0,96.38,48.19,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,13.0,9.0,210.0,1.444,8.34,powerplay_bowler,0,0.13328544743057322
+S Midhun,Rajasthan Royals,2019.0,0.0,42.92,21.46,False,False,unknown,,,,,,,0.0,1.0,12.0,0.0,13.5,part_time_bowler,1,0.8405467947007877
+S Nadeem,Delhi Capitals,2021.0,16.37,69.26,42.82,False,False,utility_player,39.0,20.0,87.0,1.95,44.83,tailender,48.0,70.0,1415.0,0.686,7.56,middle_overs_bowler,0,0.01558017592074922
+S Narwal,Rajasthan Royals,2013.0,51.2,73.53,62.36,False,False,pure_bowler,37.0,4.0,27.0,9.25,137.04,tailender,5.0,6.0,106.0,0.833,11.43,powerplay_bowler,1,0.9261843306276237
+S Rana,Royal Challengers Bengaluru,2014.0,43.31,45.1,44.2,False,False,pure_batter,91.0,8.0,81.0,11.38,112.35,middle_order,0.0,3.0,16.0,0.0,6.75,part_time_bowler,1,0.9494728945552451
+S Randiv,Chennai Super Kings,2011.0,18.2,71.8,45.0,False,False,pure_bowler,2.0,1.0,4.0,2.0,50.0,tailender,6.0,8.0,174.0,0.75,7.69,middle_overs_bowler,0,0.008328745577078167
+S Sandeep Warrier,Kolkata Knight Riders,2024.0,0.0,75.53,37.76,False,False,pure_bowler,,,,,,,8.0,10.0,168.0,0.8,9.04,powerplay_bowler,0,0.006544339691127917
+S Sohal,Punjab Kings,2011.0,59.55,0.0,29.78,False,False,pure_batter,368.0,20.0,292.0,18.4,126.03,aggressive_opener,,,,,,,1,0.9867918773652595
+S Sreesanth,Punjab Kings,2013.0,22.63,80.38,51.5,False,False,pure_bowler,34.0,12.0,55.0,2.83,61.82,tailender,40.0,44.0,880.0,0.909,8.14,powerplay_bowler,0,0.05144132008177835
+S Sriram,Royal Challengers Bengaluru,2011.0,35.56,36.24,35.9,False,False,pure_batter,31.0,2.0,36.0,15.5,86.11,anchor_opener,0.0,2.0,18.0,0.0,16.33,part_time_bowler,1,0.8299217025434419
+S Tyagi,Chennai Super Kings,2010.0,27.3,63.48,45.39,False,False,pure_bowler,3.0,1.0,4.0,3.0,75.0,tailender,6.0,14.0,209.0,0.429,8.47,powerplay_bowler,0,0.02415532958148889
+S Vidyut,Chennai Super Kings,2008.0,60.4,81.02,70.71,False,False,pure_batter,145.0,8.0,109.0,18.12,133.03,aggressive_opener,1.0,1.0,12.0,1.0,11.0,part_time_bowler,1,0.980542211910201
+SA Abbott,Royal Challengers Bengaluru,2022.0,45.34,53.06,49.2,False,False,pure_bowler,22.0,3.0,18.0,7.33,122.22,tailender,1.0,3.0,54.0,0.333,11.56,part_time_bowler,0,0.3041323894461312
+SA Asnodkar,Rajasthan Royals,2011.0,62.5,0.0,31.25,False,False,pure_batter,423.0,19.0,339.0,22.26,124.78,aggressive_opener,,,,,,,1,0.9964962029611812
+SA Yadav,Mumbai Indians,2026.0,74.04,45.13,59.59,False,False,pure_batter,4473.0,159.0,3015.0,28.13,148.36,top_order_anchor,0.0,1.0,6.0,0.0,8.0,part_time_bowler,1,0.9840185983927029
+SB Bangar,Sunrisers Hyderabad,2009.0,32.02,61.54,46.78,False,False,pure_bowler,49.0,7.0,58.0,7.0,84.48,tailender,4.0,9.0,150.0,0.444,8.76,middle_overs_bowler,0,0.030700660408345383
+SB Dubey,Rajasthan Royals,2026.0,69.03,0.0,34.52,False,False,pure_batter,195.0,14.0,114.0,13.93,171.05,lower_order_hitter,,,,,,,1,0.9940467947789872
+SB Jakati,Chennai Super Kings,2016.0,35.75,73.84,54.8,False,False,pure_bowler,28.0,5.0,29.0,5.6,96.55,tailender,47.0,57.0,1085.0,0.825,8.02,middle_overs_bowler,1,0.8337241661200978
+SB Joshi,Royal Challengers Bengaluru,2008.0,16.05,53.34,34.7,False,False,pure_bowler,6.0,2.0,14.0,3.0,42.86,tailender,1.0,4.0,55.0,0.25,8.95,part_time_bowler,0,0.06488997102826635
+SB Styris,Sunrisers Hyderabad,2011.0,42.06,72.23,57.14,False,False,utility_player,131.0,10.0,133.0,13.1,98.5,middle_order,8.0,11.0,216.0,0.727,7.67,death_bowler,0,0.18640569293101883
+SB Wagh,Pune Warriors,2011.0,23.68,70.9,47.29,False,False,pure_bowler,2.0,2.0,3.0,1.0,66.67,tailender,5.0,8.0,102.0,0.625,8.06,powerplay_bowler,0,0.019285028275608858
+SC Ganguly,Kolkata Knight Riders,2012.0,57.06,61.77,59.42,False,True,bowling_allrounder,1349.0,56.0,1263.0,24.09,106.81,anchor_opener,10.0,20.0,276.0,0.5,7.89,middle_overs_bowler,0,0.1428022456074888
+SC Kuggeleijn,Chennai Super Kings,2019.0,0.0,80.3,40.15,False,False,pure_bowler,,,,,,,2.0,2.0,48.0,1.0,8.88,part_time_bowler,0,0.004901409201117732
+SD Chitnis,Punjab Kings,2012.0,47.02,78.65,62.84,False,False,utility_player,99.0,8.0,89.0,12.38,111.24,middle_order,2.0,2.0,36.0,1.0,10.0,part_time_bowler,1,0.7708972176080036
+SD Hope,Delhi Capitals,2024.0,69.61,0.0,34.8,False,False,pure_batter,183.0,9.0,122.0,20.33,150.0,top_order_aggressor,,,,,,,1,0.9952181625910586
+SD Lad,Mumbai Indians,2019.0,45.63,0.0,22.82,False,False,pure_batter,15.0,1.0,13.0,15.0,115.38,anchor_opener,,,,,,,0,0.018864673978192352
+SE Bond,Kolkata Knight Riders,2010.0,17.85,86.71,52.28,False,False,pure_bowler,1.0,1.0,2.0,1.0,50.0,tailender,9.0,8.0,186.0,1.125,7.23,powerplay_bowler,1,0.830040076035478
+SE Marsh,Punjab Kings,2017.0,75.1,0.0,37.55,False,False,pure_batter,2477.0,69.0,1866.0,35.9,132.74,top_order_anchor,,,,,,,1,0.9967733775081656
+SE Rutherford,Gujarat Titans,2026.0,64.68,47.27,55.98,False,False,pure_batter,500.0,26.0,343.0,19.23,145.77,finisher,1.0,6.0,41.0,0.167,8.63,part_time_bowler,1,0.9123218187095258
+SH Johnson,Gujarat Titans,2025.0,26.02,64.6,45.31,False,False,pure_bowler,8.0,5.0,11.0,1.6,72.73,tailender,5.0,9.0,164.0,0.556,10.39,powerplay_bowler,0,0.003987928003925187
+SJ Srivastava,Punjab Kings,2011.0,35.44,80.65,58.04,False,False,pure_bowler,5.0,4.0,5.0,1.25,100.0,tailender,14.0,14.0,282.0,1.0,9.38,powerplay_bowler,1,0.9032272641091637
+SK Raina,Chennai Super Kings,2021.0,69.08,57.94,63.51,True,False,batting_allrounder,5528.0,200.0,4043.0,27.64,136.73,top_order_anchor,25.0,69.0,908.0,0.362,7.39,middle_overs_bowler,0,0.2370714353286372
+SK Rasheed,Chennai Super Kings,2025.0,44.42,0.0,22.21,False,False,pure_batter,71.0,5.0,63.0,14.2,112.7,anchor_opener,,,,,,,0,0.007252089346166296
+SK Trivedi,Rajasthan Royals,2013.0,25.97,76.08,51.02,False,False,pure_bowler,42.0,14.0,59.0,3.0,71.19,tailender,65.0,75.0,1506.0,0.867,7.59,middle_overs_bowler,0,0.052625416335042544
+SK Warne,Rajasthan Royals,2011.0,36.06,83.3,59.68,False,True,bowling_allrounder,198.0,27.0,214.0,7.33,92.52,tailender,57.0,54.0,1194.0,1.056,7.27,middle_overs_bowler,0,0.2682154641843442
+SL Malinga,Mumbai Indians,2017.0,32.65,96.65,64.65,False,False,utility_player,88.0,20.0,99.0,4.4,88.89,tailender,170.0,122.0,2827.0,1.393,7.14,death_bowler,1,0.9185033438864436
+SM Boland,Rising Pune Supergiant,2016.0,0.0,80.84,40.42,False,False,pure_bowler,,,,,,,2.0,2.0,42.0,1.0,7.71,part_time_bowler,0,0.012733642762918173
+SM Curran,Punjab Kings,2025.0,59.42,77.15,68.28,True,True,batting_allrounder,997.0,53.0,731.0,18.81,136.39,finisher,59.0,63.0,1253.0,0.937,9.74,death_bowler,1,0.980766448152907
+SM Harwood,Rajasthan Royals,2009.0,24.08,86.26,55.17,False,False,pure_bowler,9.0,2.0,14.0,4.5,64.29,tailender,3.0,3.0,60.0,1.0,7.3,death_bowler,1,0.9031456311879835
+SM Katich,Punjab Kings,2009.0,61.21,0.0,30.6,False,False,pure_batter,241.0,11.0,186.0,21.91,129.57,aggressive_opener,,,,,,,1,0.990911278098327
+SM Pollock,Mumbai Indians,2008.0,60.28,78.94,69.61,True,False,batting_allrounder,147.0,8.0,111.0,18.38,132.43,finisher,11.0,13.0,276.0,0.846,6.54,powerplay_bowler,1,0.9641441637462844
+SMSM Senanayake,Kolkata Knight Riders,2013.0,21.46,86.54,54.0,False,False,pure_bowler,10.0,4.0,17.0,2.5,58.82,tailender,9.0,8.0,192.0,1.125,6.53,powerplay_bowler,1,0.9328109927445506
+SN Khan,Royal Challengers Bengaluru,2026.0,61.84,32.8,47.32,False,False,pure_batter,746.0,43.0,543.0,17.35,137.38,finisher,0.0,1.0,2.0,0.0,18.0,part_time_bowler,1,0.979163343010491
+SN Thakur,Chennai Super Kings,2026.0,50.63,82.12,66.38,False,True,bowling_allrounder,339.0,42.0,252.0,8.07,134.52,tailender,114.0,107.0,2154.0,1.065,9.57,death_bowler,1,0.8483276511065055
+SO Hetmyer,Rajasthan Royals,2026.0,65.29,0.0,32.65,False,False,pure_batter,1554.0,84.0,1038.0,18.5,149.71,finisher,,,,,,,1,0.998621559468647
+SP Fleming,Chennai Super Kings,2008.0,57.44,0.0,28.72,False,False,pure_batter,196.0,10.0,165.0,19.6,118.79,anchor_opener,,,,,,,1,0.8518012946210537
+SP Goswami,Royal Challengers Bengaluru,2020.0,43.93,0.0,21.96,False,False,pure_batter,293.0,21.0,295.0,13.95,99.32,anchor_opener,,,,,,,0,0.05241524114376302
+SP Jackson,Kolkata Knight Riders,2022.0,40.12,0.0,20.06,False,False,pure_batter,61.0,8.0,57.0,7.62,107.02,middle_order,,,,,,,0,0.007187273668985576
+SP Narine,Kolkata Knight Riders,2026.0,67.76,83.12,75.44,False,True,bowling_allrounder,1820.0,122.0,1101.0,14.92,165.3,aggressive_opener,199.0,194.0,4507.0,1.026,6.79,middle_overs_bowler,1,0.9000384737469294
+SPD Smith,Rajasthan Royals,2021.0,65.79,34.0,49.9,False,False,pure_batter,2485.0,93.0,1940.0,26.72,128.09,top_order_anchor,0.0,1.0,2.0,0.0,15.0,part_time_bowler,1,0.9789631620122682
+SR Tendulkar,Mumbai Indians,2013.0,66.63,39.61,53.12,False,False,pure_batter,2334.0,78.0,1948.0,29.92,119.82,anchor_opener,0.0,4.0,36.0,0.0,9.67,part_time_bowler,1,0.909004294964565
+SR Watson,Rajasthan Royals,2020.0,68.96,77.96,73.46,True,True,batting_allrounder,3874.0,141.0,2809.0,27.48,137.91,anchor_opener,92.0,105.0,2029.0,0.876,7.93,powerplay_bowler,1,0.9581458220683845
+SS Agarwal,Gujarat Lions,2017.0,0.0,78.1,39.05,False,False,pure_bowler,,,,,,,1.0,1.0,24.0,1.0,10.5,part_time_bowler,0,0.009719843178513217
+SS Cottrell,Punjab Kings,2020.0,0.0,83.78,41.89,False,False,pure_bowler,0.0,1.0,2.0,0.0,0.0,tailender,6.0,6.0,120.0,1.0,8.8,powerplay_bowler,0,0.01000371524363847
+SS Iyer,Delhi Capitals,2026.0,70.62,53.88,62.25,False,False,pure_batter,4040.0,138.0,2975.0,29.28,135.8,top_order_anchor,0.0,1.0,6.0,0.0,7.0,part_time_bowler,1,0.7358964527912562
+SS Mundhe,Pune Warriors,2011.0,0.0,89.28,44.64,False,False,pure_bowler,,,,,,,1.0,1.0,6.0,1.0,6.0,part_time_bowler,0,0.06060020553884982
+SS Prabhudessai,Royal Challengers Bengaluru,2024.0,49.01,0.0,24.5,False,False,pure_batter,126.0,10.0,106.0,12.6,118.87,middle_order,,,,,,,0,0.020606495872058823
+SS Sarkar,Kolkata Knight Riders,2009.0,0.0,58.24,29.12,False,False,pure_bowler,,,,,,,1.0,2.0,25.0,0.5,8.16,part_time_bowler,0,0.02424086143118216
+SS Shaikh,Kolkata Knight Riders,2009.0,32.1,0.0,16.05,False,False,pure_batter,6.0,1.0,7.0,6.0,85.71,tailender,,,,,,,0,0.005051956247629222
+SS Tiwary,Mumbai Indians,2021.0,57.42,0.0,28.71,False,False,pure_batter,1494.0,73.0,1244.0,20.47,120.1,middle_order,,,,,,,1,0.8973698804233837
+SSB Magala,Chennai Super Kings,2023.0,0.0,58.28,29.14,False,False,pure_bowler,,,,,,,1.0,2.0,36.0,0.5,8.5,part_time_bowler,0,0.019389241436071254
+ST Jayasuriya,Mumbai Indians,2010.0,69.48,65.81,67.65,True,True,batting_allrounder,768.0,30.0,532.0,25.6,144.36,aggressive_opener,13.0,21.0,294.0,0.619,7.96,middle_overs_bowler,1,0.8987028707619165
+STR Binny,Rajasthan Royals,2019.0,54.32,57.73,56.02,False,False,utility_player,880.0,66.0,683.0,13.33,128.84,finisher,22.0,63.0,594.0,0.349,7.66,middle_overs_bowler,0,0.12019540381532416
+SU Parakh,Delhi Capitals,2026.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,2.0,0.0,0.0,anchor_opener,,,,,,,0,0.0036857274693215514
+SV Samson,Rajasthan Royals,2026.0,70.4,0.0,35.2,False,False,pure_batter,5008.0,179.0,3562.0,27.98,140.6,top_order_anchor,,,,,,,1,0.9949434334183839
+SW Billings,Delhi Capitals,2022.0,57.44,0.0,28.72,False,False,pure_batter,503.0,27.0,388.0,18.63,129.64,finisher,,,,,,,1,0.9641538665248915
+SW Tait,Rajasthan Royals,2013.0,32.57,86.8,59.68,False,False,pure_bowler,23.0,5.0,26.0,4.6,88.46,tailender,23.0,21.0,473.0,1.095,8.12,death_bowler,1,0.9704716558574303
+SZ Mulani,Mumbai Indians,2024.0,35.35,41.26,38.3,False,False,pure_batter,1.0,1.0,1.0,1.0,100.0,tailender,0.0,2.0,30.0,0.0,11.4,part_time_bowler,1,0.9574085854226306
+Sachin Baby,Royal Challengers Bengaluru,2021.0,50.02,85.58,67.8,False,False,pure_batter,144.0,11.0,118.0,13.09,122.03,finisher,2.0,2.0,10.0,1.0,4.8,part_time_bowler,1,0.8903359193697685
+Sakib Hussain,Sunrisers Hyderabad,2026.0,0.0,100.21,50.1,False,False,pure_bowler,,,,,,,8.0,5.0,114.0,1.6,9.79,powerplay_bowler,0,0.09856554361019476
+Salman Butt,Kolkata Knight Riders,2008.0,60.19,0.0,30.1,False,False,pure_batter,193.0,7.0,161.0,27.57,119.88,anchor_opener,,,,,,,1,0.9012153662041686
+Sameer Rizvi,Delhi Capitals,2026.0,68.59,0.0,34.3,False,False,pure_batter,381.0,16.0,262.0,23.81,145.42,top_order_aggressor,,,,,,,1,0.9923124057940974
+Sandeep Sharma,Sunrisers Hyderabad,2025.0,28.81,84.11,56.46,False,False,pure_bowler,60.0,26.0,75.0,2.31,80.0,tailender,151.0,141.0,3141.0,1.071,8.12,powerplay_bowler,1,0.811212889687602
+Sanvir Singh,Sunrisers Hyderabad,2024.0,43.42,0.0,21.71,False,False,pure_batter,25.0,5.0,21.0,5.0,119.05,tailender,,,,,,,0,0.013232711024438445
+Saurav Chauhan,Royal Challengers Bengaluru,2024.0,44.1,0.0,22.05,False,False,pure_batter,18.0,3.0,15.0,6.0,120.0,middle_order,,,,,,,0,0.03242091336709823
+Sediqullah Atal,Delhi Capitals,2025.0,55.82,0.0,27.91,False,False,pure_batter,22.0,1.0,16.0,22.0,137.5,middle_order,,,,,,,1,0.8405614797701583
+Shahbaz Ahmed,Royal Challengers Bengaluru,2026.0,51.11,59.6,55.36,False,False,utility_player,560.0,39.0,464.0,14.36,120.69,middle_order,22.0,46.0,594.0,0.478,9.65,middle_overs_bowler,0,0.20687702468977337
+Shahid Afridi,Sunrisers Hyderabad,2008.0,68.11,77.53,72.82,False,False,pure_bowler,81.0,9.0,46.0,9.0,176.09,middle_order,9.0,10.0,180.0,0.9,7.5,middle_overs_bowler,1,0.9748017246585793
+Shakib Al Hasan,Kolkata Knight Riders,2021.0,52.36,77.32,64.84,True,True,batting_allrounder,793.0,52.0,637.0,15.25,124.49,middle_order,63.0,70.0,1484.0,0.9,7.44,powerplay_bowler,0,0.6625221719228207
+Shashank Singh,Punjab Kings,2026.0,72.53,65.96,69.24,False,False,utility_player,843.0,38.0,526.0,22.18,160.27,finisher,4.0,6.0,60.0,0.667,9.1,middle_overs_bowler,1,0.9729223471418668
+Shivam Mavi,Kolkata Knight Riders,2022.0,33.5,79.62,56.56,False,False,pure_bowler,51.0,11.0,56.0,4.64,91.07,tailender,30.0,32.0,649.0,0.938,8.71,powerplay_bowler,1,0.917884616357691
+Shivam Sharma,Punjab Kings,2014.0,59.21,72.65,65.93,False,False,pure_bowler,5.0,2.0,3.0,2.5,166.67,tailender,4.0,5.0,114.0,0.8,8.68,middle_overs_bowler,1,0.9869939741296067
+Shivam Singh,Punjab Kings,2024.0,24.03,0.0,12.02,False,False,pure_batter,2.0,1.0,3.0,2.0,66.67,tailender,,,,,,,0,0.00645162964976277
+Shivang Kumar,Sunrisers Hyderabad,2026.0,54.95,68.39,61.67,False,False,pure_bowler,21.0,3.0,14.0,7.0,150.0,tailender,5.0,7.0,132.0,0.714,9.5,middle_overs_bowler,1,0.9617836853605809
+Shoaib Ahmed,Sunrisers Hyderabad,2009.0,5.95,69.99,37.97,False,False,pure_bowler,1.0,3.0,6.0,0.33,16.67,tailender,5.0,7.0,102.0,0.714,8.94,middle_overs_bowler,0,0.004642230301421849
+Shoaib Akhtar,Kolkata Knight Riders,2008.0,10.7,108.96,59.83,False,False,pure_bowler,2.0,1.0,7.0,2.0,28.57,tailender,5.0,3.0,42.0,1.667,7.71,part_time_bowler,1,0.8228141382402093
+Shoaib Malik,Delhi Capitals,2008.0,42.36,58.32,50.34,False,False,pure_bowler,52.0,5.0,47.0,10.4,110.64,middle_order,2.0,5.0,51.0,0.4,10.0,part_time_bowler,0,0.06600350672401839
+Shubman Gill,Gujarat Titans,2026.0,76.93,0.0,38.47,False,False,pure_batter,4239.0,122.0,3027.0,34.75,140.04,aggressive_opener,,,,,,,1,0.9949434334183839
+Sikandar Raza,Punjab Kings,2024.0,60.57,57.54,59.06,False,False,utility_player,182.0,9.0,136.0,20.22,133.82,middle_order,3.0,7.0,84.0,0.429,10.07,middle_overs_bowler,1,0.786334911196194
+Simarjeet Singh,Chennai Super Kings,2025.0,23.92,74.66,49.29,False,False,pure_bowler,10.0,6.0,15.0,1.67,66.67,tailender,11.0,14.0,240.0,0.786,10.0,powerplay_bowler,0,0.02287609175412729
+Sohail Tanvir,Rajasthan Royals,2008.0,45.97,120.57,83.27,False,False,pure_bowler,36.0,5.0,29.0,7.2,124.14,middle_order,22.0,11.0,247.0,2.0,6.46,death_bowler,1,0.9638908869021009
+Sumit Kumar,Delhi Capitals,2024.0,28.35,40.44,34.39,False,False,pure_batter,18.0,3.0,24.0,6.0,75.0,tailender,0.0,2.0,20.0,0.0,11.4,part_time_bowler,1,0.8715944060805945
+Sunny Gupta,Delhi Capitals,2012.0,0.0,33.73,16.86,False,False,unknown,0.0,1.0,1.0,0.0,0.0,tailender,0.0,1.0,18.0,0.0,15.67,part_time_bowler,0,0.28192636497233653
+Sunny Singh,Punjab Kings,2011.0,51.56,0.0,25.78,False,False,pure_batter,43.0,5.0,31.0,8.6,138.71,middle_order,,,,,,,0,0.22266730145905186
+Suryansh Shedge,Punjab Kings,2026.0,27.8,36.07,31.94,False,False,pure_batter,10.0,4.0,13.0,2.5,76.92,tailender,0.0,1.0,18.0,0.0,13.33,part_time_bowler,1,0.7477690513442842
+Suyash Sharma,Royal Challengers Bengaluru,2026.0,0.0,70.05,35.02,False,False,pure_bowler,,,,,,,25.0,35.0,737.0,0.714,8.65,middle_overs_bowler,0,0.036667648375290574
+Swapnil Singh,Royal Challengers Bengaluru,2024.0,41.65,59.95,50.8,False,False,pure_bowler,51.0,9.0,45.0,5.67,113.33,tailender,7.0,14.0,162.0,0.5,8.93,middle_overs_bowler,0,0.06317686753422083
+T Banton,Kolkata Knight Riders,2020.0,34.65,0.0,17.32,False,False,pure_batter,18.0,2.0,20.0,9.0,90.0,anchor_opener,,,,,,,0,0.003931056368637962
+T Henderson,Rajasthan Royals,2009.0,25.99,65.26,45.62,False,False,pure_bowler,11.0,2.0,16.0,5.5,68.75,middle_order,1.0,2.0,36.0,0.5,6.67,part_time_bowler,0,0.04998456569017025
+T Kohler-Cadmore,Rajasthan Royals,2024.0,36.71,0.0,18.36,False,False,pure_batter,48.0,3.0,54.0,16.0,88.89,anchor_opener,,,,,,,0,0.0039433982434609344
+T Kohli,Rajasthan Royals,2009.0,21.55,0.0,10.78,False,False,pure_batter,11.0,3.0,19.0,3.67,57.89,anchor_opener,,,,,,,0,0.0015505951591669991
+T Natarajan,Sunrisers Hyderabad,2026.0,20.46,80.26,50.36,False,False,pure_bowler,4.0,3.0,7.0,1.33,57.14,tailender,74.0,72.0,1538.0,1.028,9.12,death_bowler,0,0.01754612553109256
+T Shamsi,Rajasthan Royals,2021.0,18.2,64.06,41.13,False,False,pure_bowler,2.0,1.0,4.0,2.0,50.0,tailender,3.0,5.0,120.0,0.6,9.05,middle_overs_bowler,0,0.0008350764641155839
+T Stubbs,Delhi Capitals,2026.0,75.27,71.72,73.5,False,False,utility_player,924.0,38.0,589.0,24.32,156.88,finisher,4.0,5.0,36.0,0.8,11.5,part_time_bowler,1,0.9843985535619987
+T Taibu,Kolkata Knight Riders,2008.0,45.35,0.0,22.68,False,False,pure_batter,31.0,3.0,26.0,10.33,119.23,middle_order,,,,,,,0,0.01515549233799731
+T Thushara,Chennai Super Kings,2010.0,24.38,94.89,59.64,False,False,pure_bowler,12.0,4.0,18.0,3.0,66.67,tailender,8.0,6.0,135.0,1.333,7.16,death_bowler,1,0.9598706952604185
+TA Boult,Rajasthan Royals,2026.0,37.47,88.45,62.96,False,False,utility_player,86.0,25.0,83.0,3.44,103.61,tailender,145.0,123.0,2761.0,1.179,8.47,powerplay_bowler,1,0.9264220147499164
+TD Paine,Pune Warriors,2011.0,15.21,0.0,7.6,False,False,pure_batter,10.0,2.0,26.0,5.0,38.46,anchor_opener,,,,,,,0,0.000950360192686774
+TG Southee,Kolkata Knight Riders,2022.0,43.05,76.83,59.94,False,False,utility_player,120.0,19.0,107.0,6.32,112.15,tailender,47.0,54.0,1206.0,0.87,8.67,powerplay_bowler,1,0.5204786947148478
+TH David,Mumbai Indians,2026.0,77.41,36.98,57.19,False,False,pure_batter,1038.0,52.0,588.0,19.96,176.53,finisher,0.0,1.0,6.0,0.0,18.0,part_time_bowler,1,0.9772795979649707
+TK Curran,Kolkata Knight Riders,2021.0,48.99,76.86,62.92,False,False,utility_player,127.0,10.0,107.0,12.7,118.69,tailender,13.0,13.0,238.0,1.0,10.84,death_bowler,1,0.7847076078898328
+TL Seifert,Kolkata Knight Riders,2026.0,41.04,0.0,20.52,False,False,pure_batter,45.0,6.0,41.0,7.5,109.76,anchor_opener,,,,,,,0,0.0091318027564002
+TL Suman,Sunrisers Hyderabad,2013.0,51.83,63.25,57.54,False,True,bowling_allrounder,676.0,39.0,575.0,17.33,117.57,middle_order,6.0,11.0,150.0,0.545,7.88,middle_overs_bowler,0,0.15075071690740163
+TM Dilshan,Delhi Capitals,2013.0,58.35,51.24,54.8,False,False,utility_player,1153.0,50.0,1007.0,23.06,114.5,anchor_opener,5.0,25.0,271.0,0.2,8.1,middle_overs_bowler,0,0.278129680538742
+TM Head,Sunrisers Hyderabad,2026.0,82.85,50.85,66.85,False,False,utility_player,1408.0,46.0,834.0,30.61,168.82,aggressive_opener,2.0,6.0,58.0,0.333,11.69,part_time_bowler,1,0.9158296045314523
+TM Srivastava,Punjab Kings,2009.0,26.39,0.0,13.2,False,False,pure_batter,8.0,3.0,11.0,2.67,72.73,middle_order,,,,,,,0,0.002399761256438396
+TP Sudhindra,Sunrisers Hyderabad,2012.0,0.0,53.77,26.88,False,False,pure_bowler,,,,,,,1.0,3.0,70.0,0.333,11.66,powerplay_bowler,0,0.06517583662059286
+TR Birt,Delhi Capitals,2011.0,50.51,0.0,25.26,False,False,pure_batter,75.0,5.0,58.0,15.0,129.31,finisher,,,,,,,0,0.1491756845868242
+TS Mills,Royal Challengers Bengaluru,2022.0,20.56,83.54,52.05,False,False,pure_bowler,8.0,5.0,14.0,1.6,57.14,tailender,11.0,10.0,209.0,1.1,9.85,death_bowler,1,0.6529534980122021
+TU Deshpande,Rajasthan Royals,2026.0,58.28,82.92,70.6,False,False,pure_bowler,53.0,9.0,33.0,5.89,160.61,tailender,55.0,51.0,1061.0,1.078,10.02,death_bowler,1,0.9965944818861546
+Tanush Kotian,Rajasthan Royals,2024.0,35.5,0.0,17.75,False,False,pure_batter,24.0,1.0,31.0,24.0,77.42,anchor_opener,,,,,,,0,0.003715979006627647
+Tejas Baroka,Gujarat Lions,2017.0,0.0,43.38,21.69,False,False,unknown,,,,,,,0.0,1.0,21.0,0.0,9.43,part_time_bowler,1,0.9263575086325363
+Tilak Varma,Mumbai Indians,2026.0,75.13,46.04,60.58,False,False,pure_batter,1687.0,59.0,1149.0,28.59,146.82,finisher,0.0,4.0,22.0,0.0,7.64,part_time_bowler,1,0.9443603647060634
+U Kaul,Punjab Kings,2008.0,0.0,0.0,0.0,False,False,unknown,0.0,1.0,1.0,0.0,0.0,tailender,,,,,,,0,0.0036857274693215514
+UA Birla,Pune Warriors,2013.0,19.95,0.0,9.98,False,False,pure_batter,7.0,1.0,14.0,7.0,50.0,middle_order,,,,,,,0,0.0016753050336865043
+UBT Chand,Delhi Capitals,2016.0,44.75,0.0,22.38,False,False,pure_batter,300.0,20.0,300.0,15.0,100.0,middle_order,,,,,,,0,0.05241524114376302
+UT Khawaja,Rising Pune Supergiant,2016.0,61.85,0.0,30.92,False,False,pure_batter,127.0,6.0,100.0,21.17,127.0,aggressive_opener,,,,,,,1,0.9869720079426495
+UT Yadav,Kolkata Knight Riders,2024.0,37.73,81.23,59.48,False,True,bowling_allrounder,208.0,48.0,201.0,4.33,103.48,tailender,144.0,147.0,3050.0,0.98,8.49,powerplay_bowler,0,0.27531730588719483
+Umar Gul,Kolkata Knight Riders,2008.0,75.25,117.65,96.45,False,False,pure_bowler,39.0,4.0,19.0,9.75,205.26,tailender,12.0,6.0,135.0,2.0,8.18,death_bowler,1,0.9909285548180001
+Umran Malik,Sunrisers Hyderabad,2023.0,51.92,86.26,69.09,False,False,pure_bowler,23.0,5.0,16.0,4.6,143.75,tailender,29.0,26.0,493.0,1.115,9.4,middle_overs_bowler,1,0.9841568640702769
+Urvil Patel,Chennai Super Kings,2026.0,93.3,0.0,46.65,False,False,pure_batter,72.0,4.0,35.0,18.0,205.71,top_order_aggressor,,,,,,,1,0.9743232341686523
+V Kaverappa,Punjab Kings,2024.0,0.0,117.85,58.92,False,False,pure_bowler,,,,,,,2.0,1.0,24.0,2.0,9.0,part_time_bowler,1,0.796490449378464
+V Kohli,Royal Challengers Bengaluru,2026.0,73.36,47.35,60.36,False,False,utility_player,9040.0,268.0,6748.0,33.73,133.97,aggressive_opener,4.0,26.0,251.0,0.154,8.8,middle_overs_bowler,1,0.9118798892701494
+V Nigam,Delhi Capitals,2026.0,75.32,70.87,73.1,True,False,batting_allrounder,154.0,9.0,86.0,17.11,179.07,lower_order_hitter,13.0,17.0,276.0,0.765,9.46,middle_overs_bowler,1,0.987223352490613
+V Pratap Singh,Sunrisers Hyderabad,2012.0,0.0,84.6,42.3,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,10.0,9.0,204.0,1.111,8.71,powerplay_bowler,0,0.03893404959368499
+V Puthur,Mumbai Indians,2025.0,0.0,86.69,43.34,False,False,pure_bowler,,,,,,,6.0,5.0,72.0,1.2,9.08,middle_overs_bowler,0,0.04380061484267426
+V Sehwag,Delhi Capitals,2015.0,73.69,58.13,65.91,True,False,batting_allrounder,2728.0,104.0,1755.0,26.23,155.44,aggressive_opener,6.0,15.0,136.0,0.4,10.37,middle_overs_bowler,1,0.8724961676739668
+V Shankar,Sunrisers Hyderabad,2025.0,57.53,59.25,58.39,True,False,batting_allrounder,1233.0,63.0,950.0,19.57,129.79,finisher,9.0,22.0,238.0,0.409,8.67,middle_overs_bowler,0,0.14370863948169726
+V Suryavanshi,Rajasthan Royals,2026.0,111.55,0.0,55.78,False,False,pure_batter,656.0,17.0,292.0,38.59,224.66,aggressive_opener,,,,,,,1,0.9263370828324053
+V Viyaskanth,Sunrisers Hyderabad,2024.0,51.45,56.14,53.8,False,False,pure_bowler,7.0,1.0,5.0,7.0,140.0,tailender,1.0,3.0,60.0,0.333,8.6,middle_overs_bowler,1,0.7053359850936021
+VG Arora,Kolkata Knight Riders,2026.0,13.28,85.96,49.62,False,False,pure_bowler,10.0,11.0,27.0,0.91,37.04,tailender,45.0,39.0,806.0,1.154,9.71,powerplay_bowler,0,0.028546909356220826
+VH Zol,Royal Challengers Bengaluru,2014.0,44.11,0.0,22.06,False,False,pure_batter,29.0,2.0,26.0,14.5,111.54,middle_order,,,,,,,0,0.014477306483809004
+VR Aaron,Royal Challengers Bengaluru,2020.0,25.76,77.67,51.72,False,False,pure_bowler,50.0,12.0,72.0,4.17,69.44,tailender,44.0,50.0,994.0,0.88,8.94,powerplay_bowler,0,0.09857187002405371
+VR Iyer,Kolkata Knight Riders,2026.0,68.03,52.67,60.35,False,False,utility_player,1509.0,58.0,1099.0,26.02,137.31,aggressive_opener,3.0,9.0,81.0,0.333,10.59,death_bowler,1,0.6432344481181409
+VRV Singh,Punjab Kings,2008.0,47.37,68.13,57.75,False,False,pure_bowler,4.0,2.0,3.0,2.0,133.33,tailender,12.0,18.0,360.0,0.667,9.03,death_bowler,1,0.8916807003628138
+VS Malik,Punjab Kings,2014.0,36.22,63.84,50.03,False,False,pure_bowler,7.0,2.0,7.0,3.5,100.0,tailender,6.0,13.0,205.0,0.462,7.64,powerplay_bowler,0,0.057383690155851305
+VS Yeligati,Mumbai Indians,2008.0,35.7,41.96,38.83,False,False,pure_batter,2.0,1.0,2.0,2.0,100.0,tailender,0.0,2.0,30.0,0.0,11.8,part_time_bowler,1,0.9602599994316569
+VVS Laxman,Sunrisers Hyderabad,2011.0,47.9,0.0,23.95,False,False,pure_batter,282.0,20.0,267.0,14.1,105.62,anchor_opener,,,,,,,0,0.051396828503334484
+VY Mahesh,Delhi Capitals,2008.0,20.5,89.07,54.78,False,False,pure_bowler,15.0,5.0,27.0,3.0,55.56,tailender,21.0,17.0,339.0,1.235,8.83,middle_overs_bowler,1,0.9458792171905266
+Vijaykumar Vyshak,Royal Challengers Bengaluru,2024.0,42.06,79.64,60.85,False,False,pure_bowler,14.0,4.0,12.0,3.5,116.67,tailender,23.0,22.0,453.0,1.045,10.53,middle_overs_bowler,1,0.9056439111688704
+Virat Singh,Sunrisers Hyderabad,2021.0,22.82,0.0,11.41,False,False,pure_batter,15.0,2.0,26.0,7.5,57.69,middle_order,,,,,,,0,0.002405370562568656
+Vishnu Vinod,Royal Challengers Bengaluru,2023.0,42.66,0.0,21.33,False,False,pure_batter,56.0,6.0,57.0,9.33,98.25,middle_order,,,,,,,0,0.005824344721720021
+Vivrant Sharma,Sunrisers Hyderabad,2023.0,105.53,42.02,73.78,False,False,pure_batter,69.0,1.0,47.0,69.0,146.81,anchor_opener,0.0,2.0,18.0,0.0,12.33,part_time_bowler,1,0.9857131716310634
+W Jaffer,Royal Challengers Bengaluru,2009.0,50.79,0.0,25.4,False,False,pure_batter,130.0,8.0,121.0,16.25,107.44,anchor_opener,,,,,,,0,0.04643038062639656
+W O'Rourke,Lucknow Super Giants,2025.0,0.0,110.94,55.47,False,False,pure_bowler,,,,,,,6.0,3.0,62.0,2.0,12.77,powerplay_bowler,1,0.7971972930215292
+WA Mota,Punjab Kings,2009.0,28.58,65.43,47.0,False,False,pure_bowler,56.0,8.0,75.0,7.0,74.67,middle_order,4.0,7.0,72.0,0.571,8.08,death_bowler,0,0.032702200801780074
+WD Parnell,Pune Warriors,2023.0,30.19,84.82,57.5,False,False,utility_player,65.0,13.0,80.0,5.0,81.25,tailender,35.0,33.0,723.0,1.061,7.78,death_bowler,0,0.8269280321387297
+WG Jacks,Mumbai Indians,2026.0,72.72,63.65,68.18,True,True,batting_allrounder,509.0,20.0,325.0,25.45,156.62,top_order_anchor,8.0,14.0,144.0,0.571,9.96,middle_overs_bowler,1,0.9476558692131338
+WP Saha,Punjab Kings,2024.0,58.76,0.0,29.38,False,False,pure_batter,2934.0,143.0,2300.0,20.52,127.57,aggressive_opener,,,,,,,1,0.9680438774166269
+WPUJC Vaas,Sunrisers Hyderabad,2010.0,41.41,97.33,69.37,False,False,pure_bowler,81.0,11.0,73.0,7.36,110.96,tailender,18.0,13.0,282.0,1.385,7.55,powerplay_bowler,1,0.9496570724731135
+Washington Sundar,Royal Challengers Bengaluru,2026.0,53.54,66.58,60.06,False,True,bowling_allrounder,680.0,52.0,523.0,13.08,130.02,middle_order,40.0,66.0,1150.0,0.606,7.76,powerplay_bowler,0,0.2117047056530961
+X Thalaivan Sargunam,Sunrisers Hyderabad,2013.0,24.09,0.0,12.04,False,False,pure_batter,10.0,1.0,17.0,10.0,58.82,middle_order,,,,,,,0,0.006100146030809973
+XC Bartlett,Punjab Kings,2026.0,42.35,65.55,53.95,False,False,pure_bowler,22.0,2.0,20.0,11.0,110.0,tailender,7.0,11.0,214.0,0.636,11.02,powerplay_bowler,1,0.7929197860341659
+Y Gnaneswara Rao,Kochi Tuskers Kerala,2011.0,45.77,49.7,47.74,False,False,pure_batter,19.0,1.0,17.0,19.0,111.76,middle_order,0.0,1.0,6.0,0.0,7.0,part_time_bowler,1,0.9055726245485272
+Y Nagar,Delhi Capitals,2012.0,45.0,59.01,52.0,False,False,utility_player,285.0,20.0,259.0,14.25,110.04,tailender,4.0,8.0,66.0,0.5,11.36,middle_overs_bowler,0,0.2443212713161068
+Y Prithvi Raj,Kolkata Knight Riders,2019.0,0.0,59.61,29.8,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,1.0,2.0,30.0,0.5,11.4,part_time_bowler,0,0.04507186349745265
+Y Venugopal Rao,Sunrisers Hyderabad,2014.0,54.23,53.71,53.97,False,False,utility_player,985.0,52.0,836.0,18.94,117.82,finisher,6.0,20.0,216.0,0.3,9.36,middle_overs_bowler,0,0.2552422623288217
+YA Abdulla,Punjab Kings,2010.0,0.0,95.22,47.61,False,False,pure_bowler,0.0,1.0,1.0,0.0,0.0,tailender,15.0,11.0,209.0,1.364,8.81,powerplay_bowler,0,0.11182531172509563
+YBK Jaiswal,Rajasthan Royals,2026.0,79.79,25.6,52.7,False,False,pure_batter,2478.0,76.0,1613.0,32.61,153.63,aggressive_opener,0.0,1.0,1.0,0.0,36.0,part_time_bowler,1,0.983281536570841
+YK Pathan,Kolkata Knight Riders,2019.0,64.81,64.08,64.44,True,True,batting_allrounder,3204.0,153.0,2241.0,20.94,142.97,finisher,42.0,82.0,1147.0,0.512,7.4,powerplay_bowler,0,0.29059325779756906
+YS Chahal,Royal Challengers Bengaluru,2022.0,15.82,89.95,52.89,False,False,utility_player,37.0,17.0,86.0,2.18,43.02,tailender,228.0,179.0,3941.0,1.274,8.03,middle_overs_bowler,0,0.6021239523281795
+YV Dhull,Delhi Capitals,2023.0,26.21,0.0,13.1,False,False,pure_batter,16.0,3.0,23.0,5.33,69.57,middle_order,,,,,,,0,0.002399761256438396
+YV Takawale,Mumbai Indians,2014.0,50.47,0.0,25.24,False,False,pure_batter,192.0,10.0,178.0,19.2,107.87,anchor_opener,,,,,,,0,0.05426761465727173
+Yash Dayal,Royal Challengers Bengaluru,2025.0,15.9,78.67,47.28,False,False,pure_bowler,4.0,4.0,9.0,1.0,44.44,tailender,41.0,43.0,871.0,0.953,9.58,powerplay_bowler,0,0.005640649174749894
+Yash Raj Punja,Rajasthan Royals,2026.0,0.0,97.52,48.76,False,False,pure_bowler,,,,,,,3.0,2.0,48.0,1.5,8.25,part_time_bowler,0,0.08930305514493674
+Yash Thakur,Lucknow Super Giants,2025.0,0.0,85.88,42.94,False,False,pure_bowler,,,,,,,25.0,21.0,443.0,1.19,10.43,death_bowler,0,0.0636289520361669
+Yashpal Singh,Kolkata Knight Riders,2009.0,29.04,0.0,14.52,False,False,pure_batter,47.0,4.0,66.0,11.75,71.21,middle_order,,,,,,,0,0.0050290581550837135
+Younis Khan,Rajasthan Royals,2008.0,16.05,0.0,8.02,False,False,pure_batter,3.0,1.0,7.0,3.0,42.86,middle_order,,,,,,,0,0.0014406053152480544
+Yudhvir Singh,Lucknow Super Giants,2024.0,50.05,76.87,63.46,False,False,pure_bowler,22.0,4.0,16.0,5.5,137.5,tailender,8.0,9.0,138.0,0.889,11.0,powerplay_bowler,1,0.952196970497135
+Yuvraj Singh,Punjab Kings,2019.0,61.62,62.03,61.82,True,False,batting_allrounder,2750.0,126.0,2120.0,21.83,129.72,finisher,36.0,73.0,869.0,0.493,7.44,middle_overs_bowler,0,0.20973608794229617
+Z Khan,Royal Challengers Bengaluru,2017.0,30.56,83.56,57.06,False,False,utility_player,117.0,27.0,141.0,4.33,82.98,tailender,102.0,99.0,2200.0,1.03,7.59,powerplay_bowler,0,0.33984905000389587
+Zeeshan Ansari,Sunrisers Hyderabad,2025.0,0.0,62.96,31.48,False,False,pure_bowler,,,,,,,6.0,10.0,203.0,0.6,9.84,middle_overs_bowler,0,0.01358399635007876

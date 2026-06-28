@@ -1,0 +1,1156 @@
+comparison_type,role,smat_player,smat_team,ipl_player,ipl_team,similarity_rank,similarity_score
+batting,aggressive_opener,AD Chopra,Mizoram,HM Amla,Punjab Kings,1,60.9
+batting,aggressive_opener,AD Chopra,Mizoram,JC Buttler,Rajasthan Royals,2,60.69
+batting,aggressive_opener,AD Chopra,Mizoram,KL Rahul,Punjab Kings,3,49.96
+batting,aggressive_opener,AM Rahane,Mumbai,Shubman Gill,Gujarat Titans,1,98.36
+batting,aggressive_opener,AM Rahane,Mumbai,DP Conway,Chennai Super Kings,2,94.87
+batting,aggressive_opener,AM Rahane,Mumbai,B Sai Sudharsan,Gujarat Titans,3,93.22
+batting,aggressive_opener,Abhishek Sharma,Punjab,Ishan Kishan,Mumbai Indians,1,83.13
+batting,aggressive_opener,Abhishek Sharma,Punjab,VR Iyer,Kolkata Knight Riders,2,80.04
+batting,aggressive_opener,Abhishek Sharma,Punjab,MR Marsh,Delhi Capitals,3,76.07
+batting,aggressive_opener,Abishek Porel,Bengal,JG Bethell,Royal Challengers Bengaluru,1,82.9
+batting,aggressive_opener,Abishek Porel,Bengal,UT Khawaja,Rising Pune Supergiant,2,74.1
+batting,aggressive_opener,Abishek Porel,Bengal,FH Allen,Kolkata Knight Riders,3,71.55
+batting,aggressive_opener,Ankit Kumar,Haryana,AD Hales,Sunrisers Hyderabad,1,53.71
+batting,aggressive_opener,Ankit Kumar,Haryana,SA Asnodkar,Rajasthan Royals,2,50.32
+batting,aggressive_opener,Ankit Kumar,Haryana,G Gambhir,Kolkata Knight Riders,3,45.39
+batting,aggressive_opener,D Padikkal,Karnataka,DP Conway,Chennai Super Kings,1,90.4
+batting,aggressive_opener,D Padikkal,Karnataka,DA Warner,Sunrisers Hyderabad,2,85.52
+batting,aggressive_opener,D Padikkal,Karnataka,B Sai Sudharsan,Gujarat Titans,3,84.89
+batting,aggressive_opener,H Desai,Saurashtra,S Sohal,Punjab Kings,1,91.11
+batting,aggressive_opener,H Desai,Saurashtra,S Vidyut,Chennai Super Kings,2,90.07
+batting,aggressive_opener,H Desai,Saurashtra,C Munro,Delhi Capitals,3,88.87
+batting,aggressive_opener,HP Gawli,Madhya Pradesh,UT Khawaja,Rising Pune Supergiant,1,89.88
+batting,aggressive_opener,HP Gawli,Madhya Pradesh,AD Hales,Sunrisers Hyderabad,2,71.82
+batting,aggressive_opener,HP Gawli,Madhya Pradesh,FH Allen,Kolkata Knight Riders,3,63.69
+batting,aggressive_opener,HV Patel,Haryana,J Fraser-McGurk,Delhi Capitals,1,75.85
+batting,aggressive_opener,HV Patel,Haryana,RD Rickelton,Mumbai Indians,2,74.68
+batting,aggressive_opener,HV Patel,Haryana,PD Salt,Royal Challengers Bengaluru,3,74.0
+batting,aggressive_opener,Hari Nishaanth,Tamil Nadu,PA Patel,Mumbai Indians,1,80.02
+batting,aggressive_opener,Hari Nishaanth,Tamil Nadu,SM Katich,Punjab Kings,2,68.47
+batting,aggressive_opener,Hari Nishaanth,Tamil Nadu,S Sohal,Punjab Kings,3,64.69
+batting,aggressive_opener,Jyotsnil Singh,Baroda,AD Hales,Sunrisers Hyderabad,1,83.02
+batting,aggressive_opener,Jyotsnil Singh,Baroda,UT Khawaja,Rising Pune Supergiant,2,69.28
+batting,aggressive_opener,Jyotsnil Singh,Baroda,SA Asnodkar,Rajasthan Royals,3,58.48
+batting,aggressive_opener,MA Agarwal,Karnataka,MA Agarwal,Punjab Kings,1,89.56
+batting,aggressive_opener,MA Agarwal,Karnataka,PA Patel,Mumbai Indians,2,77.9
+batting,aggressive_opener,MA Agarwal,Karnataka,G Gambhir,Kolkata Knight Riders,3,74.91
+batting,aggressive_opener,P Simran Singh,Punjab,DR Smith,Chennai Super Kings,1,81.01
+batting,aggressive_opener,P Simran Singh,Punjab,BB McCullum,Kolkata Knight Riders,2,69.46
+batting,aggressive_opener,P Simran Singh,Punjab,CH Gayle,Royal Challengers Bengaluru,3,60.89
+batting,aggressive_opener,PP Shaw,Mumbai,P Simran Singh,Punjab Kings,1,94.38
+batting,aggressive_opener,PP Shaw,Mumbai,Abhishek Sharma,Sunrisers Hyderabad,2,92.42
+batting,aggressive_opener,PP Shaw,Mumbai,RD Rickelton,Mumbai Indians,3,92.17
+batting,aggressive_opener,Priyansh Arya,Delhi,KR Mayers,Lucknow Super Giants,1,78.18
+batting,aggressive_opener,Priyansh Arya,Delhi,ST Jayasuriya,Mumbai Indians,2,66.88
+batting,aggressive_opener,Priyansh Arya,Delhi,P Nissanka,Delhi Capitals,3,65.3
+batting,aggressive_opener,Rishav Das,Assam,PA Patel,Mumbai Indians,1,86.56
+batting,aggressive_opener,Rishav Das,Assam,G Gambhir,Kolkata Knight Riders,2,84.38
+batting,aggressive_opener,Rishav Das,Assam,AM Rahane,Rajasthan Royals,3,77.97
+batting,aggressive_opener,Shashank Chandrakar,Chhattisgarh,PA Patel,Mumbai Indians,1,75.48
+batting,aggressive_opener,Shashank Chandrakar,Chhattisgarh,SM Katich,Punjab Kings,2,66.15
+batting,aggressive_opener,Shashank Chandrakar,Chhattisgarh,C Munro,Delhi Capitals,3,64.64
+batting,aggressive_opener,Tarang Gohel,Saurashtra,JG Bethell,Royal Challengers Bengaluru,1,87.3
+batting,aggressive_opener,Tarang Gohel,Saurashtra,J Fraser-McGurk,Delhi Capitals,2,82.92
+batting,aggressive_opener,Tarang Gohel,Saurashtra,Priyansh Arya,Punjab Kings,3,76.83
+batting,aggressive_opener,Urvil Patel,Gujarat,PP Shaw,Delhi Capitals,1,79.54
+batting,aggressive_opener,Urvil Patel,Gujarat,S Vidyut,Chennai Super Kings,2,55.4
+batting,aggressive_opener,Urvil Patel,Gujarat,SP Narine,Kolkata Knight Riders,3,54.2
+batting,aggressive_opener,Vivek Singh,Bengal,WP Saha,Punjab Kings,1,85.91
+batting,aggressive_opener,Vivek Singh,Bengal,RG Sharma,Mumbai Indians,2,77.06
+batting,aggressive_opener,Vivek Singh,Bengal,SM Katich,Punjab Kings,3,66.82
+batting,anchor_opener,A Raghuvanshi,Mumbai,MJ Clarke,Pune Warriors,1,62.27
+batting,anchor_opener,A Raghuvanshi,Mumbai,SK Rasheed,Chennai Super Kings,2,55.59
+batting,anchor_opener,A Raghuvanshi,Mumbai,JR Philippe,Royal Challengers Bengaluru,3,54.86
+batting,anchor_opener,AV Rajput,Baroda,RS Bopara,Punjab Kings,1,82.9
+batting,anchor_opener,AV Rajput,Baroda,JEC Franklin,Mumbai Indians,2,72.49
+batting,anchor_opener,AV Rajput,Baroda,Anuj Rawat,Royal Challengers Bengaluru,3,65.41
+batting,anchor_opener,Aarya Desai,Gujarat,DJM Short,Rajasthan Royals,1,87.27
+batting,anchor_opener,Aarya Desai,Gujarat,SR Watson,Rajasthan Royals,2,51.69
+batting,anchor_opener,Aarya Desai,Gujarat,RE Levi,Mumbai Indians,3,43.27
+batting,anchor_opener,Abhishek Goswami,Uttar Pradesh,DJM Short,Rajasthan Royals,1,65.56
+batting,anchor_opener,Abhishek Goswami,Uttar Pradesh,W Jaffer,Royal Challengers Bengaluru,2,57.58
+batting,anchor_opener,Abhishek Goswami,Uttar Pradesh,SR Watson,Rajasthan Royals,3,56.57
+batting,anchor_opener,Anuj Rawat,Delhi,SR Watson,Rajasthan Royals,1,81.9
+batting,anchor_opener,Anuj Rawat,Delhi,AJ Finch,Gujarat Lions,2,75.43
+batting,anchor_opener,Anuj Rawat,Delhi,RS Bopara,Punjab Kings,3,66.28
+batting,anchor_opener,Arpit Gaud,Madhya Pradesh,RE Levi,Mumbai Indians,1,78.66
+batting,anchor_opener,Arpit Gaud,Madhya Pradesh,SK Rasheed,Chennai Super Kings,2,76.24
+batting,anchor_opener,Arpit Gaud,Madhya Pradesh,DJ Jacobs,Mumbai Indians,3,74.46
+batting,anchor_opener,Bikramkumar Das,Tripura,R Dravid,Rajasthan Royals,1,86.75
+batting,anchor_opener,Bikramkumar Das,Tripura,GC Smith,Rajasthan Royals,2,82.11
+batting,anchor_opener,Bikramkumar Das,Tripura,JH Kallis,Kolkata Knight Riders,3,80.97
+batting,anchor_opener,Denish Das,Assam,SP Goswami,Royal Challengers Bengaluru,1,76.72
+batting,anchor_opener,Denish Das,Assam,RT Ponting,Mumbai Indians,2,71.96
+batting,anchor_opener,Denish Das,Assam,K Goel,Punjab Kings,3,71.42
+batting,anchor_opener,Eknath Kerkar,Goa,JEC Franklin,Mumbai Indians,1,93.12
+batting,anchor_opener,Eknath Kerkar,Goa,RS Bopara,Punjab Kings,2,88.94
+batting,anchor_opener,Eknath Kerkar,Goa,Anuj Rawat,Royal Challengers Bengaluru,3,67.62
+batting,anchor_opener,G Ajitesh,Tamil Nadu,Anuj Rawat,Royal Challengers Bengaluru,1,59.51
+batting,anchor_opener,G Ajitesh,Tamil Nadu,L Ronchi,Mumbai Indians,2,50.36
+batting,anchor_opener,G Ajitesh,Tamil Nadu,TL Seifert,Kolkata Knight Riders,3,49.95
+batting,anchor_opener,KS Sharma,Uttar Pradesh,AJ Finch,Gujarat Lions,1,68.68
+batting,anchor_opener,KS Sharma,Uttar Pradesh,SR Watson,Rajasthan Royals,2,64.03
+batting,anchor_opener,KS Sharma,Uttar Pradesh,LMP Simmons,Mumbai Indians,3,62.58
+batting,anchor_opener,P Prafullomani,Manipur,RT Ponting,Mumbai Indians,1,89.25
+batting,anchor_opener,P Prafullomani,Manipur,IR Jaggi,Sunrisers Hyderabad,2,87.67
+batting,anchor_opener,P Prafullomani,Manipur,Mohammad Hafeez,Kolkata Knight Riders,3,87.48
+batting,anchor_opener,Pratham Singh,Railways,M Vijay,Chennai Super Kings,1,89.58
+batting,anchor_opener,Pratham Singh,Railways,MEK Hussey,Chennai Super Kings,2,88.93
+batting,anchor_opener,Pratham Singh,Railways,AJ Finch,Gujarat Lions,3,86.51
+batting,anchor_opener,Qamran Iqbal,Jammu & Kashmir,LMP Simmons,Mumbai Indians,1,51.14
+batting,anchor_opener,Qamran Iqbal,Jammu & Kashmir,SP Fleming,Chennai Super Kings,2,50.26
+batting,anchor_opener,Qamran Iqbal,Jammu & Kashmir,HH Gibbs,Sunrisers Hyderabad,3,40.56
+batting,anchor_opener,Saurav Chauhan,Gujarat,DJM Short,Rajasthan Royals,1,66.09
+batting,anchor_opener,Saurav Chauhan,Gujarat,N Jagadeesan,Kolkata Knight Riders,2,54.49
+batting,anchor_opener,Saurav Chauhan,Gujarat,JEC Franklin,Mumbai Indians,3,53.27
+batting,anchor_opener,Shivam Chaudhary,Railways,SR Tendulkar,Mumbai Indians,1,93.46
+batting,anchor_opener,Shivam Chaudhary,Railways,MEK Hussey,Chennai Super Kings,2,88.97
+batting,anchor_opener,Shivam Chaudhary,Railways,R Dravid,Rajasthan Royals,3,88.83
+batting,anchor_opener,Shubham Khajuria,Jammu & Kashmir,M Vijay,Chennai Super Kings,1,54.19
+batting,anchor_opener,Shubham Khajuria,Jammu & Kashmir,SR Watson,Rajasthan Royals,2,53.33
+batting,anchor_opener,Shubham Khajuria,Jammu & Kashmir,AJ Finch,Gujarat Lions,3,52.7
+batting,anchor_opener,Shubham Sharma,Madhya Pradesh,MJ Clarke,Pune Warriors,1,74.18
+batting,anchor_opener,Shubham Sharma,Madhya Pradesh,SP Goswami,Royal Challengers Bengaluru,2,47.02
+batting,anchor_opener,Shubham Sharma,Madhya Pradesh,VVS Laxman,Sunrisers Hyderabad,3,42.28
+batting,finisher,A Manohar,Karnataka,H Klaasen,Sunrisers Hyderabad,1,79.32
+batting,finisher,A Manohar,Karnataka,Tilak Varma,Mumbai Indians,2,70.05
+batting,finisher,A Manohar,Karnataka,T Stubbs,Delhi Capitals,3,67.85
+batting,finisher,Ajay Mandal,Chhattisgarh,DJ Bravo,Chennai Super Kings,1,94.57
+batting,finisher,Ajay Mandal,Chhattisgarh,R Tewatia,Gujarat Titans,2,87.63
+batting,finisher,Ajay Mandal,Chhattisgarh,Sachin Baby,Royal Challengers Bengaluru,3,86.65
+batting,finisher,BA Roy,Assam,TR Birt,Delhi Capitals,1,37.58
+batting,finisher,BA Roy,Assam,KK Cooper,Rajasthan Royals,2,29.98
+batting,finisher,BA Roy,Assam,RK Singh,Kolkata Knight Riders,3,20.88
+batting,finisher,Chirag Gandhi,Gujarat,AC Voges,Rajasthan Royals,1,85.84
+batting,finisher,Chirag Gandhi,Gujarat,BJ Hodge,Rajasthan Royals,2,77.1
+batting,finisher,Chirag Gandhi,Gujarat,JP Duminy,Delhi Capitals,3,75.86
+batting,finisher,Dhruv Jurel,Uttar Pradesh,TR Birt,Delhi Capitals,1,72.95
+batting,finisher,Dhruv Jurel,Uttar Pradesh,DJ Bravo,Chennai Super Kings,2,61.69
+batting,finisher,Dhruv Jurel,Uttar Pradesh,GD Phillips,Sunrisers Hyderabad,3,61.11
+batting,finisher,Fazil Rashid,Jammu & Kashmir,TR Birt,Delhi Capitals,1,89.25
+batting,finisher,Fazil Rashid,Jammu & Kashmir,Sachin Baby,Royal Challengers Bengaluru,2,70.32
+batting,finisher,Fazil Rashid,Jammu & Kashmir,DJ Bravo,Chennai Super Kings,3,66.9
+batting,finisher,Himmat Singh,Delhi,LRPL Taylor,Royal Challengers Bengaluru,1,90.4
+batting,finisher,Himmat Singh,Delhi,PK Garg,Sunrisers Hyderabad,2,85.46
+batting,finisher,Himmat Singh,Delhi,MC Henriques,Sunrisers Hyderabad,3,83.38
+batting,finisher,Jay Gohil,Saurashtra,KK Cooper,Rajasthan Royals,1,76.13
+batting,finisher,Jay Gohil,Saurashtra,M Shahrukh Khan,Punjab Kings,2,73.56
+batting,finisher,Jay Gohil,Saurashtra,NLTC Perera,Sunrisers Hyderabad,3,68.53
+batting,finisher,K L Shrijith,Karnataka,AM Nayar,Mumbai Indians,1,83.68
+batting,finisher,K L Shrijith,Karnataka,B Chipli,Sunrisers Hyderabad,2,82.65
+batting,finisher,K L Shrijith,Karnataka,PK Garg,Sunrisers Hyderabad,3,82.48
+batting,finisher,KH Pandya,Baroda,CL White,Sunrisers Hyderabad,1,95.77
+batting,finisher,KH Pandya,Baroda,DJ Hussey,Punjab Kings,2,74.44
+batting,finisher,KH Pandya,Baroda,AT Rayudu,Mumbai Indians,3,73.72
+batting,finisher,M Shahrukh Khan,Tamil Nadu,MP Stoinis,Lucknow Super Giants,1,53.43
+batting,finisher,M Shahrukh Khan,Tamil Nadu,KK Cooper,Rajasthan Royals,2,52.85
+batting,finisher,M Shahrukh Khan,Tamil Nadu,SM Curran,Punjab Kings,3,50.97
+batting,finisher,N Wadhera,Punjab,H Klaasen,Sunrisers Hyderabad,1,78.95
+batting,finisher,N Wadhera,Punjab,Tilak Varma,Mumbai Indians,2,71.6
+batting,finisher,N Wadhera,Punjab,N Pooran,Lucknow Super Giants,3,68.99
+batting,finisher,R Tewatia,Haryana,Shashank Singh,Punjab Kings,1,83.33
+batting,finisher,R Tewatia,Haryana,T Stubbs,Delhi Capitals,2,76.98
+batting,finisher,R Tewatia,Haryana,TH David,Mumbai Indians,3,74.17
+batting,finisher,RK Singh,Uttar Pradesh,T Stubbs,Delhi Capitals,1,94.57
+batting,finisher,RK Singh,Uttar Pradesh,Shashank Singh,Punjab Kings,2,90.51
+batting,finisher,RK Singh,Uttar Pradesh,RK Singh,Kolkata Knight Riders,3,85.39
+batting,finisher,Rajat Dey,Tripura,JP Duminy,Delhi Capitals,1,78.9
+batting,finisher,Rajat Dey,Tripura,H Klaasen,Sunrisers Hyderabad,2,71.03
+batting,finisher,Rajat Dey,Tripura,Tilak Varma,Mumbai Indians,3,71.01
+batting,finisher,Ramandeep Singh,Punjab,JA Morkel,Chennai Super Kings,1,93.96
+batting,finisher,Ramandeep Singh,Punjab,NLTC Perera,Sunrisers Hyderabad,2,81.8
+batting,finisher,Ramandeep Singh,Punjab,RN ten Doeschate,Kolkata Knight Riders,3,80.47
+batting,finisher,S Dube,Mumbai,Sachin Baby,Royal Challengers Bengaluru,1,80.8
+batting,finisher,S Dube,Mumbai,AD Mathews,Pune Warriors,2,70.71
+batting,finisher,S Dube,Mumbai,GD Phillips,Sunrisers Hyderabad,3,70.71
+batting,finisher,Sanvir Singh,Punjab,TH David,Mumbai Indians,1,92.73
+batting,finisher,Sanvir Singh,Punjab,S Arora,Sunrisers Hyderabad,2,77.49
+batting,finisher,Sanvir Singh,Punjab,SO Hetmyer,Rajasthan Royals,3,76.83
+batting,finisher,Shashank Singh,Chhattisgarh,PK Garg,Sunrisers Hyderabad,1,83.8
+batting,finisher,Shashank Singh,Chhattisgarh,B Chipli,Sunrisers Hyderabad,2,77.68
+batting,finisher,Shashank Singh,Chhattisgarh,SM Curran,Punjab Kings,3,77.27
+batting,finisher,Shubham Pundir,Jammu & Kashmir,S Badrinath,Chennai Super Kings,1,87.81
+batting,finisher,Shubham Pundir,Jammu & Kashmir,Y Venugopal Rao,Sunrisers Hyderabad,2,85.83
+batting,finisher,Shubham Pundir,Jammu & Kashmir,DJ Hussey,Punjab Kings,3,84.14
+batting,finisher,Subhransu Senapati,Odisha,KK Nair,Delhi Capitals,1,93.51
+batting,finisher,Subhransu Senapati,Odisha,DPMD Jayawardene,Punjab Kings,2,88.31
+batting,finisher,Subhransu Senapati,Odisha,BA Stokes,Rajasthan Royals,3,87.64
+batting,finisher,Sumit Kumar,Haryana,AM Nayar,Mumbai Indians,1,90.1
+batting,finisher,Sumit Kumar,Haryana,CA Ingram,Delhi Capitals,2,77.13
+batting,finisher,Sumit Kumar,Haryana,B Chipli,Sunrisers Hyderabad,3,74.67
+batting,finisher,Suryansh Shedge,Mumbai,TH David,Mumbai Indians,1,74.46
+batting,finisher,Suryansh Shedge,Mumbai,S Arora,Sunrisers Hyderabad,2,67.6
+batting,finisher,Suryansh Shedge,Mumbai,Shashank Singh,Punjab Kings,3,67.55
+batting,finisher,VR Iyer,Madhya Pradesh,KK Nair,Delhi Capitals,1,74.44
+batting,finisher,VR Iyer,Madhya Pradesh,DPMD Jayawardene,Punjab Kings,2,72.55
+batting,finisher,VR Iyer,Madhya Pradesh,KC Sangakkara,Punjab Kings,3,69.45
+batting,finisher,Vishnu Solanki,Baroda,MC Henriques,Sunrisers Hyderabad,1,73.01
+batting,finisher,Vishnu Solanki,Baroda,PK Garg,Sunrisers Hyderabad,2,72.48
+batting,finisher,Vishnu Solanki,Baroda,CL White,Sunrisers Hyderabad,3,70.4
+batting,finisher,Vishvaraj Jadeja,Saurashtra,SW Billings,Delhi Capitals,1,86.43
+batting,finisher,Vishvaraj Jadeja,Saurashtra,DPMD Jayawardene,Punjab Kings,2,84.38
+batting,finisher,Vishvaraj Jadeja,Saurashtra,MC Henriques,Sunrisers Hyderabad,3,84.36
+batting,middle_order,B Sai Sudharsan,Tamil Nadu,SS Tiwary,Mumbai Indians,1,83.33
+batting,middle_order,B Sai Sudharsan,Tamil Nadu,DJ Mitchell,Chennai Super Kings,2,81.67
+batting,middle_order,B Sai Sudharsan,Tamil Nadu,MK Tiwary,Kolkata Knight Riders,3,81.34
+batting,middle_order,Bhanu Pania,Baroda,DT Christian,Sunrisers Hyderabad,1,84.32
+batting,middle_order,Bhanu Pania,Baroda,IK Pathan,Delhi Capitals,2,82.64
+batting,middle_order,Bhanu Pania,Baroda,LR Shukla,Kolkata Knight Riders,3,78.32
+batting,middle_order,Ganesh Satish,Vidarbha,MC Juneja,Delhi Capitals,1,76.0
+batting,middle_order,Ganesh Satish,Vidarbha,N Saini,Punjab Kings,2,71.23
+batting,middle_order,Ganesh Satish,Vidarbha,FY Fazal,Rajasthan Royals,3,69.1
+batting,middle_order,Henan Nazir,Jammu & Kashmir,MC Juneja,Delhi Capitals,1,64.23
+batting,middle_order,Henan Nazir,Jammu & Kashmir,WA Mota,Punjab Kings,2,61.54
+batting,middle_order,Henan Nazir,Jammu & Kashmir,GH Vihari,Sunrisers Hyderabad,3,49.7
+batting,middle_order,J Anderson,Mizoram,MS Wade,Gujarat Titans,1,73.79
+batting,middle_order,J Anderson,Mizoram,N Saini,Punjab Kings,2,62.91
+batting,middle_order,J Anderson,Mizoram,AA Bilakhia,Sunrisers Hyderabad,3,57.52
+batting,middle_order,Joseph Lalthankhuma,Mizoram,CJ Ferguson,Pune Warriors,1,89.78
+batting,middle_order,Joseph Lalthankhuma,Mizoram,AD Nath,Royal Challengers Bengaluru,2,80.8
+batting,middle_order,Joseph Lalthankhuma,Mizoram,GH Vihari,Sunrisers Hyderabad,3,72.5
+batting,middle_order,Kangabam Singh,Manipur,CJ Ferguson,Pune Warriors,1,85.64
+batting,middle_order,Kangabam Singh,Manipur,GH Vihari,Sunrisers Hyderabad,2,80.21
+batting,middle_order,Kangabam Singh,Manipur,AD Nath,Royal Challengers Bengaluru,3,67.88
+batting,middle_order,Karan Lal,Bengal,LA Carseldine,Rajasthan Royals,1,60.56
+batting,middle_order,Karan Lal,Bengal,Sohail Tanvir,Rajasthan Royals,2,49.4
+batting,middle_order,Karan Lal,Bengal,Shoaib Malik,Delhi Capitals,3,45.32
+batting,middle_order,Lalhruaizela,Mizoram,CJ Ferguson,Pune Warriors,1,84.73
+batting,middle_order,Lalhruaizela,Mizoram,GH Vihari,Sunrisers Hyderabad,2,79.52
+batting,middle_order,Lalhruaizela,Mizoram,AA Bilakhia,Sunrisers Hyderabad,3,79.27
+batting,middle_order,Mohit Jangra,Mizoram,AJ Turner,Rajasthan Royals,1,71.08
+batting,middle_order,Mohit Jangra,Mizoram,Vishnu Vinod,Royal Challengers Bengaluru,2,68.47
+batting,middle_order,Mohit Jangra,Mizoram,SS Prabhudessai,Royal Challengers Bengaluru,3,62.74
+batting,middle_order,Naman Dhir,Punjab,Sunny Singh,Punjab Kings,1,66.77
+batting,middle_order,Naman Dhir,Punjab,Kartik Sharma,Chennai Super Kings,2,62.06
+batting,middle_order,Naman Dhir,Punjab,AJ Turner,Rajasthan Royals,3,52.29
+batting,middle_order,Rex Rajkumar,Manipur,M Kaif,Rajasthan Royals,1,86.29
+batting,middle_order,Rex Rajkumar,Manipur,MN Samuels,Pune Warriors,2,80.83
+batting,middle_order,Rex Rajkumar,Manipur,SB Styris,Sunrisers Hyderabad,3,75.32
+batting,middle_order,SK Gharami,Bengal,AA Bilakhia,Sunrisers Hyderabad,1,73.29
+batting,middle_order,SK Gharami,Bengal,MS Wade,Gujarat Titans,2,58.09
+batting,middle_order,SK Gharami,Bengal,N Saini,Punjab Kings,3,55.12
+batting,middle_order,SS Sharma,Baroda,PHKD Mendis,Sunrisers Hyderabad,1,79.22
+batting,middle_order,SS Sharma,Baroda,SS Tiwary,Mumbai Indians,2,71.4
+batting,middle_order,SS Sharma,Baroda,MK Tiwary,Kolkata Knight Riders,3,67.75
+batting,middle_order,Sanjeet Desai,Chhattisgarh,KS Bharat,Royal Challengers Bengaluru,1,49.27
+batting,middle_order,Sanjeet Desai,Chhattisgarh,Harpreet Singh,Punjab Kings,2,44.07
+batting,middle_order,Sanjeet Desai,Chhattisgarh,IK Pathan,Delhi Capitals,3,41.21
+batting,middle_order,Shahbaz Ahmed,Bengal,DJG Sammy,Sunrisers Hyderabad,1,80.58
+batting,middle_order,Shahbaz Ahmed,Bengal,Washington Sundar,Royal Challengers Bengaluru,2,76.82
+batting,middle_order,Shahbaz Ahmed,Bengal,IK Pathan,Delhi Capitals,3,68.14
+batting,middle_order,Sudip Chatterjee,Bengal,FY Fazal,Rajasthan Royals,1,92.4
+batting,middle_order,Sudip Chatterjee,Bengal,KS Bharat,Royal Challengers Bengaluru,2,76.37
+batting,middle_order,Sudip Chatterjee,Bengal,RA Tripathi,Sunrisers Hyderabad,3,75.18
+batting,middle_order,UR Kumar,Gujarat,PHKD Mendis,Sunrisers Hyderabad,1,66.97
+batting,middle_order,UR Kumar,Gujarat,DJ Mitchell,Chennai Super Kings,2,58.81
+batting,middle_order,UR Kumar,Gujarat,RA Tripathi,Sunrisers Hyderabad,3,55.16
+batting,middle_order,YBK Jaiswal,Mumbai,RA Tripathi,Sunrisers Hyderabad,1,88.31
+batting,middle_order,YBK Jaiswal,Mumbai,LA Pomersbach,Punjab Kings,2,86.12
+batting,middle_order,YBK Jaiswal,Mumbai,TL Suman,Sunrisers Hyderabad,3,79.51
+batting,middle_order,Yudhvir Singh,Jammu & Kashmir,C de Grandhomme,Royal Challengers Bengaluru,1,70.87
+batting,middle_order,Yudhvir Singh,Jammu & Kashmir,Azmatullah Omarzai,Punjab Kings,2,63.95
+batting,middle_order,Yudhvir Singh,Jammu & Kashmir,AUK Pathan,Royal Challengers Bengaluru,3,58.5
+batting,tailender,A Sheth,Baroda,AB Agarkar,Kolkata Knight Riders,1,88.07
+batting,tailender,A Sheth,Baroda,PP Chawla,Punjab Kings,2,85.31
+batting,tailender,A Sheth,Baroda,Harbhajan Singh,Mumbai Indians,3,83.87
+batting,tailender,KC Cariappa,Karnataka,Akash Deep,Royal Challengers Bengaluru,1,87.42
+batting,tailender,KC Cariappa,Karnataka,MJ McClenaghan,Mumbai Indians,2,84.02
+batting,tailender,KC Cariappa,Karnataka,AJ Tye,Punjab Kings,3,81.84
+batting,tailender,Lalhriatrenga,Mizoram,A Zampa,Rajasthan Royals,1,92.66
+batting,tailender,Lalhriatrenga,Mizoram,S Badree,Royal Challengers Bengaluru,2,88.72
+batting,tailender,Lalhriatrenga,Mizoram,PV Tambe,Rajasthan Royals,3,87.31
+batting,tailender,Lalhruai Ralte,Mizoram,S Nadeem,Delhi Capitals,1,90.03
+batting,tailender,Lalhruai Ralte,Mizoram,PV Tambe,Rajasthan Royals,2,87.49
+batting,tailender,Lalhruai Ralte,Mizoram,AB Dinda,Pune Warriors,3,86.85
+batting,tailender,Rahul Batham,Madhya Pradesh,A Manohar,Gujarat Titans,1,84.09
+batting,tailender,Rahul Batham,Madhya Pradesh,TK Curran,Kolkata Knight Riders,2,80.73
+batting,tailender,Rahul Batham,Madhya Pradesh,MD Choudhary,Lucknow Super Giants,3,79.32
+batting,tailender,Remruatdika Ralte,Mizoram,P Awana,Punjab Kings,1,94.11
+batting,tailender,Remruatdika Ralte,Mizoram,Pankaj Singh,Royal Challengers Bengaluru,2,92.3
+batting,tailender,Remruatdika Ralte,Mizoram,KMA Paul,Delhi Capitals,3,91.98
+batting,tailender,Rishabh Chouhan,Madhya Pradesh,TK Curran,Kolkata Knight Riders,1,93.6
+batting,tailender,Rishabh Chouhan,Madhya Pradesh,Abdul Samad,Sunrisers Hyderabad,2,89.3
+batting,tailender,Rishabh Chouhan,Madhya Pradesh,R Sathish,Mumbai Indians,3,88.45
+batting,top_order_anchor,A Badoni,Delhi,PD Collingwood,Delhi Capitals,1,72.69
+batting,top_order_anchor,A Badoni,Delhi,SPD Smith,Rajasthan Royals,2,69.78
+batting,top_order_anchor,A Badoni,Delhi,A Symonds,Sunrisers Hyderabad,3,65.24
+batting,top_order_anchor,Amandeep Khare,Chhattisgarh,KS Williamson,Sunrisers Hyderabad,1,87.46
+batting,top_order_anchor,Amandeep Khare,Chhattisgarh,SPD Smith,Rajasthan Royals,2,86.1
+batting,top_order_anchor,Amandeep Khare,Chhattisgarh,A Symonds,Sunrisers Hyderabad,3,60.03
+batting,top_order_anchor,Anmolpreet Singh,Punjab,AB de Villiers,Royal Challengers Bengaluru,1,74.03
+batting,top_order_anchor,Anmolpreet Singh,Punjab,SPD Smith,Rajasthan Royals,2,62.25
+batting,top_order_anchor,Anmolpreet Singh,Punjab,AK Markram,Sunrisers Hyderabad,3,54.25
+batting,top_order_anchor,Harpreet Singh,Chhattisgarh,SE Marsh,Punjab Kings,1,66.96
+batting,top_order_anchor,Harpreet Singh,Chhattisgarh,MN van Wyk,Kolkata Knight Riders,2,53.1
+batting,top_order_anchor,Harpreet Singh,Chhattisgarh,SS Iyer,Delhi Capitals,3,45.82
+batting,top_order_anchor,Himanshu Rana,Haryana,D Padikkal,Royal Challengers Bengaluru,1,82.74
+batting,top_order_anchor,Himanshu Rana,Haryana,KP Pietersen,Delhi Capitals,2,79.38
+batting,top_order_anchor,Himanshu Rana,Haryana,N Rana,Kolkata Knight Riders,3,67.87
+batting,top_order_anchor,MK Pandey,Karnataka,PD Collingwood,Delhi Capitals,1,60.27
+batting,top_order_anchor,MK Pandey,Karnataka,A Symonds,Sunrisers Hyderabad,2,56.99
+batting,top_order_anchor,MK Pandey,Karnataka,AB de Villiers,Royal Challengers Bengaluru,3,54.53
+batting,top_order_anchor,Mandeep Singh,Punjab,C Green,Mumbai Indians,1,63.68
+batting,top_order_anchor,Mandeep Singh,Punjab,AB de Villiers,Royal Challengers Bengaluru,2,50.81
+batting,top_order_anchor,Mandeep Singh,Punjab,MN van Wyk,Kolkata Knight Riders,3,42.41
+batting,top_order_anchor,N Rana,Delhi,D Brevis,Mumbai Indians,1,84.24
+batting,top_order_anchor,N Rana,Delhi,RM Patidar,Royal Challengers Bengaluru,2,58.23
+batting,top_order_anchor,N Rana,Delhi,RR Pant,Delhi Capitals,3,54.15
+batting,top_order_anchor,N Sindhu,Haryana,MN van Wyk,Kolkata Knight Riders,1,57.15
+batting,top_order_anchor,N Sindhu,Haryana,A Symonds,Sunrisers Hyderabad,2,42.81
+batting,top_order_anchor,N Sindhu,Haryana,PD Collingwood,Delhi Capitals,3,32.71
+batting,top_order_anchor,R Parag,Assam,RM Patidar,Royal Challengers Bengaluru,1,60.81
+batting,top_order_anchor,R Parag,Assam,C Connolly,Punjab Kings,2,55.21
+batting,top_order_anchor,R Parag,Assam,RR Pant,Delhi Capitals,3,45.07
+batting,top_order_anchor,RM Patidar,Madhya Pradesh,C Connolly,Punjab Kings,1,78.34
+batting,top_order_anchor,RM Patidar,Madhya Pradesh,A Mhatre,Chennai Super Kings,2,65.01
+batting,top_order_anchor,RM Patidar,Madhya Pradesh,RM Patidar,Royal Challengers Bengaluru,3,58.91
+batting,top_order_anchor,SA Yadav,Mumbai,RR Pant,Delhi Capitals,1,64.84
+batting,top_order_anchor,SA Yadav,Mumbai,AB de Villiers,Royal Challengers Bengaluru,2,60.35
+batting,top_order_anchor,SA Yadav,Mumbai,RM Patidar,Royal Challengers Bengaluru,3,57.17
+batting,top_order_anchor,SS Iyer,Mumbai,C Connolly,Punjab Kings,1,76.28
+batting,top_order_anchor,SS Iyer,Mumbai,A Mhatre,Chennai Super Kings,2,55.08
+batting,top_order_anchor,SS Iyer,Mumbai,SE Marsh,Punjab Kings,3,50.22
+batting,top_order_anchor,Sameer Rizvi,Uttar Pradesh,A Symonds,Sunrisers Hyderabad,1,66.66
+batting,top_order_anchor,Sameer Rizvi,Uttar Pradesh,RR Pant,Delhi Capitals,2,45.25
+batting,top_order_anchor,Sameer Rizvi,Uttar Pradesh,D Brevis,Mumbai Indians,3,42.66
+batting,top_order_anchor,YV Dhull,Delhi,KS Williamson,Sunrisers Hyderabad,1,67.73
+batting,top_order_anchor,YV Dhull,Delhi,A Symonds,Sunrisers Hyderabad,2,53.34
+batting,top_order_anchor,YV Dhull,Delhi,KP Pietersen,Delhi Capitals,3,50.86
+bowling,death_bowler,A Nagwaswalla,Gujarat,RJ Harris,Punjab Kings,1,88.97
+bowling,death_bowler,A Nagwaswalla,Gujarat,A Singh,Rajasthan Royals,2,80.57
+bowling,death_bowler,A Nagwaswalla,Gujarat,MA Starc,Royal Challengers Bengaluru,3,77.46
+bowling,death_bowler,A Sheth,Baroda,MA Starc,Royal Challengers Bengaluru,1,83.58
+bowling,death_bowler,A Sheth,Baroda,A Singh,Rajasthan Royals,2,82.43
+bowling,death_bowler,A Sheth,Baroda,CK Langeveldt,Kolkata Knight Riders,3,81.23
+bowling,death_bowler,Akash Sengupta,Assam,Umar Gul,Kolkata Knight Riders,1,78.51
+bowling,death_bowler,Akash Sengupta,Assam,MA Wood,Lucknow Super Giants,2,70.9
+bowling,death_bowler,Akash Sengupta,Assam,E Malinga,Sunrisers Hyderabad,3,56.81
+bowling,death_bowler,Arshdeep Singh,Punjab,CH Morris,Delhi Capitals,1,90.63
+bowling,death_bowler,Arshdeep Singh,Punjab,DE Bollinger,Chennai Super Kings,2,90.26
+bowling,death_bowler,Arshdeep Singh,Punjab,B Kumar,Sunrisers Hyderabad,3,79.53
+bowling,death_bowler,Avesh Khan,Madhya Pradesh,DE Bollinger,Chennai Super Kings,1,93.34
+bowling,death_bowler,Avesh Khan,Madhya Pradesh,Sohail Tanvir,Rajasthan Royals,2,91.71
+bowling,death_bowler,Avesh Khan,Madhya Pradesh,SL Malinga,Mumbai Indians,3,84.98
+bowling,death_bowler,B Kumar,Uttar Pradesh,SL Malinga,Mumbai Indians,1,95.2
+bowling,death_bowler,B Kumar,Uttar Pradesh,Sohail Tanvir,Rajasthan Royals,2,92.35
+bowling,death_bowler,B Kumar,Uttar Pradesh,DE Bollinger,Chennai Super Kings,3,88.32
+bowling,death_bowler,DS Kulkarni,Mumbai,DE Bollinger,Chennai Super Kings,1,93.01
+bowling,death_bowler,DS Kulkarni,Mumbai,CH Morris,Delhi Capitals,2,80.89
+bowling,death_bowler,DS Kulkarni,Mumbai,JJ Bumrah,Mumbai Indians,3,79.59
+bowling,death_bowler,JD Unadkat,Saurashtra,Sohail Tanvir,Rajasthan Royals,1,93.8
+bowling,death_bowler,JD Unadkat,Saurashtra,SL Malinga,Mumbai Indians,2,89.96
+bowling,death_bowler,JD Unadkat,Saurashtra,DE Bollinger,Chennai Super Kings,3,89.5
+bowling,death_bowler,LI Meriwala,Baroda,SL Malinga,Mumbai Indians,1,85.6
+bowling,death_bowler,LI Meriwala,Baroda,Sohail Tanvir,Rajasthan Royals,2,82.85
+bowling,death_bowler,LI Meriwala,Baroda,CK Langeveldt,Kolkata Knight Riders,3,81.23
+bowling,death_bowler,Mohit Avasthi,Mumbai,A Singh,Rajasthan Royals,1,79.23
+bowling,death_bowler,Mohit Avasthi,Mumbai,KW Richardson,Rajasthan Royals,2,74.06
+bowling,death_bowler,Mohit Avasthi,Mumbai,CK Langeveldt,Kolkata Knight Riders,3,72.3
+bowling,death_bowler,N Rana,Delhi,L Balaji,Kolkata Knight Riders,1,66.03
+bowling,death_bowler,N Rana,Delhi,WA Mota,Punjab Kings,2,59.81
+bowling,death_bowler,N Rana,Delhi,SB Styris,Sunrisers Hyderabad,3,53.05
+bowling,death_bowler,Rasikh Salam,Jammu & Kashmir,SW Tait,Rajasthan Royals,1,79.14
+bowling,death_bowler,Rasikh Salam,Jammu & Kashmir,DP Nannes,Delhi Capitals,2,71.86
+bowling,death_bowler,Rasikh Salam,Jammu & Kashmir,B Kumar,Sunrisers Hyderabad,3,70.22
+bowling,death_bowler,S Kaul,Punjab,SL Malinga,Mumbai Indians,1,77.27
+bowling,death_bowler,S Kaul,Punjab,CH Morris,Delhi Capitals,2,74.14
+bowling,death_bowler,S Kaul,Punjab,L Ngidi,Chennai Super Kings,3,72.33
+bowling,death_bowler,SN Thakur,Mumbai,WD Parnell,Pune Warriors,1,85.15
+bowling,death_bowler,SN Thakur,Mumbai,MA Starc,Royal Challengers Bengaluru,2,81.82
+bowling,death_bowler,SN Thakur,Mumbai,A Singh,Rajasthan Royals,3,72.33
+bowling,death_bowler,T Natarajan,Tamil Nadu,Mustafizur Rahman,Sunrisers Hyderabad,1,88.42
+bowling,death_bowler,T Natarajan,Tamil Nadu,J Theron,Punjab Kings,2,68.73
+bowling,death_bowler,T Natarajan,Tamil Nadu,CH Morris,Delhi Capitals,3,57.76
+bowling,death_bowler,TU Deshpande,Mumbai,CK Langeveldt,Kolkata Knight Riders,1,92.34
+bowling,death_bowler,TU Deshpande,Mumbai,CRD Fernando,Mumbai Indians,2,91.27
+bowling,death_bowler,TU Deshpande,Mumbai,K Rabada,Delhi Capitals,3,78.9
+bowling,death_bowler,Umran Malik,Jammu & Kashmir,CRD Fernando,Mumbai Indians,1,77.68
+bowling,death_bowler,Umran Malik,Jammu & Kashmir,CK Langeveldt,Kolkata Knight Riders,2,74.39
+bowling,death_bowler,Umran Malik,Jammu & Kashmir,SL Malinga,Mumbai Indians,3,70.34
+bowling,death_bowler,V Kaverappa,Karnataka,T Thushara,Chennai Super Kings,1,90.46
+bowling,death_bowler,V Kaverappa,Karnataka,JE Taylor,Pune Warriors,2,78.16
+bowling,death_bowler,V Kaverappa,Karnataka,DE Bollinger,Chennai Super Kings,3,59.45
+bowling,death_bowler,Vijaykumar Vyshak,Karnataka,KMA Paul,Delhi Capitals,1,75.96
+bowling,death_bowler,Vijaykumar Vyshak,Karnataka,S Kaul,Sunrisers Hyderabad,2,65.9
+bowling,death_bowler,Vijaykumar Vyshak,Karnataka,A Ashish Reddy,Sunrisers Hyderabad,3,60.8
+bowling,death_bowler,Yash Dayal,Uttar Pradesh,B Kumar,Sunrisers Hyderabad,1,92.05
+bowling,death_bowler,Yash Dayal,Uttar Pradesh,DP Nannes,Delhi Capitals,2,85.38
+bowling,death_bowler,Yash Dayal,Uttar Pradesh,WD Parnell,Pune Warriors,3,83.14
+bowling,death_bowler,Yudhvir Singh,Hyderabad (India),KW Richardson,Rajasthan Royals,1,75.22
+bowling,death_bowler,Yudhvir Singh,Hyderabad (India),TU Deshpande,Chennai Super Kings,2,68.23
+bowling,death_bowler,Yudhvir Singh,Hyderabad (India),N Thushara,Mumbai Indians,3,68.21
+bowling,middle_overs_bowler,AV Rajput,Baroda,V Puthur,Mumbai Indians,1,89.22
+bowling,middle_overs_bowler,AV Rajput,Baroda,Shashank Singh,Punjab Kings,2,78.27
+bowling,middle_overs_bowler,AV Rajput,Baroda,Shivam Sharma,Punjab Kings,3,76.29
+bowling,middle_overs_bowler,Abid Mushtaq,Jammu & Kashmir,M Muralitharan,Chennai Super Kings,1,85.47
+bowling,middle_overs_bowler,Abid Mushtaq,Jammu & Kashmir,Harbhajan Singh,Mumbai Indians,2,84.58
+bowling,middle_overs_bowler,Abid Mushtaq,Jammu & Kashmir,A Kumble,Royal Challengers Bengaluru,3,84.47
+bowling,middle_overs_bowler,Ajay Mandal,Chhattisgarh,Harbhajan Singh,Mumbai Indians,1,80.46
+bowling,middle_overs_bowler,Ajay Mandal,Chhattisgarh,PP Ojha,Sunrisers Hyderabad,2,79.03
+bowling,middle_overs_bowler,Ajay Mandal,Chhattisgarh,AR Patel,Delhi Capitals,3,78.28
+bowling,middle_overs_bowler,Akash Pandey,Railways,DG Nalkande,Gujarat Titans,1,82.3
+bowling,middle_overs_bowler,Akash Pandey,Railways,MG Bracewell,Royal Challengers Bengaluru,2,73.87
+bowling,middle_overs_bowler,Akash Pandey,Railways,OF Smith,Punjab Kings,3,70.88
+bowling,middle_overs_bowler,Chirag Jani,Saurashtra,JH Kallis,Kolkata Knight Riders,1,90.05
+bowling,middle_overs_bowler,Chirag Jani,Saurashtra,DT Christian,Sunrisers Hyderabad,2,89.23
+bowling,middle_overs_bowler,Chirag Jani,Saurashtra,BAW Mendis,Kolkata Knight Riders,3,85.68
+bowling,middle_overs_bowler,Dharmendrasinh Jadeja,Saurashtra,MM Ali,Chennai Super Kings,1,81.92
+bowling,middle_overs_bowler,Dharmendrasinh Jadeja,Saurashtra,IS Sodhi,Rajasthan Royals,2,70.0
+bowling,middle_overs_bowler,Dharmendrasinh Jadeja,Saurashtra,AR Patel,Delhi Capitals,3,65.98
+bowling,middle_overs_bowler,Harpreet Brar,Punjab,Harbhajan Singh,Mumbai Indians,1,90.93
+bowling,middle_overs_bowler,Harpreet Brar,Punjab,PP Ojha,Sunrisers Hyderabad,2,88.79
+bowling,middle_overs_bowler,Harpreet Brar,Punjab,CV Varun,Kolkata Knight Riders,3,82.65
+bowling,middle_overs_bowler,Harsh Tyagi,Railways,M Kartik,Kolkata Knight Riders,1,85.82
+bowling,middle_overs_bowler,Harsh Tyagi,Railways,DL Vettori,Royal Challengers Bengaluru,2,82.87
+bowling,middle_overs_bowler,Harsh Tyagi,Railways,KP Pietersen,Royal Challengers Bengaluru,3,76.24
+bowling,middle_overs_bowler,J Yadav,Haryana,AR Patel,Delhi Capitals,1,93.99
+bowling,middle_overs_bowler,J Yadav,Haryana,MJ Santner,Chennai Super Kings,2,91.95
+bowling,middle_overs_bowler,J Yadav,Haryana,KH Pandya,Mumbai Indians,3,91.45
+bowling,middle_overs_bowler,Jasmer Dhankhar,Uttar Pradesh,MJ Clarke,Pune Warriors,1,80.72
+bowling,middle_overs_bowler,Jasmer Dhankhar,Uttar Pradesh,K Goel,Punjab Kings,2,76.08
+bowling,middle_overs_bowler,Jasmer Dhankhar,Uttar Pradesh,Gurkeerat Singh,Punjab Kings,3,68.51
+bowling,middle_overs_bowler,K Gowtham,Karnataka,PP Ojha,Sunrisers Hyderabad,1,92.01
+bowling,middle_overs_bowler,K Gowtham,Karnataka,CV Varun,Kolkata Knight Riders,2,88.9
+bowling,middle_overs_bowler,K Gowtham,Karnataka,Rashid Khan,Sunrisers Hyderabad,3,86.64
+bowling,middle_overs_bowler,K Kartikeya,Madhya Pradesh,R Sharma,Pune Warriors,1,92.06
+bowling,middle_overs_bowler,K Kartikeya,Madhya Pradesh,M Muralitharan,Chennai Super Kings,2,90.21
+bowling,middle_overs_bowler,K Kartikeya,Madhya Pradesh,A Kumble,Royal Challengers Bengaluru,3,89.34
+bowling,middle_overs_bowler,KC Cariappa,Karnataka,SP Narine,Kolkata Knight Riders,1,98.42
+bowling,middle_overs_bowler,KC Cariappa,Karnataka,Shahid Afridi,Sunrisers Hyderabad,2,89.05
+bowling,middle_overs_bowler,KC Cariappa,Karnataka,Harmeet Singh,Sunrisers Hyderabad,3,84.82
+bowling,middle_overs_bowler,KH Pandya,Baroda,R Ashwin,Chennai Super Kings,1,96.16
+bowling,middle_overs_bowler,KH Pandya,Baroda,J Botha,Rajasthan Royals,2,90.7
+bowling,middle_overs_bowler,KH Pandya,Baroda,AR Patel,Delhi Capitals,3,86.48
+bowling,middle_overs_bowler,KV Sharma,Railways,P Negi,Royal Challengers Bengaluru,1,90.54
+bowling,middle_overs_bowler,KV Sharma,Railways,IS Sodhi,Rajasthan Royals,2,89.34
+bowling,middle_overs_bowler,KV Sharma,Railways,RA Jadeja,Chennai Super Kings,3,86.65
+bowling,middle_overs_bowler,Kartik Tyagi,Uttar Pradesh,LR Shukla,Kolkata Knight Riders,1,60.0
+bowling,middle_overs_bowler,Kartik Tyagi,Uttar Pradesh,S Ladda,Delhi Capitals,2,56.39
+bowling,middle_overs_bowler,Kartik Tyagi,Uttar Pradesh,A Mithun,Royal Challengers Bengaluru,3,55.49
+bowling,middle_overs_bowler,L Kishan Singha,Manipur,Harpreet Brar,Punjab Kings,1,62.32
+bowling,middle_overs_bowler,L Kishan Singha,Manipur,PV Tambe,Rajasthan Royals,2,61.66
+bowling,middle_overs_bowler,L Kishan Singha,Manipur,S Nadeem,Delhi Capitals,3,58.51
+bowling,middle_overs_bowler,Lalit Yadav,Delhi,J Botha,Rajasthan Royals,1,91.15
+bowling,middle_overs_bowler,Lalit Yadav,Delhi,AR Patel,Delhi Capitals,2,85.8
+bowling,middle_overs_bowler,Lalit Yadav,Delhi,R Ashwin,Chennai Super Kings,3,82.8
+bowling,middle_overs_bowler,M Markande,Punjab,RD Chahar,Mumbai Indians,1,92.92
+bowling,middle_overs_bowler,M Markande,Punjab,PP Chawla,Punjab Kings,2,90.56
+bowling,middle_overs_bowler,M Markande,Punjab,A Mishra,Delhi Capitals,3,88.11
+bowling,middle_overs_bowler,NA Rathva,Baroda,PP Ojha,Sunrisers Hyderabad,1,86.42
+bowling,middle_overs_bowler,NA Rathva,Baroda,A Kumble,Royal Challengers Bengaluru,2,84.85
+bowling,middle_overs_bowler,NA Rathva,Baroda,Rashid Khan,Sunrisers Hyderabad,3,83.64
+bowling,middle_overs_bowler,PP Chawla,Gujarat,PP Ojha,Sunrisers Hyderabad,1,94.53
+bowling,middle_overs_bowler,PP Chawla,Gujarat,Rashid Khan,Sunrisers Hyderabad,2,93.67
+bowling,middle_overs_bowler,PP Chawla,Gujarat,GB Hogg,Kolkata Knight Riders,3,90.95
+bowling,middle_overs_bowler,R Parag,Assam,A Kumble,Royal Challengers Bengaluru,1,84.34
+bowling,middle_overs_bowler,R Parag,Assam,M Muralitharan,Chennai Super Kings,2,81.91
+bowling,middle_overs_bowler,R Parag,Assam,R Sharma,Pune Warriors,3,81.68
+bowling,middle_overs_bowler,Rahul Batham,Madhya Pradesh,PD Collingwood,Delhi Capitals,1,54.65
+bowling,middle_overs_bowler,Rahul Batham,Madhya Pradesh,P Sahu,Punjab Kings,2,51.38
+bowling,middle_overs_bowler,Rahul Batham,Madhya Pradesh,RG Sharma,Sunrisers Hyderabad,3,50.86
+bowling,middle_overs_bowler,Ravi Bishnoi,Rajasthan,Rashid Khan,Sunrisers Hyderabad,1,97.35
+bowling,middle_overs_bowler,Ravi Bishnoi,Rajasthan,PP Ojha,Sunrisers Hyderabad,2,95.99
+bowling,middle_overs_bowler,Ravi Bishnoi,Rajasthan,A Kumble,Royal Challengers Bengaluru,3,91.38
+bowling,middle_overs_bowler,S Dube,Mumbai,CR Brathwaite,Delhi Capitals,1,78.52
+bowling,middle_overs_bowler,S Dube,Mumbai,BCJ Cutting,Sunrisers Hyderabad,2,72.51
+bowling,middle_overs_bowler,S Dube,Mumbai,RR Raje,Mumbai Indians,3,69.75
+bowling,middle_overs_bowler,S Hegde,Karnataka,MK Lomror,Rajasthan Royals,1,79.53
+bowling,middle_overs_bowler,S Hegde,Karnataka,Sikandar Raza,Punjab Kings,2,72.68
+bowling,middle_overs_bowler,S Hegde,Karnataka,P Sahu,Punjab Kings,3,70.45
+bowling,middle_overs_bowler,SS Agarwal,Chhattisgarh,Rashid Khan,Sunrisers Hyderabad,1,93.39
+bowling,middle_overs_bowler,SS Agarwal,Chhattisgarh,R Sharma,Pune Warriors,2,90.54
+bowling,middle_overs_bowler,SS Agarwal,Chhattisgarh,A Kumble,Royal Challengers Bengaluru,3,90.12
+bowling,middle_overs_bowler,Sahil Lotra,Jammu & Kashmir,P Dubey,Delhi Capitals,1,81.51
+bowling,middle_overs_bowler,Sahil Lotra,Jammu & Kashmir,MJ Clarke,Pune Warriors,2,78.68
+bowling,middle_overs_bowler,Sahil Lotra,Jammu & Kashmir,RN ten Doeschate,Kolkata Knight Riders,3,76.38
+bowling,middle_overs_bowler,Saransh Jain,Madhya Pradesh,IS Sodhi,Rajasthan Royals,1,76.82
+bowling,middle_overs_bowler,Saransh Jain,Madhya Pradesh,MM Ali,Chennai Super Kings,2,72.03
+bowling,middle_overs_bowler,Saransh Jain,Madhya Pradesh,Gurkeerat Singh,Punjab Kings,3,65.62
+bowling,middle_overs_bowler,Shahbaz Ahmed,Bengal,Harbhajan Singh,Mumbai Indians,1,83.53
+bowling,middle_overs_bowler,Shahbaz Ahmed,Bengal,MJ Santner,Chennai Super Kings,2,82.19
+bowling,middle_overs_bowler,Shahbaz Ahmed,Bengal,AR Patel,Delhi Capitals,3,79.04
+bowling,middle_overs_bowler,Shiva Singh,Uttar Pradesh,M Kartik,Kolkata Knight Riders,1,83.77
+bowling,middle_overs_bowler,Shiva Singh,Uttar Pradesh,SK Raina,Chennai Super Kings,2,80.77
+bowling,middle_overs_bowler,Shiva Singh,Uttar Pradesh,JD Ryder,Pune Warriors,3,73.8
+bowling,middle_overs_bowler,Shivam Chaudhary,Railways,TM Dilshan,Delhi Capitals,1,89.74
+bowling,middle_overs_bowler,Shivam Chaudhary,Railways,MK Lomror,Rajasthan Royals,2,85.13
+bowling,middle_overs_bowler,Shivam Chaudhary,Railways,M Kartik,Kolkata Knight Riders,3,84.04
+bowling,middle_overs_bowler,Shivam Shukla,Madhya Pradesh,Gurkeerat Singh,Punjab Kings,1,68.13
+bowling,middle_overs_bowler,Shivam Shukla,Madhya Pradesh,MG Bracewell,Royal Challengers Bengaluru,2,53.82
+bowling,middle_overs_bowler,Shivam Shukla,Madhya Pradesh,Sikandar Raza,Punjab Kings,3,51.99
+bowling,middle_overs_bowler,Suyash Sharma,Delhi,CV Varun,Kolkata Knight Riders,1,93.46
+bowling,middle_overs_bowler,Suyash Sharma,Delhi,YS Chahal,Royal Challengers Bengaluru,2,85.83
+bowling,middle_overs_bowler,Suyash Sharma,Delhi,AM Ghazanfar,Mumbai Indians,3,78.9
+bowling,middle_overs_bowler,TC Vanlalremruata,Mizoram,Gurkeerat Singh,Punjab Kings,1,75.45
+bowling,middle_overs_bowler,TC Vanlalremruata,Mizoram,K Goel,Punjab Kings,2,68.67
+bowling,middle_overs_bowler,TC Vanlalremruata,Mizoram,PD Collingwood,Delhi Capitals,3,64.72
+bowling,middle_overs_bowler,Tanush Kotian,Mumbai,PP Chawla,Punjab Kings,1,87.25
+bowling,middle_overs_bowler,Tanush Kotian,Mumbai,A Mishra,Delhi Capitals,2,84.42
+bowling,middle_overs_bowler,Tanush Kotian,Mumbai,IS Sodhi,Rajasthan Royals,3,84.33
+bowling,middle_overs_bowler,VR Iyer,Madhya Pradesh,J Botha,Rajasthan Royals,1,85.89
+bowling,middle_overs_bowler,VR Iyer,Madhya Pradesh,Harbhajan Singh,Mumbai Indians,2,84.69
+bowling,middle_overs_bowler,VR Iyer,Madhya Pradesh,MJ Santner,Chennai Super Kings,3,82.07
+bowling,middle_overs_bowler,YS Chahal,Haryana,MJ Santner,Chennai Super Kings,1,69.85
+bowling,middle_overs_bowler,YS Chahal,Haryana,JP Duminy,Delhi Capitals,2,68.61
+bowling,middle_overs_bowler,YS Chahal,Haryana,S Randiv,Chennai Super Kings,3,66.23
+bowling,part_time_bowler,A Badoni,Delhi,AC Voges,Rajasthan Royals,1,24.95
+bowling,part_time_bowler,A Badoni,Delhi,TM Head,Royal Challengers Bengaluru,2,12.18
+bowling,part_time_bowler,A Badoni,Delhi,Ramandeep Singh,Mumbai Indians,3,11.43
+bowling,part_time_bowler,Aditya Jadeja,Saurashtra,GH Vihari,Sunrisers Hyderabad,1,46.4
+bowling,part_time_bowler,Aditya Jadeja,Saurashtra,S Dhawan,Sunrisers Hyderabad,2,44.31
+bowling,part_time_bowler,Aditya Jadeja,Saurashtra,MW Short,Punjab Kings,3,44.06
+bowling,part_time_bowler,Harshit Rana,Delhi,Ramandeep Singh,Mumbai Indians,1,48.74
+bowling,part_time_bowler,Harshit Rana,Delhi,TM Head,Royal Challengers Bengaluru,2,6.56
+bowling,part_time_bowler,Harshit Rana,Delhi,MK Tiwary,Kolkata Knight Riders,3,2.52
+bowling,part_time_bowler,MV Pithiya,Baroda,JM Kemp,Chennai Super Kings,1,58.5
+bowling,part_time_bowler,MV Pithiya,Baroda,AS Raut,Rajasthan Royals,2,40.34
+bowling,part_time_bowler,MV Pithiya,Baroda,Naman Dhir,Mumbai Indians,3,34.35
+bowling,part_time_bowler,N Sindhu,Haryana,MW Short,Punjab Kings,1,55.09
+bowling,part_time_bowler,N Sindhu,Haryana,GH Vihari,Sunrisers Hyderabad,2,49.03
+bowling,part_time_bowler,N Sindhu,Haryana,S Dhawan,Sunrisers Hyderabad,3,34.46
+bowling,part_time_bowler,PS Painkra,Chhattisgarh,MW Short,Punjab Kings,1,26.12
+bowling,part_time_bowler,PS Painkra,Chhattisgarh,GH Vihari,Sunrisers Hyderabad,2,8.06
+bowling,part_time_bowler,PS Painkra,Chhattisgarh,Ramandeep Singh,Mumbai Indians,3,2.72
+bowling,part_time_bowler,SS Ghosh,Tripura,MW Short,Punjab Kings,1,83.43
+bowling,part_time_bowler,SS Ghosh,Tripura,KR Mayers,Lucknow Super Giants,2,58.7
+bowling,part_time_bowler,SS Ghosh,Tripura,S Dhawan,Sunrisers Hyderabad,3,46.32
+bowling,part_time_bowler,Sourav Dey,Assam,D Salunkhe,Rajasthan Royals,1,67.51
+bowling,part_time_bowler,Sourav Dey,Assam,SE Rutherford,Delhi Capitals,2,61.95
+bowling,part_time_bowler,Sourav Dey,Assam,AJ Finch,Pune Warriors,3,58.08
+bowling,part_time_bowler,Suryansh Shedge,Mumbai,Ramandeep Singh,Mumbai Indians,1,79.74
+bowling,part_time_bowler,Suryansh Shedge,Mumbai,T Stubbs,Delhi Capitals,2,48.83
+bowling,part_time_bowler,Suryansh Shedge,Mumbai,A Badoni,Lucknow Super Giants,3,27.86
+bowling,part_time_bowler,Tripuresh Singh,Madhya Pradesh,Ramandeep Singh,Mumbai Indians,1,21.41
+bowling,part_time_bowler,Tripuresh Singh,Madhya Pradesh,MW Short,Punjab Kings,2,17.18
+bowling,part_time_bowler,Tripuresh Singh,Madhya Pradesh,GH Vihari,Sunrisers Hyderabad,3,13.03
+bowling,powerplay_bowler,A Kamboj,Haryana,KMDN Kulasekara,Chennai Super Kings,1,81.87
+bowling,powerplay_bowler,A Kamboj,Haryana,BW Hilfenhaus,Chennai Super Kings,2,60.08
+bowling,powerplay_bowler,A Kamboj,Haryana,A Choudhary,Royal Challengers Bengaluru,3,57.6
+bowling,powerplay_bowler,AK Sarkar,Tripura,AA Jhunjhunwala,Rajasthan Royals,1,88.89
+bowling,powerplay_bowler,AK Sarkar,Tripura,Parvez Rasool,Sunrisers Hyderabad,2,80.19
+bowling,powerplay_bowler,AK Sarkar,Tripura,KJ Abbott,Punjab Kings,3,73.81
+bowling,powerplay_bowler,AR Pandey,Railways,Fazalhaq Farooqi,Sunrisers Hyderabad,1,91.62
+bowling,powerplay_bowler,AR Pandey,Railways,AA Jhunjhunwala,Rajasthan Royals,2,91.61
+bowling,powerplay_bowler,AR Pandey,Railways,KJ Abbott,Punjab Kings,3,84.09
+bowling,powerplay_bowler,Abhishek Sharma,Punjab,A Chandila,Rajasthan Royals,1,86.63
+bowling,powerplay_bowler,Abhishek Sharma,Punjab,Mohammad Nabi,Sunrisers Hyderabad,2,77.62
+bowling,powerplay_bowler,Abhishek Sharma,Punjab,Iqbal Abdulla,Kolkata Knight Riders,3,73.33
+bowling,powerplay_bowler,Ajay Sarkar,Tripura,IK Pathan,Delhi Capitals,1,75.64
+bowling,powerplay_bowler,Ajay Sarkar,Tripura,AN Ahmed,Mumbai Indians,2,74.16
+bowling,powerplay_bowler,Ajay Sarkar,Tripura,SR Watson,Rajasthan Royals,3,67.7
+bowling,powerplay_bowler,Atharva Ankolekar,Mumbai,Iqbal Abdulla,Kolkata Knight Riders,1,91.52
+bowling,powerplay_bowler,Atharva Ankolekar,Mumbai,Shakib Al Hasan,Kolkata Knight Riders,2,81.92
+bowling,powerplay_bowler,Atharva Ankolekar,Mumbai,YK Pathan,Kolkata Knight Riders,3,80.04
+bowling,powerplay_bowler,BM Chingakham,Manipur,KJ Abbott,Punjab Kings,1,92.12
+bowling,powerplay_bowler,BM Chingakham,Manipur,P Suyal,Mumbai Indians,2,86.83
+bowling,powerplay_bowler,BM Chingakham,Manipur,AA Jhunjhunwala,Rajasthan Royals,3,84.1
+bowling,powerplay_bowler,Bishworjit Konthoujam,Manipur,AB Dinda,Kolkata Knight Riders,1,82.61
+bowling,powerplay_bowler,Bishworjit Konthoujam,Manipur,SE Bond,Kolkata Knight Riders,2,73.63
+bowling,powerplay_bowler,Bishworjit Konthoujam,Manipur,SR Watson,Rajasthan Royals,3,69.89
+bowling,powerplay_bowler,CV Varun,Tamil Nadu,MF Maharoof,Delhi Capitals,1,65.87
+bowling,powerplay_bowler,CV Varun,Tamil Nadu,AM Salvi,Delhi Capitals,2,63.49
+bowling,powerplay_bowler,CV Varun,Tamil Nadu,M de Lange,Kolkata Knight Riders,3,58.75
+bowling,powerplay_bowler,Chintan Gaja,Gujarat,MF Maharoof,Delhi Capitals,1,83.79
+bowling,powerplay_bowler,Chintan Gaja,Gujarat,AD Mascarenhas,Rajasthan Royals,2,80.03
+bowling,powerplay_bowler,Chintan Gaja,Gujarat,MG Johnson,Punjab Kings,3,78.14
+bowling,powerplay_bowler,I Sharma,Delhi,BW Hilfenhaus,Chennai Super Kings,1,87.48
+bowling,powerplay_bowler,I Sharma,Delhi,WPUJC Vaas,Sunrisers Hyderabad,2,87.32
+bowling,powerplay_bowler,I Sharma,Delhi,DS Kulkarni,Rajasthan Royals,3,85.61
+bowling,powerplay_bowler,Lalhruai Ralte,Mizoram,MJ Henry,Lucknow Super Giants,1,88.63
+bowling,powerplay_bowler,Lalhruai Ralte,Mizoram,Azmatullah Omarzai,Punjab Kings,2,86.83
+bowling,powerplay_bowler,Lalhruai Ralte,Mizoram,Fazalhaq Farooqi,Sunrisers Hyderabad,3,75.82
+bowling,powerplay_bowler,M Prasidh Krishna,Karnataka,DW Steyn,Sunrisers Hyderabad,1,85.6
+bowling,powerplay_bowler,M Prasidh Krishna,Karnataka,GD McGrath,Delhi Capitals,2,79.84
+bowling,powerplay_bowler,M Prasidh Krishna,Karnataka,RP Singh,Sunrisers Hyderabad,3,77.89
+bowling,powerplay_bowler,Manisankar Murasingh,Tripura,P Kumar,Punjab Kings,1,88.67
+bowling,powerplay_bowler,Manisankar Murasingh,Tripura,GD McGrath,Delhi Capitals,2,86.1
+bowling,powerplay_bowler,Manisankar Murasingh,Tripura,M Ntini,Chennai Super Kings,3,83.79
+bowling,powerplay_bowler,Mohit Jangra,Mizoram,DJ Willey,Royal Challengers Bengaluru,1,77.31
+bowling,powerplay_bowler,Mohit Jangra,Mizoram,DP Vijaykumar,Sunrisers Hyderabad,2,72.25
+bowling,powerplay_bowler,Mohit Jangra,Mizoram,P Suyal,Mumbai Indians,3,70.82
+bowling,powerplay_bowler,Mohsin Khan,Uttar Pradesh,MF Maharoof,Delhi Capitals,1,98.2
+bowling,powerplay_bowler,Mohsin Khan,Uttar Pradesh,NM Coulter-Nile,Delhi Capitals,2,94.04
+bowling,powerplay_bowler,Mohsin Khan,Uttar Pradesh,MM Patel,Mumbai Indians,3,89.39
+bowling,powerplay_bowler,Mrinmoy Dutta,Assam,JA Morkel,Chennai Super Kings,1,70.97
+bowling,powerplay_bowler,Mrinmoy Dutta,Assam,Kamran Khan,Rajasthan Royals,2,66.28
+bowling,powerplay_bowler,Mrinmoy Dutta,Assam,SB Wagh,Pune Warriors,3,65.11
+bowling,powerplay_bowler,Mukhtar Hussain,Assam,A Nehra,Delhi Capitals,1,96.28
+bowling,powerplay_bowler,Mukhtar Hussain,Assam,JR Hazlewood,Royal Challengers Bengaluru,2,87.3
+bowling,powerplay_bowler,Mukhtar Hussain,Assam,RP Singh,Sunrisers Hyderabad,3,85.2
+bowling,powerplay_bowler,Navdeep Saini,Delhi,GD McGrath,Delhi Capitals,1,85.29
+bowling,powerplay_bowler,Navdeep Saini,Delhi,P Kumar,Punjab Kings,2,83.71
+bowling,powerplay_bowler,Navdeep Saini,Delhi,IK Pathan,Delhi Capitals,3,79.89
+bowling,powerplay_bowler,R Sai Kishore,Tamil Nadu,A Chandila,Rajasthan Royals,1,80.32
+bowling,powerplay_bowler,R Sai Kishore,Tamil Nadu,MM Patel,Mumbai Indians,2,70.94
+bowling,powerplay_bowler,R Sai Kishore,Tamil Nadu,AM Salvi,Delhi Capitals,3,70.26
+bowling,powerplay_bowler,Remruatdika Ralte,Mizoram,AL Menaria,Rajasthan Royals,1,87.35
+bowling,powerplay_bowler,Remruatdika Ralte,Mizoram,AN Ahmed,Mumbai Indians,2,78.68
+bowling,powerplay_bowler,Remruatdika Ralte,Mizoram,AA Jhunjhunwala,Rajasthan Royals,3,77.4
+bowling,powerplay_bowler,Rex Rajkumar,Manipur,S Tyagi,Chennai Super Kings,1,91.95
+bowling,powerplay_bowler,Rex Rajkumar,Manipur,DJ Willey,Royal Challengers Bengaluru,2,78.47
+bowling,powerplay_bowler,Rex Rajkumar,Manipur,DP Vijaykumar,Sunrisers Hyderabad,3,75.4
+bowling,powerplay_bowler,SI Sopariya,Baroda,AA Chavan,Rajasthan Royals,1,55.18
+bowling,powerplay_bowler,SI Sopariya,Baroda,Arjun Tendulkar,Mumbai Indians,2,54.41
+bowling,powerplay_bowler,SI Sopariya,Baroda,IC Pandey,Chennai Super Kings,3,51.92
+bowling,powerplay_bowler,SN Patel,Gujarat,A Choudhary,Royal Challengers Bengaluru,1,75.85
+bowling,powerplay_bowler,SN Patel,Gujarat,AJ Hosein,Chennai Super Kings,2,64.22
+bowling,powerplay_bowler,SN Patel,Gujarat,M de Lange,Kolkata Knight Riders,3,61.73
+bowling,powerplay_bowler,SZ Mulani,Mumbai,Iqbal Abdulla,Kolkata Knight Riders,1,84.0
+bowling,powerplay_bowler,SZ Mulani,Mumbai,Shakib Al Hasan,Kolkata Knight Riders,2,79.42
+bowling,powerplay_bowler,SZ Mulani,Mumbai,AD Mascarenhas,Rajasthan Royals,3,72.41
+bowling,powerplay_bowler,Sourabh Majumdar,Chhattisgarh,GD McGrath,Delhi Capitals,1,78.68
+bowling,powerplay_bowler,Sourabh Majumdar,Chhattisgarh,IK Pathan,Delhi Capitals,2,74.06
+bowling,powerplay_bowler,Sourabh Majumdar,Chhattisgarh,Z Khan,Royal Challengers Bengaluru,3,72.47
+bowling,powerplay_bowler,Washington Sundar,Tamil Nadu,Iqbal Abdulla,Kolkata Knight Riders,1,87.09
+bowling,powerplay_bowler,Washington Sundar,Tamil Nadu,Shakib Al Hasan,Kolkata Knight Riders,2,77.69
+bowling,powerplay_bowler,Washington Sundar,Tamil Nadu,YK Pathan,Kolkata Knight Riders,3,76.07
+bowling,powerplay_bowler,Yuvraj Singh,Punjab,AM Salvi,Delhi Capitals,1,75.33
+bowling,powerplay_bowler,Yuvraj Singh,Punjab,MN Samuels,Pune Warriors,2,70.7
+bowling,powerplay_bowler,Yuvraj Singh,Punjab,SR Watson,Rajasthan Royals,3,65.76
+allrounder,batting_allrounder,Abhishek Sharma,Punjab,PD Collingwood,Delhi Capitals,1,72.84
+allrounder,batting_allrounder,Abhishek Sharma,Punjab,MR Marsh,Delhi Capitals,2,61.44
+allrounder,batting_allrounder,Abhishek Sharma,Punjab,SM Pollock,Mumbai Indians,3,56.78
+allrounder,batting_allrounder,Atharva Ankolekar,Mumbai,SM Pollock,Mumbai Indians,1,93.69
+allrounder,batting_allrounder,Atharva Ankolekar,Mumbai,MM Ali,Chennai Super Kings,2,80.81
+allrounder,batting_allrounder,Atharva Ankolekar,Mumbai,PD Collingwood,Delhi Capitals,3,76.24
+allrounder,batting_allrounder,Chirag Jani,Saurashtra,SM Pollock,Mumbai Indians,1,85.04
+allrounder,batting_allrounder,Chirag Jani,Saurashtra,Gurkeerat Singh,Punjab Kings,2,83.04
+allrounder,batting_allrounder,Chirag Jani,Saurashtra,Shakib Al Hasan,Kolkata Knight Riders,3,78.5
+allrounder,batting_allrounder,HV Patel,Haryana,MR Marsh,Delhi Capitals,1,95.99
+allrounder,batting_allrounder,HV Patel,Haryana,AD Russell,Kolkata Knight Riders,2,72.95
+allrounder,batting_allrounder,HV Patel,Haryana,Azhar Mahmood,Punjab Kings,3,69.8
+allrounder,batting_allrounder,KH Pandya,Baroda,SM Pollock,Mumbai Indians,1,89.33
+allrounder,batting_allrounder,KH Pandya,Baroda,BJ Hodge,Rajasthan Royals,2,88.35
+allrounder,batting_allrounder,KH Pandya,Baroda,PD Collingwood,Delhi Capitals,3,78.26
+allrounder,batting_allrounder,KV Sharma,Railways,SM Pollock,Mumbai Indians,1,88.4
+allrounder,batting_allrounder,KV Sharma,Railways,Azhar Mahmood,Punjab Kings,2,83.29
+allrounder,batting_allrounder,KV Sharma,Railways,Shakib Al Hasan,Kolkata Knight Riders,3,75.64
+allrounder,batting_allrounder,Lalit Yadav,Delhi,MM Ali,Chennai Super Kings,1,61.82
+allrounder,batting_allrounder,Lalit Yadav,Delhi,ST Jayasuriya,Mumbai Indians,2,60.67
+allrounder,batting_allrounder,Lalit Yadav,Delhi,V Nigam,Delhi Capitals,3,55.78
+allrounder,batting_allrounder,Manisankar Murasingh,Tripura,SM Pollock,Mumbai Indians,1,79.15
+allrounder,batting_allrounder,Manisankar Murasingh,Tripura,MM Ali,Chennai Super Kings,2,71.32
+allrounder,batting_allrounder,Manisankar Murasingh,Tripura,Gurkeerat Singh,Punjab Kings,3,58.49
+allrounder,batting_allrounder,N Rana,Delhi,PD Collingwood,Delhi Capitals,1,73.3
+allrounder,batting_allrounder,N Rana,Delhi,MR Marsh,Delhi Capitals,2,64.17
+allrounder,batting_allrounder,N Rana,Delhi,SM Pollock,Mumbai Indians,3,51.41
+allrounder,batting_allrounder,NA Rathva,Baroda,Shakib Al Hasan,Kolkata Knight Riders,1,87.29
+allrounder,batting_allrounder,NA Rathva,Baroda,SM Pollock,Mumbai Indians,2,87.26
+allrounder,batting_allrounder,NA Rathva,Baroda,BJ Hodge,Rajasthan Royals,3,86.37
+allrounder,batting_allrounder,R Parag,Assam,PD Collingwood,Delhi Capitals,1,74.48
+allrounder,batting_allrounder,R Parag,Assam,MR Marsh,Delhi Capitals,2,67.79
+allrounder,batting_allrounder,R Parag,Assam,A Symonds,Sunrisers Hyderabad,3,48.99
+allrounder,batting_allrounder,R Tewatia,Haryana,ST Jayasuriya,Mumbai Indians,1,79.37
+allrounder,batting_allrounder,R Tewatia,Haryana,V Nigam,Delhi Capitals,2,77.82
+allrounder,batting_allrounder,R Tewatia,Haryana,C Green,Mumbai Indians,3,61.49
+allrounder,batting_allrounder,S Dube,Mumbai,BA Stokes,Rajasthan Royals,1,82.93
+allrounder,batting_allrounder,S Dube,Mumbai,Gurkeerat Singh,Punjab Kings,2,81.15
+allrounder,batting_allrounder,S Dube,Mumbai,Shakib Al Hasan,Kolkata Knight Riders,3,78.51
+allrounder,batting_allrounder,Shahbaz Ahmed,Bengal,SM Pollock,Mumbai Indians,1,88.48
+allrounder,batting_allrounder,Shahbaz Ahmed,Bengal,Shakib Al Hasan,Kolkata Knight Riders,2,87.05
+allrounder,batting_allrounder,Shahbaz Ahmed,Bengal,Gurkeerat Singh,Punjab Kings,3,85.88
+allrounder,batting_allrounder,Shashank Singh,Chhattisgarh,PC Valthaty,Punjab Kings,1,96.25
+allrounder,batting_allrounder,Shashank Singh,Chhattisgarh,AD Mathews,Pune Warriors,2,92.94
+allrounder,batting_allrounder,Shashank Singh,Chhattisgarh,Gurkeerat Singh,Punjab Kings,3,91.25
+allrounder,batting_allrounder,Sumit Kumar,Haryana,Azhar Mahmood,Punjab Kings,1,96.77
+allrounder,batting_allrounder,Sumit Kumar,Haryana,BJ Hodge,Rajasthan Royals,2,83.6
+allrounder,batting_allrounder,Sumit Kumar,Haryana,SM Pollock,Mumbai Indians,3,77.97
+allrounder,batting_allrounder,VR Iyer,Madhya Pradesh,PD Collingwood,Delhi Capitals,1,91.26
+allrounder,batting_allrounder,VR Iyer,Madhya Pradesh,SM Pollock,Mumbai Indians,2,72.16
+allrounder,batting_allrounder,VR Iyer,Madhya Pradesh,A Symonds,Sunrisers Hyderabad,3,71.74
+allrounder,bowling_allrounder,A Sheth,Baroda,JC Archer,Rajasthan Royals,1,92.04
+allrounder,bowling_allrounder,A Sheth,Baroda,MF Maharoof,Delhi Capitals,2,91.16
+allrounder,bowling_allrounder,A Sheth,Baroda,JO Holder,Sunrisers Hyderabad,3,87.55
+allrounder,bowling_allrounder,Ajay Mandal,Chhattisgarh,RE van der Merwe,Royal Challengers Bengaluru,1,98.22
+allrounder,bowling_allrounder,Ajay Mandal,Chhattisgarh,SK Warne,Rajasthan Royals,2,78.57
+allrounder,bowling_allrounder,Ajay Mandal,Chhattisgarh,DW Steyn,Sunrisers Hyderabad,3,73.83
+allrounder,bowling_allrounder,Harpreet Singh,Chhattisgarh,R Tewatia,Gujarat Titans,1,66.56
+allrounder,bowling_allrounder,Harpreet Singh,Chhattisgarh,SC Ganguly,Kolkata Knight Riders,2,58.4
+allrounder,bowling_allrounder,Harpreet Singh,Chhattisgarh,Washington Sundar,Royal Challengers Bengaluru,3,55.17
+allrounder,bowling_allrounder,Harsh Tyagi,Railways,Mohammad Nabi,Sunrisers Hyderabad,1,95.29
+allrounder,bowling_allrounder,Harsh Tyagi,Railways,P Negi,Royal Challengers Bengaluru,2,87.89
+allrounder,bowling_allrounder,Harsh Tyagi,Railways,Bipul Sharma,Punjab Kings,3,82.05
+allrounder,bowling_allrounder,JD Unadkat,Saurashtra,MF Maharoof,Delhi Capitals,1,97.05
+allrounder,bowling_allrounder,JD Unadkat,Saurashtra,JC Archer,Rajasthan Royals,2,94.84
+allrounder,bowling_allrounder,JD Unadkat,Saurashtra,CH Morris,Delhi Capitals,3,89.01
+allrounder,bowling_allrounder,K Gowtham,Karnataka,MF Maharoof,Delhi Capitals,1,83.42
+allrounder,bowling_allrounder,K Gowtham,Karnataka,JC Archer,Rajasthan Royals,2,69.08
+allrounder,bowling_allrounder,K Gowtham,Karnataka,CH Morris,Delhi Capitals,3,64.72
+allrounder,bowling_allrounder,Kangabam Singh,Manipur,R McLaren,Mumbai Indians,1,94.36
+allrounder,bowling_allrounder,Kangabam Singh,Manipur,DT Christian,Sunrisers Hyderabad,2,94.06
+allrounder,bowling_allrounder,Kangabam Singh,Manipur,R Dhawan,Punjab Kings,3,92.53
+allrounder,bowling_allrounder,Lalhruaizela,Mizoram,MN Samuels,Pune Warriors,1,93.92
+allrounder,bowling_allrounder,Lalhruaizela,Mizoram,DT Christian,Sunrisers Hyderabad,2,82.61
+allrounder,bowling_allrounder,Lalhruaizela,Mizoram,R McLaren,Mumbai Indians,3,80.88
+allrounder,bowling_allrounder,PP Chawla,Gujarat,MF Maharoof,Delhi Capitals,1,93.92
+allrounder,bowling_allrounder,PP Chawla,Gujarat,JC Archer,Rajasthan Royals,2,90.07
+allrounder,bowling_allrounder,PP Chawla,Gujarat,CH Morris,Delhi Capitals,3,77.28
+allrounder,bowling_allrounder,Ramandeep Singh,Punjab,Bipul Sharma,Punjab Kings,1,95.7
+allrounder,bowling_allrounder,Ramandeep Singh,Punjab,BCJ Cutting,Mumbai Indians,2,93.43
+allrounder,bowling_allrounder,Ramandeep Singh,Punjab,K Gowtham,Rajasthan Royals,3,93.32
+allrounder,bowling_allrounder,Rex Rajkumar,Manipur,R Dhawan,Punjab Kings,1,97.5
+allrounder,bowling_allrounder,Rex Rajkumar,Manipur,Harpreet Brar,Punjab Kings,2,96.51
+allrounder,bowling_allrounder,Rex Rajkumar,Manipur,LR Shukla,Kolkata Knight Riders,3,94.0
+allrounder,bowling_allrounder,Sanvir Singh,Punjab,CR Brathwaite,Delhi Capitals,1,97.86
+allrounder,bowling_allrounder,Sanvir Singh,Punjab,BCJ Cutting,Mumbai Indians,2,94.6
+allrounder,bowling_allrounder,Sanvir Singh,Punjab,NLTC Perera,Sunrisers Hyderabad,3,93.83
+allrounder,bowling_allrounder,Washington Sundar,Tamil Nadu,J Botha,Rajasthan Royals,1,67.65
+allrounder,bowling_allrounder,Washington Sundar,Tamil Nadu,RE van der Merwe,Royal Challengers Bengaluru,2,54.28
+allrounder,bowling_allrounder,Washington Sundar,Tamil Nadu,Mohammad Nabi,Sunrisers Hyderabad,3,49.56
+allrounder,bowling_allrounder,Yuvraj Singh,Punjab,RS Bopara,Punjab Kings,1,77.04
+allrounder,bowling_allrounder,Yuvraj Singh,Punjab,JEC Franklin,Mumbai Indians,2,57.63
+allrounder,bowling_allrounder,Yuvraj Singh,Punjab,P Negi,Royal Challengers Bengaluru,3,56.58
+allrounder,pure_batter,A Manohar,Karnataka,P Nissanka,Delhi Capitals,1,99.5
+allrounder,pure_batter,A Manohar,Karnataka,C Connolly,Punjab Kings,2,99.07
+allrounder,pure_batter,A Manohar,Karnataka,JP Inglis,Punjab Kings,3,99.0
+allrounder,pure_batter,A Raghuvanshi,Mumbai,JR Philippe,Royal Challengers Bengaluru,1,99.17
+allrounder,pure_batter,A Raghuvanshi,Mumbai,NK Patel,Rajasthan Royals,2,98.91
+allrounder,pure_batter,A Raghuvanshi,Mumbai,N Jagadeesan,Kolkata Knight Riders,3,98.11
+allrounder,pure_batter,AD Chopra,Mizoram,P Nissanka,Delhi Capitals,1,99.82
+allrounder,pure_batter,AD Chopra,Mizoram,JP Inglis,Punjab Kings,2,99.81
+allrounder,pure_batter,AD Chopra,Mizoram,C Connolly,Punjab Kings,3,98.79
+allrounder,pure_batter,AM Rahane,Mumbai,JJ Roy,Kolkata Knight Riders,1,99.62
+allrounder,pure_batter,AM Rahane,Mumbai,HM Amla,Punjab Kings,2,99.4
+allrounder,pure_batter,AM Rahane,Mumbai,A Raghuvanshi,Kolkata Knight Riders,3,98.7
+allrounder,pure_batter,Aarya Desai,Gujarat,MW Short,Punjab Kings,1,99.31
+allrounder,pure_batter,Aarya Desai,Gujarat,AC Voges,Rajasthan Royals,2,98.79
+allrounder,pure_batter,Aarya Desai,Gujarat,C Munro,Delhi Capitals,3,97.35
+allrounder,pure_batter,Abhishek Goswami,Uttar Pradesh,SP Fleming,Chennai Super Kings,1,99.32
+allrounder,pure_batter,Abhishek Goswami,Uttar Pradesh,Anmolpreet Singh,Sunrisers Hyderabad,2,98.5
+allrounder,pure_batter,Abhishek Goswami,Uttar Pradesh,LA Pomersbach,Punjab Kings,3,97.5
+allrounder,pure_batter,Abishek Porel,Bengal,Sediqullah Atal,Delhi Capitals,1,99.78
+allrounder,pure_batter,Abishek Porel,Bengal,Sunny Singh,Punjab Kings,2,98.46
+allrounder,pure_batter,Abishek Porel,Bengal,Himmat Singh,Lucknow Super Giants,3,97.3
+allrounder,pure_batter,Amandeep Khare,Chhattisgarh,MW Short,Punjab Kings,1,95.9
+allrounder,pure_batter,Amandeep Khare,Chhattisgarh,DJ Harris,Sunrisers Hyderabad,2,95.54
+allrounder,pure_batter,Amandeep Khare,Chhattisgarh,AC Voges,Rajasthan Royals,3,95.02
+allrounder,pure_batter,Ankit Kumar,Haryana,AD Hales,Sunrisers Hyderabad,1,99.8
+allrounder,pure_batter,Ankit Kumar,Haryana,PR Veer,Chennai Super Kings,2,98.1
+allrounder,pure_batter,Ankit Kumar,Haryana,MN van Wyk,Kolkata Knight Riders,3,98.06
+allrounder,pure_batter,Anmolpreet Singh,Punjab,Abishek Porel,Delhi Capitals,1,98.2
+allrounder,pure_batter,Anmolpreet Singh,Punjab,A Raghuvanshi,Kolkata Knight Riders,2,98.19
+allrounder,pure_batter,Anmolpreet Singh,Punjab,Dhruv Jurel,Rajasthan Royals,3,98.14
+allrounder,pure_batter,Anuj Rawat,Delhi,SA Asnodkar,Rajasthan Royals,1,98.62
+allrounder,pure_batter,Anuj Rawat,Delhi,OA Shah,Rajasthan Royals,2,98.44
+allrounder,pure_batter,Anuj Rawat,Delhi,S Sohal,Punjab Kings,3,94.67
+allrounder,pure_batter,Arpit Gaud,Madhya Pradesh,W Jaffer,Royal Challengers Bengaluru,1,99.82
+allrounder,pure_batter,Arpit Gaud,Madhya Pradesh,BB Samantray,Sunrisers Hyderabad,2,99.76
+allrounder,pure_batter,Arpit Gaud,Madhya Pradesh,YV Takawale,Mumbai Indians,3,99.71
+allrounder,pure_batter,B Sai Sudharsan,Tamil Nadu,AP Majumdar,Pune Warriors,1,99.42
+allrounder,pure_batter,B Sai Sudharsan,Tamil Nadu,Salman Butt,Kolkata Knight Riders,2,98.14
+allrounder,pure_batter,B Sai Sudharsan,Tamil Nadu,KS Bharat,Royal Challengers Bengaluru,3,97.27
+allrounder,pure_batter,BA Roy,Assam,MJ Guptill,Punjab Kings,1,99.21
+allrounder,pure_batter,BA Roy,Assam,PR Veer,Chennai Super Kings,2,98.58
+allrounder,pure_batter,BA Roy,Assam,MD Choudhary,Lucknow Super Giants,3,97.9
+allrounder,pure_batter,Bhanu Pania,Baroda,PK Garg,Sunrisers Hyderabad,1,99.64
+allrounder,pure_batter,Bhanu Pania,Baroda,MD Mishra,Sunrisers Hyderabad,2,99.42
+allrounder,pure_batter,Bhanu Pania,Baroda,SK Rasheed,Chennai Super Kings,3,99.34
+allrounder,pure_batter,Bikramkumar Das,Tripura,AP Majumdar,Pune Warriors,1,98.71
+allrounder,pure_batter,Bikramkumar Das,Tripura,Salman Butt,Kolkata Knight Riders,2,97.5
+allrounder,pure_batter,Bikramkumar Das,Tripura,KS Bharat,Royal Challengers Bengaluru,3,96.59
+allrounder,pure_batter,Chirag Gandhi,Gujarat,GJ Bailey,Punjab Kings,1,98.5
+allrounder,pure_batter,Chirag Gandhi,Gujarat,GC Smith,Rajasthan Royals,2,95.98
+allrounder,pure_batter,Chirag Gandhi,Gujarat,HH Gibbs,Sunrisers Hyderabad,3,94.15
+allrounder,pure_batter,D Padikkal,Karnataka,JJ Roy,Kolkata Knight Riders,1,99.29
+allrounder,pure_batter,D Padikkal,Karnataka,HM Amla,Punjab Kings,2,99.09
+allrounder,pure_batter,D Padikkal,Karnataka,A Raghuvanshi,Kolkata Knight Riders,3,98.84
+allrounder,pure_batter,Denish Das,Assam,DJ Jacobs,Mumbai Indians,1,99.2
+allrounder,pure_batter,Denish Das,Assam,P Dogra,Rajasthan Royals,2,98.77
+allrounder,pure_batter,Denish Das,Assam,SP Goswami,Royal Challengers Bengaluru,3,98.74
+allrounder,pure_batter,Dhruv Jurel,Uttar Pradesh,AT Carey,Delhi Capitals,1,99.94
+allrounder,pure_batter,Dhruv Jurel,Uttar Pradesh,VH Zol,Royal Challengers Bengaluru,2,99.82
+allrounder,pure_batter,Dhruv Jurel,Uttar Pradesh,TL Seifert,Kolkata Knight Riders,3,99.79
+allrounder,pure_batter,Eknath Kerkar,Goa,CM Gautam,Mumbai Indians,1,99.67
+allrounder,pure_batter,Eknath Kerkar,Goa,BB Samantray,Sunrisers Hyderabad,2,99.53
+allrounder,pure_batter,Eknath Kerkar,Goa,N Jagadeesan,Kolkata Knight Riders,3,99.38
+allrounder,pure_batter,Fazil Rashid,Jammu & Kashmir,SK Rasheed,Chennai Super Kings,1,99.92
+allrounder,pure_batter,Fazil Rashid,Jammu & Kashmir,BR Dunk,Mumbai Indians,2,99.89
+allrounder,pure_batter,Fazil Rashid,Jammu & Kashmir,VH Zol,Royal Challengers Bengaluru,3,99.86
+allrounder,pure_batter,G Ajitesh,Tamil Nadu,F Behardien,Punjab Kings,1,100.0
+allrounder,pure_batter,G Ajitesh,Tamil Nadu,MDKJ Perera,Rajasthan Royals,2,99.97
+allrounder,pure_batter,G Ajitesh,Tamil Nadu,SP Jackson,Kolkata Knight Riders,3,99.95
+allrounder,pure_batter,Ganesh Satish,Vidarbha,CA Pujara,Royal Challengers Bengaluru,1,99.09
+allrounder,pure_batter,Ganesh Satish,Vidarbha,UBT Chand,Delhi Capitals,2,97.6
+allrounder,pure_batter,Ganesh Satish,Vidarbha,SP Goswami,Royal Challengers Bengaluru,3,97.22
+allrounder,pure_batter,H Desai,Saurashtra,Anuj Rawat,Royal Challengers Bengaluru,1,99.29
+allrounder,pure_batter,H Desai,Saurashtra,HC Brook,Sunrisers Hyderabad,2,98.74
+allrounder,pure_batter,H Desai,Saurashtra,AP Tare,Mumbai Indians,3,98.73
+allrounder,pure_batter,HP Gawli,Madhya Pradesh,AC Blizzard,Mumbai Indians,1,99.43
+allrounder,pure_batter,HP Gawli,Madhya Pradesh,PN Mankad,Lucknow Super Giants,2,99.39
+allrounder,pure_batter,HP Gawli,Madhya Pradesh,UT Khawaja,Rising Pune Supergiant,3,99.18
+allrounder,pure_batter,Hari Nishaanth,Tamil Nadu,AC Voges,Rajasthan Royals,1,97.7
+allrounder,pure_batter,Hari Nishaanth,Tamil Nadu,MW Short,Punjab Kings,2,97.16
+allrounder,pure_batter,Hari Nishaanth,Tamil Nadu,N Wadhera,Punjab Kings,3,96.38
+allrounder,pure_batter,Henan Nazir,Jammu & Kashmir,DJ Jacobs,Mumbai Indians,1,99.17
+allrounder,pure_batter,Henan Nazir,Jammu & Kashmir,Anirudh Singh,Sunrisers Hyderabad,2,98.95
+allrounder,pure_batter,Henan Nazir,Jammu & Kashmir,MC Juneja,Delhi Capitals,3,98.78
+allrounder,pure_batter,Himanshu Rana,Haryana,M Vohra,Punjab Kings,1,94.74
+allrounder,pure_batter,Himanshu Rana,Haryana,GJ Bailey,Punjab Kings,2,94.25
+allrounder,pure_batter,Himanshu Rana,Haryana,OA Shah,Rajasthan Royals,3,93.52
+allrounder,pure_batter,Himmat Singh,Delhi,AC Gilchrist,Sunrisers Hyderabad,1,98.22
+allrounder,pure_batter,Himmat Singh,Delhi,S Vidyut,Chennai Super Kings,2,95.65
+allrounder,pure_batter,Himmat Singh,Delhi,LMP Simmons,Mumbai Indians,3,94.08
+allrounder,pure_batter,J Anderson,Mizoram,Yashpal Singh,Kolkata Knight Riders,1,99.97
+allrounder,pure_batter,J Anderson,Mizoram,RT Ponting,Mumbai Indians,2,99.93
+allrounder,pure_batter,J Anderson,Mizoram,B Indrajith,Kolkata Knight Riders,3,99.89
+allrounder,pure_batter,Jay Gohil,Saurashtra,Misbah-ul-Haq,Royal Challengers Bengaluru,1,98.72
+allrounder,pure_batter,Jay Gohil,Saurashtra,MD Choudhary,Lucknow Super Giants,2,96.79
+allrounder,pure_batter,Jay Gohil,Saurashtra,Rahmanullah Gurbaz,Kolkata Knight Riders,3,96.56
+allrounder,pure_batter,Joseph Lalthankhuma,Mizoram,JE Root,Rajasthan Royals,1,98.6
+allrounder,pure_batter,Joseph Lalthankhuma,Mizoram,Krish Bhagat,Mumbai Indians,2,97.25
+allrounder,pure_batter,Joseph Lalthankhuma,Mizoram,Sumit Kumar,Delhi Capitals,3,95.33
+allrounder,pure_batter,Jyotsnil Singh,Baroda,AP Majumdar,Pune Warriors,1,98.29
+allrounder,pure_batter,Jyotsnil Singh,Baroda,KS Bharat,Royal Challengers Bengaluru,2,98.28
+allrounder,pure_batter,Jyotsnil Singh,Baroda,AD Hales,Sunrisers Hyderabad,3,97.86
+allrounder,pure_batter,K L Shrijith,Karnataka,Harpreet Singh,Punjab Kings,1,99.23
+allrounder,pure_batter,K L Shrijith,Karnataka,VVS Laxman,Sunrisers Hyderabad,2,99.03
+allrounder,pure_batter,K L Shrijith,Karnataka,CA Ingram,Delhi Capitals,3,98.99
+allrounder,pure_batter,Lalhriatrenga,Mizoram,PSP Handscomb,Rising Pune Supergiant,1,99.99
+allrounder,pure_batter,Lalhriatrenga,Mizoram,UA Birla,Pune Warriors,2,99.99
+allrounder,pure_batter,Lalhriatrenga,Mizoram,R Minz,Mumbai Indians,3,99.99
+allrounder,pure_batter,M Shahrukh Khan,Tamil Nadu,BJ Rohrer,Delhi Capitals,1,97.19
+allrounder,pure_batter,M Shahrukh Khan,Tamil Nadu,AUK Pathan,Royal Challengers Bengaluru,2,96.68
+allrounder,pure_batter,M Shahrukh Khan,Tamil Nadu,N Wadhera,Punjab Kings,3,94.73
+allrounder,pure_batter,MA Agarwal,Karnataka,M Vohra,Punjab Kings,1,96.1
+allrounder,pure_batter,MA Agarwal,Karnataka,OA Shah,Rajasthan Royals,2,95.12
+allrounder,pure_batter,MA Agarwal,Karnataka,SW Billings,Delhi Capitals,3,95.02
+allrounder,pure_batter,MK Pandey,Karnataka,ML Hayden,Chennai Super Kings,1,98.29
+allrounder,pure_batter,MK Pandey,Karnataka,CA Lynn,Kolkata Knight Riders,2,98.13
+allrounder,pure_batter,MK Pandey,Karnataka,E Lewis,Mumbai Indians,3,97.08
+allrounder,pure_batter,MV Pithiya,Baroda,V Suryavanshi,Rajasthan Royals,1,88.23
+allrounder,pure_batter,MV Pithiya,Baroda,Naman Dhir,Mumbai Indians,2,87.82
+allrounder,pure_batter,MV Pithiya,Baroda,Urvil Patel,Chennai Super Kings,3,87.17
+allrounder,pure_batter,N Sindhu,Haryana,Sachin Baby,Royal Challengers Bengaluru,1,97.36
+allrounder,pure_batter,N Sindhu,Haryana,GD Phillips,Sunrisers Hyderabad,2,96.86
+allrounder,pure_batter,N Sindhu,Haryana,DJM Short,Rajasthan Royals,3,96.22
+allrounder,pure_batter,N Wadhera,Punjab,P Nissanka,Delhi Capitals,1,99.88
+allrounder,pure_batter,N Wadhera,Punjab,JP Inglis,Punjab Kings,2,99.58
+allrounder,pure_batter,N Wadhera,Punjab,C Connolly,Punjab Kings,3,99.37
+allrounder,pure_batter,Naman Dhir,Punjab,Sunny Singh,Punjab Kings,1,99.94
+allrounder,pure_batter,Naman Dhir,Punjab,Himmat Singh,Lucknow Super Giants,2,99.3
+allrounder,pure_batter,Naman Dhir,Punjab,Sediqullah Atal,Delhi Capitals,3,98.2
+allrounder,pure_batter,P Prafullomani,Manipur,Tanush Kotian,Rajasthan Royals,1,99.65
+allrounder,pure_batter,P Prafullomani,Manipur,DR Martyn,Rajasthan Royals,2,99.37
+allrounder,pure_batter,P Prafullomani,Manipur,C Madan,Mumbai Indians,3,99.13
+allrounder,pure_batter,P Simran Singh,Punjab,Dhruv Jurel,Rajasthan Royals,1,98.27
+allrounder,pure_batter,P Simran Singh,Punjab,RK Singh,Kolkata Knight Riders,2,97.66
+allrounder,pure_batter,P Simran Singh,Punjab,CA Lynn,Kolkata Knight Riders,3,97.65
+allrounder,pure_batter,PP Shaw,Mumbai,RD Rickelton,Mumbai Indians,1,99.91
+allrounder,pure_batter,PP Shaw,Mumbai,Ashutosh Sharma,Delhi Capitals,2,98.65
+allrounder,pure_batter,PP Shaw,Mumbai,JP Inglis,Punjab Kings,3,98.3
+allrounder,pure_batter,Pratham Singh,Railways,M Vohra,Punjab Kings,1,96.01
+allrounder,pure_batter,Pratham Singh,Railways,E Lewis,Mumbai Indians,2,95.64
+allrounder,pure_batter,Pratham Singh,Railways,OA Shah,Rajasthan Royals,3,92.47
+allrounder,pure_batter,Priyansh Arya,Delhi,P Nissanka,Delhi Capitals,1,99.58
+allrounder,pure_batter,Priyansh Arya,Delhi,JP Inglis,Punjab Kings,2,99.32
+allrounder,pure_batter,Priyansh Arya,Delhi,MJ Lumb,Rajasthan Royals,3,98.9
+allrounder,pure_batter,Qamran Iqbal,Jammu & Kashmir,N Jagadeesan,Kolkata Knight Riders,1,96.18
+allrounder,pure_batter,Qamran Iqbal,Jammu & Kashmir,JR Philippe,Royal Challengers Bengaluru,2,95.58
+allrounder,pure_batter,Qamran Iqbal,Jammu & Kashmir,NK Patel,Rajasthan Royals,3,95.32
+allrounder,pure_batter,RK Singh,Uttar Pradesh,Sachin Baby,Royal Challengers Bengaluru,1,97.44
+allrounder,pure_batter,RK Singh,Uttar Pradesh,R Powell,Delhi Capitals,2,96.01
+allrounder,pure_batter,RK Singh,Uttar Pradesh,DJM Short,Rajasthan Royals,3,95.54
+allrounder,pure_batter,RM Patidar,Madhya Pradesh,RM Patidar,Royal Challengers Bengaluru,1,98.97
+allrounder,pure_batter,RM Patidar,Madhya Pradesh,DP Conway,Chennai Super Kings,2,98.63
+allrounder,pure_batter,RM Patidar,Madhya Pradesh,PD Salt,Royal Challengers Bengaluru,3,98.52
+allrounder,pure_batter,Rajat Dey,Tripura,R Powell,Delhi Capitals,1,99.66
+allrounder,pure_batter,Rajat Dey,Tripura,DB Ravi Teja,Sunrisers Hyderabad,2,98.0
+allrounder,pure_batter,Rajat Dey,Tripura,M Shahrukh Khan,Punjab Kings,3,97.89
+allrounder,pure_batter,Rishabh Chouhan,Madhya Pradesh,S Vidyut,Chennai Super Kings,1,97.69
+allrounder,pure_batter,Rishabh Chouhan,Madhya Pradesh,AC Gilchrist,Sunrisers Hyderabad,2,95.94
+allrounder,pure_batter,Rishabh Chouhan,Madhya Pradesh,DJM Short,Rajasthan Royals,3,95.31
+allrounder,pure_batter,Rishav Das,Assam,N Jagadeesan,Kolkata Knight Riders,1,98.52
+allrounder,pure_batter,Rishav Das,Assam,BB Samantray,Sunrisers Hyderabad,2,97.08
+allrounder,pure_batter,Rishav Das,Assam,YV Takawale,Mumbai Indians,3,96.45
+allrounder,pure_batter,SA Yadav,Mumbai,RM Patidar,Royal Challengers Bengaluru,1,99.42
+allrounder,pure_batter,SA Yadav,Mumbai,Dhruv Jurel,Rajasthan Royals,2,99.19
+allrounder,pure_batter,SA Yadav,Mumbai,PD Salt,Royal Challengers Bengaluru,3,98.4
+allrounder,pure_batter,SK Gharami,Bengal,MS Bhandage,Royal Challengers Bengaluru,1,99.99
+allrounder,pure_batter,SK Gharami,Bengal,RK Bhui,Sunrisers Hyderabad,2,99.97
+allrounder,pure_batter,SK Gharami,Bengal,TD Paine,Pune Warriors,3,99.97
+allrounder,pure_batter,SS Ghosh,Tripura,JE Root,Rajasthan Royals,1,99.5
+allrounder,pure_batter,SS Ghosh,Tripura,Krish Bhagat,Mumbai Indians,2,98.05
+allrounder,pure_batter,SS Ghosh,Tripura,RS Gavaskar,Kolkata Knight Riders,3,95.22
+allrounder,pure_batter,SS Iyer,Mumbai,M Shahrukh Khan,Punjab Kings,1,97.27
+allrounder,pure_batter,SS Iyer,Mumbai,R Powell,Delhi Capitals,2,96.0
+allrounder,pure_batter,SS Iyer,Mumbai,SE Rutherford,Gujarat Titans,3,95.94
+allrounder,pure_batter,SS Sharma,Baroda,MJ Guptill,Punjab Kings,1,99.27
+allrounder,pure_batter,SS Sharma,Baroda,PR Veer,Chennai Super Kings,2,99.14
+allrounder,pure_batter,SS Sharma,Baroda,MJ Lumb,Rajasthan Royals,3,97.66
+allrounder,pure_batter,Sameer Rizvi,Uttar Pradesh,PR Veer,Chennai Super Kings,1,99.56
+allrounder,pure_batter,Sameer Rizvi,Uttar Pradesh,MJ Lumb,Rajasthan Royals,2,98.78
+allrounder,pure_batter,Sameer Rizvi,Uttar Pradesh,MJ Guptill,Punjab Kings,3,98.44
+allrounder,pure_batter,Sanjeet Desai,Chhattisgarh,RE Levi,Mumbai Indians,1,99.55
+allrounder,pure_batter,Sanjeet Desai,Chhattisgarh,CA Ingram,Delhi Capitals,2,99.47
+allrounder,pure_batter,Sanjeet Desai,Chhattisgarh,CM Gautam,Mumbai Indians,3,99.36
+allrounder,pure_batter,Saurav Chauhan,Gujarat,MW Short,Punjab Kings,1,97.25
+allrounder,pure_batter,Saurav Chauhan,Gujarat,Gulbadin Naib,Delhi Capitals,2,97.11
+allrounder,pure_batter,Saurav Chauhan,Gujarat,AC Voges,Rajasthan Royals,3,95.9
+allrounder,pure_batter,Shashank Chandrakar,Chhattisgarh,OA Shah,Rajasthan Royals,1,97.88
+allrounder,pure_batter,Shashank Chandrakar,Chhattisgarh,E Lewis,Mumbai Indians,2,97.19
+allrounder,pure_batter,Shashank Chandrakar,Chhattisgarh,Rahmanullah Gurbaz,Kolkata Knight Riders,3,96.77
+allrounder,pure_batter,Shubham Khajuria,Jammu & Kashmir,CM Gautam,Mumbai Indians,1,98.0
+allrounder,pure_batter,Shubham Khajuria,Jammu & Kashmir,Anuj Rawat,Royal Challengers Bengaluru,2,97.94
+allrounder,pure_batter,Shubham Khajuria,Jammu & Kashmir,LA Pomersbach,Punjab Kings,3,97.76
+allrounder,pure_batter,Shubham Pundir,Jammu & Kashmir,MW Short,Punjab Kings,1,97.93
+allrounder,pure_batter,Shubham Pundir,Jammu & Kashmir,C Munro,Delhi Capitals,2,97.47
+allrounder,pure_batter,Shubham Pundir,Jammu & Kashmir,AS Raut,Rajasthan Royals,3,96.93
+allrounder,pure_batter,Shubham Sharma,Madhya Pradesh,DJM Short,Rajasthan Royals,1,98.0
+allrounder,pure_batter,Shubham Sharma,Madhya Pradesh,DB Ravi Teja,Sunrisers Hyderabad,2,96.4
+allrounder,pure_batter,Shubham Sharma,Madhya Pradesh,Sachin Baby,Royal Challengers Bengaluru,3,95.63
+allrounder,pure_batter,Subhransu Senapati,Odisha,SA Asnodkar,Rajasthan Royals,1,97.65
+allrounder,pure_batter,Subhransu Senapati,Odisha,OA Shah,Rajasthan Royals,2,97.34
+allrounder,pure_batter,Subhransu Senapati,Odisha,E Lewis,Mumbai Indians,3,96.93
+allrounder,pure_batter,Sudip Chatterjee,Bengal,N Jagadeesan,Kolkata Knight Riders,1,96.91
+allrounder,pure_batter,Sudip Chatterjee,Bengal,SP Fleming,Chennai Super Kings,2,96.67
+allrounder,pure_batter,Sudip Chatterjee,Bengal,LA Pomersbach,Punjab Kings,3,96.58
+allrounder,pure_batter,Tarang Gohel,Saurashtra,FH Allen,Kolkata Knight Riders,1,99.41
+allrounder,pure_batter,Tarang Gohel,Saurashtra,Ashutosh Sharma,Delhi Capitals,2,99.09
+allrounder,pure_batter,Tarang Gohel,Saurashtra,JG Bethell,Royal Challengers Bengaluru,3,98.91
+allrounder,pure_batter,UR Kumar,Gujarat,PR Veer,Chennai Super Kings,1,99.76
+allrounder,pure_batter,UR Kumar,Gujarat,MJ Lumb,Rajasthan Royals,2,99.0
+allrounder,pure_batter,UR Kumar,Gujarat,PBB Rajapaksa,Punjab Kings,3,98.38
+allrounder,pure_batter,Urvil Patel,Gujarat,RR Rossouw,Delhi Capitals,1,98.24
+allrounder,pure_batter,Urvil Patel,Gujarat,Aniket Verma,Sunrisers Hyderabad,2,97.94
+allrounder,pure_batter,Urvil Patel,Gujarat,Sameer Rizvi,Delhi Capitals,3,97.29
+allrounder,pure_batter,Vishnu Solanki,Baroda,LRPL Taylor,Royal Challengers Bengaluru,1,95.4
+allrounder,pure_batter,Vishnu Solanki,Baroda,MW Short,Punjab Kings,2,95.4
+allrounder,pure_batter,Vishnu Solanki,Baroda,C Munro,Delhi Capitals,3,93.83
+allrounder,pure_batter,Vishvaraj Jadeja,Saurashtra,Anuj Rawat,Royal Challengers Bengaluru,1,98.78
+allrounder,pure_batter,Vishvaraj Jadeja,Saurashtra,HC Brook,Sunrisers Hyderabad,2,98.52
+allrounder,pure_batter,Vishvaraj Jadeja,Saurashtra,CM Gautam,Mumbai Indians,3,97.93
+allrounder,pure_batter,Vivek Singh,Bengal,SE Rutherford,Gujarat Titans,1,98.61
+allrounder,pure_batter,Vivek Singh,Bengal,MK Lomror,Royal Challengers Bengaluru,2,98.42
+allrounder,pure_batter,Vivek Singh,Bengal,CL White,Sunrisers Hyderabad,3,96.84
+allrounder,pure_batter,YBK Jaiswal,Mumbai,BJ Rohrer,Delhi Capitals,1,97.9
+allrounder,pure_batter,YBK Jaiswal,Mumbai,AC Voges,Rajasthan Royals,2,96.85
+allrounder,pure_batter,YBK Jaiswal,Mumbai,MW Short,Punjab Kings,3,96.66
+allrounder,pure_batter,YV Dhull,Delhi,AP Majumdar,Pune Warriors,1,95.99
+allrounder,pure_batter,YV Dhull,Delhi,Salman Butt,Kolkata Knight Riders,2,91.56
+allrounder,pure_batter,YV Dhull,Delhi,KS Bharat,Royal Challengers Bengaluru,3,89.69
+allrounder,pure_bowler,A Kamboj,Haryana,CK Langeveldt,Kolkata Knight Riders,1,97.74
+allrounder,pure_bowler,A Kamboj,Haryana,T Thushara,Chennai Super Kings,2,96.85
+allrounder,pure_bowler,A Kamboj,Haryana,D du Preez,Royal Challengers Bengaluru,3,96.09
+allrounder,pure_bowler,A Nagwaswalla,Gujarat,DE Bollinger,Chennai Super Kings,1,98.88
+allrounder,pure_bowler,A Nagwaswalla,Gujarat,SW Tait,Rajasthan Royals,2,98.35
+allrounder,pure_bowler,A Nagwaswalla,Gujarat,Mohsin Khan,Lucknow Super Giants,3,96.66
+allrounder,pure_bowler,AK Sarkar,Tripura,Parvez Rasool,Pune Warriors,1,98.5
+allrounder,pure_bowler,AK Sarkar,Tripura,FA Allen,Punjab Kings,2,97.75
+allrounder,pure_bowler,AK Sarkar,Tripura,Ankit Soni,Gujarat Lions,3,97.68
+allrounder,pure_bowler,Abid Mushtaq,Jammu & Kashmir,DJ Thornely,Mumbai Indians,1,96.64
+allrounder,pure_bowler,Abid Mushtaq,Jammu & Kashmir,GD McGrath,Delhi Capitals,2,80.56
+allrounder,pure_bowler,Abid Mushtaq,Jammu & Kashmir,FH Edwards,Sunrisers Hyderabad,3,79.91
+allrounder,pure_bowler,Aditya Jadeja,Saurashtra,SS Mundhe,Pune Warriors,1,99.7
+allrounder,pure_bowler,Aditya Jadeja,Saurashtra,JW Hastings,Kolkata Knight Riders,2,98.12
+allrounder,pure_bowler,Aditya Jadeja,Saurashtra,PH Solanki,Chennai Super Kings,3,98.09
+allrounder,pure_bowler,Ajay Sarkar,Tripura,T Henderson,Rajasthan Royals,1,93.68
+allrounder,pure_bowler,Ajay Sarkar,Tripura,KP Appanna,Royal Challengers Bengaluru,2,91.14
+allrounder,pure_bowler,Ajay Sarkar,Tripura,Ankit Soni,Gujarat Lions,3,90.27
+allrounder,pure_bowler,Akash Pandey,Railways,B Muzarabani,Kolkata Knight Riders,1,99.1
+allrounder,pure_bowler,Akash Pandey,Railways,JA Duffy,Royal Challengers Bengaluru,2,98.43
+allrounder,pure_bowler,Akash Pandey,Railways,Sakib Hussain,Sunrisers Hyderabad,3,97.02
+allrounder,pure_bowler,Akash Sengupta,Assam,D du Preez,Royal Challengers Bengaluru,1,98.81
+allrounder,pure_bowler,Akash Sengupta,Assam,DAJ Bracewell,Delhi Capitals,2,96.36
+allrounder,pure_bowler,Akash Sengupta,Assam,CK Langeveldt,Kolkata Knight Riders,3,95.28
+allrounder,pure_bowler,Arshdeep Singh,Punjab,GB Hogg,Rajasthan Royals,1,92.44
+allrounder,pure_bowler,Arshdeep Singh,Punjab,KMDN Kulasekara,Chennai Super Kings,2,91.97
+allrounder,pure_bowler,Arshdeep Singh,Punjab,AJ Hosein,Sunrisers Hyderabad,3,91.09
+allrounder,pure_bowler,Avesh Khan,Madhya Pradesh,DE Bollinger,Chennai Super Kings,1,96.98
+allrounder,pure_bowler,Avesh Khan,Madhya Pradesh,Mohsin Khan,Lucknow Super Giants,2,96.88
+allrounder,pure_bowler,Avesh Khan,Madhya Pradesh,A Zampa,Rajasthan Royals,3,93.84
+allrounder,pure_bowler,B Kumar,Uttar Pradesh,Sohail Tanvir,Rajasthan Royals,1,97.02
+allrounder,pure_bowler,B Kumar,Uttar Pradesh,SW Tait,Rajasthan Royals,2,95.08
+allrounder,pure_bowler,B Kumar,Uttar Pradesh,KW Richardson,Pune Warriors,3,94.22
+allrounder,pure_bowler,BM Chingakham,Manipur,D Salunkhe,Rajasthan Royals,1,99.0
+allrounder,pure_bowler,BM Chingakham,Manipur,A Mithun,Royal Challengers Bengaluru,2,97.0
+allrounder,pure_bowler,BM Chingakham,Manipur,Shoaib Malik,Delhi Capitals,3,96.36
+allrounder,pure_bowler,Bishworjit Konthoujam,Manipur,NB Singh,Gujarat Lions,1,94.21
+allrounder,pure_bowler,Bishworjit Konthoujam,Manipur,BAW Mendis,Kolkata Knight Riders,2,91.48
+allrounder,pure_bowler,Bishworjit Konthoujam,Manipur,DP Nannes,Delhi Capitals,3,90.94
+allrounder,pure_bowler,CV Varun,Tamil Nadu,Shoaib Akhtar,Kolkata Knight Riders,1,95.73
+allrounder,pure_bowler,CV Varun,Tamil Nadu,Yash Raj Punja,Rajasthan Royals,2,91.2
+allrounder,pure_bowler,CV Varun,Tamil Nadu,S Lamichhane,Delhi Capitals,3,88.73
+allrounder,pure_bowler,Chintan Gaja,Gujarat,AD Mascarenhas,Rajasthan Royals,1,94.95
+allrounder,pure_bowler,Chintan Gaja,Gujarat,R Rampaul,Royal Challengers Bengaluru,2,91.09
+allrounder,pure_bowler,Chintan Gaja,Gujarat,WPUJC Vaas,Sunrisers Hyderabad,3,89.83
+allrounder,pure_bowler,DS Kulkarni,Mumbai,NM Coulter-Nile,Delhi Capitals,1,99.18
+allrounder,pure_bowler,DS Kulkarni,Mumbai,S Aravind,Royal Challengers Bengaluru,2,98.43
+allrounder,pure_bowler,DS Kulkarni,Mumbai,MJ McClenaghan,Mumbai Indians,3,95.72
+allrounder,pure_bowler,Harshit Rana,Delhi,S Kaushik,Gujarat Lions,1,99.61
+allrounder,pure_bowler,Harshit Rana,Delhi,Shoaib Ahmed,Sunrisers Hyderabad,2,99.52
+allrounder,pure_bowler,Harshit Rana,Delhi,ND Doshi,Rajasthan Royals,3,99.06
+allrounder,pure_bowler,I Sharma,Delhi,BW Hilfenhaus,Chennai Super Kings,1,94.4
+allrounder,pure_bowler,I Sharma,Delhi,JW Hastings,Kolkata Knight Riders,2,94.26
+allrounder,pure_bowler,I Sharma,Delhi,DP Nannes,Delhi Capitals,3,93.77
+allrounder,pure_bowler,J Yadav,Haryana,RR Powar,Punjab Kings,1,91.46
+allrounder,pure_bowler,J Yadav,Haryana,Ankit Sharma,Sunrisers Hyderabad,2,90.61
+allrounder,pure_bowler,J Yadav,Haryana,R Sharma,Pune Warriors,3,86.59
+allrounder,pure_bowler,Jasmer Dhankhar,Uttar Pradesh,PH Solanki,Chennai Super Kings,1,99.9
+allrounder,pure_bowler,Jasmer Dhankhar,Uttar Pradesh,JW Hastings,Kolkata Knight Riders,2,98.98
+allrounder,pure_bowler,Jasmer Dhankhar,Uttar Pradesh,SS Mundhe,Pune Warriors,3,96.99
+allrounder,pure_bowler,K Kartikeya,Madhya Pradesh,SMSM Senanayake,Kolkata Knight Riders,1,92.8
+allrounder,pure_bowler,K Kartikeya,Madhya Pradesh,GD McGrath,Delhi Capitals,2,84.04
+allrounder,pure_bowler,K Kartikeya,Madhya Pradesh,T Thushara,Chennai Super Kings,3,83.88
+allrounder,pure_bowler,KC Cariappa,Karnataka,GB Hogg,Rajasthan Royals,1,97.13
+allrounder,pure_bowler,KC Cariappa,Karnataka,R Rampaul,Royal Challengers Bengaluru,2,91.42
+allrounder,pure_bowler,KC Cariappa,Karnataka,SW Tait,Rajasthan Royals,3,90.77
+allrounder,pure_bowler,Karan Lal,Bengal,LA Carseldine,Rajasthan Royals,1,96.4
+allrounder,pure_bowler,Karan Lal,Bengal,R Rampaul,Royal Challengers Bengaluru,2,92.22
+allrounder,pure_bowler,Karan Lal,Bengal,DJ Thornely,Mumbai Indians,3,85.24
+allrounder,pure_bowler,Kartik Tyagi,Uttar Pradesh,ND Doshi,Rajasthan Royals,1,99.81
+allrounder,pure_bowler,Kartik Tyagi,Uttar Pradesh,SSB Magala,Chennai Super Kings,2,99.22
+allrounder,pure_bowler,Kartik Tyagi,Uttar Pradesh,S Kaushik,Gujarat Lions,3,99.12
+allrounder,pure_bowler,LI Meriwala,Baroda,JR Hazlewood,Royal Challengers Bengaluru,1,97.04
+allrounder,pure_bowler,LI Meriwala,Baroda,A Zampa,Rajasthan Royals,2,92.19
+allrounder,pure_bowler,LI Meriwala,Baroda,Imran Tahir,Delhi Capitals,3,91.14
+allrounder,pure_bowler,M Markande,Punjab,LH Ferguson,Kolkata Knight Riders,1,91.74
+allrounder,pure_bowler,M Markande,Punjab,NM Coulter-Nile,Delhi Capitals,2,90.63
+allrounder,pure_bowler,M Markande,Punjab,S Aravind,Royal Challengers Bengaluru,3,90.03
+allrounder,pure_bowler,M Prasidh Krishna,Karnataka,IC Pandey,Pune Warriors,1,96.57
+allrounder,pure_bowler,M Prasidh Krishna,Karnataka,AM Salvi,Delhi Capitals,2,93.68
+allrounder,pure_bowler,M Prasidh Krishna,Karnataka,Anand Rajan,Sunrisers Hyderabad,3,93.56
+allrounder,pure_bowler,Mohit Avasthi,Mumbai,BW Hilfenhaus,Chennai Super Kings,1,99.28
+allrounder,pure_bowler,Mohit Avasthi,Mumbai,S Lamichhane,Delhi Capitals,2,98.61
+allrounder,pure_bowler,Mohit Avasthi,Mumbai,YA Abdulla,Punjab Kings,3,96.7
+allrounder,pure_bowler,Mohit Jangra,Mizoram,JM Kemp,Chennai Super Kings,1,94.6
+allrounder,pure_bowler,Mohit Jangra,Mizoram,B Akhil,Royal Challengers Bengaluru,2,94.34
+allrounder,pure_bowler,Mohit Jangra,Mizoram,J Yadav,Delhi Capitals,3,93.3
+allrounder,pure_bowler,Mohsin Khan,Uttar Pradesh,WPUJC Vaas,Sunrisers Hyderabad,1,94.86
+allrounder,pure_bowler,Mohsin Khan,Uttar Pradesh,A Kamboj,Chennai Super Kings,2,94.63
+allrounder,pure_bowler,Mohsin Khan,Uttar Pradesh,NM Coulter-Nile,Delhi Capitals,3,94.34
+allrounder,pure_bowler,Mrinmoy Dutta,Assam,AM Salvi,Delhi Capitals,1,93.0
+allrounder,pure_bowler,Mrinmoy Dutta,Assam,Anand Rajan,Sunrisers Hyderabad,2,92.88
+allrounder,pure_bowler,Mrinmoy Dutta,Assam,SM Boland,Rising Pune Supergiant,3,92.18
+allrounder,pure_bowler,Mukhtar Hussain,Assam,A Kamboj,Chennai Super Kings,1,91.74
+allrounder,pure_bowler,Mukhtar Hussain,Assam,Shahid Afridi,Sunrisers Hyderabad,2,91.28
+allrounder,pure_bowler,Mukhtar Hussain,Assam,MG Bracewell,Royal Challengers Bengaluru,3,90.5
+allrounder,pure_bowler,Navdeep Saini,Delhi,NB Singh,Gujarat Lions,1,92.65
+allrounder,pure_bowler,Navdeep Saini,Delhi,AG Murtaza,Pune Warriors,2,91.8
+allrounder,pure_bowler,Navdeep Saini,Delhi,BAW Mendis,Kolkata Knight Riders,3,90.79
+allrounder,pure_bowler,PS Painkra,Chhattisgarh,K Khejroliya,Royal Challengers Bengaluru,1,99.54
+allrounder,pure_bowler,PS Painkra,Chhattisgarh,Gagandeep Singh,Punjab Kings,2,99.27
+allrounder,pure_bowler,PS Painkra,Chhattisgarh,B Geeves,Delhi Capitals,3,98.63
+allrounder,pure_bowler,R Sai Kishore,Tamil Nadu,A Kumble,Royal Challengers Bengaluru,1,94.9
+allrounder,pure_bowler,R Sai Kishore,Tamil Nadu,GB Hogg,Rajasthan Royals,2,83.9
+allrounder,pure_bowler,R Sai Kishore,Tamil Nadu,DE Bollinger,Chennai Super Kings,3,82.91
+allrounder,pure_bowler,Rahul Batham,Madhya Pradesh,PHKD Mendis,Sunrisers Hyderabad,1,94.8
+allrounder,pure_bowler,Rahul Batham,Madhya Pradesh,B Akhil,Royal Challengers Bengaluru,2,93.73
+allrounder,pure_bowler,Rahul Batham,Madhya Pradesh,AS Roy,Kolkata Knight Riders,3,92.2
+allrounder,pure_bowler,Rasikh Salam,Jammu & Kashmir,SS Mundhe,Pune Warriors,1,97.59
+allrounder,pure_bowler,Rasikh Salam,Jammu & Kashmir,JW Hastings,Kolkata Knight Riders,2,95.44
+allrounder,pure_bowler,Rasikh Salam,Jammu & Kashmir,PH Solanki,Chennai Super Kings,3,94.84
+allrounder,pure_bowler,Ravi Bishnoi,Rajasthan,DE Bollinger,Chennai Super Kings,1,94.72
+allrounder,pure_bowler,Ravi Bishnoi,Rajasthan,Sohail Tanvir,Rajasthan Royals,2,92.26
+allrounder,pure_bowler,Ravi Bishnoi,Rajasthan,SW Tait,Rajasthan Royals,3,91.03
+allrounder,pure_bowler,Remruatdika Ralte,Mizoram,CJ McKay,Mumbai Indians,1,98.35
+allrounder,pure_bowler,Remruatdika Ralte,Mizoram,SB Joshi,Royal Challengers Bengaluru,2,97.11
+allrounder,pure_bowler,Remruatdika Ralte,Mizoram,PM Sarvesh Kumar,Sunrisers Hyderabad,3,97.0
+allrounder,pure_bowler,S Hegde,Karnataka,Mayank Dagar,Royal Challengers Bengaluru,1,99.53
+allrounder,pure_bowler,S Hegde,Karnataka,SSB Magala,Chennai Super Kings,2,99.48
+allrounder,pure_bowler,S Hegde,Karnataka,SS Sarkar,Kolkata Knight Riders,3,99.37
+allrounder,pure_bowler,S Kaul,Punjab,Imran Tahir,Delhi Capitals,1,95.54
+allrounder,pure_bowler,S Kaul,Punjab,JR Hazlewood,Royal Challengers Bengaluru,2,93.28
+allrounder,pure_bowler,S Kaul,Punjab,MM Patel,Rajasthan Royals,3,91.06
+allrounder,pure_bowler,SI Sopariya,Baroda,C Nanda,Mumbai Indians,1,97.37
+allrounder,pure_bowler,SI Sopariya,Baroda,DJ Muthuswami,Delhi Capitals,2,96.16
+allrounder,pure_bowler,SI Sopariya,Baroda,PH Solanki,Chennai Super Kings,3,95.99
+allrounder,pure_bowler,SN Patel,Gujarat,RS Hangargekar,Chennai Super Kings,1,98.08
+allrounder,pure_bowler,SN Patel,Gujarat,BE Hendricks,Punjab Kings,2,96.86
+allrounder,pure_bowler,SN Patel,Gujarat,Sakib Hussain,Sunrisers Hyderabad,3,96.24
+allrounder,pure_bowler,SN Thakur,Mumbai,MJ McClenaghan,Mumbai Indians,1,92.97
+allrounder,pure_bowler,SN Thakur,Mumbai,S Aravind,Royal Challengers Bengaluru,2,92.94
+allrounder,pure_bowler,SN Thakur,Mumbai,NM Coulter-Nile,Delhi Capitals,3,92.89
+allrounder,pure_bowler,SS Agarwal,Chhattisgarh,GR Napier,Mumbai Indians,1,93.95
+allrounder,pure_bowler,SS Agarwal,Chhattisgarh,GB Hogg,Rajasthan Royals,2,89.77
+allrounder,pure_bowler,SS Agarwal,Chhattisgarh,AC Thomas,Pune Warriors,3,88.77
+allrounder,pure_bowler,Sahil Lotra,Jammu & Kashmir,VS Malik,Punjab Kings,1,97.74
+allrounder,pure_bowler,Sahil Lotra,Jammu & Kashmir,BMAJ Mendis,Delhi Capitals,2,96.24
+allrounder,pure_bowler,Sahil Lotra,Jammu & Kashmir,DP Vijaykumar,Sunrisers Hyderabad,3,95.24
+allrounder,pure_bowler,Saransh Jain,Madhya Pradesh,T Henderson,Rajasthan Royals,1,93.62
+allrounder,pure_bowler,Saransh Jain,Madhya Pradesh,AG Murtaza,Pune Warriors,2,92.36
+allrounder,pure_bowler,Saransh Jain,Madhya Pradesh,BMAJ Mendis,Delhi Capitals,3,91.6
+allrounder,pure_bowler,Shiva Singh,Uttar Pradesh,JM Kemp,Chennai Super Kings,1,97.59
+allrounder,pure_bowler,Shiva Singh,Uttar Pradesh,AA Chavan,Rajasthan Royals,2,94.21
+allrounder,pure_bowler,Shiva Singh,Uttar Pradesh,J Yadav,Delhi Capitals,3,92.6
+allrounder,pure_bowler,Shivam Shukla,Madhya Pradesh,S Randiv,Chennai Super Kings,1,98.81
+allrounder,pure_bowler,Shivam Shukla,Madhya Pradesh,DJ Muthuswami,Delhi Capitals,2,98.21
+allrounder,pure_bowler,Shivam Shukla,Madhya Pradesh,BAW Mendis,Kolkata Knight Riders,3,96.87
+allrounder,pure_bowler,Sourabh Majumdar,Chhattisgarh,BAW Mendis,Kolkata Knight Riders,1,98.9
+allrounder,pure_bowler,Sourabh Majumdar,Chhattisgarh,DJ Muthuswami,Delhi Capitals,2,98.59
+allrounder,pure_bowler,Sourabh Majumdar,Chhattisgarh,NB Singh,Gujarat Lions,3,96.31
+allrounder,pure_bowler,Sourav Dey,Assam,SS Sarkar,Kolkata Knight Riders,1,97.41
+allrounder,pure_bowler,Sourav Dey,Assam,KP Appanna,Royal Challengers Bengaluru,2,96.58
+allrounder,pure_bowler,Sourav Dey,Assam,C Nanda,Mumbai Indians,3,96.38
+allrounder,pure_bowler,Suryansh Shedge,Mumbai,AP Dole,Rajasthan Royals,1,94.58
+allrounder,pure_bowler,Suryansh Shedge,Mumbai,A Choudhary,Royal Challengers Bengaluru,2,91.94
+allrounder,pure_bowler,Suryansh Shedge,Mumbai,Umran Malik,Sunrisers Hyderabad,3,91.8
+allrounder,pure_bowler,Suyash Sharma,Delhi,Shoaib Akhtar,Kolkata Knight Riders,1,98.24
+allrounder,pure_bowler,Suyash Sharma,Delhi,V Kaverappa,Punjab Kings,2,95.11
+allrounder,pure_bowler,Suyash Sharma,Delhi,VY Mahesh,Delhi Capitals,3,93.81
+allrounder,pure_bowler,T Natarajan,Tamil Nadu,Anand Rajan,Sunrisers Hyderabad,1,97.78
+allrounder,pure_bowler,T Natarajan,Tamil Nadu,AM Salvi,Delhi Capitals,2,97.69
+allrounder,pure_bowler,T Natarajan,Tamil Nadu,IC Pandey,Pune Warriors,3,97.16
+allrounder,pure_bowler,TC Vanlalremruata,Mizoram,SM Boland,Rising Pune Supergiant,1,98.55
+allrounder,pure_bowler,TC Vanlalremruata,Mizoram,PH Solanki,Chennai Super Kings,2,98.2
+allrounder,pure_bowler,TC Vanlalremruata,Mizoram,JW Hastings,Kolkata Knight Riders,3,97.02
+allrounder,pure_bowler,TU Deshpande,Mumbai,Mohsin Khan,Lucknow Super Giants,1,97.07
+allrounder,pure_bowler,TU Deshpande,Mumbai,A Zampa,Rajasthan Royals,2,95.09
+allrounder,pure_bowler,TU Deshpande,Mumbai,DE Bollinger,Chennai Super Kings,3,94.57
+allrounder,pure_bowler,Tanush Kotian,Mumbai,R Rampaul,Royal Challengers Bengaluru,1,96.59
+allrounder,pure_bowler,Tanush Kotian,Mumbai,LA Carseldine,Rajasthan Royals,2,92.38
+allrounder,pure_bowler,Tanush Kotian,Mumbai,GB Hogg,Rajasthan Royals,3,91.42
+allrounder,pure_bowler,Tripuresh Singh,Madhya Pradesh,Yash Raj Punja,Rajasthan Royals,1,98.84
+allrounder,pure_bowler,Tripuresh Singh,Madhya Pradesh,O Thomas,Rajasthan Royals,2,98.02
+allrounder,pure_bowler,Tripuresh Singh,Madhya Pradesh,S Lamichhane,Delhi Capitals,3,98.02
+allrounder,pure_bowler,Umran Malik,Jammu & Kashmir,Shoaib Akhtar,Kolkata Knight Riders,1,97.38
+allrounder,pure_bowler,Umran Malik,Jammu & Kashmir,V Kaverappa,Punjab Kings,2,93.06
+allrounder,pure_bowler,Umran Malik,Jammu & Kashmir,Yash Raj Punja,Rajasthan Royals,3,90.92
+allrounder,pure_bowler,V Kaverappa,Karnataka,SS Mundhe,Pune Warriors,1,96.03
+allrounder,pure_bowler,V Kaverappa,Karnataka,IS Sodhi,Rajasthan Royals,2,94.37
+allrounder,pure_bowler,V Kaverappa,Karnataka,JW Hastings,Kolkata Knight Riders,3,94.16
+allrounder,pure_bowler,Vijaykumar Vyshak,Karnataka,JE Taylor,Pune Warriors,1,95.44
+allrounder,pure_bowler,Vijaykumar Vyshak,Karnataka,MP Yadav,Lucknow Super Giants,2,89.78
+allrounder,pure_bowler,Vijaykumar Vyshak,Karnataka,KMA Paul,Delhi Capitals,3,86.77
+allrounder,pure_bowler,YS Chahal,Haryana,IC Pandey,Pune Warriors,1,94.56
+allrounder,pure_bowler,YS Chahal,Haryana,C Nanda,Mumbai Indians,2,94.04
+allrounder,pure_bowler,YS Chahal,Haryana,DJ Muthuswami,Delhi Capitals,3,92.01
+allrounder,pure_bowler,Yash Dayal,Uttar Pradesh,BAW Mendis,Kolkata Knight Riders,1,96.55
+allrounder,pure_bowler,Yash Dayal,Uttar Pradesh,NB Singh,Gujarat Lions,2,95.97
+allrounder,pure_bowler,Yash Dayal,Uttar Pradesh,DJ Muthuswami,Delhi Capitals,3,93.4
+allrounder,pure_bowler,Yudhvir Singh,Jammu & Kashmir,A Choudhary,Royal Challengers Bengaluru,1,96.86
+allrounder,pure_bowler,Yudhvir Singh,Jammu & Kashmir,B Stanlake,Sunrisers Hyderabad,2,94.57
+allrounder,pure_bowler,Yudhvir Singh,Jammu & Kashmir,Harmeet Singh,Punjab Kings,3,92.36
+allrounder,utility_player,A Badoni,Delhi,Sikandar Raza,Punjab Kings,1,96.01
+allrounder,utility_player,A Badoni,Delhi,Abdul Samad,Sunrisers Hyderabad,2,91.69
+allrounder,utility_player,A Badoni,Delhi,VR Iyer,Kolkata Knight Riders,3,90.71
+allrounder,utility_player,AR Pandey,Railways,R Sathish,Mumbai Indians,1,96.18
+allrounder,utility_player,AR Pandey,Railways,Shahbaz Ahmed,Royal Challengers Bengaluru,2,95.76
+allrounder,utility_player,AR Pandey,Railways,Y Venugopal Rao,Sunrisers Hyderabad,3,94.62
+allrounder,utility_player,AV Rajput,Baroda,AB McDonald,Delhi Capitals,1,96.03
+allrounder,utility_player,AV Rajput,Baroda,D Wiese,Royal Challengers Bengaluru,2,90.73
+allrounder,utility_player,AV Rajput,Baroda,Ramandeep Singh,Kolkata Knight Riders,3,90.48
+allrounder,utility_player,Dharmendrasinh Jadeja,Saurashtra,B Lee,Punjab Kings,1,94.57
+allrounder,utility_player,Dharmendrasinh Jadeja,Saurashtra,MJ Clarke,Pune Warriors,2,62.15
+allrounder,utility_player,Dharmendrasinh Jadeja,Saurashtra,RN ten Doeschate,Kolkata Knight Riders,3,59.66
+allrounder,utility_player,Harpreet Brar,Punjab,RJ Harris,Punjab Kings,1,94.65
+allrounder,utility_player,Harpreet Brar,Punjab,MJ Santner,Chennai Super Kings,2,79.09
+allrounder,utility_player,Harpreet Brar,Punjab,PWH de Silva,Royal Challengers Bengaluru,3,76.28
+allrounder,utility_player,KS Sharma,Uttar Pradesh,B Lee,Punjab Kings,1,71.08
+allrounder,utility_player,KS Sharma,Uttar Pradesh,MJ Clarke,Pune Warriors,2,60.69
+allrounder,utility_player,KS Sharma,Uttar Pradesh,DL Vettori,Royal Challengers Bengaluru,3,50.18
+allrounder,utility_player,L Kishan Singha,Manipur,S Nadeem,Delhi Capitals,1,95.06
+allrounder,utility_player,L Kishan Singha,Manipur,Mohammad Hafeez,Kolkata Knight Riders,2,90.57
+allrounder,utility_player,L Kishan Singha,Manipur,JDP Oram,Chennai Super Kings,3,90.21
+allrounder,utility_player,Lalhruai Ralte,Mizoram,JDS Neesham,Delhi Capitals,1,95.09
+allrounder,utility_player,Lalhruai Ralte,Mizoram,JDP Oram,Chennai Super Kings,2,94.4
+allrounder,utility_player,Lalhruai Ralte,Mizoram,S Nadeem,Delhi Capitals,3,89.35
+allrounder,utility_player,Mandeep Singh,Punjab,A Badoni,Lucknow Super Giants,1,87.15
+allrounder,utility_player,Mandeep Singh,Punjab,Shashank Singh,Punjab Kings,2,78.79
+allrounder,utility_player,Mandeep Singh,Punjab,LJ Wright,Pune Warriors,3,78.34
+allrounder,utility_player,SZ Mulani,Mumbai,M Morkel,Delhi Capitals,1,86.68
+allrounder,utility_player,SZ Mulani,Mumbai,RJ Harris,Punjab Kings,2,82.95
+allrounder,utility_player,SZ Mulani,Mumbai,AB McDonald,Delhi Capitals,3,81.62
+allrounder,utility_player,Shivam Chaudhary,Railways,TM Dilshan,Delhi Capitals,1,94.82
+allrounder,utility_player,Shivam Chaudhary,Railways,RN ten Doeschate,Kolkata Knight Riders,2,94.26
+allrounder,utility_player,Shivam Chaudhary,Railways,STR Binny,Rajasthan Royals,3,93.02

@@ -1,0 +1,4 @@
+domain,model_name,train_rows,test_rows,positive_rate_train,positive_rate_test,accuracy_random,precision_random,recall_random,f1_score_random,roc_auc_random,accuracy_time,precision_time,recall_time,f1_score_time,roc_auc_time,test_seasons,accuracy_drop_pct_points,f1_drop_pct_points
+allrounder,random_forest,635,159,0.537,0.5409,0.9497,0.9432,0.9651,0.954,0.9881,0.9427,0.9215,0.9944,0.9565,0.9905,"2024,2025,2026",0.7,-0.25
+batting,random_forest,377,95,0.5411,0.5474,0.8632,0.8545,0.9038,0.8785,0.924,0.7228,0.7679,0.7748,0.7713,0.8128,"2024,2025,2026",14.04,10.72
+bowling,random_forest,320,80,0.4875,0.4875,0.9,0.8974,0.8974,0.8974,0.96,0.8571,0.902,0.7302,0.807,0.9508,"2024,2025,2026",4.29,9.04

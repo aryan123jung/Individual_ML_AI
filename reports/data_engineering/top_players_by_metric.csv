@@ -1,0 +1,221 @@
+dataset,metric,rank,player,team,value,batting_role,bowling_role,allrounder_role
+smat_batting,total_runs,1,KH Devdhar,Baroda,1432.0,anchor_opener,,
+smat_batting,total_runs,2,N Rana,Delhi,1376.0,top_order_anchor,,
+smat_batting,total_runs,3,Virat Singh,Jharkhand,1236.0,top_order_anchor,,
+smat_batting,total_runs,4,SS Iyer,Mumbai,1213.0,top_order_anchor,,
+smat_batting,total_runs,5,KK Nair,Karnataka,1202.0,top_order_anchor,,
+smat_batting,total_runs,6,Harpreet Singh,Chhattisgarh,1181.0,top_order_anchor,,
+smat_batting,total_runs,7,RD Gaikwad,Maharashtra,1132.0,aggressive_opener,,
+smat_batting,total_runs,8,RM Patidar,Madhya Pradesh,1132.0,top_order_anchor,,
+smat_batting,total_runs,9,SP Goswami,Bengal,1131.0,aggressive_opener,,
+smat_batting,total_runs,10,SA Yadav,Mumbai,1124.0,top_order_anchor,,
+smat_batting,strike_rate,1,Suryansh Shedge,Mumbai,278.57,finisher,,
+smat_batting,strike_rate,2,UT Yadav,Vidarbha,215.38,tailender,,
+smat_batting,strike_rate,3,Ashwin Das,Madhya Pradesh,210.0,anchor_opener,,
+smat_batting,strike_rate,4,Lavin Coster,Chhattisgarh,200.0,tailender,,
+smat_batting,strike_rate,5,Sanvir Singh,Punjab,196.52,finisher,,
+smat_batting,strike_rate,6,Yudhvir Singh,Jammu & Kashmir,190.0,middle_order,,
+smat_batting,strike_rate,7,Mukhtar Hussain,Assam,186.21,tailender,,
+smat_batting,strike_rate,8,Heramb Parab,Goa,185.0,tailender,,
+smat_batting,strike_rate,9,Lekhaz Reddy,Andhra,180.95,middle_order,,
+smat_batting,strike_rate,10,Mohit Kumar,Services,180.0,tailender,,
+smat_batting,avg_runs,1,RR Pant,Delhi,55.38,aggressive_opener,,
+smat_batting,avg_runs,2,Mayank Raghav,Manipur,50.17,aggressive_opener,,
+smat_batting,avg_runs,3,Kishan Lyngdoh,Meghalaya,49.4,aggressive_opener,,
+smat_batting,avg_runs,4,M Vijay,Tamil Nadu,43.11,aggressive_opener,,
+smat_batting,avg_runs,5,Raghav Dhawan,Himachal,41.0,anchor_opener,,
+smat_batting,avg_runs,6,Rohan Kadam,Karnataka,39.8,aggressive_opener,,
+smat_batting,avg_runs,7,KL Rahul,Karnataka,39.12,aggressive_opener,,
+smat_batting,avg_runs,8,CA Pujara,Saurashtra,38.94,anchor_opener,,
+smat_batting,avg_runs,9,TM Srivastava,Uttarakhand,38.17,top_order_anchor,,
+smat_batting,avg_runs,10,AD Chopra,Mizoram,37.67,aggressive_opener,,
+smat_batting,sample_reliability_score,1,A Ashish Reddy,Hyderabad (India),1.0,middle_order,,
+smat_batting,sample_reliability_score,2,IK Pathan,Baroda,1.0,finisher,,
+smat_batting,sample_reliability_score,3,Rishabh Tiwari,Chhattisgarh,1.0,aggressive_opener,,
+smat_batting,sample_reliability_score,4,J Suchith,Karnataka,1.0,tailender,,
+smat_batting,sample_reliability_score,5,Rishav Das,Assam,1.0,aggressive_opener,,
+smat_batting,sample_reliability_score,6,Ritwik Roy Chowdhury,Bengal,1.0,middle_order,,
+smat_batting,sample_reliability_score,7,Robin Bist,Rajasthan,1.0,finisher,,
+smat_batting,sample_reliability_score,8,Ishan Kishan,Jharkhand,1.0,aggressive_opener,,
+smat_batting,sample_reliability_score,9,Rohan Kadam,Karnataka,1.0,aggressive_opener,,
+smat_batting,sample_reliability_score,10,Iqbal Abdulla,Sikkim,1.0,middle_order,,
+ipl_batting,total_runs,1,V Kohli,Royal Challengers Bengaluru,9040.0,aggressive_opener,,
+ipl_batting,total_runs,2,RG Sharma,Mumbai Indians,7183.0,aggressive_opener,,
+ipl_batting,total_runs,3,S Dhawan,Sunrisers Hyderabad,6769.0,aggressive_opener,,
+ipl_batting,total_runs,4,DA Warner,Sunrisers Hyderabad,6565.0,aggressive_opener,,
+ipl_batting,total_runs,5,KL Rahul,Punjab Kings,5655.0,aggressive_opener,,
+ipl_batting,total_runs,6,SK Raina,Chennai Super Kings,5528.0,top_order_anchor,,
+ipl_batting,total_runs,7,MS Dhoni,Chennai Super Kings,5439.0,finisher,,
+ipl_batting,total_runs,8,AM Rahane,Rajasthan Royals,5194.0,aggressive_opener,,
+ipl_batting,total_runs,9,AB de Villiers,Royal Challengers Bengaluru,5162.0,top_order_anchor,,
+ipl_batting,total_runs,10,SV Samson,Rajasthan Royals,5008.0,top_order_anchor,,
+ipl_batting,strike_rate,1,V Suryavanshi,Rajasthan Royals,224.66,aggressive_opener,,
+ipl_batting,strike_rate,2,Priyansh Arya,Punjab Kings,200.97,aggressive_opener,,
+ipl_batting,strike_rate,3,J Fraser-McGurk,Delhi Capitals,199.48,aggressive_opener,,
+ipl_batting,strike_rate,4,FH Allen,Kolkata Knight Riders,192.86,aggressive_opener,,
+ipl_batting,strike_rate,5,R Shepherd,Royal Challengers Bengaluru,189.76,lower_order_hitter,,
+ipl_batting,strike_rate,6,A Mhatre,Chennai Super Kings,183.75,top_order_anchor,,
+ipl_batting,strike_rate,7,V Nigam,Delhi Capitals,179.07,lower_order_hitter,,
+ipl_batting,strike_rate,8,Akash Deep,Royal Challengers Bengaluru,178.57,tailender,,
+ipl_batting,strike_rate,9,LJ Wright,Pune Warriors,176.67,top_order_aggressor,,
+ipl_batting,strike_rate,10,TH David,Mumbai Indians,176.53,finisher,,
+ipl_batting,avg_runs,1,B Sai Sudharsan,Gujarat Titans,43.29,aggressive_opener,,
+ipl_batting,avg_runs,2,KL Rahul,Punjab Kings,39.27,aggressive_opener,,
+ipl_batting,avg_runs,3,V Suryavanshi,Rajasthan Royals,38.59,aggressive_opener,,
+ipl_batting,avg_runs,4,C Connolly,Punjab Kings,38.57,top_order_anchor,,
+ipl_batting,avg_runs,5,DP Conway,Chennai Super Kings,38.57,aggressive_opener,,
+ipl_batting,avg_runs,6,LMP Simmons,Mumbai Indians,37.21,anchor_opener,,
+ipl_batting,avg_runs,7,HM Amla,Punjab Kings,36.06,aggressive_opener,,
+ipl_batting,avg_runs,8,SE Marsh,Punjab Kings,35.9,top_order_anchor,,
+ipl_batting,avg_runs,9,DA Warner,Sunrisers Hyderabad,35.68,aggressive_opener,,
+ipl_batting,avg_runs,10,CH Gayle,Royal Challengers Bengaluru,35.21,aggressive_opener,,
+ipl_batting,sample_reliability_score,1,A Ashish Reddy,Sunrisers Hyderabad,1.0,tailender,,
+ipl_batting,sample_reliability_score,2,JP Faulkner,Rajasthan Royals,1.0,tailender,,
+ipl_batting,sample_reliability_score,3,NV Ojha,Sunrisers Hyderabad,1.0,middle_order,,
+ipl_batting,sample_reliability_score,4,NLTC Perera,Sunrisers Hyderabad,1.0,finisher,,
+ipl_batting,sample_reliability_score,5,N Wadhera,Punjab Kings,1.0,finisher,,
+ipl_batting,sample_reliability_score,6,N Saini,Punjab Kings,1.0,middle_order,,
+ipl_batting,sample_reliability_score,7,N Rana,Kolkata Knight Riders,1.0,top_order_anchor,,
+ipl_batting,sample_reliability_score,8,N Pooran,Lucknow Super Giants,1.0,finisher,,
+ipl_batting,sample_reliability_score,9,N Jagadeesan,Kolkata Knight Riders,1.0,anchor_opener,,
+ipl_batting,sample_reliability_score,10,Mohammed Siraj,Royal Challengers Bengaluru,1.0,tailender,,
+smat_bowling,total_wickets,1,PP Chawla,Gujarat,67.0,,middle_overs_bowler,
+smat_bowling,total_wickets,2,JD Unadkat,Saurashtra,65.0,,death_bowler,
+smat_bowling,total_wickets,3,LI Meriwala,Baroda,62.0,,death_bowler,
+smat_bowling,total_wickets,4,S Kaul,Punjab,60.0,,death_bowler,
+smat_bowling,total_wickets,5,A Sheth,Baroda,59.0,,death_bowler,
+smat_bowling,total_wickets,6,AS Rajpoot,Uttar Pradesh,55.0,,death_bowler,
+smat_bowling,total_wickets,7,TU Deshpande,Mumbai,51.0,,death_bowler,
+smat_bowling,total_wickets,8,Yash Thakur,Vidarbha,48.0,,death_bowler,
+smat_bowling,total_wickets,9,DS Kulkarni,Mumbai,46.0,,death_bowler,
+smat_bowling,total_wickets,10,DG Nalkande,Vidarbha,45.0,,powerplay_bowler,
+smat_bowling,economy_rate,1,Arpit Vasavada,Saurashtra,2.4,,part_time_bowler,
+smat_bowling,economy_rate,2,Rohan Prem,Kerala,4.69,,middle_overs_bowler,
+smat_bowling,economy_rate,3,Shubham Sharma,Madhya Pradesh,4.8,,part_time_bowler,
+smat_bowling,economy_rate,4,M Siddharth,Tamil Nadu,4.83,,middle_overs_bowler,
+smat_bowling,economy_rate,5,Karan Lal,Bengal,4.9,,middle_overs_bowler,
+smat_bowling,economy_rate,6,NB Singh,Rajasthan,5.23,,death_bowler,
+smat_bowling,economy_rate,7,Antony Dhas,Tamil Nadu,5.24,,part_time_bowler,
+smat_bowling,economy_rate,8,Jay Chauhan,Saurashtra,5.25,,middle_overs_bowler,
+smat_bowling,economy_rate,9,N Sindhu,Haryana,5.25,,part_time_bowler,
+smat_bowling,economy_rate,10,AL Menaria,Rajasthan,5.27,,middle_overs_bowler,
+smat_bowling,bowling_dot_rate,1,Arpit Vasavada,Saurashtra,0.657,,part_time_bowler,
+smat_bowling,bowling_dot_rate,2,M Siddharth,Tamil Nadu,0.62,,middle_overs_bowler,
+smat_bowling,bowling_dot_rate,3,Akash Sudan,Delhi,0.583,,all_phases_bowler,
+smat_bowling,bowling_dot_rate,4,Aditya Jadeja,Saurashtra,0.571,,part_time_bowler,
+smat_bowling,bowling_dot_rate,5,Amit Yadav,Goa,0.524,,powerplay_bowler,
+smat_bowling,bowling_dot_rate,6,Rajan Kumar,Uttarakhand,0.522,,powerplay_bowler,
+smat_bowling,bowling_dot_rate,7,NB Singh,Rajasthan,0.519,,death_bowler,
+smat_bowling,bowling_dot_rate,8,V Kaverappa,Karnataka,0.519,,death_bowler,
+smat_bowling,bowling_dot_rate,9,P Awana,Delhi,0.515,,powerplay_bowler,
+smat_bowling,bowling_dot_rate,10,G Anikethreddy,Hyderabad (India),0.514,,middle_overs_bowler,
+smat_bowling,sample_reliability_score,1,A Aravinddaraj,Puducherry,1.0,,middle_overs_bowler,
+smat_bowling,sample_reliability_score,2,JD Unadkat,Saurashtra,1.0,,death_bowler,
+smat_bowling,sample_reliability_score,3,Palzor Tamang,Sikkim,1.0,,powerplay_bowler,
+smat_bowling,sample_reliability_score,4,Pallav Kumar Das,Assam,1.0,,middle_overs_bowler,
+smat_bowling,sample_reliability_score,5,PV Tambe,Mumbai,1.0,,middle_overs_bowler,
+smat_bowling,sample_reliability_score,6,PP Chawla,Gujarat,1.0,,middle_overs_bowler,
+smat_bowling,sample_reliability_score,7,PN Mankad,Saurashtra,1.0,,middle_overs_bowler,
+smat_bowling,sample_reliability_score,8,PJ Sangwan,Delhi,1.0,,powerplay_bowler,
+smat_bowling,sample_reliability_score,9,P Prasanth,Kerala,1.0,,middle_overs_bowler,
+smat_bowling,sample_reliability_score,10,P Negi,Delhi,1.0,,middle_overs_bowler,
+ipl_bowling,total_wickets,1,YS Chahal,Royal Challengers Bengaluru,228.0,,middle_overs_bowler,
+ipl_bowling,total_wickets,2,B Kumar,Sunrisers Hyderabad,215.0,,death_bowler,
+ipl_bowling,total_wickets,3,SP Narine,Kolkata Knight Riders,199.0,,middle_overs_bowler,
+ipl_bowling,total_wickets,4,PP Chawla,Punjab Kings,192.0,,middle_overs_bowler,
+ipl_bowling,total_wickets,5,R Ashwin,Chennai Super Kings,187.0,,middle_overs_bowler,
+ipl_bowling,total_wickets,6,JJ Bumrah,Mumbai Indians,185.0,,death_bowler,
+ipl_bowling,total_wickets,7,DJ Bravo,Chennai Super Kings,183.0,,death_bowler,
+ipl_bowling,total_wickets,8,RA Jadeja,Chennai Super Kings,177.0,,middle_overs_bowler,
+ipl_bowling,total_wickets,9,A Mishra,Delhi Capitals,174.0,,middle_overs_bowler,
+ipl_bowling,total_wickets,10,SL Malinga,Mumbai Indians,170.0,,death_bowler,
+ipl_bowling,economy_rate,1,MJ Clarke,Pune Warriors,6.09,,middle_overs_bowler,
+ipl_bowling,economy_rate,2,A Chandila,Rajasthan Royals,6.21,,powerplay_bowler,
+ipl_bowling,economy_rate,3,Sohail Tanvir,Rajasthan Royals,6.46,,death_bowler,
+ipl_bowling,economy_rate,4,SMSM Senanayake,Kolkata Knight Riders,6.53,,powerplay_bowler,
+ipl_bowling,economy_rate,5,SM Pollock,Mumbai Indians,6.54,,powerplay_bowler,
+ipl_bowling,economy_rate,6,A Kumble,Royal Challengers Bengaluru,6.58,,middle_overs_bowler,
+ipl_bowling,economy_rate,7,FH Edwards,Sunrisers Hyderabad,6.6,,death_bowler,
+ipl_bowling,economy_rate,8,GD McGrath,Delhi Capitals,6.61,,powerplay_bowler,
+ipl_bowling,economy_rate,9,M Muralitharan,Chennai Super Kings,6.68,,middle_overs_bowler,
+ipl_bowling,economy_rate,10,IS Sodhi,Rajasthan Royals,6.7,,middle_overs_bowler,
+ipl_bowling,bowling_dot_rate,1,DJ Muthuswami,Delhi Capitals,0.56,,powerplay_bowler,
+ipl_bowling,bowling_dot_rate,2,FH Edwards,Sunrisers Hyderabad,0.536,,death_bowler,
+ipl_bowling,bowling_dot_rate,3,Sohail Tanvir,Rajasthan Royals,0.526,,death_bowler,
+ipl_bowling,bowling_dot_rate,4,M Ntini,Chennai Super Kings,0.514,,powerplay_bowler,
+ipl_bowling,bowling_dot_rate,5,R Rampaul,Royal Challengers Bengaluru,0.511,,powerplay_bowler,
+ipl_bowling,bowling_dot_rate,6,GD McGrath,Delhi Capitals,0.5,,powerplay_bowler,
+ipl_bowling,bowling_dot_rate,7,BW Hilfenhaus,Chennai Super Kings,0.495,,powerplay_bowler,
+ipl_bowling,bowling_dot_rate,8,SS Cottrell,Punjab Kings,0.492,,powerplay_bowler,
+ipl_bowling,bowling_dot_rate,9,SB Wagh,Pune Warriors,0.49,,powerplay_bowler,
+ipl_bowling,bowling_dot_rate,10,DW Steyn,Sunrisers Hyderabad,0.489,,powerplay_bowler,
+ipl_bowling,sample_reliability_score,1,A Ashish Reddy,Sunrisers Hyderabad,1.0,,death_bowler,
+ipl_bowling,sample_reliability_score,2,RE van der Merwe,Royal Challengers Bengaluru,1.0,,middle_overs_bowler,
+ipl_bowling,sample_reliability_score,3,PJ Cummins,Sunrisers Hyderabad,1.0,,powerplay_bowler,
+ipl_bowling,sample_reliability_score,4,PC Valthaty,Punjab Kings,1.0,,middle_overs_bowler,
+ipl_bowling,sample_reliability_score,5,P Parameswaran,Kochi Tuskers Kerala,1.0,,middle_overs_bowler,
+ipl_bowling,sample_reliability_score,6,P Negi,Royal Challengers Bengaluru,1.0,,middle_overs_bowler,
+ipl_bowling,sample_reliability_score,7,P Kumar,Punjab Kings,1.0,,powerplay_bowler,
+ipl_bowling,sample_reliability_score,8,P Awana,Punjab Kings,1.0,,powerplay_bowler,
+ipl_bowling,sample_reliability_score,9,OC McCoy,Rajasthan Royals,1.0,,death_bowler,
+ipl_bowling,sample_reliability_score,10,Noor Ahmad,Gujarat Titans,1.0,,middle_overs_bowler,
+smat_allrounder,allrounder_index,1,Y Prithvi Raj,Andhra,118.95,tailender,part_time_bowler,pure_bowler
+smat_allrounder,allrounder_index,2,Suryansh Shedge,Mumbai,113.89,finisher,part_time_bowler,pure_bowler
+smat_allrounder,allrounder_index,3,Arjit Gupta,Rajasthan,108.22,middle_order,part_time_bowler,pure_batter
+smat_allrounder,allrounder_index,4,RA Bawa,Chandigarh,107.98,middle_order,part_time_bowler,pure_bowler
+smat_allrounder,allrounder_index,5,P Saravana Kumar,Tamil Nadu,105.28,tailender,part_time_bowler,pure_bowler
+smat_allrounder,allrounder_index,6,AS Bedi,Himachal,102.98,tailender,part_time_bowler,pure_bowler
+smat_allrounder,allrounder_index,7,RS Jaganath Sinivas,Nagaland,98.68,middle_order,part_time_bowler,pure_bowler
+smat_allrounder,allrounder_index,8,Jonty Sidhu,Delhi,97.98,middle_order,part_time_bowler,pure_bowler
+smat_allrounder,allrounder_index,9,Mohit Jain,Rajasthan,96.02,,part_time_bowler,pure_bowler
+smat_allrounder,allrounder_index,10,Ajay Dev Goud,Hyderabad (India),95.28,,part_time_bowler,pure_bowler
+smat_allrounder,batting_strength_score,1,Nishunk Birla,Chandigarh,141.4,tailender,part_time_bowler,pure_batter
+smat_allrounder,batting_strength_score,2,Suryansh Shedge,Mumbai,126.61,finisher,part_time_bowler,pure_bowler
+smat_allrounder,batting_strength_score,3,M Pranith,Andhra,116.45,aggressive_opener,,pure_batter
+smat_allrounder,batting_strength_score,4,MV Pithiya,Baroda,107.1,tailender,part_time_bowler,pure_batter
+smat_allrounder,batting_strength_score,5,RR Pant,Delhi,106.68,aggressive_opener,,pure_batter
+smat_allrounder,batting_strength_score,6,Y Prithvi Raj,Andhra,106.05,tailender,part_time_bowler,pure_bowler
+smat_allrounder,batting_strength_score,7,R Pratap Singh,Bihar,106.05,middle_order,part_time_bowler,pure_bowler
+smat_allrounder,batting_strength_score,8,Saurabh Dubey,Uttar Pradesh,105.77,middle_order,part_time_bowler,pure_batter
+smat_allrounder,batting_strength_score,9,S Arora,Uttarakhand,105.54,top_order_anchor,,pure_batter
+smat_allrounder,batting_strength_score,10,A Awasthi,Arunachal Pradesh,103.23,aggressive_opener,,pure_batter
+smat_allrounder,bowling_strength_score,1,Mohit Jain,Rajasthan,192.05,,part_time_bowler,pure_bowler
+smat_allrounder,bowling_strength_score,2,Ajay Dev Goud,Hyderabad (India),190.55,,part_time_bowler,pure_bowler
+smat_allrounder,bowling_strength_score,3,AH Passi,Baroda,183.48,,part_time_bowler,pure_bowler
+smat_allrounder,bowling_strength_score,4,PR Veer,Uttar Pradesh,163.52,tailender,part_time_bowler,pure_bowler
+smat_allrounder,bowling_strength_score,5,Niyas Nizar,Kerala,160.28,tailender,part_time_bowler,pure_bowler
+smat_allrounder,bowling_strength_score,6,Karanveer Singh,Chandigarh,160.18,,part_time_bowler,pure_bowler
+smat_allrounder,bowling_strength_score,7,M Siddharth,Tamil Nadu,158.57,tailender,middle_overs_bowler,pure_bowler
+smat_allrounder,bowling_strength_score,8,Arjit Gupta,Rajasthan,157.35,middle_order,part_time_bowler,pure_batter
+smat_allrounder,bowling_strength_score,9,S Ladda,Punjab,156.57,,part_time_bowler,pure_bowler
+smat_allrounder,bowling_strength_score,10,Prathamesh Dake,Mumbai,150.12,,part_time_bowler,pure_bowler
+ipl_allrounder,allrounder_index,1,KT Maphaka,Rajasthan Royals,102.1,tailender,powerplay_bowler,pure_bowler
+ipl_allrounder,allrounder_index,2,DAJ Bracewell,Delhi Capitals,101.55,tailender,part_time_bowler,pure_bowler
+ipl_allrounder,allrounder_index,3,Umar Gul,Kolkata Knight Riders,96.45,tailender,death_bowler,pure_bowler
+ipl_allrounder,allrounder_index,4,MA Wood,Lucknow Super Giants,89.28,tailender,death_bowler,pure_bowler
+ipl_allrounder,allrounder_index,5,B Stanlake,Sunrisers Hyderabad,88.93,tailender,powerplay_bowler,pure_bowler
+ipl_allrounder,allrounder_index,6,AP Dole,Rajasthan Royals,88.63,tailender,powerplay_bowler,pure_bowler
+ipl_allrounder,allrounder_index,7,AC Gilchrist,Sunrisers Hyderabad,83.62,aggressive_opener,part_time_bowler,pure_batter
+ipl_allrounder,allrounder_index,8,Sohail Tanvir,Rajasthan Royals,83.27,middle_order,death_bowler,pure_bowler
+ipl_allrounder,allrounder_index,9,L Wood,Mumbai Indians,82.85,tailender,part_time_bowler,pure_bowler
+ipl_allrounder,allrounder_index,10,AD Russell,Kolkata Knight Riders,80.04,finisher,death_bowler,batting_allrounder
+ipl_allrounder,batting_strength_score,1,KT Maphaka,Rajasthan Royals,142.8,tailender,powerplay_bowler,pure_bowler
+ipl_allrounder,batting_strength_score,2,V Suryavanshi,Rajasthan Royals,111.55,aggressive_opener,,pure_batter
+ipl_allrounder,batting_strength_score,3,L Wood,Mumbai Indians,108.15,tailender,part_time_bowler,pure_bowler
+ipl_allrounder,batting_strength_score,4,Vivrant Sharma,Sunrisers Hyderabad,105.53,anchor_opener,part_time_bowler,pure_batter
+ipl_allrounder,batting_strength_score,5,A Mhatre,Chennai Super Kings,96.94,top_order_anchor,,pure_batter
+ipl_allrounder,batting_strength_score,6,Priyansh Arya,Punjab Kings,93.93,aggressive_opener,,pure_batter
+ipl_allrounder,batting_strength_score,7,Urvil Patel,Chennai Super Kings,93.3,top_order_aggressor,,pure_batter
+ipl_allrounder,batting_strength_score,8,C Connolly,Punjab Kings,89.69,top_order_anchor,,pure_batter
+ipl_allrounder,batting_strength_score,9,B Stanlake,Sunrisers Hyderabad,89.25,tailender,powerplay_bowler,pure_bowler
+ipl_allrounder,batting_strength_score,10,J Fraser-McGurk,Delhi Capitals,88.79,aggressive_opener,,pure_batter
+ipl_allrounder,bowling_strength_score,1,DAJ Bracewell,Delhi Capitals,152.23,tailender,part_time_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,2,MA Wood,Lucknow Super Giants,124.67,tailender,death_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,3,Sohail Tanvir,Rajasthan Royals,120.57,middle_order,death_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,4,V Kaverappa,Punjab Kings,117.85,,part_time_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,5,Umar Gul,Kolkata Knight Riders,117.65,tailender,death_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,6,D du Preez,Royal Challengers Bengaluru,117.52,tailender,part_time_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,7,JA Duffy,Royal Challengers Bengaluru,115.82,,powerplay_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,8,PP Hinge,Sunrisers Hyderabad,114.2,tailender,death_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,9,CK Langeveldt,Kolkata Knight Riders,114.14,tailender,death_bowler,pure_bowler
+ipl_allrounder,bowling_strength_score,10,B Muzarabani,Kolkata Knight Riders,113.47,,part_time_bowler,pure_bowler

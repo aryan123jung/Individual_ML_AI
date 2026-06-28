@@ -1,0 +1,5 @@
+variant,tn,fp,fn,tp
+full_feature_set,87,15,1,176
+without_allrounder_index,84,18,13,164
+without_composite_strength_scores,86,16,0,177
+raw_features_only,74,28,13,164

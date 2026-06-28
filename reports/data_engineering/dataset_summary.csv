@@ -1,0 +1,13 @@
+dataset,rows,columns,unique_players,duplicate_rows,total_missing_values,eligible_players
+smat_batting,1301,51,1301.0,0,1964,891.0
+smat_bowling,970,38,970.0,0,1352,654.0
+smat_allrounder,1463,21,1463.0,0,3931,
+smat_positions,1301,7,1301.0,0,0,
+ipl_batting,727,51,727.0,0,918,472.0
+ipl_bowling,568,38,568.0,0,512,400.0
+ipl_allrounder,794,21,794.0,0,1758,
+ipl_positions,727,7,727.0,0,0,
+ipl_2026_batting,177,32,177.0,0,194,
+ipl_2026_bowling,127,33,127.0,0,109,
+ipl_2026_current_squad,257,26,,0,1287,
+ipl_2026_match_summary,39,28,,0,52,

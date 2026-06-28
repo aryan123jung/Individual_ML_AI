@@ -1,5 +1,0 @@
-file,rows_before,rows_after,missing_player,unknown_team,missing_opponent,bad_dates
-smat_batting_raw.csv,10569,10569,0,0,0,0
-smat_bowling_raw.csv,8278,8278,0,0,0,0
-ipl_batting_raw.csv,18057,18057,0,0,0,0
-ipl_bowling_raw.csv,14118,14118,0,0,0,0

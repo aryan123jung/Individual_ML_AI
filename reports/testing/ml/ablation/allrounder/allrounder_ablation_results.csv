@@ -1,0 +1,5 @@
+variant,feature_count,features_used,test_seasons,accuracy,precision,recall,f1_score,roc_auc
+full_feature_set,8,"batting_strength_score,bowling_strength_score,allrounder_index,total_runs,strike_rate,total_wickets,avg_wickets_per_match,economy_rate","2024,2025,2026",0.9427,0.9215,0.9944,0.9565,0.9905
+without_composite_strength_scores,6,"allrounder_index,total_runs,strike_rate,total_wickets,avg_wickets_per_match,economy_rate","2024,2025,2026",0.9427,0.9171,1.0,0.9568,0.9908
+without_allrounder_index,7,"batting_strength_score,bowling_strength_score,total_runs,strike_rate,total_wickets,avg_wickets_per_match,economy_rate","2024,2025,2026",0.8889,0.9011,0.9266,0.9136,0.9602
+raw_features_only,5,"total_runs,strike_rate,total_wickets,avg_wickets_per_match,economy_rate","2024,2025,2026",0.853,0.8542,0.9266,0.8889,0.9365

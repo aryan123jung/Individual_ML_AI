@@ -1,0 +1,859 @@
+match_no,innings,player,date,stage,venue,team,opponent,runs_conceded,balls_bowled,wickets,wides,noballs,dot_balls,pp_runs,pp_balls,mid_runs,mid_balls,death_runs,death_balls,maiden_over
+1,1,Abhinandan Singh,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Sunrisers Hyderabad,38,18,1,0,0,7,16,6,9,6,13,6,0
+1,1,Bhuvneshwar Kumar,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Sunrisers Hyderabad,31,24,1,2,0,9,15,12,0,0,16,12,0
+1,1,Jacob Duffy,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Sunrisers Hyderabad,23,24,4,2,0,13,18,18,5,6,0,0,0
+1,1,Krunal Pandya,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Sunrisers Hyderabad,27,13,1,0,0,1,0,0,27,13,0,0,0
+1,1,Romario Shepherd,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Sunrisers Hyderabad,54,24,3,1,0,5,0,0,25,12,29,12,0
+1,1,Suyash Sharma,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Sunrisers Hyderabad,28,18,1,0,0,6,0,0,28,18,0,0,0
+1,2,David Payne,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,35,18,2,1,0,5,18,6,17,12,0,0,0
+1,2,Eshan Malinga,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,35,12,0,4,0,3,0,0,35,12,0,0,0
+1,2,Harsh Dubey,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,35,18,1,0,0,4,9,6,26,12,0,0,0
+1,2,Harshal Patel,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,39,17,1,1,0,4,0,0,21,13,18,4,0
+1,2,Jaydev Unadkat,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,29,18,1,1,0,6,23,12,6,6,0,0,0
+1,2,Nitish Reddy,"Mar 28, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,19,12,0,0,0,5,19,12,0,0,0,0,0
+2,1,AM Ghazanfar,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,51,24,0,1,0,6,17,6,34,18,0,0,0
+2,1,Hardik Pandya,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,39,18,1,2,0,7,29,12,0,0,10,6,0
+2,1,Jasprit Bumrah,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,35,24,0,1,1,4,11,6,5,6,19,12,0
+2,1,Mayank Markande,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,16,6,0,0,0,1,0,0,16,6,0,0,0
+2,1,Shardul Thakur,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,39,24,3,0,0,7,10,6,15,12,14,6,0
+2,1,Trent Boult,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,38,24,0,3,0,7,10,6,18,12,10,6,0
+2,2,Anukul Roy,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,15,7,0,1,0,1,0,0,11,6,4,1,0
+2,2,Blessing Muzarabani,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,34,18,1,0,0,6,24,12,0,0,10,6,0
+2,2,Kartik Tyagi,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,43,24,1,0,1,9,16,6,20,12,7,6,0
+2,2,Sunil Narine,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,30,18,1,0,0,6,0,0,22,12,8,6,0
+2,2,Vaibhav Arora,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,52,24,1,1,0,8,24,12,17,6,11,6,0
+2,2,Varun Chakaravarthy,"Mar 29, 2026",League stage,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,48,24,0,1,0,5,15,6,33,18,0,0,0
+3,1,Brijesh Sharma,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Chennai Super Kings,17,18,1,2,0,10,6,6,11,12,0,0,0
+3,1,Jofra Archer,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Chennai Super Kings,19,24,2,1,0,17,11,12,3,6,5,6,0
+3,1,Nandre Burger,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Chennai Super Kings,27,24,2,3,1,14,14,12,4,6,9,6,0
+3,1,Ravi Bishnoi,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Chennai Super Kings,16,18,1,0,0,8,0,0,15,12,1,6,0
+3,1,Ravindra Jadeja,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Chennai Super Kings,18,18,2,0,0,11,0,0,18,18,0,0,0
+3,1,Sandeep Sharma,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Chennai Super Kings,22,16,2,0,0,3,5,6,0,0,17,10,0
+3,2,Anshul Kamboj,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,27,18,2,0,0,8,15,6,12,12,0,0,0
+3,2,Jamie Overton,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,14,6,0,0,0,1,0,0,14,6,0,0,0
+3,2,Khaleel Ahmed,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,17,18,0,0,0,10,11,12,6,6,0,0,0
+3,2,Matt Henry,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,40,18,0,1,0,2,28,12,12,6,0,0,0
+3,2,Matthew Short,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,1,1,0,0,0,0,0,0,1,1,0,0,0
+3,2,Noor Ahmad,"Mar 30, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,24,12,0,0,0,4,15,6,9,6,0,0,0
+4,1,Arshdeep Singh,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Gujarat Titans,41,24,0,7,1,9,21,12,9,6,11,6,0
+4,1,Marco Jansen,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Gujarat Titans,20,24,1,0,0,8,9,12,5,6,6,6,0
+4,1,Vijaykumar Vyshak,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Gujarat Titans,34,24,3,1,0,8,10,6,18,12,6,6,0
+4,1,Xavier Bartlett,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Gujarat Titans,36,24,0,1,0,9,14,6,15,12,7,6,0
+4,1,Yuzvendra Chahal,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Gujarat Titans,28,24,2,1,0,9,0,0,25,18,3,6,0
+4,2,Ashok Sharma,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Punjab Kings,31,18,1,2,0,8,13,6,13,6,5,6,0
+4,2,Kagiso Rabada,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Punjab Kings,34,18,1,0,0,7,22,12,0,0,12,6,0
+4,2,Mohammed Siraj,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Punjab Kings,15,12,0,0,0,6,15,12,0,0,0,0,0
+4,2,Prasidh Krishna,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Punjab Kings,29,24,3,2,0,11,0,0,6,12,23,12,0
+4,2,Rashid Khan,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Punjab Kings,29,24,1,0,0,10,5,6,24,18,0,0,0
+4,2,Washington Sundar,"Mar 31, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Punjab Kings,27,19,1,0,0,6,0,0,23,18,4,1,0
+5,1,Axar Patel,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,17,18,1,0,0,9,13,12,4,6,0,0,0
+5,1,Kuldeep Yadav,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,31,24,2,0,0,8,0,0,25,18,6,6,0
+5,1,Lungi Ngidi,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,27,22,3,0,0,9,10,6,8,6,9,10,0
+5,1,Mukesh Kumar,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,17,18,1,2,0,11,17,18,0,0,0,0,0
+5,1,Natarajan,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,29,24,3,0,0,8,0,0,24,18,5,6,0
+5,1,Vipraj Nigam,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,8,6,0,0,0,2,0,0,8,6,0,0,0
+5,2,Abdul Samad,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,6,1,0,0,0,0,0,0,0,0,6,1,0
+5,2,Aiden Markram,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,13,6,0,0,0,2,0,0,13,6,0,0,0
+5,2,Anrich Nortje,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,35,24,0,3,0,7,0,0,26,18,9,6,0
+5,2,Mohammed Shami,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,27,24,1,3,0,12,12,12,15,12,0,0,0
+5,2,Mohsin Khan,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,19,24,1,1,0,15,2,12,4,6,13,6,1
+5,2,Prince Yadav,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,20,18,2,4,0,10,14,12,6,6,0,0,0
+5,2,Shahbaz Ahmed,"Apr 1, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,16,6,0,0,0,0,0,0,16,6,0,0,0
+6,1,Anukul Roy,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,16,12,1,2,0,4,0,0,16,12,0,0,0
+6,1,Blessing Muzarabani,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,41,24,4,2,0,7,16,6,10,12,15,6,0
+6,1,Kartik Tyagi,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,48,24,1,2,0,6,13,6,12,6,23,12,0
+6,1,Sunil Narine,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,39,24,0,0,0,6,3,6,36,18,0,0,0
+6,1,Vaibhav Arora,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,47,24,2,2,0,9,27,12,0,0,20,12,0
+6,1,Varun Chakaravarthy,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,31,12,0,1,0,1,25,6,6,6,0,0,0
+6,2,Abhishek Sharma,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,15,6,0,0,0,1,15,6,0,0,0,0,0
+6,2,David Payne,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,35,12,0,0,0,0,25,6,10,6,0,0,0
+6,2,Eshan Malinga,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,13,12,3,4,0,6,7,6,6,6,0,0,0
+6,2,Harsh Dubey,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,16,12,1,1,0,3,16,12,0,0,0,0,0
+6,2,Jaydev Unadkat,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,21,18,3,0,0,7,10,6,9,6,2,6,0
+6,2,Nitish Reddy,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,17,12,2,0,0,5,0,0,17,12,0,0,0
+6,2,Shivang Kumar,"Apr 2, 2026",League stage,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,41,24,1,0,0,8,0,0,41,24,0,0,0
+7,1,Arshdeep Singh,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,41,24,0,3,0,9,13,12,15,6,13,6,0
+7,1,Marco Jansen,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,39,24,1,2,0,11,6,6,19,12,14,6,0
+7,1,Marcus Stoinis,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,17,6,0,1,0,1,0,0,17,6,0,0,0
+7,1,Vijaykumar Vyshak,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,38,24,2,0,0,8,10,6,16,12,12,6,0
+7,1,Xavier Bartlett,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,48,24,1,2,0,7,24,12,0,0,24,12,0
+7,1,Yuzvendra Chahal,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,20,18,1,2,1,4,0,0,20,18,0,0,0
+7,2,Anshul Kamboj,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,43,22,2,1,1,9,12,6,10,6,21,10,0
+7,2,Khaleel Ahmed,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,27,18,0,2,0,9,27,18,0,0,0,0,0
+7,2,Matt Henry,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,54,24,2,0,0,6,27,12,15,6,12,6,0
+7,2,Noor Ahmad,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,38,24,1,1,1,6,0,0,38,24,0,0,0
+7,2,Rahul Chahar,"Apr 3, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,46,24,0,1,0,4,0,0,32,18,14,6,0
+8,1,Axar Patel,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,22,24,1,1,0,8,3,6,19,18,0,0,0
+8,1,Kuldeep Yadav,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,31,18,0,0,0,4,0,0,31,18,0,0,0
+8,1,Lungi Ngidi,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,34,24,1,1,0,8,19,12,0,0,15,12,0
+8,1,Mukesh Kumar,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,26,18,3,1,0,10,12,12,0,0,14,6,0
+8,1,Natarajan,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,24,18,1,0,0,4,0,0,8,6,16,12,0
+8,1,Vipraj Nigam,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,24,18,1,1,0,7,7,6,17,12,0,0,0
+8,2,Corbin Bosch,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,39,19,1,1,0,6,0,0,32,12,7,7,0
+8,2,Deepak Chahar,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,20,18,1,0,0,10,7,12,13,6,0,0,0
+8,2,Jasprit Bumrah,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,21,24,1,1,0,13,9,12,1,6,11,6,0
+8,2,Mayank Markande,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,20,12,0,1,0,3,0,0,20,12,0,0,0
+8,2,Mitchell Santner,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,22,18,1,0,0,8,10,6,12,12,0,0,0
+8,2,Shardul Thakur,"Apr 4, 2026",League stage,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,41,18,0,1,0,3,16,6,17,6,8,6,0
+9,1,Ashok Sharma,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,37,24,1,2,0,10,13,6,5,6,19,12,0
+9,1,Kagiso Rabada,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,42,24,2,3,0,11,19,12,12,6,11,6,0
+9,1,Mohammed Siraj,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,48,24,1,1,0,11,25,12,14,6,9,6,0
+9,1,Prasidh Krishna,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,43,24,1,1,0,9,12,6,20,12,11,6,0
+9,1,Rashid Khan,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,35,24,1,2,0,4,0,0,35,24,0,0,0
+9,2,Jofra Archer,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,34,24,0,1,0,10,21,12,0,0,13,12,0
+9,2,Nandre Burger,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,29,18,1,1,0,7,7,6,22,12,0,0,0
+9,2,Ravi Bishnoi,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,41,24,5,0,1,9,0,0,31,18,10,6,0
+9,2,Ravindra Jadeja,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,25,12,0,0,0,1,0,0,25,12,0,0,0
+9,2,Riyan Parag,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,11,6,1,0,0,3,0,0,11,6,0,0,0
+9,2,Sandeep Sharma,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,34,18,0,0,0,4,19,12,0,0,15,6,0
+9,2,Tushar Deshpande,"Apr 4, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,24,18,1,1,0,7,5,6,15,6,4,6,0
+10,1,Avesh Khan,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Lucknow Super Giants,Sunrisers Hyderabad,36,24,2,0,0,7,0,0,23,12,13,12,0
+10,1,Digvesh Singh Rathi,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Lucknow Super Giants,Sunrisers Hyderabad,46,24,1,1,0,5,7,6,39,18,0,0,0
+10,1,Manimaran Siddharth,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Lucknow Super Giants,Sunrisers Hyderabad,29,24,1,1,0,10,7,6,12,12,10,6,0
+10,1,Mohammed Shami,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Lucknow Super Giants,Sunrisers Hyderabad,9,24,2,1,0,18,7,18,2,6,0,0,0
+10,1,Prince Yadav,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Lucknow Super Giants,Sunrisers Hyderabad,34,24,3,0,0,11,1,6,16,6,17,12,0
+10,2,Eshan Malinga,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,30,24,1,0,0,9,5,6,15,12,10,6,0
+10,2,Harsh Dubey,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,18,24,2,0,0,12,10,12,2,6,6,6,0
+10,2,Harshal Patel,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,16,19,0,0,0,7,0,0,12,12,4,7,0
+10,2,Jaydev Unadkat,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,50,23,0,0,0,6,24,12,0,0,26,11,0
+10,2,Nitish Reddy,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,14,6,0,0,0,1,14,6,0,0,0,0,0
+10,2,Shivang Kumar,"Apr 5, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,30,24,2,0,0,5,0,0,30,24,0,0,0
+11,1,Anshul Kamboj,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,52,24,1,1,1,6,10,6,15,6,27,12,0
+11,1,Jamie Overton,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,42,18,1,0,0,5,0,0,12,12,30,6,0
+11,1,Khaleel Ahmed,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,37,24,0,1,0,9,18,18,0,0,19,6,0
+11,1,Matt Henry,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,36,18,0,0,0,2,22,12,14,6,0,0,0
+11,1,Noor Ahmad,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,49,24,0,0,0,6,0,0,29,18,20,6,0
+11,1,Shivam Dube,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,30,12,1,1,0,2,0,0,30,12,0,0,0
+11,2,Abhinandan Singh,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,30,22,2,0,0,6,13,6,14,12,3,4,0
+11,2,Bhuvneshwar Kumar,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,41,24,3,1,1,11,18,12,0,0,23,12,0
+11,2,Jacob Duffy,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,58,24,2,2,1,7,44,18,0,0,14,6,0
+11,2,Krunal Pandya,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,36,18,2,0,0,7,0,0,36,18,0,0,0
+11,2,Romario Shepherd,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,19,6,0,0,0,0,0,0,19,6,0,0,0
+11,2,Suyash Sharma,"Apr 5, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,21,24,1,0,0,9,0,0,19,18,2,6,0
+12,1,Arshdeep Singh,"Apr 6, 2026",League stage,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,16,12,0,0,0,2,16,12,0,0,0,0,0
+12,1,Xavier Bartlett,"Apr 6, 2026",League stage,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,9,10,2,0,0,8,9,10,0,0,0,0,0
+13,1,AM Ghazanfar,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Mumbai Indians,Rajasthan Royals,21,12,2,1,0,4,9,6,12,6,0,0,0
+13,1,Deepak Chahar,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Mumbai Indians,Rajasthan Royals,22,6,0,0,0,1,22,6,0,0,0,0,0
+13,1,Hardik Pandya,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Mumbai Indians,Rajasthan Royals,17,12,0,0,0,3,4,6,13,6,0,0,0
+13,1,Jasprit Bumrah,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Mumbai Indians,Rajasthan Royals,32,18,0,1,0,5,14,6,18,12,0,0,0
+13,1,Shardul Thakur,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Mumbai Indians,Rajasthan Royals,36,12,1,3,0,2,18,6,18,6,0,0,0
+13,1,Trent Boult,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Mumbai Indians,Rajasthan Royals,22,6,0,1,0,0,22,6,0,0,0,0,0
+13,2,Jofra Archer,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Mumbai Indians,17,12,2,0,0,3,10,6,7,6,0,0,0
+13,2,Nandre Burger,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Mumbai Indians,21,12,2,1,0,6,12,6,9,6,0,0,0
+13,2,Ravi Bishnoi,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Mumbai Indians,25,12,2,1,0,2,10,6,15,6,0,0,0
+13,2,Sandeep Sharma,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Mumbai Indians,26,18,2,3,0,9,17,12,9,6,0,0,0
+13,2,Tushar Deshpande,"Apr 7, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Mumbai Indians,29,12,1,1,0,3,10,6,19,6,0,0,0
+14,1,Axar Patel,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,32,18,0,1,0,2,13,6,19,12,0,0,0
+14,1,Kuldeep Yadav,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,42,24,1,0,0,5,0,0,28,18,14,6,0
+14,1,Lungi Ngidi,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,24,24,1,2,0,11,12,12,9,6,3,6,0
+14,1,Mukesh Kumar,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,55,24,2,2,0,8,43,18,0,0,12,6,0
+14,1,Natarajan,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,34,24,0,0,0,4,0,0,14,12,20,12,0
+14,1,Vipraj Nigam,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,23,6,0,0,1,1,0,0,23,6,0,0,0
+14,2,Ashok Sharma,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,45,18,0,2,0,2,23,6,6,6,16,6,0
+14,2,Kagiso Rabada,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,32,24,0,2,0,9,15,12,8,6,9,6,0
+14,2,Mohammed Siraj,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,51,24,2,3,0,8,21,12,0,0,30,12,0
+14,2,Prasidh Krishna,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,52,24,3,0,0,7,0,0,41,18,11,6,0
+14,2,Rashid Khan,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,17,24,3,0,0,10,4,6,13,18,0,0,0
+14,2,Washington Sundar,"Apr 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,11,6,0,0,0,1,0,0,11,6,0,0,0
+15,1,Avesh Khan,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Lucknow Super Giants,Kolkata Knight Riders,44,24,1,1,0,10,15,6,16,12,13,6,0
+15,1,Digvesh Singh Rathi,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Lucknow Super Giants,Kolkata Knight Riders,25,24,1,0,0,9,10,6,15,18,0,0,0
+15,1,Manimaran Siddharth,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Lucknow Super Giants,Kolkata Knight Riders,33,24,1,1,0,9,8,6,13,12,12,6,0
+15,1,Mohammed Shami,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Lucknow Super Giants,Kolkata Knight Riders,27,24,0,1,0,9,11,12,5,6,11,6,0
+15,1,Prince Yadav,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Lucknow Super Giants,Kolkata Knight Riders,47,24,1,3,0,6,10,6,9,6,28,12,0
+15,2,Anukul Roy,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,32,24,2,4,0,9,16,12,16,12,0,0,0
+15,2,Cameron Green,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,28,12,1,1,1,4,0,0,12,6,16,6,0
+15,2,Kartik Tyagi,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,31,18,1,0,0,6,0,0,18,12,13,6,0
+15,2,Navdeep Saini,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,37,18,0,1,0,6,17,6,20,12,0,0,0
+15,2,Sunil Narine,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,13,24,1,0,0,14,7,6,5,12,1,6,0
+15,2,Vaibhav Arora,"Apr 9, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,38,24,2,0,0,12,14,12,0,0,24,12,0
+16,1,Brijesh Sharma,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Royal Challengers Bengaluru,37,24,2,0,0,4,0,0,28,18,9,6,0
+16,1,Jofra Archer,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Royal Challengers Bengaluru,33,18,2,0,0,6,26,12,7,6,0,0,0
+16,1,Nandre Burger,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Royal Challengers Bengaluru,28,18,0,1,0,7,14,12,14,6,0,0,0
+16,1,Ravi Bishnoi,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Royal Challengers Bengaluru,32,24,2,0,0,8,2,6,14,12,16,6,0
+16,1,Ravindra Jadeja,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Royal Challengers Bengaluru,14,12,1,0,0,2,0,0,14,12,0,0,0
+16,1,Sandeep Sharma,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Royal Challengers Bengaluru,47,24,1,2,0,7,10,6,0,0,37,18,0
+16,2,Abhinandan Singh,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Royal Challengers Bengaluru,Rajasthan Royals,54,18,0,2,0,2,40,12,14,6,0,0,0
+16,2,Bhuvneshwar Kumar,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Royal Challengers Bengaluru,Rajasthan Royals,37,24,0,0,0,9,26,12,4,6,7,6,0
+16,2,Josh Hazlewood,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Royal Challengers Bengaluru,Rajasthan Royals,44,24,2,0,0,8,31,12,13,12,0,0,0
+16,2,Krunal Pandya,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Royal Challengers Bengaluru,Rajasthan Royals,30,24,2,0,0,7,0,0,30,24,0,0,0
+16,2,Romario Shepherd,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Royal Challengers Bengaluru,Rajasthan Royals,18,12,0,0,0,0,0,0,0,0,18,12,0
+16,2,Tim David,"Apr 10, 2026",League stage,"Barsapara Cricket Stadium, Guwahati",Royal Challengers Bengaluru,Rajasthan Royals,18,6,0,0,0,1,0,0,18,6,0,0,0
+17,1,Arshdeep Singh,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Sunrisers Hyderabad,48,24,2,4,0,10,31,12,9,6,8,6,0
+17,1,Marco Jansen,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Sunrisers Hyderabad,40,24,0,1,0,5,16,6,15,12,9,6,0
+17,1,Shashank Singh,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Sunrisers Hyderabad,20,18,2,1,0,7,0,0,20,18,0,0,0
+17,1,Vijaykumar Vyshak,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Sunrisers Hyderabad,33,12,0,0,0,3,24,6,9,6,0,0,0
+17,1,Xavier Bartlett,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Sunrisers Hyderabad,42,24,1,0,1,5,31,12,0,0,11,12,0
+17,1,Yuzvendra Chahal,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Sunrisers Hyderabad,32,18,1,2,0,3,0,0,17,12,15,6,0
+17,2,Abhishek Sharma,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,7,5,0,0,0,1,0,0,0,0,7,5,0
+17,2,Eshan Malinga,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,46,18,0,2,0,6,28,12,0,0,18,6,0
+17,2,Harsh Dubey,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,38,24,1,2,0,5,18,6,15,12,5,6,0
+17,2,Harshal Patel,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,39,12,0,0,0,2,21,6,18,6,0,0,0
+17,2,Jaydev Unadkat,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,40,18,0,0,0,4,26,12,0,0,14,6,0
+17,2,Nitish Reddy,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,20,12,0,0,0,1,0,0,20,12,0,0,0
+17,2,Shivang Kumar,"Apr 11, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,33,24,3,1,0,8,0,0,33,24,0,0,0
+18,1,Auqib Nabi,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,17,12,0,1,0,4,17,12,0,0,0,0,0
+18,1,Axar Patel,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,39,24,1,0,0,5,13,6,26,18,0,0,0
+18,1,Kuldeep Yadav,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,24,12,0,0,0,1,0,0,24,12,0,0,0
+18,1,Lungi Ngidi,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,41,24,0,0,0,6,12,6,11,6,18,12,0
+18,1,Mukesh Kumar,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,37,24,0,1,0,7,10,6,4,6,23,12,0
+18,1,Natarajan,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Chennai Super Kings,54,24,0,1,0,3,9,6,34,12,11,6,0
+18,2,Akeal Hosein,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,19,12,0,0,2,6,19,12,0,0,0,0,0
+18,2,Anshul Kamboj,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,35,24,3,0,1,11,21,12,0,0,14,12,0
+18,2,Gurjapneet Singh,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,35,24,1,1,0,8,0,0,20,18,15,6,0
+18,2,Jamie Overton,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,18,24,4,2,0,13,0,0,12,12,6,12,0
+18,2,Khaleel Ahmed,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,40,18,1,1,0,3,25,12,15,6,0,0,0
+18,2,Noor Ahmad,"Apr 11, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,35,18,1,2,0,4,0,0,35,18,0,0,0
+19,1,Ashok Sharma,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,31,24,2,1,0,14,11,6,2,6,18,12,0
+19,1,Kagiso Rabada,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,54,24,1,0,0,7,34,12,9,6,11,6,0
+19,1,Mohammed Siraj,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,19,24,1,1,0,13,12,18,0,0,7,6,0
+19,1,Prasidh Krishna,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,28,24,4,0,0,13,0,0,13,18,15,6,0
+19,1,Rashid Khan,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,25,24,0,0,0,9,0,0,25,24,0,0,0
+19,2,Aiden Markram,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,15,10,0,0,0,2,0,0,0,0,15,10,0
+19,2,Avesh Khan,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,24,12,0,1,0,3,0,0,24,12,0,0,0
+19,2,Digvesh Singh Rathi,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,31,24,1,1,0,6,7,6,24,18,0,0,0
+19,2,George Linde,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,28,18,0,0,0,5,0,0,28,18,0,0,0
+19,2,Mohammed Shami,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,36,24,1,0,0,12,30,18,0,0,6,6,0
+19,2,Prince Yadav,"Apr 12, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,31,24,1,1,0,9,15,12,2,6,14,6,0
+20,1,Hardik Pandya,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,39,24,1,1,1,7,9,6,14,12,16,6,0
+20,1,Jasprit Bumrah,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,35,24,0,1,0,7,16,12,0,0,19,12,0
+20,1,Mayank Markande,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,40,12,0,0,0,1,0,0,40,12,0,0,0
+20,1,Mitchell Santner,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,43,24,1,1,0,9,22,6,14,12,7,6,0
+20,1,Shardul Thakur,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,31,12,1,5,0,3,0,0,31,12,0,0,0
+20,1,Trent Boult,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,50,24,1,2,0,5,24,12,16,6,10,6,0
+20,2,Bhuvneshwar Kumar,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,38,24,0,2,0,6,11,6,9,6,18,12,0
+20,2,Jacob Duffy,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,58,24,1,4,0,10,28,12,9,6,21,6,0
+20,2,Krunal Pandya,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,26,24,1,1,0,7,7,6,19,18,0,0,0
+20,2,Rasikh Salam Dar,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,23,17,1,0,0,8,15,12,0,0,8,5,0
+20,2,Romario Shepherd,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,28,7,0,2,1,2,0,0,0,0,28,7,0
+20,2,Suyash Sharma,"Apr 12, 2026",League stage,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,47,24,2,0,0,6,0,0,47,24,0,0,0
+21,1,Jofra Archer,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,37,24,2,0,0,13,12,12,17,6,8,6,0
+21,1,Nandre Burger,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,31,24,0,0,0,12,16,12,9,6,6,6,0
+21,1,Ravi Bishnoi,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,35,18,0,0,0,1,0,0,35,18,0,0,0
+21,1,Riyan Parag,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,5,6,1,0,0,1,0,0,5,6,0,0,0
+21,1,Sandeep Sharma,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,51,24,1,3,0,6,12,6,15,12,24,6,0
+21,1,Tushar Deshpande,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,54,24,1,3,0,7,11,6,21,6,22,12,0
+21,2,Eshan Malinga,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,31,24,2,1,0,7,8,6,10,6,13,12,0
+21,2,Harsh Dubey,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,22,12,0,2,0,4,0,0,22,12,0,0,0
+21,2,Nitish Reddy,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,19,12,0,1,0,3,0,0,19,12,0,0,0
+21,2,Praful Hinge,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,34,24,4,2,0,14,18,18,0,0,16,6,0
+21,2,Sakib Hussain,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,24,24,4,3,0,14,14,12,7,6,3,6,0
+21,2,Shivang Kumar,"Apr 13, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,28,18,0,0,0,5,0,0,28,18,0,0,0
+22,1,Anukul Roy,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,21,18,1,4,0,9,15,12,6,6,0,0,0
+22,1,Cameron Green,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,29,12,0,1,0,3,29,12,0,0,0,0,0
+22,1,Kartik Tyagi,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,35,24,2,1,0,9,0,0,21,12,14,12,0
+22,1,Sunil Narine,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,21,24,1,0,0,11,0,0,16,18,5,6,0
+22,1,Vaibhav Arora,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,54,24,1,3,0,7,26,12,0,0,28,12,0
+22,1,Varun Chakaravarthy,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,26,18,0,0,0,6,0,0,26,18,0,0,0
+22,2,Akeal Hosein,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,26,24,1,0,0,7,5,6,21,18,0,0,0
+22,2,Anshul Kamboj,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,32,24,2,2,0,9,13,12,0,0,19,12,0
+22,2,Gurjapneet Singh,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,23,7,0,1,0,1,0,0,19,6,4,1,0
+22,2,Jamie Overton,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,32,18,0,2,0,6,0,0,9,6,23,12,0
+22,2,Khaleel Ahmed,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,24,23,1,0,0,12,17,18,0,0,7,5,0
+22,2,Noor Ahmad,"Apr 14, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,21,24,3,0,0,8,0,0,21,24,0,0,0
+23,1,Bhuvneshwar Kumar,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Lucknow Super Giants,27,24,3,1,0,8,17,12,0,0,10,12,0
+23,1,Josh Hazlewood,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Lucknow Super Giants,20,24,1,1,0,13,6,12,4,6,10,6,0
+23,1,Krunal Pandya,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Lucknow Super Giants,38,24,2,2,0,10,0,0,38,24,0,0,0
+23,1,Rasikh Salam Dar,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Lucknow Super Giants,24,24,4,0,0,13,12,12,0,0,12,12,0
+23,1,Suyash Sharma,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Lucknow Super Giants,34,24,0,0,0,7,0,0,34,24,0,0,0
+23,2,Avesh Khan,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bengaluru,23,24,2,0,0,10,5,6,18,18,0,0,0
+23,2,Digvesh Singh Rathi,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bengaluru,51,24,0,0,0,4,10,6,41,18,0,0,0
+23,2,George Linde,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bengaluru,9,7,0,0,0,1,0,0,5,6,4,1,0
+23,2,Mohammed Shami,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bengaluru,30,18,0,0,0,7,17,12,13,6,0,0,0
+23,2,Prince Yadav,"Apr 15, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bengaluru,32,18,3,1,0,8,24,12,8,6,0,0,0
+24,1,Arshdeep Singh,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,22,24,3,1,0,13,4,12,9,6,9,6,0
+24,1,Marco Jansen,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,30,24,1,1,0,8,15,12,7,6,8,6,0
+24,1,Shashank Singh,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,19,12,1,0,0,3,0,0,4,6,15,6,0
+24,1,Vijaykumar Vyshak,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,36,18,1,1,0,5,15,6,12,6,9,6,0
+24,1,Xavier Bartlett,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,39,24,0,0,0,2,10,6,20,12,9,6,0
+24,1,Yuzvendra Chahal,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,45,18,0,1,0,3,0,0,45,18,0,0,0
+24,2,AM Ghazanfar,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,31,24,2,0,0,8,14,12,17,12,0,0,0
+24,2,Deepak Chahar,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,45,15,0,3,0,2,21,6,14,6,10,3,0
+24,2,Hardik Pandya,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,39,18,0,1,0,3,12,6,27,12,0,0,0
+24,2,Jasprit Bumrah,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,41,24,0,1,1,9,14,12,27,12,0,0,0
+24,2,Shardul Thakur,"Apr 16, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,42,18,1,4,0,2,0,0,26,12,16,6,0
+25,1,Ashok Sharma,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Kolkata Knight Riders,45,24,2,2,1,11,0,0,37,18,8,6,0
+25,1,Kagiso Rabada,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Kolkata Knight Riders,29,24,3,1,0,13,20,18,0,0,9,6,0
+25,1,Mohammed Siraj,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Kolkata Knight Riders,23,24,2,0,0,14,16,18,0,0,7,6,0
+25,1,Prasidh Krishna,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Kolkata Knight Riders,32,24,2,2,0,8,0,0,30,18,2,6,0
+25,1,Rashid Khan,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Kolkata Knight Riders,44,24,1,1,0,10,0,0,43,18,1,6,0
+25,2,Anukul Roy,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Gujarat Titans,37,18,0,1,0,3,20,6,12,6,5,6,0
+25,2,Kartik Tyagi,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Gujarat Titans,40,24,0,1,0,8,11,6,17,12,12,6,0
+25,2,Ramandeep Singh,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Gujarat Titans,5,4,1,1,0,1,0,0,0,0,5,4,0
+25,2,Sunil Narine,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Gujarat Titans,28,24,1,0,0,11,19,12,9,12,0,0,0
+25,2,Vaibhav Arora,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Gujarat Titans,35,24,1,1,0,7,20,12,0,0,15,12,0
+25,2,Varun Chakaravarthy,"Apr 17, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Gujarat Titans,34,24,2,0,0,5,0,0,34,24,0,0,0
+26,1,Auqib Nabi,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,36,18,0,1,0,2,36,18,0,0,0,0,0
+26,1,Axar Patel,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,18,18,2,0,0,7,0,0,16,12,2,6,0
+26,1,Kuldeep Yadav,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,32,24,2,1,0,7,0,0,27,18,5,6,0
+26,1,Lungi Ngidi,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,39,24,2,1,0,6,7,6,12,6,20,12,0
+26,1,Mukesh Kumar,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,32,24,1,4,1,10,15,12,17,12,0,0,0
+26,1,Natarajan,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,16,12,0,1,0,5,0,0,14,6,2,6,0
+26,2,Bhuvneshwar Kumar,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,26,24,3,0,0,8,9,12,0,0,17,12,0
+26,2,Josh Hazlewood,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,38,24,0,0,0,8,27,12,7,6,4,6,0
+26,2,Krunal Pandya,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,24,24,1,0,0,5,0,0,24,24,0,0,0
+26,2,Rasikh Salam Dar,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,40,24,0,2,1,4,14,12,16,6,10,6,0
+26,2,Romario Shepherd,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,17,5,0,0,0,1,0,0,0,0,17,5,0
+26,2,Suyash Sharma,"Apr 18, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,31,18,0,0,0,3,0,0,31,18,0,0,0
+27,1,Anshul Kamboj,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,22,18,3,0,0,10,15,6,0,0,7,12,0
+27,1,Gurjapneet Singh,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,34,24,1,1,0,12,0,0,26,18,8,6,0
+27,1,Jamie Overton,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,37,24,3,1,0,5,0,0,23,18,14,6,0
+27,1,Matthew Short,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,38,18,0,1,0,5,38,18,0,0,0,0,0
+27,1,Mukesh Choudhary,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,21,12,2,0,0,6,21,12,0,0,0,0,0
+27,1,Noor Ahmad,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,33,24,0,1,0,7,0,0,24,18,9,6,0
+27,2,Abhishek Sharma,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,13,6,0,0,0,0,0,0,13,6,0,0,0
+27,2,Eshan Malinga,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,29,24,3,1,0,9,10,6,1,6,18,12,0
+27,2,Nitish Reddy,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,31,24,2,3,0,9,14,12,5,6,12,6,0
+27,2,Praful Hinge,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,59,24,1,1,2,7,38,12,15,6,6,6,0
+27,2,Sakib Hussain,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,28,24,1,5,0,5,9,6,13,12,6,6,0
+27,2,Shivang Kumar,"Apr 18, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,18,18,1,0,0,7,0,0,18,18,0,0,0
+28,1,Cameron Green,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,26,12,0,3,0,5,26,12,0,0,0,0,0
+28,1,Kartik Tyagi,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,22,24,3,1,0,13,9,6,11,12,2,6,0
+28,1,Ramandeep Singh,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,25,12,0,3,0,0,0,0,14,6,11,6,0
+28,1,Sunil Narine,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,26,24,2,0,0,13,6,6,14,12,6,6,0
+28,1,Vaibhav Arora,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,37,24,0,1,0,6,21,12,0,0,16,12,0
+28,1,Varun Chakaravarthy,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,14,24,3,0,0,13,0,0,14,24,0,0,0
+28,2,Bishnoi,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,6,1,0,0,0,0,0,0,0,0,6,1,0
+28,2,Brijesh Sharma,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,21,10,0,1,0,4,0,0,0,0,21,10,0
+28,2,Jofra Archer,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,35,24,1,2,0,9,11,12,0,0,24,12,0
+28,2,Nandre Burger,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,20,12,1,0,0,4,20,12,0,0,0,0,0
+28,2,Ravi Bishnoi,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,35,23,0,4,0,5,8,6,15,12,12,5,0
+28,2,Ravindra Jadeja,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,8,18,2,0,0,10,0,0,8,18,0,0,0
+28,2,Riyan Parag,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,10,6,0,1,0,1,0,0,10,6,0,0,0
+28,2,Yash Raj Punja,"Apr 19, 2026",League stage,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,26,24,1,0,0,9,13,6,13,18,0,0,0
+29,1,Aiden Markram,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Lucknow Super Giants,Punjab Kings,32,6,0,1,0,0,0,0,32,6,0,0,0
+29,1,Avesh Khan,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Lucknow Super Giants,Punjab Kings,46,18,0,0,0,5,0,0,32,12,14,6,0
+29,1,Ayush Badoni,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Lucknow Super Giants,Punjab Kings,14,6,0,0,0,0,0,0,14,6,0,0,0
+29,1,Manimaran Siddharth,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Lucknow Super Giants,Punjab Kings,35,18,2,0,0,2,0,0,17,12,18,6,0
+29,1,Mohammed Shami,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Lucknow Super Giants,Punjab Kings,55,24,1,4,0,8,17,12,19,6,19,6,0
+29,1,Mohsin Khan,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Lucknow Super Giants,Punjab Kings,43,24,1,0,0,9,40,18,0,0,3,6,0
+29,1,Prince Yadav,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Lucknow Super Giants,Punjab Kings,25,24,3,0,0,10,4,6,16,12,5,6,0
+29,2,Arshdeep Singh,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Lucknow Super Giants,41,24,1,1,0,8,19,12,10,6,12,6,0
+29,2,Marco Jansen,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Lucknow Super Giants,37,24,2,0,0,6,10,6,19,12,8,6,0
+29,2,Vijaykumar Vyshak,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Lucknow Super Giants,30,24,1,3,1,9,6,6,15,12,9,6,0
+29,2,Xavier Bartlett,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Lucknow Super Giants,54,24,0,2,0,6,25,12,0,0,29,12,0
+29,2,Yuzvendra Chahal,"Apr 19, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Lucknow Super Giants,36,24,1,0,0,5,0,0,36,24,0,0,0
+30,1,Ashok Sharma,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,38,18,0,0,0,8,0,0,12,12,26,6,0
+30,1,Kagiso Rabada,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,33,24,3,1,0,10,29,18,0,0,4,6,0
+30,1,Mohammed Siraj,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,25,24,1,0,0,11,15,18,0,0,10,6,0
+30,1,Prasidh Krishna,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,54,24,1,1,0,4,0,0,32,18,22,6,0
+30,1,Rashid Khan,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,31,24,0,0,0,5,0,0,16,18,15,6,0
+30,1,Washington Sundar,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,13,6,0,0,0,1,0,0,13,6,0,0,0
+30,2,AM Ghazanfar,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,17,17,2,1,0,10,0,0,16,12,1,5,1
+30,2,Ashwani Kumar,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,24,24,4,2,0,14,6,6,18,18,0,0,0
+30,2,Hardik Pandya,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,18,6,1,2,0,2,18,6,0,0,0,0,0
+30,2,Jasprit Bumrah,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,15,18,1,2,0,11,11,12,4,6,0,0,0
+30,2,Krish Bhagat,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,10,12,0,0,0,6,10,12,0,0,0,0,0
+30,2,Mitchell Santner,"Apr 20, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,16,18,2,0,0,7,0,0,16,18,0,0,0
+31,1,Axar Patel,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,23,12,1,0,0,1,0,0,23,12,0,0,0
+31,1,Kuldeep Yadav,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,30,12,0,0,0,2,0,0,30,12,0,0,0
+31,1,Lungi Ngidi,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,41,24,0,2,0,7,21,12,0,0,20,12,0
+31,1,Mukesh Kumar,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,53,24,0,1,0,6,20,12,13,6,20,6,0
+31,1,Natarajan,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,40,24,0,3,0,3,0,0,21,12,19,12,0
+31,1,Nitish Rana,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,55,24,1,2,0,7,26,12,29,12,0,0,0
+31,2,Dilshan Madushanka,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,35,24,1,3,0,8,16,12,19,12,0,0,0
+31,2,Eshan Malinga,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,31,24,4,1,0,10,9,6,2,6,20,12,0
+31,2,Harsh Dubey,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,12,12,3,0,0,5,0,0,0,0,12,12,0
+31,2,Nitish Reddy,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,57,24,0,1,0,5,29,12,28,12,0,0,0
+31,2,Sakib Hussain,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,29,24,1,0,0,8,5,6,18,12,6,6,0
+31,2,Shivang Kumar,"Apr 21, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,28,12,0,0,0,2,0,0,28,12,0,0,0
+32,1,Digvesh Singh Rathi,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Rajasthan Royals,26,24,0,0,0,5,0,0,15,18,11,6,0
+32,1,Mayank Yadav,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Rajasthan Royals,56,24,0,1,0,6,0,0,36,18,20,6,0
+32,1,Mohammed Shami,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Rajasthan Royals,30,24,2,3,0,15,24,18,6,6,0,0,0
+32,1,Mohsin Khan,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Rajasthan Royals,17,24,2,0,0,11,7,12,4,6,6,6,1
+32,1,Prince Yadav,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Rajasthan Royals,29,24,2,0,0,13,13,6,2,6,14,12,0
+32,2,Brijesh Sharma,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,18,18,2,1,0,7,0,0,15,12,3,6,0
+32,2,Jofra Archer,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,20,24,4,1,0,17,15,18,0,0,5,6,1
+32,2,Nandre Burger,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,27,24,2,0,0,15,15,18,0,0,12,6,0
+32,2,Ravi Bishnoi,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,23,18,1,2,0,6,0,0,23,18,0,0,0
+32,2,Ravindra Jadeja,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,28,23,1,1,0,9,0,0,28,23,0,0,0
+32,2,Ravindra Jadeka,"Apr 22, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,1,1,0,0,0,0,0,0,1,1,0,0,0
+33,1,AM Ghazanfar,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,25,24,2,0,0,7,6,6,19,18,0,0,0
+33,1,Ashwani Kumar,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,37,24,2,1,0,8,0,0,22,18,15,6,0
+33,1,Hardik Pandya,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,38,12,0,2,1,4,38,12,0,0,0,0,0
+33,1,Jasprit Bumrah,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,31,24,1,0,2,10,19,12,0,0,12,12,0
+33,1,Krish Bhagat,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,31,12,0,0,0,5,0,0,0,0,31,12,0
+33,1,Mitchell Santner,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,44,24,1,2,0,8,9,6,35,18,0,0,0
+33,2,Akeal Hosein,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,17,24,4,0,0,14,7,12,10,12,0,0,1
+33,2,Anshul Kamboj,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,10,18,1,1,0,12,7,6,1,6,2,6,0
+33,2,Gurjapneet Singh,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,7,12,1,0,0,6,0,0,0,0,7,12,0
+33,2,Jamie Overton,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,14,12,1,0,0,5,0,0,13,6,1,6,0
+33,2,Mukesh Choudhary,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,30,24,1,2,0,11,14,18,16,6,0,0,0
+33,2,Noor Ahmad,"Apr 23, 2026",League stage,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,23,24,2,1,0,9,0,0,23,24,0,0,0
+34,1,Bhuvneshwar Kumar,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Gujarat Titans,31,24,1,0,0,6,16,12,10,6,5,6,0
+34,1,Josh Hazlewood,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Gujarat Titans,40,24,1,1,0,11,17,12,0,0,23,12,0
+34,1,Krunal Pandya,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Gujarat Titans,50,24,0,1,0,4,0,0,32,18,18,6,0
+34,1,Rasikh Salam Dar,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Gujarat Titans,28,18,0,0,0,3,23,12,5,6,0,0,0
+34,1,Romario Shepherd,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Gujarat Titans,17,6,0,0,0,0,0,0,17,6,0,0,0
+34,1,Suyash Sharma,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Gujarat Titans,36,24,1,1,0,5,0,0,32,18,4,6,0
+34,2,Jason Holder,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,35,23,1,1,0,8,8,6,20,12,7,5,0
+34,2,Kagiso Rabada,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,45,24,0,1,0,7,23,12,13,6,9,6,0
+34,2,Manav Suthar,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,19,12,1,0,0,4,0,0,0,0,19,12,0
+34,2,Mohammed Siraj,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,25,18,1,0,0,9,25,18,0,0,0,0,0
+34,2,Prasidh Krishna,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,31,12,0,0,0,1,0,0,31,12,0,0,0
+34,2,Rashid Khan,"Apr 24, 2026",League stage,"M.Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,49,24,2,1,0,7,0,0,49,24,0,0,0
+35,1,Arshdeep Singh,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,49,24,1,0,0,3,20,12,20,6,9,6,0
+35,1,Marco Jansen,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,45,24,0,0,0,7,17,12,16,6,12,6,0
+35,1,Marcus Stoinis,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,11,6,0,2,0,2,0,0,11,6,0,0,0
+35,1,Vijaykumar Vyshak,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,48,18,0,1,0,4,16,6,8,6,24,6,0
+35,1,Xavier Bartlett,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,69,24,1,1,0,1,15,6,37,12,17,6,0
+35,1,Yuzvendra Chahal,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Punjab Kings,Delhi Capitals,42,24,0,2,1,3,0,0,29,18,13,6,0
+35,2,Auqib Nabi,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,41,12,0,1,1,4,41,12,0,0,0,0,0
+35,2,Axar Patel,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,44,24,1,1,0,5,20,6,24,18,0,0,0
+35,2,Kuldeep Yadav,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,46,24,2,2,0,8,0,0,23,18,23,6,0
+35,2,Mukesh Kumar,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,55,18,0,1,0,1,45,12,0,0,10,6,0
+35,2,Natarajan,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,53,23,0,5,0,5,9,6,15,6,29,11,0
+35,2,Vipraj Nigam,"Apr 25, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,24,12,1,1,0,3,0,0,24,12,0,0,0
+36,1,Eshan Malinga,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,38,24,2,1,0,11,18,12,15,6,5,6,0
+36,1,Nitish Reddy,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,20,12,1,2,0,4,0,0,20,12,0,0,0
+36,1,Pat Cummins,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,27,24,1,0,0,12,20,12,3,6,4,6,0
+36,1,Praful Hinge,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,49,24,1,1,0,9,25,6,8,6,16,12,0
+36,1,Sakib Hussain,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,62,24,1,2,0,6,13,6,31,12,18,6,0
+36,1,Shivang Kumar,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,30,11,0,0,0,3,0,0,30,11,0,0,0
+36,2,Brijesh Sharma,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,44,24,2,3,0,8,19,6,13,6,12,12,0
+36,2,Donovan Ferreira,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,14,6,1,0,0,1,0,0,14,6,0,0,0
+36,2,Jofra Archer,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,34,24,2,1,0,13,25,12,9,12,0,0,0
+36,2,Nandre Burger,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,46,21,0,3,0,9,24,12,13,6,9,3,0
+36,2,Ravi Bishnoi,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,16,6,0,0,0,1,0,0,16,6,0,0,0
+36,2,Ravindra Jadeja,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,11,6,0,1,0,2,0,0,11,6,0,0,0
+36,2,Riyan Parag,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,12,6,0,0,0,0,0,0,12,6,0,0,0
+36,2,Tushar Deshpande,"Apr 25, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,43,18,0,1,0,5,12,6,11,6,20,6,0
+37,1,Arshad Khan,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Gujarat Titans,Chennai Super Kings,42,24,2,1,0,13,0,0,16,12,26,12,0
+37,1,Jason Holder,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Gujarat Titans,Chennai Super Kings,22,24,0,1,0,14,0,0,22,24,0,0,0
+37,1,Kagiso Rabada,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Gujarat Titans,Chennai Super Kings,25,24,3,0,0,15,16,18,0,0,9,6,0
+37,1,Manav Suthar,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Gujarat Titans,Chennai Super Kings,22,18,1,2,0,9,0,0,7,12,15,6,0
+37,1,Mohammed Siraj,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Gujarat Titans,Chennai Super Kings,23,24,1,0,0,14,12,18,0,0,11,6,0
+37,1,Rashid Khan,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Gujarat Titans,Chennai Super Kings,17,6,0,1,0,1,0,0,17,6,0,0,0
+37,2,Akeal Hosein,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Gujarat Titans,46,22,1,0,0,6,11,6,27,12,8,4,0
+37,2,Anshul Kamboj,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Gujarat Titans,16,18,0,0,0,10,16,18,0,0,0,0,0
+37,2,Gurjapneet Singh,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Gujarat Titans,36,18,0,0,0,1,11,6,9,6,16,6,0
+37,2,Jamie Overton,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Gujarat Titans,28,12,0,1,0,2,17,6,11,6,0,0,0
+37,2,Noor Ahmad,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Gujarat Titans,29,24,0,1,0,6,0,0,29,24,0,0,0
+37,2,Shivam Dube,"Apr 26, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Gujarat Titans,7,6,0,0,0,2,0,0,7,6,0,0,0
+38,1,Aiden Markram,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Kolkata Knight Riders,9,12,0,0,0,4,0,0,9,12,0,0,0
+38,1,Digvesh Singh Rathi,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Kolkata Knight Riders,46,24,0,2,0,8,4,6,16,12,26,6,0
+38,1,George Linde,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Kolkata Knight Riders,18,12,1,0,0,4,0,0,18,12,0,0,0
+38,1,Mohammed Shami,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Kolkata Knight Riders,34,24,0,1,0,8,12,12,0,0,22,12,0
+38,1,Mohsin Khan,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Kolkata Knight Riders,23,24,5,1,0,14,8,12,15,12,0,0,1
+38,1,Prince Yadav,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Kolkata Knight Riders,23,24,0,2,0,10,6,6,3,6,14,12,0
+38,2,Anukul Roy,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,19,12,1,0,0,3,8,6,0,0,11,6,0
+38,2,Cameron Green,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,12,12,1,0,0,6,8,6,4,6,0,0,0
+38,2,Kartik Tyagi,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,41,24,1,0,2,11,0,0,13,12,28,12,0
+38,2,Sunil Narine,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,23,24,1,0,0,7,8,6,15,18,0,0,0
+38,2,Vaibhav Arora,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,24,24,2,1,0,11,13,18,0,0,11,6,0
+38,2,Varun Chakaravarthy,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,33,24,2,2,0,10,0,0,23,18,10,6,0
+38,3,Sunil Narine,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,1,3,2,0,0,2,1,3,0,0,0,0,0
+38,4,Prince Yadav,"Apr 26, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Kolkata Knight Riders,4,1,0,0,0,0,4,1,0,0,0,0,0
+39,1,Bhuvneshwar Kumar,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Delhi Capitals,5,18,3,1,0,15,5,18,0,0,0,0,1
+39,1,Josh Hazlewood,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Delhi Capitals,12,21,4,0,0,15,8,18,0,0,4,3,0
+39,1,Krunal Pandya,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Delhi Capitals,9,12,1,0,0,4,0,0,9,12,0,0,0
+39,1,Rasikh Salam Dar,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Delhi Capitals,21,12,1,0,0,3,0,0,21,12,0,0,0
+39,1,Romario Shepherd,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Delhi Capitals,21,12,0,0,0,3,0,0,21,12,0,0,0
+39,1,Suyash Sharma,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Delhi Capitals,7,24,1,3,0,20,0,0,7,18,0,6,2
+39,2,Axar Patel,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bengaluru,5,6,0,0,0,1,5,6,0,0,0,0,0
+39,2,Dushmantha Chameera,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bengaluru,18,12,0,0,0,5,18,12,0,0,0,0,0
+39,2,Kyle Jamieson,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bengaluru,42,18,1,0,0,6,42,18,0,0,0,0,0
+39,2,Natarajan,"Apr 27, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bengaluru,12,3,0,0,0,1,0,0,12,3,0,0,0
+40,1,Brijesh Sharma,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Punjab Kings,42,24,0,1,0,7,4,6,7,6,31,12,0
+40,1,Jofra Archer,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Punjab Kings,40,24,1,0,0,10,12,12,11,6,17,6,0
+40,1,Nandre Burger,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Punjab Kings,59,24,1,0,0,4,45,18,0,0,14,6,0
+40,1,Ravindra Jadeja,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Punjab Kings,32,24,0,0,0,3,0,0,32,24,0,0,0
+40,1,Yash Raj Punja,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Punjab Kings,41,24,2,0,0,6,0,0,31,18,10,6,0
+40,2,Arshdeep Singh,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Rajasthan Royals,68,24,1,1,0,6,37,12,14,6,17,6,0
+40,2,Harpreet Brar,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Rajasthan Royals,25,24,0,0,0,8,2,6,23,18,0,0,0
+40,2,Lockie Ferguson,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Rajasthan Royals,57,24,0,1,0,7,33,12,0,0,24,12,0
+40,2,Marco Jansen,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Rajasthan Royals,41,20,0,1,0,4,12,6,7,6,22,8,0
+40,2,Yuzvendra Chahal,"Apr 28, 2026",League stage,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Punjab Kings,Rajasthan Royals,36,24,3,1,1,7,0,0,36,24,0,0,0
+41,1,Eshan Malinga,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,29,24,1,4,0,6,6,6,10,12,13,6,0
+41,1,Harsh Dubey,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,50,18,0,0,0,4,16,6,34,12,0,0,0
+41,1,Nitish Reddy,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,31,12,1,1,0,2,0,0,31,12,0,0,0
+41,1,Pat Cummins,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,39,24,0,1,0,5,22,12,11,6,6,6,0
+41,1,Praful Hinge,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,54,24,2,0,0,5,15,6,4,6,35,12,0
+41,1,Sakib Hussain,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,39,18,1,1,0,4,18,6,13,6,8,6,0
+41,2,AM Ghazanfar,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,51,24,2,0,0,5,12,6,20,12,19,6,0
+41,2,Ashwani Kumar,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,41,12,0,1,0,0,0,0,41,12,0,0,0
+41,2,Hardik Pandya,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,37,22,1,1,0,7,0,0,21,18,16,4,0
+41,2,Jasprit Bumrah,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,53,24,0,1,0,6,27,12,13,6,13,6,0
+41,2,Trent Boult,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,40,24,1,1,0,8,28,12,4,6,8,6,0
+41,2,Will Jacks,"Apr 29, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,19,6,0,0,0,1,19,6,0,0,0,0,0
+42,1,Arshad Khan,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,22,20,4,1,0,11,0,0,15,12,7,8,1
+42,1,Jason Holder,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,29,24,2,0,0,8,0,0,27,18,2,6,0
+42,1,Kagiso Rabada,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,44,24,1,1,0,10,32,18,12,6,0,0,0
+42,1,Mohammed Siraj,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,38,24,1,0,0,12,26,18,0,0,12,6,0
+42,1,Rashid Khan,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,19,24,2,0,0,15,0,0,18,18,1,6,0
+42,2,Bhuvneshwar Kumar,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,28,24,3,0,0,11,20,18,8,6,0,0,0
+42,2,Josh Hazlewood,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,56,24,0,0,0,7,49,18,7,6,0,0,0
+42,2,Romario Shepherd,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,30,24,2,2,0,10,0,0,30,24,0,0,0
+42,2,Suyash Sharma,"Apr 30, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,44,23,1,2,0,5,0,0,31,18,13,5,0
+43,1,Axar Patel,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,39,24,1,0,0,6,7,6,32,18,0,0,0
+43,1,Kuldeep Yadav,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,41,24,0,0,0,4,0,0,21,18,20,6,0
+43,1,Kyle Jamieson,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,48,24,1,0,0,5,33,18,0,0,15,6,0
+43,1,Mitchell Starc,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,40,24,3,3,0,12,16,12,0,0,24,12,0
+43,1,Natarajan,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,54,24,1,3,0,6,0,0,36,18,18,6,0
+43,2,Brijesh Sharma,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,35,19,0,2,1,3,11,6,7,6,17,7,0
+43,2,Jofra Archer,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,46,24,1,2,0,9,26,12,0,0,20,12,0
+43,2,Nandre Burger,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,41,18,0,0,0,7,23,12,18,6,0,0,0
+43,2,Ravi Bishnoi,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,28,12,0,0,0,2,0,0,28,12,0,0,0
+43,2,Ravindra Jadeja,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,33,18,1,0,0,3,0,0,33,18,0,0,0
+43,2,Tushar Deshpande,"May 1, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,37,24,1,2,0,7,10,6,12,12,15,6,0
+44,1,Anshul Kamboj,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,32,24,3,1,0,12,13,12,0,0,19,12,0
+44,1,Jamie Overton,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,23,24,1,0,0,11,0,0,8,12,15,12,0
+44,1,Mukesh Choudhary,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,25,18,0,0,0,10,25,18,0,0,0,0,0
+44,1,Noor Ahmad,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,26,24,2,0,0,9,0,0,23,18,3,6,0
+44,1,Prashant Veer,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,25,12,0,0,0,5,18,6,7,6,0,0,0
+44,1,Ramakrishna Ghosh,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,24,18,1,0,0,6,0,0,24,18,0,0,0
+44,2,AM Ghazanfar,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,40,24,1,0,0,9,7,6,19,12,14,6,0
+44,2,Hardik Pandya,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,17,12,0,1,0,1,0,0,17,12,0,0,0
+44,2,Jasprit Bumrah,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,20,18,1,1,0,9,13,12,7,6,0,0,0
+44,2,Krish Bhagat,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,22,12,0,0,0,4,18,6,0,0,4,6,0
+44,2,Raghu Sharma,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,24,24,0,0,0,6,0,0,24,24,0,0,0
+44,2,Trent Boult,"May 2, 2026",League stage,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,37,19,0,2,0,5,24,12,0,0,13,7,0
+45,1,Anukul Roy,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,8,6,1,0,0,3,0,0,0,0,8,6,0
+45,1,Cameron Green,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,34,18,1,1,0,8,14,6,20,12,0,0,0
+45,1,Kartik Tyagi,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,30,24,2,1,0,9,20,12,4,6,6,6,0
+45,1,Sunil Narine,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,31,24,2,0,0,12,20,12,2,6,9,6,0
+45,1,Vaibhav Arora,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,25,18,1,1,0,6,17,6,5,6,3,6,0
+45,1,Varun Chakaravarthy,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,36,24,3,1,0,11,0,0,36,24,0,0,0
+45,2,Abhishek Sharma,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,14,12,0,0,0,4,14,12,0,0,0,0,0
+45,2,Eshan Malinga,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,42,20,0,2,0,8,24,12,9,6,9,2,0
+45,2,Harshal Patel,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,17,12,0,1,0,2,0,0,17,12,0,0,0
+45,2,Pat Cummins,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,42,24,1,2,0,7,29,12,5,6,8,6,0
+45,2,Sakib Hussain,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,17,18,1,2,0,7,0,0,10,12,7,6,0
+45,2,Shivang Kumar,"May 3, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,31,24,1,0,0,6,0,0,21,18,10,6,0
+46,1,Arshad Khan,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,29,18,0,2,0,5,0,0,21,12,8,6,0
+46,1,Jason Holder,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,24,24,4,1,0,10,0,0,17,18,7,6,0
+46,1,Kagiso Rabada,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,21,24,2,1,0,16,13,18,0,0,8,6,1
+46,1,Manav Suthar,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,27,6,0,0,0,0,0,0,27,6,0,0,0
+46,1,Mohammed Siraj,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,28,24,2,1,0,11,20,18,0,0,8,6,0
+46,1,Rashid Khan,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,32,24,1,1,0,7,0,0,18,18,14,6,0
+46,2,Arshdeep Singh,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,24,24,2,0,0,10,14,12,4,6,6,6,0
+46,2,Marco Jansen,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,33,24,1,1,0,10,16,12,5,6,12,6,0
+46,2,Marcus Stoinis,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,26,17,1,1,0,4,0,0,12,12,14,5,0
+46,2,Vijaykumar Vyshak,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,31,24,2,0,0,6,0,0,31,24,0,0,0
+46,2,Xavier Bartlett,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,34,24,0,1,0,9,24,12,0,0,10,12,0
+46,2,Yuzvendra Chahal,"May 3, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,13,6,0,0,0,0,0,0,13,6,0,0,0
+47,1,AM Ghazanfar,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,50,24,1,0,0,5,28,12,5,6,17,6,0
+47,1,Corbin Bosch,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,20,12,2,1,1,5,0,0,20,12,0,0,0
+47,1,Deepak Chahar,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,43,24,0,2,0,5,11,6,17,6,15,12,0
+47,1,Jasprit Bumrah,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,44,24,0,2,3,7,30,12,7,6,7,6,0
+47,1,Raghu Sharma,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,36,24,1,0,0,6,0,0,22,18,14,6,0
+47,1,Will Jacks,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,34,12,1,1,0,2,20,6,14,6,0,0,0
+47,2,Avesh Khan,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,56,22,0,2,0,3,21,6,24,12,11,4,0
+47,2,Manimaran Siddharth,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,47,24,2,0,0,5,0,0,44,18,3,6,0
+47,2,Mohammed Shami,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,53,24,1,0,0,6,23,12,14,6,16,6,0
+47,2,Mohsin Khan,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,47,24,1,1,0,8,20,12,27,12,0,0,0
+47,2,Prince Yadav,"May 4, 2026",League stage,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,24,18,0,1,0,6,6,6,6,6,12,6,0
+48,1,Akeal Hosein,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,19,24,1,0,0,14,15,18,4,6,0,0,0
+48,1,Anshul Kamboj,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,49,24,1,0,0,7,7,6,8,6,34,12,0
+48,1,Gurjapneet Singh,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,29,24,1,1,0,7,0,0,22,18,7,6,0
+48,1,Jamie Overton,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,5,6,1,0,0,1,0,0,0,0,5,6,0
+48,1,Mukesh Choudhary,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,31,24,1,1,0,10,15,12,4,6,12,6,0
+48,1,Noor Ahmad,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,22,18,2,0,0,6,0,0,22,18,0,0,0
+48,2,Axar Patel,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,21,24,1,1,0,12,12,12,9,12,0,0,0
+48,2,Kuldeep Yadav,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,34,18,0,0,0,7,0,0,34,18,0,0,0
+48,2,Lungi Ngidi,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,30,24,1,1,0,12,17,12,1,6,12,6,0
+48,2,Mitchell Starc,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,28,23,0,1,0,9,10,12,9,6,9,5,0
+48,2,Natarajan,"May 5, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,39,15,0,0,0,4,0,0,29,12,10,3,0
+49,1,Arshdeep Singh,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,43,24,1,1,0,6,27,12,6,6,10,6,0
+49,1,Lockie Ferguson,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,41,24,1,1,0,9,20,12,8,6,13,6,0
+49,1,Marco Jansen,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,61,24,0,2,0,4,32,12,12,6,17,6,0
+49,1,Vijaykumar Vyshak,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,54,24,1,0,0,3,0,0,41,18,13,6,0
+49,1,Yuzvendra Chahal,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,32,24,1,1,0,5,0,0,24,18,8,6,0
+49,2,Eshan Malinga,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,36,24,1,1,0,11,15,12,5,6,16,6,0
+49,2,Harsh Dubey,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,35,12,0,1,0,1,0,0,16,6,19,6,0
+49,2,Nitish Reddy,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,11,12,1,0,0,4,6,6,5,6,0,0,0
+49,2,Pat Cummins,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,34,24,2,0,1,10,17,12,5,6,12,6,0
+49,2,Sakib Hussain,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,40,24,1,2,1,8,19,6,11,12,10,6,0
+49,2,Shivang Kumar,"May 6, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Punjab Kings,45,24,2,2,0,8,0,0,30,18,15,6,0
+50,1,Bhuvneshwar Kumar,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,34,24,0,0,0,8,14,12,0,0,20,12,0
+50,1,Josh Hazlewood,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,49,24,1,3,0,9,25,12,6,6,18,6,0
+50,1,Krunal Pandya,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,31,24,1,1,0,12,12,6,19,18,0,0,0
+50,1,Rasikh Salam Dar,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,53,24,1,1,0,5,16,6,21,12,16,6,0
+50,1,Romario Shepherd,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,16,6,0,0,0,2,0,0,16,6,0,0,0
+50,1,Suyash Sharma,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,21,12,0,0,0,2,0,0,21,12,0,0,0
+50,2,Digvesh Singh Rathi,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,50,24,0,1,0,4,0,0,41,18,9,6,0
+50,2,Mayank Yadav,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,50,24,0,1,0,8,6,6,44,18,0,0,0
+50,2,Mohammed Shami,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,33,24,1,3,0,13,19,18,0,0,14,6,0
+50,2,Prince Yadav,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,33,24,3,0,0,8,18,12,3,6,12,6,0
+50,2,Shahbaz Ahmed,"May 7, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,32,18,2,2,0,8,0,0,17,12,15,6,0
+51,1,Anukul Roy,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,31,24,1,2,0,10,18,12,13,12,0,0,0
+51,1,Cameron Green,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,12,6,1,0,0,2,0,0,12,6,0,0,0
+51,1,Kartik Tyagi,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,25,24,3,0,0,10,10,6,2,6,13,12,0
+51,1,Sunil Narine,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,17,24,1,0,0,14,11,6,4,12,2,6,0
+51,1,Vaibhav Arora,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,29,18,1,0,0,5,16,12,0,0,13,6,0
+51,1,Varun Chakaravarthy,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,28,24,0,0,0,10,0,0,12,18,16,6,0
+51,2,Axar Patel,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,27,24,1,0,0,9,23,18,4,6,0,0,0
+51,2,Kuldeep Yadav,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,41,18,0,0,0,6,0,0,41,18,0,0,0
+51,2,Lungi Ngidi,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,7,12,0,0,0,5,2,6,5,6,0,0,0
+51,2,Mitchell Starc,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,31,18,1,0,0,5,18,12,13,6,0,0,0
+51,2,Mukesh Kumar,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,7,2,0,0,0,0,0,0,7,2,0,0,0
+51,2,Vipraj Nigam,"May 8, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,34,12,0,0,0,1,0,0,34,12,0,0,0
+52,1,Brijesh Sharma,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,47,24,2,2,0,10,26,12,0,0,21,12,0
+52,1,Donovan Ferreira,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,11,6,0,0,0,1,0,0,11,6,0,0,0
+52,1,Jofra Archer,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,41,18,0,4,1,4,28,12,0,0,13,6,0
+52,1,Ravindra Jadeja,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,34,24,1,0,0,5,0,0,34,24,0,0,0
+52,1,Tushar Deshpande,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,52,24,0,3,0,7,23,12,0,0,29,12,0
+52,1,Yash Raj Punja,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,37,24,1,2,0,6,0,0,37,24,0,0,0
+52,2,Jason Holder,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,12,15,3,0,0,8,0,0,11,12,1,3,0
+52,2,Kagiso Rabada,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,33,18,2,0,0,9,33,18,0,0,0,0,0
+52,2,Mohammed Siraj,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,55,24,1,2,0,8,45,18,0,0,10,6,0
+52,2,Rashid Khan,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,33,24,4,0,0,12,0,0,33,24,0,0,0
+52,2,Sai Kishore,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,8,6,0,0,0,1,0,0,8,6,0,0,0
+52,2,Washington Sundar,"May 9, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,10,12,0,0,0,6,0,0,10,12,0,0,0
+53,1,Akeal Hosein,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Lucknow Super Giants,49,24,1,0,0,4,35,12,14,12,0,0,0
+53,1,Anshul Kamboj,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Lucknow Super Giants,43,24,3,1,1,8,26,12,0,0,17,12,0
+53,1,Jamie Overton,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Lucknow Super Giants,36,24,3,2,0,11,0,0,19,18,17,6,0
+53,1,Mukesh Choudhary,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Lucknow Super Giants,45,24,0,2,0,9,26,12,9,6,10,6,0
+53,1,Noor Ahmad,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Lucknow Super Giants,24,24,1,0,0,10,0,0,19,18,5,6,0
+53,2,Aiden Markram,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Chennai Super Kings,13,2,0,1,0,0,0,0,0,0,13,2,0
+53,2,Avesh Khan,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Chennai Super Kings,45,24,1,4,0,8,25,6,5,6,15,12,0
+53,2,Digvesh Singh Rathi,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Chennai Super Kings,45,24,2,1,0,7,37,12,4,6,4,6,0
+53,2,Mohammed Shami,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Chennai Super Kings,37,24,0,0,0,6,20,12,17,12,0,0,0
+53,2,Prince Yadav,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Chennai Super Kings,35,24,0,1,0,10,15,6,11,12,9,6,0
+53,2,Shahbaz Ahmed,"May 10, 2026",League stage,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Chennai Super Kings,30,18,2,0,0,3,0,0,30,18,0,0,0
+54,1,Bhuvneshwar Kumar,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Mumbai Indians,23,24,4,1,0,12,17,18,0,0,6,6,0
+54,1,Josh Hazlewood,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Mumbai Indians,33,24,1,1,0,12,21,12,6,6,6,6,0
+54,1,Krunal Pandya,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Mumbai Indians,26,18,0,1,0,1,0,0,26,18,0,0,0
+54,1,Rasikh Salam Dar,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Mumbai Indians,42,24,1,0,0,6,12,6,12,6,18,12,0
+54,1,Romario Shepherd,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Mumbai Indians,18,18,1,0,0,8,0,0,13,12,5,6,0
+54,1,Suyash Sharma,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Mumbai Indians,21,12,0,0,0,1,0,0,21,12,0,0,0
+54,2,AM Ghazanfar,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Mumbai Indians,Royal Challengers Bengaluru,33,18,1,0,0,4,0,0,21,12,12,6,0
+54,2,Corbin Bosch,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Mumbai Indians,Royal Challengers Bengaluru,26,24,4,0,0,14,8,6,5,12,13,6,1
+54,2,Deepak Chahar,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Mumbai Indians,Royal Challengers Bengaluru,33,24,2,2,0,10,27,18,0,0,6,6,0
+54,2,Jasprit Bumrah,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Mumbai Indians,Royal Challengers Bengaluru,20,24,0,2,0,10,10,12,8,6,2,6,0
+54,2,Raj Bawa,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Mumbai Indians,Royal Challengers Bengaluru,37,18,1,4,1,4,0,0,23,12,14,6,0
+54,2,Will Jacks,"May 10, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Mumbai Indians,Royal Challengers Bengaluru,13,12,0,1,0,3,0,0,13,12,0,0,0
+55,1,Auqib Nabi,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Delhi Capitals,Punjab Kings,32,24,0,0,2,10,22,18,10,6,0,0,0
+55,1,Lungi Ngidi,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Delhi Capitals,Punjab Kings,46,24,0,0,0,7,17,6,9,6,20,12,0
+55,1,Madhav Tiwari,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Delhi Capitals,Punjab Kings,40,24,2,2,0,9,0,0,21,18,19,6,0
+55,1,Mitchell Starc,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Delhi Capitals,Punjab Kings,52,24,2,2,0,9,18,6,18,12,16,6,0
+55,1,Mukesh Kumar,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Delhi Capitals,Punjab Kings,30,24,1,1,0,7,11,6,13,12,6,6,0
+55,2,Arshdeep Singh,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,19,24,2,2,0,14,14,18,5,6,0,0,0
+55,2,Ben Dwarshuis,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,48,24,2,2,0,6,0,0,31,18,17,6,0
+55,2,Marco Jansen,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,45,24,0,1,0,8,9,6,21,12,15,6,0
+55,2,Marcus Stoinis,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,44,18,1,2,0,3,0,0,25,12,19,6,0
+55,2,Yash Thakur,"May 11, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,51,24,2,1,1,8,22,12,7,6,22,6,0
+56,1,Eshan Malinga,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,46,24,0,1,0,4,0,0,19,12,27,12,0
+56,1,Nitish Reddy,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,27,18,0,0,0,9,14,12,13,6,0,0,0
+56,1,Pat Cummins,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,20,24,1,0,0,13,8,12,12,12,0,0,0
+56,1,Praful Hinge,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,17,18,2,0,0,10,10,12,0,0,7,6,0
+56,1,Sakib Hussain,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,36,24,2,2,0,7,0,0,17,12,19,12,0
+56,1,Shivang Kumar,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,18,12,0,1,0,2,0,0,18,12,0,0,0
+56,2,Jason Holder,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,20,24,3,1,0,15,0,0,20,24,0,0,0
+56,2,Kagiso Rabada,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,28,24,3,0,0,13,23,18,5,6,0,0,0
+56,2,Mohammed Siraj,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,11,18,1,0,0,13,11,18,0,0,0,0,1
+56,2,Prasidh Krishna,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,23,18,2,0,0,10,0,0,23,18,0,0,0
+56,2,Rashid Khan,"May 12, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,3,5,1,0,0,3,0,0,3,5,0,0,0
+57,1,Bhuvneshwar Kumar,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Kolkata Knight Riders,34,24,2,0,0,9,12,12,0,0,22,12,0
+57,1,Jacob Duffy,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Kolkata Knight Riders,48,24,0,0,0,9,31,12,17,12,0,0,0
+57,1,Josh Hazlewood,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Kolkata Knight Riders,35,24,1,0,0,8,6,6,7,6,22,12,0
+57,1,Krunal Pandya,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Kolkata Knight Riders,39,24,0,1,0,5,0,0,39,24,0,0,0
+57,1,Rasikh Salam Dar,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Royal Challengers Bengaluru,Kolkata Knight Riders,35,24,1,1,0,6,7,6,21,12,7,6,0
+57,2,Anukul Roy,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Kolkata Knight Riders,Royal Challengers Bengaluru,35,18,0,5,0,3,0,0,20,12,15,6,0
+57,2,Cameron Green,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Kolkata Knight Riders,Royal Challengers Bengaluru,22,12,0,1,0,0,0,0,22,12,0,0,0
+57,2,Kartik Tyagi,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Kolkata Knight Riders,Royal Challengers Bengaluru,32,24,3,1,0,11,19,12,4,6,9,6,0
+57,2,Saurabh Dubey,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Kolkata Knight Riders,Royal Challengers Bengaluru,21,13,0,0,0,6,17,12,0,0,4,1,0
+57,2,Sunil Narine,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Kolkata Knight Riders,Royal Challengers Bengaluru,31,24,1,0,0,8,10,6,9,12,12,6,0
+57,2,Vaibhav Arora,"May 13, 2026",League stage,"Shaheed Veer Narayan Singh International Stadium, Raipur",Kolkata Knight Riders,Royal Challengers Bengaluru,48,24,0,2,0,4,16,6,23,12,9,6,0
+58,1,Corbin Bosch,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Mumbai Indians,Punjab Kings,42,24,1,0,0,8,0,0,21,18,21,6,0
+58,1,Deepak Chahar,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Mumbai Indians,Punjab Kings,36,24,2,0,0,11,17,18,0,0,19,6,0
+58,1,Jasprit Bumrah,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Mumbai Indians,Punjab Kings,35,24,0,2,0,9,19,12,0,0,16,12,0
+58,1,Raghu Sharma,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Mumbai Indians,Punjab Kings,22,12,0,0,0,5,0,0,22,12,0,0,0
+58,1,Raj Bawa,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Mumbai Indians,Punjab Kings,10,6,1,1,0,3,0,0,10,6,0,0,0
+58,1,Shardul Thakur,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Mumbai Indians,Punjab Kings,39,24,4,2,0,12,15,6,17,12,7,6,0
+58,1,Will Jacks,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Mumbai Indians,Punjab Kings,9,6,0,1,0,4,0,0,9,6,0,0,0
+58,2,Arshdeep Singh,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Mumbai Indians,29,24,0,1,0,10,8,12,8,6,13,6,0
+58,2,Azmatullah Omarzai,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Mumbai Indians,36,24,2,1,0,8,11,6,23,12,2,6,0
+58,2,Marco Jansen,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Mumbai Indians,55,24,1,0,0,4,15,6,18,12,22,6,0
+58,2,Xavier Bartlett,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Mumbai Indians,53,23,0,0,0,9,25,12,9,6,19,5,0
+58,2,Yuzvendra Chahal,"May 14, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Mumbai Indians,32,24,1,1,0,7,0,0,12,18,20,6,0
+59,1,Akash Singh,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,26,24,3,1,0,11,16,18,10,6,0,0,0
+59,1,Mayank Yadav,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,25,24,0,2,0,12,0,0,21,18,4,6,0
+59,1,Mohammed Shami,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,41,24,1,1,0,8,18,12,12,6,11,6,0
+59,1,Prince Yadav,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,49,24,0,2,0,6,3,6,16,6,30,12,0
+59,1,Shahbaz Ahmed,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,45,24,1,0,0,5,0,0,30,18,15,6,0
+59,2,Anshul Kamboj,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,63,16,0,0,0,4,39,12,0,0,24,4,0
+59,2,Gurjapneet Singh,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,34,18,0,0,0,4,0,0,34,18,0,0,0
+59,2,Mukesh Choudhary,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,24,18,2,1,0,8,10,6,7,6,7,6,0
+59,2,Noor Ahmad,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,21,24,0,0,0,8,0,0,21,24,0,0,0
+59,2,Spencer Johnson,"May 15, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,39,24,1,2,0,12,31,18,8,6,0,0,0
+60,1,Arshad Khan,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Gujarat Titans,Kolkata Knight Riders,22,6,0,0,0,2,0,0,22,6,0,0,0
+60,1,Jason Holder,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Gujarat Titans,Kolkata Knight Riders,39,24,0,0,1,5,0,0,31,18,8,6,0
+60,1,Kagiso Rabada,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Gujarat Titans,Kolkata Knight Riders,40,24,0,1,0,10,30,18,0,0,10,6,0
+60,1,Mohammed Siraj,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Gujarat Titans,Kolkata Knight Riders,49,24,1,2,0,8,24,18,0,0,25,6,0
+60,1,Rashid Khan,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Gujarat Titans,Kolkata Knight Riders,57,24,0,0,0,4,0,0,32,12,25,12,0
+60,1,Sai Kishore,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Gujarat Titans,Kolkata Knight Riders,38,18,1,0,0,5,0,0,38,18,0,0,0
+60,2,Anukul Roy,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,17,6,0,0,0,2,0,0,17,6,0,0,0
+60,2,Cameron Green,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,25,18,1,0,0,7,8,6,8,6,9,6,0
+60,2,Kartik Tyagi,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,59,24,0,0,0,6,14,6,10,6,35,12,0
+60,2,Matheesha Pathirana,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,9,8,0,2,0,4,9,8,0,0,0,0,0
+60,2,Saurabh Dubey,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,18,16,1,3,0,8,13,10,0,0,5,6,0
+60,2,Sunil Narine,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,29,24,2,0,0,11,1,6,23,12,5,6,0
+60,2,Varun Chakaravarthy,"May 16, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,47,24,0,1,0,3,0,0,47,24,0,0,0
+61,1,Arshdeep Singh,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bengaluru,43,24,1,1,0,4,16,12,0,0,27,12,0
+61,1,Azmatullah Omarzai,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bengaluru,38,24,0,1,0,8,13,6,6,6,19,12,0
+61,1,Harpreet Brar,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bengaluru,35,24,2,1,0,8,19,12,16,12,0,0,0
+61,1,Lockie Ferguson,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bengaluru,43,18,0,2,0,4,13,6,11,6,19,6,0
+61,1,Shashank Singh,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bengaluru,20,12,0,0,0,2,0,0,20,12,0,0,0
+61,1,Yuzvendra Chahal,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Royal Challengers Bengaluru,42,18,1,0,1,4,0,0,42,18,0,0,0
+61,2,Bhuvneshwar Kumar,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,38,24,2,1,0,10,8,12,0,0,30,12,0
+61,2,Josh Hazlewood,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,36,24,1,2,0,10,26,12,0,0,10,12,0
+61,2,Krunal Pandya,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,27,18,0,1,0,1,0,0,27,18,0,0,0
+61,2,Rasikh Salam Dar,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,36,24,3,3,0,12,15,12,12,6,9,6,0
+61,2,Romario Shepherd,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,8,6,1,0,0,2,0,0,8,6,0,0,0
+61,2,Suyash Sharma,"May 17, 2026",League stage,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,50,24,1,1,0,3,0,0,50,24,0,0,0
+62,1,Axar Patel,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,31,24,0,0,0,9,0,0,26,18,5,6,0
+62,1,Lungi Ngidi,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,24,24,2,0,0,15,12,12,0,0,12,12,0
+62,1,Madhav Tiwari,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,26,24,2,3,0,8,0,0,23,18,3,6,0
+62,1,Mitchell Starc,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,40,24,4,1,0,9,28,12,6,6,6,6,0
+62,1,Mukesh Kumar,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,40,12,0,1,0,2,17,6,23,6,0,0,0
+62,1,Tripurana Vijay,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,29,12,0,0,0,2,18,6,11,6,0,0,0
+62,2,Adam Milne,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,40,20,0,1,0,3,22,12,0,0,18,8,0
+62,2,Brijesh Sharma,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,43,24,2,2,0,4,24,12,8,6,11,6,0
+62,2,Dasun Shanaka,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,29,18,1,0,0,4,0,0,29,18,0,0,0
+62,2,Donovan Ferreira,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,16,6,0,0,0,0,0,0,0,0,16,6,0
+62,2,Jofra Archer,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,31,24,2,3,0,10,21,12,2,6,8,6,0
+62,2,Yash Raj Punja,"May 17, 2026",League stage,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,29,24,0,1,0,5,0,0,29,24,0,0,0
+63,1,Eshan Malinga,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,26,24,1,0,0,8,8,12,10,6,8,6,0
+63,1,Nitish Reddy,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,35,12,0,1,1,1,17,6,18,6,0,0,0
+63,1,Pat Cummins,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,28,24,3,1,0,15,13,6,3,12,12,6,0
+63,1,Praful Hinge,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,36,18,1,2,0,8,13,6,16,6,7,6,0
+63,1,Sakib Hussain,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,34,24,2,3,0,12,6,6,8,6,20,12,0
+63,1,Shivang Kumar,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,20,18,0,0,0,3,0,0,20,18,0,0,0
+63,2,Akeal Hosein,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,21,18,1,1,0,7,0,0,15,12,6,6,0
+63,2,Anshul Kamboj,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,47,24,1,1,0,5,8,6,16,6,23,12,0
+63,2,Mukesh Choudhary,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,35,24,2,2,0,9,21,18,0,0,14,6,0
+63,2,Noor Ahmad,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,40,24,1,0,0,7,0,0,40,24,0,0,0
+63,2,Shivam Dube,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,12,6,0,1,0,1,0,0,12,6,0,0,0
+63,2,Spencer Johnson,"May 18, 2026",League stage,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,26,18,0,0,0,8,17,12,9,6,0,0,0
+64,1,Brijesh Sharma,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Lucknow Super Giants,44,24,0,2,1,9,14,6,13,12,17,6,0
+64,1,Dasun Shanaka,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Lucknow Super Giants,10,6,0,1,0,1,0,0,10,6,0,0,0
+64,1,Jofra Archer,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Lucknow Super Giants,39,24,3,0,0,10,24,12,0,0,15,12,0
+64,1,Sandeep Sharma,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Lucknow Super Giants,43,18,0,0,0,3,31,12,0,0,12,6,0
+64,1,Sushant Mishra,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Lucknow Super Giants,44,24,0,4,0,11,13,6,20,12,11,6,0
+64,1,Yash Raj Punja,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Lucknow Super Giants,35,24,2,0,0,7,0,0,35,24,0,0,0
+64,2,Akash Singh,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,49,18,1,4,0,7,19,6,30,12,0,0,0
+64,2,Digvesh Singh Rathi,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,38,24,0,0,0,7,0,0,38,24,0,0,0
+64,2,Mayank Yadav,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,50,24,0,0,0,10,12,12,29,6,9,6,0
+64,2,Mohsin Khan,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,31,24,1,0,0,9,21,12,3,6,7,6,0
+64,2,Prince Yadav,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,43,24,1,1,0,9,15,6,16,6,12,12,0
+64,2,Shahbaz Ahmed,"May 19, 2026",League stage,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,6,1,0,0,0,0,0,0,0,0,6,1,0
+65,1,Anukul Roy,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,6,6,0,0,0,3,6,6,0,0,0,0,0
+65,1,Cameron Green,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,23,18,2,0,0,9,17,12,6,6,0,0,0
+65,1,Kartik Tyagi,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,37,24,2,0,0,10,0,0,9,12,28,12,0
+65,1,Saurabh Dubey,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,34,24,2,2,0,14,22,18,0,0,12,6,0
+65,1,Sunil Narine,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,13,24,1,0,0,16,0,0,12,18,1,6,0
+65,1,Varun Chakaravarthy,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,28,24,1,1,0,8,0,0,17,18,11,6,0
+65,2,AM Ghazanfar,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,25,24,1,0,0,8,0,0,14,18,11,6,0
+65,2,Corbin Bosch,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,30,18,3,0,1,7,12,6,13,6,5,6,0
+65,2,Deepak Chahar,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,23,18,1,2,0,9,23,18,0,0,0,0,0
+65,2,Hardik Pandya,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,13,12,0,1,0,7,0,0,13,12,0,0,0
+65,2,Jasprit Bumrah,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,26,24,1,1,0,11,16,12,3,6,7,6,0
+65,2,Raghu Sharma,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,23,12,0,0,0,1,0,0,23,12,0,0,0
+65,2,Will Jacks,"May 20, 2026",League stage,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,7,5,0,0,0,3,0,0,0,0,7,5,0
+66,1,Anshul Kamboj,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,56,24,2,1,0,5,13,6,15,6,28,12,0
+66,1,Gurjapneet Singh,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,30,24,0,3,0,7,3,6,12,12,15,6,0
+66,1,Mukesh Choudhary,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,36,24,1,0,0,9,15,12,8,6,13,6,0
+66,1,Noor Ahmad,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,40,18,0,1,0,4,0,0,40,18,0,0,0
+66,1,Shivam Dube,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,15,6,0,0,0,1,0,0,15,6,0,0,0
+66,1,Spencer Johnson,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,43,24,1,2,1,8,26,12,4,6,13,6,0
+66,2,Arshad Khan,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,24,12,1,2,0,4,0,0,24,12,0,0,0
+66,2,Jason Holder,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,27,12,0,0,0,2,0,0,27,12,0,0,0
+66,2,Kagiso Rabada,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,32,22,3,1,0,10,32,18,0,4,0,0,1
+66,2,Mohammed Siraj,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,26,18,3,0,0,10,26,18,0,0,0,0,0
+66,2,Prasidh Krishna,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,13,6,0,0,0,1,0,0,13,6,0,0,0
+66,2,Rashid Khan,"May 21, 2026",League stage,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,18,12,3,1,0,6,0,0,18,12,0,0,0
+67,1,Bhuvneshwar Kumar,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,50,24,0,2,0,5,24,12,18,6,8,6,0
+67,1,Josh Hazlewood,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,54,24,0,3,0,5,15,12,26,6,13,6,0
+67,1,Krunal Pandya,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,24,12,1,1,0,5,0,0,8,6,16,6,0
+67,1,Rasikh Salam Dar,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,51,24,2,2,0,6,23,12,0,0,28,12,0
+67,1,Romario Shepherd,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,37,18,0,2,0,2,0,0,37,18,0,0,0
+67,1,Suyash Sharma,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,36,18,1,1,0,6,0,0,36,18,0,0,0
+67,2,Eshan Malinga,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,33,24,2,0,0,10,19,12,3,6,11,6,0
+67,2,Harshal Patel,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,37,24,0,0,0,3,0,0,28,18,9,6,0
+67,2,Nitish Reddy,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,10,6,0,1,0,1,0,0,10,6,0,0,0
+67,2,Pat Cummins,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,47,24,0,2,1,5,29,12,11,6,7,6,0
+67,2,Sakib Hussain,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,31,24,1,0,0,9,4,6,12,12,15,6,0
+67,2,Shivang Kumar,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,32,12,0,1,0,3,23,6,9,6,0,0,0
+67,2,Travis Head,"May 22, 2026",League stage,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,7,6,1,0,0,2,0,0,0,0,7,6,0
+68,1,Arshdeep Singh,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,51,18,0,3,0,5,16,6,19,6,16,6,0
+68,1,Azmatullah Omarzai,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,29,18,1,1,0,7,29,18,0,0,0,0,0
+68,1,Marco Jansen,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,33,24,2,1,0,11,20,12,0,0,13,12,0
+68,1,Shashank Singh,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,29,18,1,1,0,5,0,0,17,12,12,6,0
+68,1,Vijaykumar Vyshak,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,26,18,0,1,0,5,0,0,20,12,6,6,0
+68,1,Yuzvendra Chahal,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,25,24,2,0,0,7,0,0,25,24,0,0,0
+68,2,Arjun Tendulkar,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,36,24,1,0,0,6,0,0,31,18,5,6,0
+68,2,Digvesh Singh Rathi,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,39,18,0,0,0,1,14,6,25,12,0,0,0
+68,2,Mohammed Shami,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,45,24,2,2,0,10,19,12,6,6,20,6,0
+68,2,Mohsin Khan,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,48,24,0,0,0,3,11,6,24,12,13,6,0
+68,2,Prince Yadav,"May 23, 2026",League stage,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,32,17,0,1,0,3,21,11,11,6,0,0,0
+69,1,AM Ghazanfar,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,43,18,1,1,0,4,15,6,28,12,0,0,0
+69,1,Corbin Bosch,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,38,24,2,1,0,6,0,0,10,12,28,12,0
+69,1,Deepak Chahar,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,43,24,2,0,0,10,27,18,0,0,16,6,0
+69,1,Raghu Sharma,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,25,18,0,0,0,5,0,0,25,18,0,0,0
+69,1,Shardul Thakur,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,41,24,2,0,2,7,0,0,13,12,28,12,0
+69,1,Will Jacks,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,12,12,1,2,0,7,12,12,0,0,0,0,0
+69,2,Brijesh Sharma,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,26,24,2,0,1,9,11,6,12,12,3,6,0
+69,2,Dasun Shanaka,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,21,12,0,1,0,3,0,0,15,6,6,6,0
+69,2,Jofra Archer,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,17,24,3,0,0,13,14,18,0,0,3,6,0
+69,2,Nandre Burger,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,43,24,2,2,0,8,24,12,8,6,11,6,0
+69,2,Ravindra Jadeja,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,24,12,0,0,0,2,0,0,24,12,0,0,0
+69,2,Yash Raj Punja,"May 24, 2026",League stage,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,44,24,2,1,0,7,0,0,39,18,5,6,0
+70,1,Anukul Roy,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,23,12,1,2,0,3,10,6,13,6,0,0,0
+70,1,Cameron Green,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,21,12,0,0,0,3,14,6,7,6,0,0,0
+70,1,Kartik Tyagi,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,55,24,0,0,1,5,13,6,20,6,22,12,0
+70,1,Saurabh Dubey,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,27,24,2,3,0,13,5,12,0,0,22,12,0
+70,1,Sunil Narine,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,38,24,1,0,0,8,11,6,27,18,0,0,0
+70,1,Varun Chakaravarthy,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,34,24,1,1,0,8,0,0,18,18,16,6,0
+70,2,Auqib Nabi,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,23,12,0,0,0,6,23,12,0,0,0,0,0
+70,2,Axar Patel,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,38,24,1,0,0,8,8,6,30,18,0,0,0
+70,2,Kuldeep Yadav,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,28,24,3,1,0,9,0,0,20,18,8,6,0
+70,2,Lungi Ngidi,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,27,22,3,0,0,10,4,6,8,6,15,10,0
+70,2,Madhav Tiwari,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,20,12,0,3,0,3,0,0,20,12,0,0,0
+70,2,Mitchell Starc,"May 24, 2026",League stage,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,26,18,3,0,0,9,20,12,0,0,6,6,0
+71,1,Jason Holder,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Gujarat Titans,Royal Challengers Bengaluru,39,24,2,0,0,5,12,6,27,18,0,0,0
+71,1,Kagiso Rabada,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Gujarat Titans,Royal Challengers Bengaluru,54,24,2,0,0,8,39,18,0,0,15,6,0
+71,1,Kulwant Khejroliya,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Gujarat Titans,Royal Challengers Bengaluru,31,12,0,1,2,3,0,0,31,12,0,0,0
+71,1,Mohammed Siraj,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Gujarat Titans,Royal Challengers Bengaluru,46,18,0,0,0,4,25,12,0,0,21,6,0
+71,1,Prasidh Krishna,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Gujarat Titans,Royal Challengers Bengaluru,53,24,1,2,0,4,0,0,24,12,29,12,0
+71,1,Rashid Khan,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Gujarat Titans,Royal Challengers Bengaluru,29,18,0,0,0,4,0,0,8,12,21,6,0
+71,2,Bhuvneshwar Kumar,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Gujarat Titans,28,24,2,1,0,14,12,12,0,0,16,12,0
+71,2,Jacob Duffy,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Gujarat Titans,39,25,4,1,0,13,25,13,14,12,0,0,0
+71,2,Josh Hazlewood,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Gujarat Titans,39,24,1,0,0,13,14,6,16,12,9,6,0
+71,2,Krunal Pandya,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Gujarat Titans,16,21,2,1,0,12,0,0,15,18,1,3,0
+71,2,Rasikh Salam Dar,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Gujarat Titans,24,18,2,3,1,10,0,6,11,6,13,6,1
+71,2,Romario Shepherd,"May 26, 2026",Playoffs,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Gujarat Titans,15,6,0,0,0,2,0,0,15,6,0,0,0
+72,1,Eshan Malinga,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Rajasthan Royals,40,24,1,1,0,9,22,12,12,6,6,6,0
+72,1,Nitish Reddy,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Rajasthan Royals,12,12,2,0,0,7,0,0,7,6,5,6,0
+72,1,Pat Cummins,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Rajasthan Royals,64,24,0,1,0,3,34,12,17,6,13,6,0
+72,1,Praful Hinge,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Rajasthan Royals,54,24,3,1,1,9,6,6,41,12,7,6,0
+72,1,Sakib Hussain,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Rajasthan Royals,52,24,1,0,0,7,18,6,31,12,3,6,0
+72,1,Shivang Kumar,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Sunrisers Hyderabad,Rajasthan Royals,19,12,1,0,0,3,0,0,19,12,0,0,0
+72,2,Brijesh Sharma,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Sunrisers Hyderabad,31,18,0,1,1,5,9,6,18,6,4,6,0
+72,2,Jofra Archer,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Sunrisers Hyderabad,58,24,3,1,0,8,42,18,0,0,16,6,0
+72,2,Nandre Burger,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Sunrisers Hyderabad,22,18,2,2,0,10,16,12,0,0,6,6,1
+72,2,Ravindra Jadeja,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Sunrisers Hyderabad,21,18,2,2,0,5,0,0,21,18,0,0,0
+72,2,Sushant Mishra,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Sunrisers Hyderabad,21,14,2,3,0,5,0,0,20,12,1,2,1
+72,2,Yash Raj Punja,"May 27, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Sunrisers Hyderabad,39,24,1,2,0,6,0,0,35,18,4,6,0
+73,1,Jason Holder,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Rajasthan Royals,27,24,2,1,0,14,0,0,11,18,16,6,0
+73,1,Kagiso Rabada,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Rajasthan Royals,35,24,2,0,0,10,21,12,9,6,5,6,0
+73,1,Mohammed Siraj,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Rajasthan Royals,38,24,1,1,0,10,29,18,9,6,0,0,0
+73,1,Prasidh Krishna,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Rajasthan Royals,42,24,1,0,0,8,16,6,15,12,11,6,0
+73,1,Rashid Khan,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Rajasthan Royals,45,12,0,0,0,1,0,0,18,6,27,6,0
+73,1,Washington Sundar,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Gujarat Titans,Rajasthan Royals,23,12,0,0,0,0,0,0,6,6,17,6,0
+73,2,Brijesh Sharma,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Gujarat Titans,44,22,1,3,0,6,7,6,23,12,14,4,0
+73,2,Jofra Archer,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Gujarat Titans,45,24,1,1,0,6,29,12,4,6,12,6,0
+73,2,Nandre Burger,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Gujarat Titans,31,24,1,3,0,7,15,12,12,6,4,6,0
+73,2,Ravindra Jadeja,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Gujarat Titans,28,12,0,0,0,0,0,0,28,12,0,0,0
+73,2,Tushar Deshpande,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Gujarat Titans,34,18,0,0,0,4,10,6,17,6,7,6,0
+73,2,Yash Raj Punja,"May 29, 2026",Playoffs,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",Rajasthan Royals,Gujarat Titans,29,12,0,0,0,2,0,0,29,12,0,0,0
+74,1,Bhuvneshwar Kumar,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,29,24,2,0,0,11,11,12,0,0,18,12,0
+74,1,Jacob Duffy,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,37,24,0,2,0,6,12,6,25,18,0,0,0
+74,1,Josh Hazlewood,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,37,24,2,1,0,7,15,12,6,6,16,6,0
+74,1,Krunal Pandya,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,23,24,1,0,0,7,0,0,23,24,0,0,0
+74,1,Rasikh Salam Dar,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,27,24,3,0,0,8,6,6,5,6,16,12,0
+74,2,Arshad Khan,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,32,24,1,0,0,9,0,0,13,12,19,12,0
+74,2,Jason Holder,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,16,12,0,0,0,5,0,0,16,12,0,0,0
+74,2,Kagiso Rabada,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,44,18,1,0,0,7,44,18,0,0,0,0,0
+74,2,Mohammed Siraj,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,36,24,1,1,0,10,25,18,11,6,0,0,0
+74,2,Prasidh Krishna,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,7,6,0,0,0,3,0,0,7,6,0,0,0
+74,2,Rashid Khan,"May 31, 2026",Final,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,25,24,2,0,0,9,0,0,22,18,3,6,0

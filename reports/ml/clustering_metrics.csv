@@ -1,0 +1,4 @@
+domain,selected_clusters,silhouette_score,historical_rows,candidate_rows
+batting,3,0.2213,472,891
+bowling,3,0.2058,400,654
+allrounder,6,0.3224,794,1463

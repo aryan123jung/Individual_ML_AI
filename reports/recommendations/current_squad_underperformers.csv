@@ -1,0 +1,19 @@
+team,player,replacement_type,target_role,matches_played,underperformance_score,severity,action_level,reason,replacement_priority_rank
+Chennai Super Kings,Gurjapneet Singh,bowling,death_bowler,8,19.04,low,competition_needed,Current bowling output below IPL benchmark for death_bowler,1
+Delhi Capitals,Mukesh Kumar,bowling,death_bowler,10,25.06,medium,watchlist,Current bowling output below IPL benchmark for death_bowler,1
+Delhi Capitals,Kuldeep Yadav,bowling,middle_overs_bowler,11,14.75,low,competition_needed,Current bowling output below IPL benchmark for middle_overs_bowler,2
+Gujarat Titans,Washington Sundar,bowling,powerplay_bowler,5,42.93,high,replace_now,Current bowling output below IPL benchmark for powerplay_bowler,1
+Gujarat Titans,Ashok Sharma,bowling,death_bowler,6,15.27,low,competition_needed,Current bowling output below IPL benchmark for death_bowler,2
+Gujarat Titans,Rashid Khan,batting,lower_order_hitter,6,12.83,low,competition_needed,Current batting output below IPL benchmark for lower_order_hitter,3
+Kolkata Knight Riders,Ramandeep Singh,allrounder,utility_player,6,14.57,low,competition_needed,Current all-round impact below IPL benchmark for utility_player,1
+Lucknow Super Giants,Shahbaz Ahmed,bowling,middle_overs_bowler,5,21.96,medium,watchlist,Current bowling output below IPL benchmark for middle_overs_bowler,1
+Lucknow Super Giants,Avesh Khan,bowling,death_bowler,7,15.86,low,competition_needed,Current bowling output below IPL benchmark for death_bowler,2
+Punjab Kings,Vijaykumar Vyshak,bowling,middle_overs_bowler,9,14.7,low,competition_needed,Current bowling output below IPL benchmark for middle_overs_bowler,1
+Punjab Kings,Arshdeep Singh,bowling,death_bowler,14,12.96,low,competition_needed,Current bowling output below IPL benchmark for death_bowler,2
+Rajasthan Royals,Sandeep Sharma,bowling,powerplay_bowler,6,21.8,medium,watchlist,Current bowling output below IPL benchmark for powerplay_bowler,1
+Rajasthan Royals,Ravi Bishnoi,bowling,middle_overs_bowler,9,13.84,low,competition_needed,Current bowling output below IPL benchmark for middle_overs_bowler,2
+Royal Challengers Bengaluru,Washington Sundar,allrounder,bowling_allrounder,16,11.86,low,competition_needed,Current all-round impact below IPL benchmark for bowling_allrounder,1
+Sunrisers Hyderabad,Abdul Samad,allrounder,utility_player,7,23.87,medium,watchlist,Current all-round impact below IPL benchmark for utility_player,1
+Sunrisers Hyderabad,Harsh Dubey,bowling,powerplay_bowler,8,15.15,low,competition_needed,Current bowling output below IPL benchmark for powerplay_bowler,2
+Sunrisers Hyderabad,Sakib Hussain,bowling,powerplay_bowler,11,14.58,low,competition_needed,Current bowling output below IPL benchmark for powerplay_bowler,3
+Sunrisers Hyderabad,Abhishek Sharma,allrounder,batting_allrounder,15,10.52,low,competition_needed,Current all-round impact below IPL benchmark for batting_allrounder,4

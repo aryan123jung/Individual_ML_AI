@@ -1,0 +1,4 @@
+domain,best_model,test_seasons,tn,fp,fn,tp,test_rows
+batting,random_forest,"2024,2025,2026",47,26,25,86,184
+bowling,random_forest,"2024,2025,2026",86,5,17,46,154
+allrounder,random_forest,"2024,2025,2026",87,15,1,176,279

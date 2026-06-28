@@ -1,0 +1,13 @@
+domain,cluster_id,cluster_label,dominant_role,dominant_role_share,players_in_cluster
+batting,0,batting_aggressive_opener_cluster_0,aggressive_opener,39.26,163
+batting,1,batting_tailender_cluster_1,tailender,36.87,198
+batting,2,batting_tailender_cluster_2,tailender,91.89,111
+bowling,0,bowling_powerplay_bowler_cluster_0,powerplay_bowler,54.74,190
+bowling,1,bowling_middle_overs_bowler_cluster_1,middle_overs_bowler,80.89,157
+bowling,2,bowling_middle_overs_bowler_cluster_2,middle_overs_bowler,52.83,53
+allrounder,0,allrounder_pure_batter_cluster_0,pure_batter,96.98,199
+allrounder,1,allrounder_pure_bowler_cluster_1,pure_bowler,97.09,206
+allrounder,2,allrounder_bowling_allrounder_cluster_2,bowling_allrounder,41.67,72
+allrounder,3,allrounder_pure_batter_cluster_3,pure_batter,50.0,54
+allrounder,4,allrounder_pure_bowler_cluster_4,pure_bowler,34.72,216
+allrounder,5,allrounder_pure_batter_cluster_5,pure_batter,68.09,47

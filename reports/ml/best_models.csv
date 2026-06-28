@@ -1,0 +1,4 @@
+domain,best_model,best_f1_score,training_rows,positive_rate
+batting,random_forest,0.8785,472,0.5424
+bowling,random_forest,0.8974,400,0.4875
+allrounder,random_forest,0.954,794,0.5378

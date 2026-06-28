@@ -1,0 +1,4 @@
+domain,best_model,tn,fp,fn,tp,test_rows
+batting,random_forest,35,8,5,47,95
+bowling,random_forest,37,4,4,35,80
+allrounder,random_forest,68,5,3,83,159

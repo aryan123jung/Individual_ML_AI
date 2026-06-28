@@ -1,0 +1,4 @@
+domain,best_model,test_seasons,train_rows,test_rows,accuracy,precision,recall,f1_score,roc_auc
+batting,random_forest,"2024,2025,2026",288,184,0.7228,0.7679,0.7748,0.7713,0.8128
+bowling,random_forest,"2024,2025,2026",246,154,0.8571,0.902,0.7302,0.807,0.9508
+allrounder,random_forest,"2024,2025,2026",515,279,0.9427,0.9215,0.9944,0.9565,0.9905

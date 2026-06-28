@@ -1,0 +1,141 @@
+team,gap_type,role,current_count,target_count,deficit,gap_severity
+Chennai Super Kings,allrounder,batting_allrounder,0,2,2,1.0
+Chennai Super Kings,allrounder,bowling_allrounder,0,2,2,1.0
+Chennai Super Kings,allrounder,utility_player,0,2,2,1.0
+Chennai Super Kings,batting,aggressive_opener,0,2,2,1.0
+Chennai Super Kings,batting,anchor_opener,0,1,1,1.0
+Chennai Super Kings,batting,top_order_anchor,0,1,1,1.0
+Chennai Super Kings,batting,middle_order,1,2,1,0.5
+Chennai Super Kings,batting,finisher,1,2,1,0.5
+Chennai Super Kings,batting,lower_order_hitter,0,1,1,1.0
+Chennai Super Kings,batting,top_order_aggressor,1,1,0,0.0
+Chennai Super Kings,bowling,powerplay_bowler,1,2,1,0.5
+Chennai Super Kings,bowling,middle_overs_bowler,1,2,1,0.5
+Chennai Super Kings,bowling,death_bowler,1,2,1,0.5
+Chennai Super Kings,bowling,all_phases_bowler,0,1,1,1.0
+Delhi Capitals,allrounder,batting_allrounder,0,2,2,1.0
+Delhi Capitals,allrounder,utility_player,0,2,2,1.0
+Delhi Capitals,allrounder,bowling_allrounder,1,2,1,0.5
+Delhi Capitals,batting,middle_order,0,2,2,1.0
+Delhi Capitals,batting,finisher,0,2,2,1.0
+Delhi Capitals,batting,aggressive_opener,1,2,1,0.5
+Delhi Capitals,batting,anchor_opener,0,1,1,1.0
+Delhi Capitals,batting,top_order_anchor,0,1,1,1.0
+Delhi Capitals,batting,top_order_aggressor,1,1,0,0.0
+Delhi Capitals,batting,lower_order_hitter,1,1,0,0.0
+Delhi Capitals,bowling,powerplay_bowler,0,2,2,1.0
+Delhi Capitals,bowling,middle_overs_bowler,1,2,1,0.5
+Delhi Capitals,bowling,death_bowler,1,2,1,0.5
+Delhi Capitals,bowling,all_phases_bowler,0,1,1,1.0
+Gujarat Titans,allrounder,batting_allrounder,0,2,2,1.0
+Gujarat Titans,allrounder,bowling_allrounder,2,2,0,0.0
+Gujarat Titans,allrounder,utility_player,2,2,0,0.0
+Gujarat Titans,batting,finisher,0,2,2,1.0
+Gujarat Titans,batting,aggressive_opener,1,2,1,0.5
+Gujarat Titans,batting,top_order_anchor,0,1,1,1.0
+Gujarat Titans,batting,top_order_aggressor,0,1,1,1.0
+Gujarat Titans,batting,middle_order,1,2,1,0.5
+Gujarat Titans,batting,anchor_opener,1,1,0,0.0
+Gujarat Titans,batting,lower_order_hitter,1,1,0,0.0
+Gujarat Titans,bowling,middle_overs_bowler,1,2,1,0.5
+Gujarat Titans,bowling,death_bowler,1,2,1,0.5
+Gujarat Titans,bowling,all_phases_bowler,0,1,1,1.0
+Gujarat Titans,bowling,powerplay_bowler,3,2,0,0.0
+Kolkata Knight Riders,allrounder,batting_allrounder,0,2,2,1.0
+Kolkata Knight Riders,allrounder,bowling_allrounder,0,2,2,1.0
+Kolkata Knight Riders,allrounder,utility_player,1,2,1,0.5
+Kolkata Knight Riders,batting,aggressive_opener,0,2,2,1.0
+Kolkata Knight Riders,batting,middle_order,0,2,2,1.0
+Kolkata Knight Riders,batting,finisher,0,2,2,1.0
+Kolkata Knight Riders,batting,anchor_opener,0,1,1,1.0
+Kolkata Knight Riders,batting,top_order_anchor,0,1,1,1.0
+Kolkata Knight Riders,batting,top_order_aggressor,0,1,1,1.0
+Kolkata Knight Riders,batting,lower_order_hitter,0,1,1,1.0
+Kolkata Knight Riders,bowling,middle_overs_bowler,1,2,1,0.5
+Kolkata Knight Riders,bowling,all_phases_bowler,0,1,1,1.0
+Kolkata Knight Riders,bowling,powerplay_bowler,3,2,0,0.0
+Kolkata Knight Riders,bowling,death_bowler,2,2,0,0.0
+Lucknow Super Giants,allrounder,batting_allrounder,0,2,2,1.0
+Lucknow Super Giants,allrounder,bowling_allrounder,0,2,2,1.0
+Lucknow Super Giants,allrounder,utility_player,3,2,0,0.0
+Lucknow Super Giants,batting,aggressive_opener,0,2,2,1.0
+Lucknow Super Giants,batting,finisher,0,2,2,1.0
+Lucknow Super Giants,batting,anchor_opener,0,1,1,1.0
+Lucknow Super Giants,batting,top_order_anchor,0,1,1,1.0
+Lucknow Super Giants,batting,top_order_aggressor,0,1,1,1.0
+Lucknow Super Giants,batting,middle_order,1,2,1,0.5
+Lucknow Super Giants,batting,lower_order_hitter,1,1,0,0.0
+Lucknow Super Giants,bowling,middle_overs_bowler,1,2,1,0.5
+Lucknow Super Giants,bowling,all_phases_bowler,0,1,1,1.0
+Lucknow Super Giants,bowling,powerplay_bowler,4,2,0,0.0
+Lucknow Super Giants,bowling,death_bowler,2,2,0,0.0
+Mumbai Indians,allrounder,batting_allrounder,0,2,2,1.0
+Mumbai Indians,allrounder,bowling_allrounder,0,2,2,1.0
+Mumbai Indians,allrounder,utility_player,0,2,2,1.0
+Mumbai Indians,batting,aggressive_opener,0,2,2,1.0
+Mumbai Indians,batting,middle_order,0,2,2,1.0
+Mumbai Indians,batting,anchor_opener,0,1,1,1.0
+Mumbai Indians,batting,top_order_anchor,0,1,1,1.0
+Mumbai Indians,batting,top_order_aggressor,0,1,1,1.0
+Mumbai Indians,batting,finisher,1,2,1,0.5
+Mumbai Indians,batting,lower_order_hitter,1,1,0,0.0
+Mumbai Indians,bowling,powerplay_bowler,0,2,2,1.0
+Mumbai Indians,bowling,death_bowler,0,2,2,1.0
+Mumbai Indians,bowling,all_phases_bowler,0,1,1,1.0
+Mumbai Indians,bowling,middle_overs_bowler,2,2,0,0.0
+Punjab Kings,allrounder,batting_allrounder,0,2,2,1.0
+Punjab Kings,allrounder,bowling_allrounder,1,2,1,0.5
+Punjab Kings,allrounder,utility_player,1,2,1,0.5
+Punjab Kings,batting,aggressive_opener,1,2,1,0.5
+Punjab Kings,batting,anchor_opener,0,1,1,1.0
+Punjab Kings,batting,top_order_anchor,0,1,1,1.0
+Punjab Kings,batting,top_order_aggressor,0,1,1,1.0
+Punjab Kings,batting,finisher,1,2,1,0.5
+Punjab Kings,batting,lower_order_hitter,0,1,1,1.0
+Punjab Kings,batting,middle_order,2,2,0,0.0
+Punjab Kings,bowling,powerplay_bowler,1,2,1,0.5
+Punjab Kings,bowling,all_phases_bowler,0,1,1,1.0
+Punjab Kings,bowling,middle_overs_bowler,3,2,0,0.0
+Punjab Kings,bowling,death_bowler,2,2,0,0.0
+Rajasthan Royals,allrounder,batting_allrounder,0,2,2,1.0
+Rajasthan Royals,allrounder,bowling_allrounder,0,2,2,1.0
+Rajasthan Royals,allrounder,utility_player,0,2,2,1.0
+Rajasthan Royals,batting,aggressive_opener,0,2,2,1.0
+Rajasthan Royals,batting,middle_order,0,2,2,1.0
+Rajasthan Royals,batting,anchor_opener,0,1,1,1.0
+Rajasthan Royals,batting,top_order_anchor,0,1,1,1.0
+Rajasthan Royals,batting,top_order_aggressor,0,1,1,1.0
+Rajasthan Royals,batting,finisher,1,2,1,0.5
+Rajasthan Royals,batting,lower_order_hitter,0,1,1,1.0
+Rajasthan Royals,bowling,middle_overs_bowler,1,2,1,0.5
+Rajasthan Royals,bowling,death_bowler,1,2,1,0.5
+Rajasthan Royals,bowling,all_phases_bowler,0,1,1,1.0
+Rajasthan Royals,bowling,powerplay_bowler,2,2,0,0.0
+Royal Challengers Bengaluru,allrounder,batting_allrounder,0,2,2,1.0
+Royal Challengers Bengaluru,allrounder,bowling_allrounder,0,2,2,1.0
+Royal Challengers Bengaluru,allrounder,utility_player,0,2,2,1.0
+Royal Challengers Bengaluru,batting,aggressive_opener,0,2,2,1.0
+Royal Challengers Bengaluru,batting,middle_order,0,2,2,1.0
+Royal Challengers Bengaluru,batting,finisher,0,2,2,1.0
+Royal Challengers Bengaluru,batting,anchor_opener,0,1,1,1.0
+Royal Challengers Bengaluru,batting,top_order_anchor,0,1,1,1.0
+Royal Challengers Bengaluru,batting,top_order_aggressor,0,1,1,1.0
+Royal Challengers Bengaluru,batting,lower_order_hitter,0,1,1,1.0
+Royal Challengers Bengaluru,bowling,death_bowler,0,2,2,1.0
+Royal Challengers Bengaluru,bowling,all_phases_bowler,0,1,1,1.0
+Royal Challengers Bengaluru,bowling,powerplay_bowler,2,2,0,0.0
+Royal Challengers Bengaluru,bowling,middle_overs_bowler,2,2,0,0.0
+Sunrisers Hyderabad,allrounder,bowling_allrounder,0,2,2,1.0
+Sunrisers Hyderabad,allrounder,utility_player,0,2,2,1.0
+Sunrisers Hyderabad,allrounder,batting_allrounder,1,2,1,0.5
+Sunrisers Hyderabad,batting,middle_order,0,2,2,1.0
+Sunrisers Hyderabad,batting,anchor_opener,0,1,1,1.0
+Sunrisers Hyderabad,batting,top_order_anchor,0,1,1,1.0
+Sunrisers Hyderabad,batting,top_order_aggressor,0,1,1,1.0
+Sunrisers Hyderabad,batting,finisher,1,2,1,0.5
+Sunrisers Hyderabad,batting,lower_order_hitter,0,1,1,1.0
+Sunrisers Hyderabad,batting,aggressive_opener,2,2,0,0.0
+Sunrisers Hyderabad,bowling,death_bowler,0,2,2,1.0
+Sunrisers Hyderabad,bowling,all_phases_bowler,0,1,1,1.0
+Sunrisers Hyderabad,bowling,powerplay_bowler,3,2,0,0.0
+Sunrisers Hyderabad,bowling,middle_overs_bowler,3,2,0,0.0
