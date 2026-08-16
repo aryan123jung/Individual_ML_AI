@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
 
+from recommendation_engine.config import IPL_BENCHMARK_SEASON_WINDOW, LATEST_IPL_SEASON
+
 
 def numeric_matrix(df, columns, fill_values=None):
     data = df[columns].copy()
@@ -39,6 +41,11 @@ def best_role_matches(smat_df, ipl_df, role_column, feature_columns, comparison_
         smat_df = smat_df[smat_df["eligible_for_model"]].copy()
     if "eligible_for_model" in ipl_df.columns:
         ipl_df = ipl_df[ipl_df["eligible_for_model"]].copy()
+    if "season_start_year" in ipl_df.columns:
+        min_benchmark_season = LATEST_IPL_SEASON - IPL_BENCHMARK_SEASON_WINDOW + 1
+        recent_ipl_df = ipl_df[pd.to_numeric(ipl_df["season_start_year"], errors="coerce") >= min_benchmark_season].copy()
+        if not recent_ipl_df.empty:
+            ipl_df = recent_ipl_df
 
     rows = []
     role_overlap = set(smat_df[role_column].dropna()) & set(ipl_df[role_column].dropna())

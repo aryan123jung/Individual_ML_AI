@@ -6,12 +6,14 @@ from recommendation_engine.config import (
     BATTING_FEATURES,
     BOWLING_FEATURES,
     REPORT_DIR,
+    USE_ACTIVE_IPL_BENCHMARKS_ONLY,
 )
 from recommendation_engine.candidate_pool import build_active_candidate_pools
-from recommendation_engine.data_loader import load_features
+from recommendation_engine.data_loader import filter_active_ipl_reference_pool, load_features
 from recommendation_engine.recommender import (
     build_recommendations,
     build_team_recommendation_summary,
+    exclude_unavailable_players,
     remove_current_squad_players,
 )
 from recommendation_engine.replacements import (
@@ -65,6 +67,9 @@ def merge_cluster_scores(base_df, cluster_df):
 def main():
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
     data = load_features()
+    historical_ipl_batting = data["ipl_batting"].copy()
+    historical_ipl_bowling = data["ipl_bowling"].copy()
+    historical_ipl_allrounder = data["ipl_allrounder"].copy()
     (
         data["smat_batting"],
         data["smat_bowling"],
@@ -89,6 +94,17 @@ def main():
     data["smat_allrounder"] = merge_cluster_scores(
         data["smat_allrounder"], data.get("smat_allrounder_clusters")
     )
+
+    if USE_ACTIVE_IPL_BENCHMARKS_ONLY:
+        data["ipl_batting"] = filter_active_ipl_reference_pool(
+            data["ipl_batting"], data.get("ipl_current_squad")
+        )
+        data["ipl_bowling"] = filter_active_ipl_reference_pool(
+            data["ipl_bowling"], data.get("ipl_current_squad")
+        )
+        data["ipl_allrounder"] = filter_active_ipl_reference_pool(
+            data["ipl_allrounder"], data.get("ipl_current_squad")
+        )
 
     role_benchmarks = build_role_benchmarks(
         data["ipl_batting"], data["ipl_bowling"], data["ipl_allrounder"]
@@ -134,6 +150,15 @@ def main():
         data["smat_allrounder"],
         roster,
     )
+    smat_batting_candidates = exclude_unavailable_players(
+        smat_batting_candidates, data.get("manual_unavailable_players")
+    )
+    smat_bowling_candidates = exclude_unavailable_players(
+        smat_bowling_candidates, data.get("manual_unavailable_players")
+    )
+    smat_allrounder_candidates = exclude_unavailable_players(
+        smat_allrounder_candidates, data.get("manual_unavailable_players")
+    )
     recommendations = build_recommendations(
         squad_gaps,
         smat_batting_candidates,
@@ -146,9 +171,9 @@ def main():
         data["ipl_current_squad"],
         data["ipl_2026_batting"],
         data["ipl_2026_bowling"],
-        data["ipl_batting"],
-        data["ipl_bowling"],
-        data["ipl_allrounder"],
+        historical_ipl_batting,
+        historical_ipl_bowling,
+        historical_ipl_allrounder,
     )
     replacement_recommendations = build_replacement_recommendations(
         replacement_watchlist, recommendations
@@ -182,6 +207,10 @@ def main():
                 {
                     "candidate_pool": "smat_allrounder_recent_active_without_current_ipl_squad_players",
                     "players": smat_allrounder_candidates["player"].nunique(),
+                },
+                {
+                    "candidate_pool": "manual_unavailable_players_excluded",
+                    "players": data.get("manual_unavailable_players", pd.DataFrame()).shape[0],
                 },
                 {
                     "candidate_pool": f"recent_active_batting_players_{recent_pool_meta['min_batting_season']}_{recent_pool_meta['latest_batting_season']}",

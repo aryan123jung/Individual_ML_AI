@@ -16,9 +16,22 @@ def get_team_summary():
     return recommendation_service.get_team_summary()
 
 
+@router.get("/health")
+def get_recommendation_health():
+    return recommendation_service.get_recommendation_health()
+
+
 @router.get("/teams/{team_name}")
-def get_team_recommendations(team_name: str, limit: int | None = Query(default=25, ge=1, le=200)):
-    return recommendation_service.get_team_recommendations(team_name, limit=limit)
+def get_team_recommendations(
+    team_name: str,
+    limit: int | None = Query(default=25, ge=1, le=200),
+    recommendation_type: str | None = Query(default=None),
+):
+    return recommendation_service.get_team_recommendations(
+        team_name,
+        limit=limit,
+        recommendation_type=recommendation_type,
+    )
 
 
 @router.get("/roles/{role_name}")

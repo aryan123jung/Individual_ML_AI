@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 import math
+from difflib import get_close_matches
 
 import numpy as np
 import pandas as pd
@@ -50,6 +51,30 @@ CURRENT_TEAM_ALIASES = {
     "lucknow super giants": "Lucknow Super Giants",
 }
 
+TEAM_PLAYER_OVERRIDES = {
+    ("lucknow super giants", "akshat raghuvanshi"): "akshatraghuwanshi",
+    ("lucknow super giants", "digvesh rathi"): "dsrathi",
+    ("lucknow super giants", "wanindu hasaranga"): "wihasaranga",
+    ("lucknow super giants", "matthew breetzke"): "matthewbreetzke",
+    ("rajasthan royals", "yashasvi jaiswal"): "yashasvijaiswal",
+    ("rajasthan royals", "ravi bishnoi"): "ravibishnoi",
+    ("rajasthan royals", "ravindra jadeja"): "ravindrajadeja",
+    ("rajasthan royals", "tushar deshpande"): "tudeshpande",
+    ("rajasthan royals", "vaibhav sooryavanshi"): "vsuryavanshi",
+    ("mumbai indians", "krish bhagat"): "krishbhagat",
+    ("mumbai indians", "raj bawa"): "rabawa",
+    ("mumbai indians", "raghu sharma"): "rsharma",
+    ("delhi capitals", "kl rahul"): "klrahul",
+    ("delhi capitals", "t natrajan"): "tnatarajan",
+    ("gujarat titans", "prasidh krishna"): "mprasidhkrishna",
+    ("gujarat titans", "sai sudharsan"): "bsaisudharsan",
+    ("gujarat titans", "shahrukh khan"): "mshahrukhkhan",
+    ("gujarat titans", "sai kishore"): "rsaikishore",
+    ("sunrisers hyderabad", "ravichandran smaran"): "smaranravichandran",
+    ("sunrisers hyderabad", "nitish kumar reddy"): "nitishreddy",
+    ("sunrisers hyderabad", "dilshan madushanka"): "dilshanmadushanka",
+}
+
 DISMISSAL_TYPES_NOT_CHARGED_TO_BOWLER = {
     "run out",
     "retired hurt",
@@ -65,6 +90,10 @@ def clean_text(value) -> str:
 
 def normalize_key(value) -> str:
     return clean_text(value).lower()
+
+
+def normalize_player_key(value) -> str:
+    return "".join(ch.lower() for ch in clean_text(value) if ch.isalnum())
 
 
 def phase_for_over(over_value: float | int) -> str:
@@ -459,11 +488,139 @@ def build_match_summary(deliveries: pd.DataFrame, matches: pd.DataFrame) -> pd.D
     return summary
 
 
-def build_current_squad_table(squads: pd.DataFrame, batting: pd.DataFrame, bowling: pd.DataFrame) -> pd.DataFrame:
-    batting = batting.rename(columns={"player": "player_name"})
-    bowling = bowling.rename(columns={"player": "player_name"})
-    merged = squads.merge(batting, on="player_name", how="left", suffixes=("", "_bat"))
-    merged = merged.merge(bowling, on="player_name", how="left", suffixes=("", "_bowl"))
+def _build_player_alias_map(player_master: pd.DataFrame) -> dict[str, str]:
+    alias_map: dict[str, str] = {}
+    if player_master.empty:
+        return alias_map
+
+    for _, row in player_master.iterrows():
+        short_name = clean_text(row.get("player_name"))
+        full_name = clean_text(row.get("player_full_name"))
+        aliases = {short_name, full_name}
+        canonical = normalize_player_key(short_name or full_name)
+        if not canonical:
+            continue
+        for alias in aliases:
+            key = normalize_player_key(alias)
+            if key:
+                alias_map[key] = canonical
+    return alias_map
+
+
+def _build_player_master_name_map(player_master: pd.DataFrame) -> dict[str, str]:
+    name_map: dict[str, str] = {}
+    if player_master.empty:
+        return name_map
+    for _, row in player_master.iterrows():
+        short_name = clean_text(row.get("player_name"))
+        full_name = clean_text(row.get("player_full_name"))
+        canonical = normalize_player_key(short_name or full_name)
+        for alias in {short_name, full_name}:
+            key = normalize_player_key(alias)
+            if key:
+                name_map[key] = canonical
+    return name_map
+
+
+def _build_team_player_lookup_map(
+    squads: pd.DataFrame,
+    batting: pd.DataFrame,
+    bowling: pd.DataFrame,
+    alias_map: dict[str, str],
+    master_name_map: dict[str, str],
+) -> dict[tuple[str, str], str]:
+    candidates: dict[str, list[tuple[str, str]]] = {}
+
+    def add_candidate(team_value: str, player_value: str):
+        team_key = normalize_key(team_value)
+        player_key = normalize_player_key(player_value)
+        if not team_key or not player_key:
+            return
+        canonical = alias_map.get(player_key) or master_name_map.get(player_key) or player_key
+        candidates.setdefault(team_key, []).append((player_key, canonical))
+
+    for _, row in batting.iterrows():
+        add_candidate(row.get("team", ""), row.get("player", ""))
+    for _, row in bowling.iterrows():
+        add_candidate(row.get("team", ""), row.get("player", ""))
+
+    resolved: dict[tuple[str, str], str] = {}
+    for _, row in squads.iterrows():
+        team_key = normalize_key(row.get("team", ""))
+        player_name = clean_text(row.get("player_name", ""))
+        normalized = normalize_player_key(player_name)
+        if not team_key or not normalized:
+            continue
+        override = TEAM_PLAYER_OVERRIDES.get((team_key, normalize_key(player_name)))
+        if override:
+            resolved[(team_key, player_name)] = override
+            continue
+        if normalized in alias_map:
+            resolved[(team_key, player_name)] = alias_map[normalized]
+            continue
+        if normalized in master_name_map:
+            resolved[(team_key, player_name)] = master_name_map[normalized]
+            continue
+
+        team_candidates = candidates.get(team_key, [])
+        candidate_keys = [item[0] for item in team_candidates]
+        close = get_close_matches(normalized, candidate_keys, n=1, cutoff=0.78)
+        if close:
+            matched_key = close[0]
+            for candidate_key, canonical in team_candidates:
+                if candidate_key == matched_key:
+                    resolved[(team_key, player_name)] = canonical
+                    break
+        else:
+            resolved[(team_key, player_name)] = normalized
+
+    return resolved
+
+
+def _resolve_player_lookup(name: str, alias_map: dict[str, str], master_name_map: dict[str, str]) -> str:
+    normalized = normalize_player_key(name)
+    if not normalized:
+        return normalized
+    if normalized in alias_map:
+        return alias_map[normalized]
+    if normalized in master_name_map:
+        return master_name_map[normalized]
+
+    close = get_close_matches(normalized, list(master_name_map.keys()), n=1, cutoff=0.88)
+    if close:
+        return master_name_map[close[0]]
+    return normalized
+
+
+def build_current_squad_table(
+    squads: pd.DataFrame,
+    batting: pd.DataFrame,
+    bowling: pd.DataFrame,
+    player_master: pd.DataFrame,
+) -> pd.DataFrame:
+    alias_map = _build_player_alias_map(player_master)
+    master_name_map = _build_player_master_name_map(player_master)
+
+    squads = squads.copy()
+    batting = batting.copy()
+    bowling = bowling.copy()
+    team_player_lookup = _build_team_player_lookup_map(squads, batting, bowling, alias_map, master_name_map)
+
+    squads["player_lookup"] = squads.apply(
+        lambda row: team_player_lookup.get(
+            (normalize_key(row.get("team", "")), clean_text(row.get("player_name", ""))),
+            _resolve_player_lookup(row.get("player_name", ""), alias_map, master_name_map),
+        ),
+        axis=1,
+    )
+    batting["player_lookup"] = batting["player"].map(lambda x: _resolve_player_lookup(x, alias_map, master_name_map))
+    bowling["player_lookup"] = bowling["player"].map(lambda x: _resolve_player_lookup(x, alias_map, master_name_map))
+
+    batting = batting.rename(columns={"player": "batting_player_name"})
+    bowling = bowling.rename(columns={"player": "bowling_player_name"})
+
+    merged = squads.merge(batting, on="player_lookup", how="left", suffixes=("", "_bat"))
+    merged = merged.merge(bowling, on="player_lookup", how="left", suffixes=("", "_bowl"))
 
     merged["competition"] = "IPL"
     merged["season"] = "2026"
@@ -539,7 +696,7 @@ def main() -> None:
     batting_match, bowling_match = build_match_innings_tables(deliveries)
     batting_features = aggregate_player_batting(batting_match)
     bowling_features = aggregate_player_bowling(bowling_match)
-    current_squad = build_current_squad_table(squads, batting_features, bowling_features)
+    current_squad = build_current_squad_table(squads, batting_features, bowling_features, player_master)
     match_summary = build_match_summary(deliveries, matches)
 
     batting_match.to_csv(OUTPUTS["batting_raw"], index=False)

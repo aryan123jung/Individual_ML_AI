@@ -2,7 +2,7 @@ competition,season,team,player_name,status,primary_role,batting_role,bowling_rol
 IPL,2026,Chennai Super Kings,Akeal Hosein,Verified from Kaggle 2026 delivery data,Bowler,,,7,2,5,3,0,0,0,166.67,,7,148,197,9,7.99,16.44,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Aman Khan,Verified from Kaggle 2026 delivery data,All Rounder,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Anshul Kamboj,Verified from Kaggle 2026 delivery data,All Rounder,,,14,4,59,38,3,4,1,155.26,59.0,14,302,527,24,10.47,12.58,8,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Chennai Super Kings,Ayush Matre,Verified from Kaggle 2026 delivery data,Batter,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Chennai Super Kings,Ayush Matre,Verified from Kaggle 2026 delivery data,Batter,,,6,6,201,113,20,12,5,177.88,40.2,0,0,0,0,,,38,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Dewald Brevis,Verified from Kaggle 2026 delivery data,Batter,,,8,8,151,118,8,10,8,127.97,18.88,0,0,0,0,,,45,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Gurjapneet Singh,Verified from Kaggle 2026 delivery data,Bowler,,,8,0,0,0,0,0,0,,,8,151,228,4,9.06,37.75,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Jamie Overton,Verified from Kaggle 2026 delivery data,All Rounder,,,10,6,136,86,13,6,5,158.14,27.2,10,168,249,14,8.89,12.0,26,,Derived from Kaggle IPL 2026 deliveries and squads data
@@ -20,12 +20,12 @@ IPL,2026,Chennai Super Kings,Ramakrishna Ghosh,Verified from Kaggle 2026 deliver
 IPL,2026,Chennai Super Kings,Ruturaj Gaikwad,Verified from Kaggle 2026 delivery data,Batter,,,14,14,337,273,29,12,12,123.44,28.08,0,0,0,0,,,104,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Sanju Samson,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,14,14,475,287,53,24,11,165.51,43.18,0,0,0,0,,,99,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Sarfaraz Khan,Verified from Kaggle 2026 delivery data,Batter,,,7,7,161,95,23,6,7,169.47,23.0,0,0,0,0,,,37,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Chennai Super Kings,Shivam Dubey,Verified from Kaggle 2026 delivery data,All Rounder,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Chennai Super Kings,Shivam Dubey,Verified from Kaggle 2026 delivery data,All Rounder,,,12,12,270,170,24,15,7,158.82,38.57,4,30,64,1,12.8,30.0,57,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Shreyas Gopal,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Spencer Johnson,Verified from Kaggle 2026 delivery data,Bowler,,,3,1,0,1,0,0,1,0.0,0.0,3,66,108,2,9.82,33.0,1,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Urvil Patel,Verified from Kaggle 2026 delivery data,Batter,,,7,7,129,64,6,14,7,201.56,18.43,0,0,0,0,,,27,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Chennai Super Kings,Zak Foulkes,Verified from Kaggle 2026 delivery data,All Rounder,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Delhi Capitals,Abhishek Porel,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Delhi Capitals,Abhishek Porel,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,4,4,108,88,15,1,4,122.73,27.0,0,0,0,0,,,35,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Delhi Capitals,Ajay Mandal,Verified from Kaggle 2026 delivery data,All Rounder,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Delhi Capitals,Ashutosh Sharma,Verified from Kaggle 2026 delivery data,All Rounder,,,8,8,171,94,15,12,5,181.91,34.2,0,0,0,0,,,30,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Delhi Capitals,Auqib Nabi,Verified from Kaggle 2026 delivery data,Bowler,,,5,2,14,4,2,1,1,350.0,14.0,5,78,149,0,11.46,,1,,Derived from Kaggle IPL 2026 deliveries and squads data
@@ -46,7 +46,7 @@ IPL,2026,Delhi Capitals,Pathum Nissanka,Verified from Kaggle 2026 delivery data,
 IPL,2026,Delhi Capitals,Prithvi Shaw,Verified from Kaggle 2026 delivery data,Batter,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Delhi Capitals,Sahil Parakh,Verified from Kaggle 2026 delivery data,Batter,,,4,4,46,33,5,2,4,139.39,11.5,0,0,0,0,,,14,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Delhi Capitals,Sameer Rizvi,Verified from Kaggle 2026 delivery data,All Rounder,,,9,9,252,171,15,17,7,147.37,36.0,0,0,0,0,,,62,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Delhi Capitals,T Natrajan,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Delhi Capitals,T Natrajan,Verified from Kaggle 2026 delivery data,Bowler,,,10,1,1,2,0,0,0,50.0,,10,191,355,5,11.15,38.2,1,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Delhi Capitals,Tripurana Vijay,Verified from Kaggle 2026 delivery data,Bowler,,,1,0,0,0,0,0,0,,,1,12,29,0,14.5,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Delhi Capitals,Tristan Stubbs,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,13,13,275,216,18,9,6,127.31,45.83,0,0,0,0,,,62,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Delhi Capitals,Vipraj Nigam,Verified from Kaggle 2026 delivery data,Bowler,,,5,2,15,10,2,0,1,150.0,15.0,5,54,113,2,12.56,27.0,2,,Derived from Kaggle IPL 2026 deliveries and squads data
@@ -103,17 +103,17 @@ IPL,2026,Kolkata Knight Riders,Tejasvi Dahiya,Verified from Kaggle 2026 delivery
 IPL,2026,Kolkata Knight Riders,Tim Seifert,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,3,3,19,18,2,1,3,105.56,6.33,0,0,0,0,,,10,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Kolkata Knight Riders,Umran Malik,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Kolkata Knight Riders,Vaibhav Arora,Verified from Kaggle 2026 delivery data,Bowler,,,10,2,1,3,0,0,0,33.33,,10,228,389,11,10.24,20.73,2,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Kolkata Knight Riders,Varun Chakravarthy,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Kolkata Knight Riders,Varun Chakravarthy,Verified from Kaggle 2026 delivery data,Bowler,,,11,2,5,6,1,0,2,83.33,2.5,11,246,359,12,8.76,20.5,4,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Abdul Samad,Verified from Kaggle 2026 delivery data,Batter,,,7,7,116,88,10,5,6,131.82,19.33,1,1,6,0,36.0,,34,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Aiden Markram,Verified from Kaggle 2026 delivery data,Batter,,,11,12,231,168,20,11,9,137.5,25.67,5,36,82,0,13.67,,56,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Akash Singh,Verified from Kaggle 2026 delivery data,Bowler,,,2,0,0,0,0,0,0,,,2,42,75,4,10.71,10.5,0,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Lucknow Super Giants,Akshat Raghuvanshi,Verified from Kaggle 2026 delivery data,Batter,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Lucknow Super Giants,Akshat Raghuvanshi,Verified from Kaggle 2026 delivery data,Batter,,,2,2,29,25,1,1,2,116.0,14.5,0,0,0,0,,,7,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Anrich Nortje,Verified from Kaggle 2026 delivery data,Bowler,,,1,1,0,1,0,0,1,0.0,0.0,1,24,35,0,8.75,,1,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Arjun Tendulkar,Verified from Kaggle 2026 delivery data,Bowler,,,1,1,5,5,0,0,0,100.0,,1,24,36,1,9.0,24.0,1,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Arshin Kulkarni,Verified from Kaggle 2026 delivery data,All Rounder,,,2,2,17,25,1,0,2,68.0,8.5,0,0,0,0,,,14,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Avesh Khan,Verified from Kaggle 2026 delivery data,Bowler,,,7,3,6,6,1,0,1,100.0,6.0,7,148,274,6,11.11,24.67,3,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Ayush Badoni,Verified from Kaggle 2026 delivery data,Batter,,,10,10,215,141,23,9,10,152.48,21.5,1,6,14,0,14.0,,50,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Lucknow Super Giants,Digvesh Rathi,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Lucknow Super Giants,Digvesh Rathi,Verified from Kaggle 2026 delivery data,Bowler,,,10,2,2,5,0,0,0,40.0,,10,234,397,5,10.18,46.8,3,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Himmat Singh,Verified from Kaggle 2026 delivery data,Batter,,,5,5,92,69,5,5,3,133.33,30.67,0,0,0,0,,,21,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Josh Inglis,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,5,5,262,143,31,12,5,183.22,52.4,0,0,0,0,,,42,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Lucknow Super Giants,Manimaran Siddharth,Verified from Kaggle 2026 delivery data,Bowler,,,4,0,0,0,0,0,0,,,4,90,144,6,9.6,15.0,0,,Derived from Kaggle IPL 2026 deliveries and squads data
@@ -207,7 +207,7 @@ IPL,2026,Rajasthan Royals,Yashasvi Jaiswal,Verified from Kaggle 2026 delivery da
 IPL,2026,Rajasthan Royals,Yudhvir Singh,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Abhinandan Singh,Verified from Kaggle 2026 delivery data,Bowler,,,3,0,0,0,0,0,0,,,3,58,122,3,12.62,19.33,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Bhuvneshwar Kumar,Verified from Kaggle 2026 delivery data,Bowler,,,16,4,34,26,3,1,0,130.77,,16,378,500,29,7.94,13.03,10,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Royal Challengers Bengaluru,Devdutt Padikal,Verified from Kaggle 2026 delivery data,Batter,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Royal Challengers Bengaluru,Devdutt Padikal,Verified from Kaggle 2026 delivery data,Batter,,,15,15,464,275,49,24,14,168.73,33.14,0,0,0,0,,,86,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Jacob Bethell,Verified from Kaggle 2026 delivery data,All Rounder,,,7,7,96,77,12,3,7,124.68,13.71,0,0,0,0,,,33,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Jacob Duffy,Verified from Kaggle 2026 delivery data,Bowler,,,6,0,0,0,0,0,0,,,6,145,263,11,10.88,13.18,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Jitesh Sharma,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,12,12,117,96,9,6,9,121.88,13.0,0,0,0,0,,,43,,Derived from Kaggle IPL 2026 deliveries and squads data
@@ -219,7 +219,7 @@ IPL,2026,Royal Challengers Bengaluru,Mangesh Yadav,Verified from Kaggle 2026 del
 IPL,2026,Royal Challengers Bengaluru,Nuwan Thushara,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Phil Salt,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,6,6,202,120,16,11,6,168.33,33.67,0,0,0,0,,,38,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Rajat Patidar,Verified from Kaggle 2026 delivery data,Batter,,,14,14,500,259,30,42,12,193.05,41.67,0,0,0,0,,,68,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Royal Challengers Bengaluru,Rasikh Salam,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Royal Challengers Bengaluru,Rasikh Salam,Verified from Kaggle 2026 delivery data,Bowler,,,12,1,3,2,0,0,0,150.0,,12,257,404,19,9.43,13.53,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Romario Shepherd,Verified from Kaggle 2026 delivery data,All Rounder,,,13,7,83,66,6,5,4,125.76,20.75,13,150,298,7,11.92,21.43,27,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Satvik Deswal,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Royal Challengers Bengaluru,Suyash Sharma,Verified from Kaggle 2026 delivery data,Bowler,,,12,0,0,0,0,0,0,,,12,245,376,9,9.21,27.22,0,,Derived from Kaggle IPL 2026 deliveries and squads data
@@ -245,11 +245,11 @@ IPL,2026,Sunrisers Hyderabad,Jaydev Unadkat,Verified from Kaggle 2026 delivery d
 IPL,2026,Sunrisers Hyderabad,Kamindu Mendis,Verified from Kaggle 2026 delivery data,All Rounder,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Sunrisers Hyderabad,Krains Fuletra,Verified from Kaggle 2026 delivery data,All Rounder,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Sunrisers Hyderabad,Liam Livingstone,Verified from Kaggle 2026 delivery data,All Rounder,,,2,2,15,25,0,1,2,60.0,7.5,0,0,0,0,,,17,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Sunrisers Hyderabad,Nitish Kumar Reddy,Verified from Kaggle 2026 delivery data,All Rounder,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Sunrisers Hyderabad,Nitish Kumar Reddy,Verified from Kaggle 2026 delivery data,All Rounder,,,14,13,302,176,19,21,10,171.59,30.2,14,186,323,9,10.42,20.67,48,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Sunrisers Hyderabad,Onkar Tarmale,Verified from Kaggle 2026 delivery data,Bowler,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Sunrisers Hyderabad,Pat Cummins,Verified from Kaggle 2026 delivery data,Bowler,,,8,3,30,19,1,3,3,157.89,10.0,8,192,301,8,9.41,24.0,8,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Sunrisers Hyderabad,Praful Hinge,Verified from Kaggle 2026 delivery data,Bowler,,,7,2,3,9,0,0,1,33.33,3.0,7,156,303,14,11.65,11.14,7,,Derived from Kaggle IPL 2026 deliveries and squads data
-IPL,2026,Sunrisers Hyderabad,Ravichandran Smaran,Verified from Kaggle 2026 delivery data,Batter,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data
+IPL,2026,Sunrisers Hyderabad,Ravichandran Smaran,Verified from Kaggle 2026 delivery data,Batter,,,4,4,19,25,3,0,3,76.0,6.33,0,0,0,0,,,15,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Sunrisers Hyderabad,Sakib Hussain,Verified from Kaggle 2026 delivery data,Bowler,,,11,1,5,7,1,0,0,71.43,,11,252,392,16,9.33,15.75,5,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Sunrisers Hyderabad,Salil Arora,Verified from Kaggle 2026 delivery data,Wicket Keeper,,,11,11,156,98,11,11,7,159.18,22.29,0,0,0,0,,,34,,Derived from Kaggle IPL 2026 deliveries and squads data
 IPL,2026,Sunrisers Hyderabad,Shivam Mavi,Verified from Kaggle 2026 delivery data,All Rounder,,,0,0,0,0,0,0,0,,,0,0,0,0,,,0,,Derived from Kaggle IPL 2026 deliveries and squads data

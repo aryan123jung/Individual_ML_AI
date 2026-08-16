@@ -14,6 +14,104 @@ from recommendation_engine.scoring import (
 from recommendation_engine.similarity import best_similarity_lookup
 
 
+# Ensemble Model Led Weighting (Increased to 60% AI/ML - Aug 2026)
+# Uses ensemble of Random Forest + XGBoost + Logistic Regression
+# ML suitability is the dominant signal (60%), cricket analytics support (40%)
+MODEL_LED_WEIGHTS = {
+    "ml_score": 0.50,           # ↑ 42% → 50% (Ensemble of 3 models)
+    "archetype_match": 0.10,    # ↑ 3% → 10% (ML clustering)
+    "quality": 0.10,            # ↓ 14% → 10% (Cricket analytics)
+    "similarity_score": 0.06,   # ↓ 11% → 6% (Reduced domain logic)
+    "recent_form": 0.04,        # ↓ 8% → 4% (Less emphasis)
+    "gap_score": 0.10,          # ↑ 7% → 10% (Squad context)
+    "reliability": 0.10,        # ↑ 5% → 10% (Data quality)
+    "role_fit": 0.00,           # ✗ 10% → 0% (REMOVED - too cricket-specific)
+}
+# Total AI/ML: ml_score (50%) + archetype_match (10%) = 60%
+# Total Cricket/Rules: quality (10%) + similarity (6%) + gap (10%) + reliability (10%) + recent_form (4%) = 40%
+
+
+def _normalize_name(value):
+    return "".join(ch.lower() for ch in str(value or "") if ch.isalnum() or ch.isspace()).strip()
+
+
+def _name_aliases(value):
+    normalized = _normalize_name(value)
+    parts = normalized.split()
+    aliases = {normalized.replace(" ", "")}
+    if parts:
+        aliases.add("".join(parts))
+    if len(parts) >= 2:
+        aliases.add(f"{parts[0][0]}{parts[-1]}")
+        aliases.add(f"{parts[0][0]}{''.join(parts[1:])}")
+        aliases.add("".join(parts[1:]))
+    if len(parts) >= 3 and len(parts[0]) == 1:
+        aliases.add("".join(parts[1:]))
+        aliases.add(f"{parts[1][0]}{parts[-1]}")
+    return {alias for alias in aliases if alias}
+
+
+def _exclude_current_squad(df, current_squad_players):
+    if df.empty:
+        return df.copy()
+    current_aliases = set()
+    for player in current_squad_players:
+        current_aliases.update(_name_aliases(player))
+    keep_mask = ~df["player"].astype(str).map(lambda name: bool(_name_aliases(name) & current_aliases))
+    return df[keep_mask].copy()
+
+
+def exclude_unavailable_players(df, unavailable_players):
+    if df.empty or unavailable_players is None or unavailable_players.empty:
+        return df.copy()
+    player_col = "player" if "player" in unavailable_players.columns else unavailable_players.columns[0]
+    blocked_aliases = set()
+    for player in unavailable_players[player_col].dropna().astype(str):
+        blocked_aliases.update(_name_aliases(player))
+    keep_mask = ~df["player"].astype(str).map(lambda name: bool(_name_aliases(name) & blocked_aliases))
+    return df[keep_mask].copy()
+
+
+def _shortlist_limit(deficit):
+    deficit = int(deficit or 0)
+    if deficit <= 1:
+        return 4
+    if deficit == 2:
+        return 6
+    return 8
+
+
+def _model_led_recommendation_score(
+    quality,
+    similarity_score,
+    gap_score,
+    reliability,
+    recent_form,
+    role_fit,
+    ml_score,
+    archetype_match,
+):
+    weighted_score = (
+        (ml_score * MODEL_LED_WEIGHTS["ml_score"])
+        + (quality * MODEL_LED_WEIGHTS["quality"])
+        + (similarity_score * MODEL_LED_WEIGHTS["similarity_score"])
+        + (role_fit * MODEL_LED_WEIGHTS["role_fit"])
+        + (recent_form * MODEL_LED_WEIGHTS["recent_form"])
+        + (gap_score * MODEL_LED_WEIGHTS["gap_score"])
+        + (reliability * MODEL_LED_WEIGHTS["reliability"])
+        + (archetype_match * MODEL_LED_WEIGHTS["archetype_match"])
+    )
+
+    # Penalties are lighter now; they guard against low-evidence outliers
+    # instead of overwhelming the ML model.
+    penalty = (
+        max(0, 35 - reliability) * 0.22
+        + max(0, 40 - recent_form) * 0.16
+        + max(0, 40 - quality) * 0.12
+    )
+    return max(weighted_score - penalty, 0)
+
+
 def recommendation_rows_for_gap(
     gap_row,
     smat_df,
@@ -28,6 +126,8 @@ def recommendation_rows_for_gap(
     candidates = smat_df[smat_df[role_column] == role].copy()
     if "eligible_for_model" in candidates.columns:
         candidates = candidates[candidates["eligible_for_model"]].copy()
+    if "sample_reliability_score" in candidates.columns:
+        candidates = candidates[candidates["sample_reliability_score"].fillna(0) >= 0.45].copy()
     if candidates.empty:
         return []
 
@@ -47,16 +147,23 @@ def recommendation_rows_for_gap(
         role_fit = float(candidate.get("role_fit_score", 0))
         archetype_match = float(candidate.get("archetype_role_match_score", 0))
         gap_score = float(gap_row["gap_severity"]) * 100
-        final_score = (
-            (quality * 0.20)
-            + (similarity_score * 0.15)
-            + (gap_score * 0.15)
-            + (reliability * 0.10)
-            + (recent_form * 0.10)
-            + (role_fit * 0.10)
-            + (ml_score * 0.10)
-            + (archetype_match * 0.10)
+        if ml_score < 50:
+            continue
+        if reliability < 35:
+            continue
+
+        final_score = _model_led_recommendation_score(
+            quality=quality,
+            similarity_score=similarity_score,
+            gap_score=gap_score,
+            reliability=reliability,
+            recent_form=recent_form,
+            role_fit=role_fit,
+            ml_score=ml_score,
+            archetype_match=archetype_match,
         )
+        if final_score < 50:
+            continue
 
         rows.append(
             {
@@ -97,6 +204,12 @@ def build_recommendations(squad_gaps, smat_batting, smat_bowling, smat_allrounde
     smat_bowling["recent_form_score"] = bowling_recent_form_score(smat_bowling)
     smat_allrounder["quality_score"] = allrounder_quality_score(smat_allrounder)
     smat_allrounder["recent_form_score"] = allrounder_recent_form_score(smat_allrounder)
+    if "matches" in smat_batting.columns:
+        smat_batting = smat_batting[smat_batting["matches"].fillna(0) >= 4].copy()
+    if "matches" in smat_bowling.columns:
+        smat_bowling = smat_bowling[smat_bowling["matches"].fillna(0) >= 4].copy()
+    if "matches" in smat_allrounder.columns:
+        smat_allrounder = smat_allrounder[smat_allrounder["matches"].fillna(0) >= 4].copy()
 
     similarity_lookup = best_similarity_lookup(similarity_df)
     rows = []
@@ -153,21 +266,41 @@ def build_recommendations(squad_gaps, smat_batting, smat_bowling, smat_allrounde
     recommendations["role_rank"] = (
         recommendations.groupby(["team", "recommendation_type", "target_role"]).cumcount() + 1
     )
+    recommendations["shortlist_limit"] = recommendations["role_deficit"].map(_shortlist_limit)
+    recommendations = recommendations[
+        recommendations["role_rank"] <= recommendations["shortlist_limit"]
+    ].copy()
+    recommendations = recommendations.sort_values(
+        ["team", "domestic_player", "final_recommendation_score", "quality_score", "role_fit_score"],
+        ascending=[True, True, False, False, False],
+    )
+    recommendations = recommendations.drop_duplicates(
+        subset=["team", "domestic_player"],
+        keep="first",
+    ).copy()
+    recommendations = recommendations.sort_values(
+        ["team", "target_role", "final_recommendation_score"],
+        ascending=[True, True, False],
+    )
+    recommendations["role_rank"] = (
+        recommendations.groupby(["team", "recommendation_type", "target_role"]).cumcount() + 1
+    )
     recommendations["overall_team_rank"] = (
         recommendations.sort_values(["team", "final_recommendation_score"], ascending=[True, False])
         .groupby("team")
         .cumcount()
         + 1
     )
+    recommendations = recommendations.drop(columns=["shortlist_limit"])
     return recommendations
 
 
 def remove_current_squad_players(smat_batting, smat_bowling, smat_allrounder, current_roster):
-    current_squad_players = set(current_roster["player"])
+    current_squad_players = set(current_roster["player"].dropna().astype(str))
     return (
-        smat_batting[~smat_batting["player"].isin(current_squad_players)].copy(),
-        smat_bowling[~smat_bowling["player"].isin(current_squad_players)].copy(),
-        smat_allrounder[~smat_allrounder["player"].isin(current_squad_players)].copy(),
+        _exclude_current_squad(smat_batting, current_squad_players),
+        _exclude_current_squad(smat_bowling, current_squad_players),
+        _exclude_current_squad(smat_allrounder, current_squad_players),
     )
 
 

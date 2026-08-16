@@ -1,10 +1,14 @@
 from pathlib import Path
 
 
-PROCESSED_DIR = Path("data/processed")
-REPORT_DIR = Path("reports/recommendations")
+BASE_DIR = Path(__file__).resolve().parents[2]
+PROCESSED_DIR = BASE_DIR / "data" / "processed"
+REPORT_DIR = BASE_DIR / "reports" / "recommendations"
+MANUAL_UNAVAILABLE_PLAYERS_FILE = PROCESSED_DIR / "manual_unavailable_players.csv"
 
 LATEST_IPL_SEASON = 2026
+IPL_BENCHMARK_SEASON_WINDOW = 5
+USE_ACTIVE_IPL_BENCHMARKS_ONLY = True
 SMAT_RECENT_SEASON_WINDOW = 2
 SMAT_MIN_RECENT_BATTING_MATCHES = 3
 SMAT_MIN_RECENT_BOWLING_MATCHES = 3

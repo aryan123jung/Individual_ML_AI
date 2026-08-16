@@ -1,15 +1,22 @@
 team,action_level,players
 Chennai Super Kings,competition_needed,1
-Delhi Capitals,competition_needed,1
-Delhi Capitals,watchlist,1
-Gujarat Titans,competition_needed,2
-Gujarat Titans,replace_now,1
+Chennai Super Kings,stable,1
+Delhi Capitals,watchlist,2
+Gujarat Titans,competition_needed,1
+Gujarat Titans,stable,4
+Gujarat Titans,watchlist,1
 Kolkata Knight Riders,competition_needed,1
 Lucknow Super Giants,competition_needed,1
-Lucknow Super Giants,watchlist,1
-Punjab Kings,competition_needed,2
-Rajasthan Royals,competition_needed,1
+Lucknow Super Giants,replace_now,1
+Mumbai Indians,competition_needed,3
+Mumbai Indians,stable,1
+Mumbai Indians,watchlist,3
+Punjab Kings,stable,2
+Punjab Kings,watchlist,2
+Rajasthan Royals,stable,1
 Rajasthan Royals,watchlist,1
-Royal Challengers Bengaluru,competition_needed,1
-Sunrisers Hyderabad,competition_needed,3
+Royal Challengers Bengaluru,stable,1
+Royal Challengers Bengaluru,watchlist,3
+Sunrisers Hyderabad,competition_needed,1
+Sunrisers Hyderabad,stable,1
 Sunrisers Hyderabad,watchlist,1

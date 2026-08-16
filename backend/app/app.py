@@ -2,9 +2,12 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.routes.evaluation import router as evaluation_router
+from app.routes.inference import router as inference_router
 from app.routes.players import router as players_router
 from app.routes.recommendations import router as recommendations_router
+from app.routes.system import router as system_router
 from app.routes.teams import router as teams_router
+from app.routes.explainability import router as explainability_router
 
 
 app = FastAPI(
@@ -25,6 +28,9 @@ app.include_router(recommendations_router)
 app.include_router(players_router)
 app.include_router(teams_router)
 app.include_router(evaluation_router)
+app.include_router(inference_router)
+app.include_router(system_router)
+app.include_router(explainability_router)
 
 
 @app.get("/")
@@ -38,5 +44,7 @@ def root():
             "/players/compare",
             "/teams",
             "/evaluation/metrics",
+            "/inference/domains",
+            "/system/summary",
         ],
     }
